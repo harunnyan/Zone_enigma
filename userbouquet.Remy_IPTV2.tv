@@ -123,24 +123,66 @@
 #DESCRIPTION :::::::::::::::::::::::_LIVE_UPDATE_BELGESEL/DOCUMENTARY_::::::::::::::::::::::::::
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=-lReU3_c79s:Tivibu Spor HD
 #DESCRIPTION Tivibu Spor HD
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV - Canlı Yayın HD
-#DESCRIPTION Star TV - Canlı Yayın HD
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=fhY1z6P7NcI:Net TV Live Maret
-#DESCRIPTION Net TV Live Maret
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
+#DESCRIPTION Star TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=i_C1EH6Rxxk:Kanal D HD
+#DESCRIPTION Kanal D HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iYY4F4EbWLc:Habertürk TV
+#DESCRIPTION Habertürk TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=aOSL257Ks7U:CNN TÜRK
+#DESCRIPTION CNN TÜRK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=W-y4JcDTJiQ:NTV HD
+#DESCRIPTION NTV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Zz2qohZZc5o:NTV Spor HD
+#DESCRIPTION NTV Spor HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=QcWKIwojhEk:TGRT Haber
+#DESCRIPTION TGRT Haber
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT
+#DESCRIPTION BloombergHT
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Ga3maNZ0x0w:Bloomberg Global News LIVE
 #DESCRIPTION Bloomberg Global News LIVE
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=XsUo2VtCwNQ:Halk TV
+#DESCRIPTION Halk TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L3rgPwpX5Tk:PERPA TV
+#DESCRIPTION PERPA TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Z8o1mz4_6Vg:Kral TV HD
+#DESCRIPTION Kral TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ND2NJMSJZ4Q:Kral Pop TV HD
+#DESCRIPTION Kral Pop TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6z2yIYMej8k:Number1 Tv
+#DESCRIPTION Number1 Tv
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=hfq1qMM5zrk:Cat Music Live TV / Non Stop Music 24/7 🎧
 #DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler - canlı yayin
-#DESCRIPTION Cocuklar icin Cizgi filmler - canlı yayin
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=f4aDp7TpkdU:Genießen Sie Tayo fur 24 Stunden
-#DESCRIPTION Genießen Sie Tayo fur 24 Stunden
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=4VJi0LWa434:PJ Masks Full Episodes LIVE
-#DESCRIPTION PJ Masks Full Episodes LIVE
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=kpygqP70u60:Number1 Türk
+#DESCRIPTION Number1 Türk
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lxihjZS-fyA:Kral FM
+#DESCRIPTION Kral FM
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=cMgrsG7LWik:Kral Pop Radyo
+#DESCRIPTION Kral Pop Radyo
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HXZlvafC14Y:Power Türk Fm
+#DESCRIPTION Power Türk Fm
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs&amp;index=64&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Beautiful Relaxing Music 24/7
 #DESCRIPTION Beautiful Relaxing Music 24/7
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nVOQSNnV0BU&amp;index=72&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Relaxing Sleep Music 24/7: Deep Sleep Music
 #DESCRIPTION Relaxing Sleep Music 24/7: Deep Sleep Music
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c3MBUn5qVgU:Lâlegül TV
+#DESCRIPTION Lâlegül TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NdgdjsJcvtA:Semerkand TV
+#DESCRIPTION Semerkand TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ot3wAWjCVsM:SKT T1 Faker Live Stream LOL
+#DESCRIPTION SKT T1 Faker Live Stream LOL
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=EY0WWNoS2xo:Talking Tom Shorts FULL Episodes
+#DESCRIPTION Talking Tom Shorts FULL Episodes
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=yJjQu7XyyJ8:Kırmızı Balık Bebek Şarkıları
+#DESCRIPTION Kırmızı Balık Bebek Şarkıları
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler
+#DESCRIPTION Cocuklar icin Cizgi filmler
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=f4aDp7TpkdU:Genießen Sie Tayo fur 24 Stunden
+#DESCRIPTION Genießen Sie Tayo fur 24 Stunden
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=4VJi0LWa434:PJ Masks Full Episodes LIVE
+#DESCRIPTION PJ Masks Full Episodes LIVE
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=fhY1z6P7NcI:Net TV Live Maret
+#DESCRIPTION Net TV Live Maret
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8:NASA HD
 #DESCRIPTION NASA HD
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=RtU_mdL2vBM:NASA Live - Earth From Space
