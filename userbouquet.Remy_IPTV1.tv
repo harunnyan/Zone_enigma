@@ -1,0 +1,1277 @@
+#NAME **ReMy_TURKEY & SPECIAL_IPTV**
+#SERVICE 1:64:78:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#SERVICE 1:64:79:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::::::::::::::
+#DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::::::::::::::
+#SERVICE 4097:0:1:2904:9D6D:42E:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1HD
+#DESCRIPTION TRT1HD
+#SERVICE 4097:0:1:44D:1:42:1A40000:0:0:0:http%3a//212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8:KANAL D
+#DESCRIPTION KANAL D
+#SERVICE 4097:0:1:51D:3:42:1A40000:0:0:0:http%3a//80.86.107.169/iphone/live.m3u8:EURO D
+#DESCRIPTION EURO D
+#SERVICE 4097:0:1:2A30:9E99:42E:1A40000:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8:STAR HD
+#DESCRIPTION STAR HD
+#SERVICE 4097:0:1:C801:A3AE:42E:1A40000:0:0:0:http%3a//cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/beyaz-tv-hd.m3u8:Beyaz TV HD
+#DESCRIPTION Beyaz TV HD
+#SERVICE 4097:0:19:1FDB:A85D:68:1A40000:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3afiltv.smil/playlist.m3u8:FIL TV
+#DESCRIPTION FIL TV
+#SERVICE 4097:0:1:3584:7DCB:42E:1A40000:0:0:0:http%3a//mn-l.mncdn.com/360tv_live/smil%3a360tv.smil/REMY.m3u8:360
+#DESCRIPTION 360
+#SERVICE 4097:0:1:4077:9FC5:2A:1A40000:0:0:0:http%3a//s03.vidpanel.com/denizhaber/denizhaber.m3u8:NAT GEO
+#DESCRIPTION NAT GEO
+#SERVICE 4097:0:1:C9FE:A926:42E:1A40000:0:0:0:http%3a//live3.canlitv.info%3a1935/live1/yabantv/chunklist_w601872677.m3u8:YABAN TV
+#DESCRIPTION YABAN TV
+#SERVICE 4097:0:1:2909:9D6D:42E:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8:TRT BELGESEL HD
+#DESCRIPTION TRT BELGESEL HD
+#SERVICE 4097:0:1:517:3:42:1A40000:0:0:0:http%3a//media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8:teve2
+#DESCRIPTION teve2
+#SERVICE 4097:0:19:585:4:42:1A40000:0:0:0:http%3a//1.rtmp.org/tv117/yayin.stream/iptvdelisi.m3u8:Fortuna Tv
+#DESCRIPTION Fortuna Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/benguturktv/chunks.m3u8:Bengu Turk
+#DESCRIPTION Bengu Turk
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8:Mekkah HD
+#DESCRIPTION Mekkah HD
+#SERVICE 4097:0:1:C7A5:7BD5:42E:1A40000:0:0:0:http%3a//37.77.2.236%3a1935/ucak/ucak.stream/playlist.m3u8:UCANKUS TV
+#DESCRIPTION UCANKUS TV
+#SERVICE 4097:0:1:C8D2:A411:42E:1A40000:0:0:0:rtmp%3a//streaming.imajnetwork.com%3a80/makinetv/makinetv:MAKINE TV
+#DESCRIPTION MAKINE TV
+#SERVICE 4097:0:1:339:0:0:0:0:0:0:rtmp%3a//91.93.118.165/tempotv//livestream:TEMPO TV
+#DESCRIPTION TEMPO TV
+#SERVICE 4097:0:1:C41A:A4D9:42E:1A40000:0:0:0:rtmp%3a//ms.n1.tvkur.noccdn.com/cdn/540ea58191866:TARIM TURK
+#DESCRIPTION TARIM TURK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk1stream/rtk1.stream/chunklist.m3u8:RTK 1
+#DESCRIPTION RTK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kanalben.cubecdn.net/live//kanalben1:kanalben
+#DESCRIPTION kanalben
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/nevtv/remy.m3u8:FUL TV
+#DESCRIPTION FUL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD AZ
+#DESCRIPTION ATV HD AZ
+#SERVICE 4097:0:1:CF0A:7AAA:42E:1A40000:0:0:0:rtmp%3a//wms.brtk.net%3a1935/live/BRTHD:BRT HD
+#DESCRIPTION BRT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sportstv.com.tr%3a1935/sportstv/SportsTV3/playlist.m3u8:SportsTV
+#DESCRIPTION SportsTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gtv.live.cdn.bitgravity.com/gtv/live/feed03:GTA/ AZERBAYCAN
+#DESCRIPTION GTA/ AZERBAYCAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bglive-a.bitgravity.com/ndtv/247hi/live/native:ND TV
+#DESCRIPTION ND TV
+#SERVICE 4097:0:1:2BC1:7DC9:42E:1A40000:0:0:0:http%3a//mn-i.mncdn.com%3a1935/bloomberght_ios/smil%3abloomberght.smil/master.m3u8:BLOOMBERG HT
+#DESCRIPTION BLOOMBERG HT
+#SERVICE 4097:0:1:2905:9D6D:42E:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8:TRT HABER HD
+#DESCRIPTION TRT HABER HD
+#SERVICE 4097:0:1:2905:9D6D:42E:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8:TRT HABER HD
+#DESCRIPTION TRT HABER HD
+#SERVICE 4097:0:19:296D:7919:42E:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8:TRT WORLD HD
+#DESCRIPTION TRT WORLD HD
+#SERVICE 4097:0:1:3138:A156:42E:1A40000:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/playlist.m3u8:TGRT HABER
+#DESCRIPTION TGRT HABER
+#SERVICE 4097:0:1:3138:A156:42E:1A40000:0:0:0:http%3a//cdn1.streamencoding.com%3a1935/tgrt_haber/tgrt1/chunklist_w40654798.m3u8:TGRT HABER
+#DESCRIPTION TGRT HABER
+#SERVICE 4097:0:1:2E18:9E35:42E:1A40000:0:0:0:http%3a//mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8:kanal24
+#DESCRIPTION kanal24
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv_576p.m3u8:AKIT TV
+#DESCRIPTION AKIT TV
+#SERVICE 4097:0:19:C73E:7789:42E:1A40000:0:0:0:http%3a//semerkandglb.mediatriple.net%3a1935/semerkandliveedge/semerkand1/ratus42.m3u8:SEMERKAND TV
+#DESCRIPTION SEMERKAND TV
+#SERVICE 4097:0:1:C9F9:A926:42E:1A40000:0:0:0:http%3a//sr1.netmedya.org%3a1935/yasintv/live.sdp/playlist.m3u8:YASİN TV
+#DESCRIPTION YASİN TV
+#SERVICE 4097:0:1:9:3D:2A:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8:TRT TURK
+#DESCRIPTION TRT TURK
+#SERVICE 4097:0:1:15:3D:2A:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8:TRT AVAZ
+#DESCRIPTION TRT AVAZ
+#SERVICE 4097:0:1:18:3D:2A:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8:TRT ARAPÇA
+#DESCRIPTION TRT ARAPÇA
+#SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
+#DESCRIPTION TRT Kurdi
+#SERVICE 4097:0:16:3F48:A02C:68:1A40000:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3akidztv.smil/yetmis6.m3u8??:Kidz/Animez
+#DESCRIPTION Kidz/Animez
+#SERVICE 4097:0:1:2908:9D6D:42E:1A40000:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8:TRT COCUK
+#DESCRIPTION TRT COCUK
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8:TRT OKUL
+#DESCRIPTION TRT OKUL
+#SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//video7.stream.mx%3a1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8:Anime TV
+#DESCRIPTION Anime TV
+#SERVICE 4097:0:1:84:0:0:0:0:0:0:rtsp%3a//ec.playmedia.fr%3a1935/gong-base/live:Gong
+#DESCRIPTION Gong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.atr.ua%3a1937/lale//live:LALE
+#DESCRIPTION LALE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8:SmileofaChild
+#DESCRIPTION SmileofaChild
+#SERVICE 1:64:7A:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::::::::::::::::::
+#DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::::::::::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.149%3a1234:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.125%3a1234:KANAL D
+#DESCRIPTION KANAL D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.133%3a1234:Euro D
+#DESCRIPTION Euro D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.123%3a1234:SHOW TV
+#DESCRIPTION SHOW TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-i.mncdn.com/showmax_mobile/smil%3ashowmax.smil/chunklist.m3u8:SHOW MAX TV
+#DESCRIPTION SHOW MAX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8:STAR TV
+#DESCRIPTION STAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.148%3a1234:STAR
+#DESCRIPTION STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8:EURO STAR TV
+#DESCRIPTION EURO STAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.140%3a1234:360 TV
+#DESCRIPTION 360 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.152%3a1234:TV 8
+#DESCRIPTION TV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.130%3a1234:TV8 INT
+#DESCRIPTION TV8 INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.124%3a1234:BEYAZ TV
+#DESCRIPTION BEYAZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3afiltv.smil/chunklist.m3u8:FIL TV
+#DESCRIPTION FIL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.129%3a1234:KANAL 7
+#DESCRIPTION KANAL 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.141%3a1234:TEVE 2
+#DESCRIPTION TEVE 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//98.142.98.125%3a1935/flashtv/flashtvmob/chunklist.m3u8:FLASH TV
+#DESCRIPTION FLASH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/360tv_live/smil%3a360tv.smil/playlist.m3u8:SKYTURK 360
+#DESCRIPTION SKYTURK 360
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv_576p.m3u8:AKIT TV
+#DESCRIPTION AKIT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasttr.com%3a1935/birantv/bant1/chunklist.m3u8:1AN TV
+#DESCRIPTION 1AN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akillitvhls.cdn.streamprovider.net/chunklist.m3u8:AKILLI TV
+#DESCRIPTION AKILLI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.143%3a1234:AKILLI TV
+#DESCRIPTION AKILLI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.77.2.236%3a1935/ucak/ucak.stream/playlist.m3u8:UCAN KUS
+#DESCRIPTION UCAN KUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.142%3a1234:YABAN TV
+#DESCRIPTION YABAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.139%3a1234:PLANET TURK
+#DESCRIPTION PLANET TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.120%3a1234:PLANET COCUK
+#DESCRIPTION PLANET COCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.170%3a1234:DİSNEY TV
+#DESCRIPTION DİSNEY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.174%3a1234:TRT COCUK
+#DESCRIPTION TRT COCUK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/karamel/karamel/chunklist.m3u8:TV4 KARAMEL
+#DESCRIPTION TV4 KARAMEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/yattv/yattv.m3u8:YAT TV
+#DESCRIPTION YAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV
+#DESCRIPTION NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV
+#DESCRIPTION NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.121%3a1234:NTV SPOR
+#DESCRIPTION NTV SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ujdwx6qj.rocketcdn.com/ntvsporhd.stream_720p/chunklist.m3u8?:NTV SPOR
+#DESCRIPTION NTV SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:NTV SPOR
+#DESCRIPTION NTV SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8:BURSASPOR TV
+#DESCRIPTION BURSASPOR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mob.dgntek.com/Bursaspor/bursaspor/chunklist.m3u8:Bursaspor TV
+#DESCRIPTION Bursaspor TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.28%3a1234:CBC SPORT
+#DESCRIPTION CBC SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.8%3a1234:IDMAN TV
+#DESCRIPTION IDMAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1.rtmp.org/tv117/yayin.stream/playlist.m3u8:Fortuna TV
+#DESCRIPTION Fortuna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv_576p.m3u8:TAY TV
+#DESCRIPTION TAY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com%3a1935/kanal24/kanal243/playlist.m3u8:24 TV
+#DESCRIPTION 24 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.150%3a1234:A HABER
+#DESCRIPTION A HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-i.mncdn.com/bloomberght_ios/smil%3abloomberght.smil/chunklist.m3u8:BLOOMBERG HT
+#DESCRIPTION BLOOMBERG HT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK
+#DESCRIPTION CNN TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.116%3a1234:CNN TÜRK
+#DESCRIPTION CNN TÜRK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/halktv/playlist.m3u8:HALK TV
+#DESCRIPTION HALK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//98.142.98.125%3a1935/ulusaltv/ulusaltv/chunklist.m3u8:ULUSAL TV
+#DESCRIPTION ULUSAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.154%3a1234:TRT1
+#DESCRIPTION TRT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.155%3a1234:TRT BELGESEL
+#DESCRIPTION TRT BELGESEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.119%3a1234:TRT HABER
+#DESCRIPTION TRT HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.118%3a1234:TGRT HABER
+#DESCRIPTION TGRT HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.146%3a1234:TRT WORLD
+#DESCRIPTION TRT WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-p.m3u8?sd=10&rebase=on:TRT AVAZ
+#DESCRIPTION TRT AVAZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-b.m3u8?sd=10&rebase=on:TRT DIYANET
+#DESCRIPTION TRT DIYANET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8:TRT TBMM
+#DESCRIPTION TRT TBMM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8:TRT TURK
+#DESCRIPTION TRT TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on:TRT6
+#DESCRIPTION TRT6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8:ROMAN TV Tr
+#DESCRIPTION ROMAN TV Tr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.126%3a1234:DREAM TV
+#DESCRIPTION DREAM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.135%3a1234:Dream Turk
+#DESCRIPTION Dream Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL
+#DESCRIPTION KRAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.136%3a1234:KRAL TV
+#DESCRIPTION KRAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.137%3a1234:KRAL POP
+#DESCRIPTION KRAL POP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.131%3a1234:NUMBER ONE TURK
+#DESCRIPTION NUMBER ONE TURK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.132%3a1234:NR1
+#DESCRIPTION NR1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.144%3a1234:POWER
+#DESCRIPTION POWER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.145%3a1234:POWER TURK HD
+#DESCRIPTION POWER TURK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.138%3a1234:TMB
+#DESCRIPTION TMB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.80%3a1234:ARB
+#DESCRIPTION ARB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.5%3a1234:ATV az
+#DESCRIPTION ATV az
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.3%3a1234:AZ
+#DESCRIPTION AZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.1%3a1234:AZTV
+#DESCRIPTION AZTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.10%3a1234:CBC
+#DESCRIPTION CBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.36.100.33/imedi/lq/tracks-v1a1/index.m3u8:IMEDI TV
+#DESCRIPTION IMEDI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.2%3a1234:ITV
+#DESCRIPTION ITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.4%3a1234:SPACE TV
+#DESCRIPTION SPACE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.7%3a1234:Xazar TV
+#DESCRIPTION Xazar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.9%3a1234:MEDENİYET TV
+#DESCRIPTION MEDENİYET TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.177%3a1234:MTV AZERBAYCAN
+#DESCRIPTION MTV AZERBAYCAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.45%3a1234:WORDL FASHION
+#DESCRIPTION WORDL FASHION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.45.135.158%3a1935/live/HrBroadcast/chunklist.m3u8:Hromadske TV
+#DESCRIPTION Hromadske TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2tvlive1.tulix.tv%3a1935/2tv/2tv1/chunklist.m3u8:GURCISTAN TV
+#DESCRIPTION GURCISTAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8:GEM KURDI
+#DESCRIPTION GEM KURDI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreaming.itworkscdn.net/rudawlive/rudawtv_240p/chunklist.m3u8:RUDAW
+#DESCRIPTION RUDAW
+#SERVICE 1:64:7B:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_::::::::::::::::::::::::::
+#DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_::::::::::::::::::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/55c4522e6c990/playlist.m3u8?wowzasessionid=959095225:ANKARA TV
+#DESCRIPTION ANKARA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza1:Istweb TV HD
+#DESCRIPTION Istweb TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv/dp//istanbul2:Istanbul 2
+#DESCRIPTION Istanbul 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza2:Istweb TV MQ
+#DESCRIPTION Istweb TV MQ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza3:Istweb TV MQ
+#DESCRIPTION Istweb TV MQ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza6:Istweb TV
+#DESCRIPTION Istweb TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza5:Istweb TV
+#DESCRIPTION Istweb TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza4:Istweb TV
+#DESCRIPTION Istweb TV
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/kanal3/bant1:AFYON KANAL 3
+#DESCRIPTION AFYON KANAL 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/chunklist.m3u8:AFYON KANAL 3
+#DESCRIPTION AFYON KANAL 3
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/kanal68/bant1:AKSARAY 68
+#DESCRIPTION AKSARAY 68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal68/bant1/Kanal68.m3u8:AKSARAY 68
+#DESCRIPTION AKSARAY 68
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/aksutv/smil%3aaksutv.smil/Remy.m3u8:AKSU TV
+#DESCRIPTION AKSU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//canliyayin.kanalalanya.com%3a1935/live/liveStream:ALANYA
+#DESCRIPTION ALANYA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliyayin.kanalalanya.com%3a1935/live/liveStream/playlist.m3u8:ALANYA TV
+#DESCRIPTION ALANYA TV
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:rtmp%3a//anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp:ANADOLU TV
+#DESCRIPTION ANADOLU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/kanalvip/bant1/VTV.m3u8:ANTALYA VTV
+#DESCRIPTION ANTALYA VTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/astv/chunklist.m3u8:ASTV
+#DESCRIPTION ASTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/avtv/chunklist.m3u8:AV TV
+#DESCRIPTION AV TV
+#SERVICE 4097:0:1:C5AF:75F9:42E:1A40000:0:0:0:http%3a//livede.gostream.nl/tv100/tv100/Remy.m3u8:BALIKESIR TV 100
+#DESCRIPTION BALIKESIR TV 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/kenttv/smil%3akenttv.smil/playlist.m3u8:BALIKESIR KENT TV
+#DESCRIPTION BALIKESIR KENT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s02.vidpanel.com/besiktas/besiktas.m3u8:BESIKTAS BELEDIYE
+#DESCRIPTION BESIKTAS BELEDIYE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//broadcasttr.com%3a1935/merkeztv/smil%3amerkeztv.smil/chunklist.m3u8:BOLU MERKEZ TV
+#DESCRIPTION BOLU MERKEZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/brtv/playlist.m3u8:BR TV
+#DESCRIPTION BR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wwz.dgn.net.tr/LineTV/bursalinetv/playlist.m3u8:BURSA LINE
+#DESCRIPTION BURSA LINE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz%3a80/Bursaspor/bursaspor/playlist.m3u8:BURSASPOR TV
+#DESCRIPTION BURSASPOR TV
+#SERVICE 4097:0:1:C9FF:A926:42E:1A40000:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/caytv/bant1/CAYTV.m3u8:CAY TV
+#DESCRIPTION CAY TV
+#SERVICE 4097:0:1:3911:A21D:42E:1A40000:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/deha/bant1/DEHATV.m3u8:DEHA TV
+#DESCRIPTION DEHA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/denizhaber/denizhaber.m3u8:DENIZ HABER
+#DESCRIPTION DENIZ HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/diyalogtv/chunklist.m3u8:DIYALOG TV
+#DESCRIPTION DIYALOG TV
+#SERVICE 4097:0:1:C803:A3AE:42E:1A40000:0:0:0:rtmp%3a//stream2.taksimbilisim.com/drt/bant1:DRT DENIZLI
+#DESCRIPTION DRT DENIZLI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/duzcetv/playlist.m3u8:DUZCE TV
+#DESCRIPTION DUZCE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/oncutv/chunklist.m3u8:ONCU TV
+#DESCRIPTION ONCU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/edirnetv/playlist.m3u8:EDIRNE TV
+#DESCRIPTION EDIRNE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/estv/chunklist.m3u8:ES TV
+#DESCRIPTION ES TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal26/bant1/Kanal26.m3u8:ESKISEHIR 26
+#DESCRIPTION ESKISEHIR 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/nevtv/chunklist.m3u8:FUL TV
+#DESCRIPTION FUL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/gazitv/gazitv/playlist.m3u8:Gazi TV
+#DESCRIPTION Gazi TV
+#SERVICE 4097:0:1:CABF:7A45:42E:1A40000:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/gtv/bant1/GuneydoguTV.m3u8:GUNEYDOGU TV
+#DESCRIPTION GUNEYDOGU TV
+#SERVICE 4097:0:1:239:0:0:0:0:0:0:rtmp%3a//streaming.linuxhosting.gen.tr/Kgrt/Kgrt:KARAMAN KGRT
+#DESCRIPTION KARAMAN KGRT
+#SERVICE 4097:0:1:193:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/Kanal3.m3u8:Kanal 3
+#DESCRIPTION Kanal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/kanal24/kanal243/chunklist.m3u8:KANAL 24
+#DESCRIPTION KANAL 24
+#SERVICE 4097:0:1:390E:A21D:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal26/bant1/Kanal26.m3u8:Kanal 26
+#DESCRIPTION Kanal 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/kanal34tv/kanal34tv/chunklist.m3u8:KANAL 34
+#DESCRIPTION KANAL 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal68/smil%3akanal68.smil/chunklist.m3u8:KANAL 68
+#DESCRIPTION KANAL 68
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/kanal38/playlist.m3u8:KANAL 38
+#DESCRIPTION KANAL 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/erciyestv/playlist.m3u8:KAYSERI ERCIYES
+#DESCRIPTION KAYSERI ERCIYES
+#SERVICE 4097:0:1:C5B1:75F9:42E:1A40000:0:0:0:rtmp%3a//yayin5.canliyayin.org/live/kanalfirat:KANAL FIRAT
+#DESCRIPTION KANAL FIRAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/kanallikya/playlist.m3u8:KANAL LIKYA
+#DESCRIPTION KANAL LIKYA
+#SERVICE 4097:0:1:C54B:7AA9:42E:1A40000:0:0:0:rtmp%3a//stream.taksimbilisim.com/kanalurfa/bant1:KANAL URFA
+#DESCRIPTION KANAL URFA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/kaytv/playlist.m3u8:KAYSERI KAY TV
+#DESCRIPTION KAYSERI KAY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv1/bant1/TV1.m3u8:KAYSERI TV1
+#DESCRIPTION KAYSERI TV1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/kontv/playlist.m3u8:KON TV
+#DESCRIPTION KON TV
+#SERVICE 4097:0:1:253:0:0:0:0:0:0:rtmp%3a//yayin3.canlitv.com/live/untv:KONYA SELCUK UNI
+#DESCRIPTION KONYA SELCUK UNI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/kanal43/playlist.m3u8:KUTAHYA 43
+#DESCRIPTION KUTAHYA 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin10.canliyayin.org%3a1935/P981680400/kudustv/chunklist.m3u8:KUDUS TV
+#DESCRIPTION KUDUS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8:LALEGUL TV
+#DESCRIPTION LALEGUL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/malatyagunestv/playlist.m3u8:MALATYA GUNES
+#DESCRIPTION MALATYA GUNES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erboy.netmedya.net/medinetv2/medinetv.stream/chunklist.m3u8:MEDINE TV
+#DESCRIPTION MEDINE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.75.10.20/nurtv/nurtv/chunklist.m3u8:Nur TV
+#DESCRIPTION Nur TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com%3a1935/tv52/bant1:ORDU
+#DESCRIPTION ORDU
+#SERVICE 4097:0:1:C807:A3AE:42E:1A40000:0:0:0:rtmp%3a//ms1.sanlisoy.com/pamukkaletv/pamukkaletv:PAMUKKALE TV
+#DESCRIPTION PAMUKKALE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//semerkandglb.mediatriple.net%3a1935/semerkandliveedge/semerkand1/Playlist.m3u8:SEMERKAND
+#DESCRIPTION SEMERKAND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s02.vidpanel.com/sinopyildiz/sinopyildiz.m3u8:SINOP YILDIZ TV
+#DESCRIPTION SINOP YILDIZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/srt/smil%3asrt.smil/playlist.m3u8:SIVAS SRT
+#DESCRIPTION SIVAS SRT
+#SERVICE 4097:0:1:323:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/mersinsuntv/bant1/SUNTV.m3u8:SUN TV
+#DESCRIPTION SUN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/superkanal/playlist.m3u8:SUPER KANAL
+#DESCRIPTION SUPER KANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/tarimturktv/chunklist.m3u8:TARIMTURK TV
+#DESCRIPTION TARIMTURK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com%3a1935/tarsusguneytv/bant1:TARSUS GUNEY TV
+#DESCRIPTION TARSUS GUNEY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/tekrumelitv/playlist.m3u8:TEK RUMELI
+#DESCRIPTION TEK RUMELI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch007_400/index.m3u8:TURKMENISTAN
+#DESCRIPTION TURKMENISTAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch005_400/index.m3u8:TURKMEN OWAZY
+#DESCRIPTION TURKMEN OWAZY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
+#DESCRIPTION TURKMEN YASLIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv41/smil%3atv41.smil/chunklist.m3u8:TV 41
+#DESCRIPTION TV 41
+#SERVICE 4097:0:1:3919:A21D:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv41/bant1/TV41.m3u8:TV 41
+#DESCRIPTION TV 41
+#SERVICE 4097:0:1:C3BB:A475:42E:1A40000:0:0:0:rtmp%3a//stream.taksimbilisim.com/tv52/bant1:TV 52
+#DESCRIPTION TV 52
+#SERVICE 4097:0:1:C6DA:778A:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv2000/bant1/Remy.m3u8:TV2000
+#DESCRIPTION TV2000
+#SERVICE 4097:0:1:C5A8:75F9:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv1/bant1/TV1.m3u8:TV KAYSERI
+#DESCRIPTION TV KAYSERI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/gtv/bant1/GuneydoguTV.m3u8:URFA GUNEYDOGU
+#DESCRIPTION URFA GUNEYDOGU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/vuslattv/playlist.m3u8:VUSLAT TV
+#DESCRIPTION VUSLAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8:ZIRAAT TV
+#DESCRIPTION ZIRAAT TV
+#SERVICE 1:64:7C:0:0:0:0:0:0:0::::::::::::::::::::::::_SERIES_MOVIES_::::::::::::::::::::::::::
+#DESCRIPTION ::::::::::::::::::::::_SERIES_MOVIES_::::::::::::::::::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/5980bb2a-8016-4260-9888-d3c1bfb48d05/84a46be9-754c-4de1-b871-7043ff01a5de.ism/84a46be9-754c-4de1-b871-7043ff01a5de-audio=131072-video_eng=3030000.m3u8:CIZGI FILM 1
+#DESCRIPTION CIZGI FILM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/79d5aeb8-aa6c-43b0-9374-8d37c559a1a1/9610637f-63c3-45de-9d5c-9a49fd9e308b.ism/9610637f-63c3-45de-9d5c-9a49fd9e308b-audio=131072-video_eng=3024000.m3u8:CIZGI FILM 2
+#DESCRIPTION CIZGI FILM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/b3bb5699-cb71-4fd8-a1d1-2ec6d211f5aa/db96c5f5-506d-4230-95b7-957104b4686a.ism/db96c5f5-506d-4230-95b7-957104b4686a-audio=131072-video_eng=4587000.m3u8:CIZGI FILM 3
+#DESCRIPTION CIZGI FILM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/11a39f22-1782-4b4f-8e19-d8deaccba81c/cf3b0120-47f6-49f1-a347-622d56e09167.ism/cf3b0120-47f6-49f1-a347-622d56e09167-audio=131072-video_eng=4176000.m3u8:CIZGI FILM 4
+#DESCRIPTION CIZGI FILM 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/53bafafa-d569-48cf-a122-e22f878d2de4/81000e67-2b76-4171-8d87-6701c27136a2.ism/81000e67-2b76-4171-8d87-6701c27136a2-audio=131072-video_eng=4210000.m3u8:CIZGI FILM 5
+#DESCRIPTION CIZGI FILM 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/25a35ce2-cf86-49f4-9fcc-c7a196ab1337/70ab9e21-5d02-4b98-aa35-d381d15af5f0.ism/70ab9e21-5d02-4b98-aa35-d381d15af5f0-audio=131072-video_eng=4239000.m3u8:CIZGI FILM 6
+#DESCRIPTION CIZGI FILM 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/28df98cc-e447-43ae-a9f2-6187ebb9d311/bbee230b-c996-486e-942c-946523dc5e7c.ism/bbee230b-c996-486e-942c-946523dc5e7c-audio=131072-video_eng=4230000.m3u8:CIZGI FILM 7
+#DESCRIPTION CIZGI FILM 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/1f598f85-c429-46ec-bba9-36bc1ebdbe94/7da2cd40-bbb4-4013-a036-9c8acea2a904.ism/7da2cd40-bbb4-4013-a036-9c8acea2a904-audio=131072-video_eng=4219000.m3u8:CIZGI FILM 8
+#DESCRIPTION CIZGI FILM 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/a8917696-2ca0-4542-8533-e84aca43ba84/48800f21-2977-49e4-be15-f1411f2282e4.ism/48800f21-2977-49e4-be15-f1411f2282e4-audio=131072-video_eng=4232000.m3u8:CIZGI FILM 9
+#DESCRIPTION CIZGI FILM 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8:CIZGI FILM 10
+#DESCRIPTION CIZGI FILM 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3days.mp4:3 Days To Kill
+#DESCRIPTION 3 Days To Kill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/12slave.mp4:12 Years a Slave
+#DESCRIPTION 12 Years a Slave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/22jump.mp4:22 jump street
+#DESCRIPTION 22 jump street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/300rise.mp4:300: Rise of an Empire
+#DESCRIPTION 300: Rise of an Empire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/42.mp4:42
+#DESCRIPTION 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/47ronin.mp4:47 Ronin
+#DESCRIPTION 47 Ronin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/acbc1965.mp4:A Charlie Brown Christmas
+#DESCRIPTION A Charlie Brown Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/haunted2.mp4:A Haunted House 2
+#DESCRIPTION A Haunted House 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/roxbury.mp4:A Night At The Roxbury
+#DESCRIPTION A Night At The Roxbury
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/asoldiers.mp4:A Soldiers Story
+#DESCRIPTION A Soldiers Story
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lastnight2014.mp4:About Last Night
+#DESCRIPTION About Last Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/above.mp4:Above the Rim
+#DESCRIPTION Above the Rim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/after.mp4:After Earth
+#DESCRIPTION After Earth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ali1.mp4:Ali
+#DESCRIPTION Ali
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/anchorman2.mp4:Anchorman 2: The Legend Continues
+#DESCRIPTION Anchorman 2: The Legend Continues
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/anchorman.mp4:Anchorman The Legend Of Ron Burgundy
+#DESCRIPTION Anchorman The Legend Of Ron Burgundy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/animal.mp4:Animal
+#DESCRIPTION Animal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/antwone.mp4:Antwone Fisher
+#DESCRIPTION Antwone Fisher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/austin1.mp4:Austin Powers
+#DESCRIPTION Austin Powers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/austin2.mp4:Austin Powers The Spy Who Shagged Me
+#DESCRIPTION Austin Powers The Spy Who Shagged Me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/babyboy.mp4:Baby Boy
+#DESCRIPTION Baby Boy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/badboys2.mp4:Bad Boys2
+#DESCRIPTION Bad Boys2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4:Bad Grandpa
+#DESCRIPTION Bad Grandpa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/badwords.mp4:Bad Words
+#DESCRIPTION Bad Words
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/baggageclaim.mp4:Baggage Claim
+#DESCRIPTION Baggage Claim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/apes5.mp4:Battle For The Planet Of The Apes
+#DESCRIPTION Battle For The Planet Of The Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/battleyear2013.mp4:Battle Of The Year
+#DESCRIPTION Battle Of The Year
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/apes2.mp4:Beneath Planet Of The Apes
+#DESCRIPTION Beneath Planet Of The Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bewitched.mp4:Bewitched
+#DESCRIPTION Bewitched
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/blacknativity.mp4:Black Nativity
+#DESCRIPTION Black Nativity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/glory.mp4:Blades Of Glory
+#DESCRIPTION Blades Of Glory
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/brickmansion.mp4:Brick Mansions
+#DESCRIPTION Brick Mansions
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bully2011.mp4:Bully 2011
+#DESCRIPTION Bully 2011
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/wintersoldier.mp4:Captain America:The Winter Soldier
+#DESCRIPTION Captain America:The Winter Soldier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/captain2013.mp4:Captain Phillips
+#DESCRIPTION Captain Phillips
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/classact.mp4:Class Act
+#DESCRIPTION Class Act
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/cloudy.mp4:Cloudy with a chance of meatballs
+#DESCRIPTION Cloudy with a chance of meatballs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/congo1995.mp4:Congo
+#DESCRIPTION Congo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/apes4.mp4:Conquest Of The Planet Of The Apes
+#DESCRIPTION Conquest Of The Planet Of The Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/coprsebride.mp4:Corpse Bride
+#DESCRIPTION Corpse Bride
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/courage1.mp4:Courage Under Fire
+#DESCRIPTION Courage Under Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/cover.mp4:Cover
+#DESCRIPTION Cover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/crimson.mp4:Crimson Tide
+#DESCRIPTION Crimson Tide
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/cryfree.mp4:Cry Freedom
+#DESCRIPTION Cry Freedom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/curiousg.mp4:Curious George
+#DESCRIPTION Curious George
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lilgirl1.mp4:Daddy Little Girls
+#DESCRIPTION Daddy Little Girls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/deathw.mp4:Death Wish
+#DESCRIPTION Death Wish
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/deckthehalls.mp4:Deck The Halls
+#DESCRIPTION Deck The Halls
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dejavu.mp4:Deja Vu
+#DESCRIPTION Deja Vu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/deliveryman.mp4:Delivery Man
+#DESCRIPTION Delivery Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/despic2.mp4:Despicable Me 2
+#DESCRIPTION Despicable Me 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/diary1.mp4:Diary Of A Mad Black Woman
+#DESCRIPTION Diary Of A Mad Black Woman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dirtydancing1987.mp4:Dirty Dancing (1987)
+#DESCRIPTION Dirty Dancing (1987)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4:Dirty Dancing: Havana Nights
+#DESCRIPTION Dirty Dancing: Havana Nights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/divergent.mp4:Divergent
+#DESCRIPTION Divergent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/django.mp4:Django Unchained
+#DESCRIPTION Django Unchained
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dotheright.mp4:Do The Right Thing
+#DESCRIPTION Do The Right Thing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/dogma1999.mp4:Dogma
+#DESCRIPTION Dogma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/menace.mp4:Dont Be A Menace
+#DESCRIPTION Dont Be A Menace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/babysitter1991.mp4:Don't Tell Mom the Babysitter's Dead
+#DESCRIPTION Don't Tell Mom the Babysitter's Dead
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ducktales1990.mp4:DuckTales: Treasure of the Lost Lamp
+#DESCRIPTION DuckTales: Treasure of the Lost Lamp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/elf1.mp4:Elf
+#DESCRIPTION Elf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/elysium.mp4:Elysium
+#DESCRIPTION Elysium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/empirestate.mp4:Empire State
+#DESCRIPTION Empire State
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/endersgame.mp4:Ender's Game
+#DESCRIPTION Ender's Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.236.87.114/l7z7atetd4nhgn4vfjgbgx4i2hhlovlnvne7n3yoiqnuk72ojmsdza7dicoq/v.flv:Enemy at the gates
+#DESCRIPTION Enemy at the gates
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/epic1.mp4:Epic(2013)
+#DESCRIPTION Epic(2013)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/eragon.mp4:Eragon
+#DESCRIPTION Eragon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/apes3.mp4:Escape From The Planet Of The Apes
+#DESCRIPTION Escape From The Planet Of The Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/escapeplan2013.mp4:Escape Plan
+#DESCRIPTION Escape Plan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/mustgo.mp4:Everything Must Go
+#DESCRIPTION Everything Must Go
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/expendable3.mp4:Expendables 3
+#DESCRIPTION Expendables 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fallen2.mp4:Fallen
+#DESCRIPTION Fallen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast6.mp4:Fast & Furious 6
+#DESCRIPTION Fast & Furious 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast4.mp4:Fast and Furious 4
+#DESCRIPTION Fast and Furious 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast5.mp4:Fast Five
+#DESCRIPTION Fast Five
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast2.mp4:Fast Furious 2
+#DESCRIPTION Fast Furious 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fatal1987.mp4:Fatal Attraction
+#DESCRIPTION Fatal Attraction
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/nemo2003.mp4:Finding Nemo
+#DESCRIPTION Finding Nemo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/flight1.mp4:Flight
+#DESCRIPTION Flight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/attic1987.mp4:Flowers in the Attic (1987)
+#DESCRIPTION Flowers in the Attic (1987)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/attic2014.mp4:Flowers in the Attic (2014)
+#DESCRIPTION Flowers in the Attic (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/flubber.mp4:Flubber
+#DESCRIPTION Flubber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/frankenstein2014.mp4:frankenstein2014
+#DESCRIPTION frankenstein2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/friday1.mp4:Friday
+#DESCRIPTION Friday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/friday2.mp4:Friday After Next
+#DESCRIPTION Friday After Next
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fridaynight2004.mp4:Friday Night Lights
+#DESCRIPTION Friday Night Lights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fruitvale.mp4:Fruitvale Station
+#DESCRIPTION Fruitvale Station
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/gijoe2.mp4:G.I Joe Retaliation
+#DESCRIPTION G.I Joe Retaliation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/walkers.mp4:Gallowwalkers
+#DESCRIPTION Gallowwalkers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/getonup.mp4:Get On Up
+#DESCRIPTION Get On Up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/glory1989.mp4:Glory(1989)
+#DESCRIPTION Glory(1989)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/godzilla2014.mp4:Godzilla(2014)
+#DESCRIPTION Godzilla(2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/gravity2013.mp4:Gravity
+#DESCRIPTION Gravity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/grown1.mp4:Grown Ups
+#DESCRIPTION Grown Ups
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/grown2.mp4:Grown Ups 2
+#DESCRIPTION Grown Ups 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/grudgematch.mp4:Grudge Match
+#DESCRIPTION Grudge Match
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hancock.mp4:Hancock
+#DESCRIPTION Hancock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hangover1.mp4:Hangover 1
+#DESCRIPTION Hangover 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hangover2.mp4:Hangover 2
+#DESCRIPTION Hangover 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hanna2011.mp4:Hanna
+#DESCRIPTION Hanna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hegotgame.mp4:He Got Game
+#DESCRIPTION He Got Game
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/her2014.mp4:Her
+#DESCRIPTION Her
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hitch.mp4:Hitch
+#DESCRIPTION Hitch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/holidayheart.mp4:Holiday Heart
+#DESCRIPTION Holiday Heart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/homealone1.mp4:Home Alone 1
+#DESCRIPTION Home Alone 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/homealone2.mp4:Home Alone 2
+#DESCRIPTION Home Alone 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/homealone4.mp4:Home Alone 4
+#DESCRIPTION Home Alone 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/homefront2013.mp4:Home Front
+#DESCRIPTION Home Front
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hotfuzz.mp4:Hot Fuzz
+#DESCRIPTION Hot Fuzz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hottub2010.mp4:Hot Tub Time Machine
+#DESCRIPTION Hot Tub Time Machine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/grinch2000.mp4:How The Grinch Stole Christmas(2000)
+#DESCRIPTION How The Grinch Stole Christmas(2000)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/iaml.mp4:I Am Legend
+#DESCRIPTION I Am Legend
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/iam4.mp4:I am Number Four
+#DESCRIPTION I am Number Four
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/badall.mp4:I Can Do Bad All By Myself
+#DESCRIPTION I Can Do Bad All By Myself
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/irobot.mp4:I Robot
+#DESCRIPTION I Robot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/iceagechristmas.mp4:Ice Age: A Mammoth Christmas
+#DESCRIPTION Ice Age: A Mammoth Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/identitythief.mp4:Identity Thief
+#DESCRIPTION Identity Thief
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/indep.mp4:Independance Day
+#DESCRIPTION Independance Day
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thestorm2014.mp4:Into The Storm
+#DESCRIPTION Into The Storm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/irobot.mp4:I Robot
+#DESCRIPTION I Robot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ironman1.mp4:Iron Man
+#DESCRIPTION Iron Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ironman2.mp4:Iron Man 2
+#DESCRIPTION Iron Man 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ironman3.mp4:Iron Man 3
+#DESCRIPTION Iron Man 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/jack1996.mp4:Jack
+#DESCRIPTION Jack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/jackass3d.mp4:JACKASS 3D
+#DESCRIPTION JACKASS 3D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/strikeback.mp4:Jay and Silent Bob Strike Back
+#DESCRIPTION Jay and Silent Bob Strike Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/johnq.mp4:John Q
+#DESCRIPTION John Q
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/junglefever.mp4:Jungle Fever
+#DESCRIPTION Jungle Fever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/kevin.mp4:Kevin Hart: Let me Explain
+#DESCRIPTION Kevin Hart: Let me Explain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/kickass2.mp4:Kick Ass 2
+#DESCRIPTION Kick Ass 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/kicking.mp4:Kicking And Screaming
+#DESCRIPTION Kicking And Screaming
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/killings.mp4:Killing Season
+#DESCRIPTION Killing Season
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/landlost.mp4:Land Of The Lost
+#DESCRIPTION Land Of The Lost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lastvegas2013.mp4:Last Vegas
+#DESCRIPTION Last Vegas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/leanonme1989.mp4:Lean on me
+#DESCRIPTION Lean on me
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/butler.mp4:Lee Daniels The Buter
+#DESCRIPTION Lee Daniels The Buter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/legoyoda1.mp4:Lego Star Wars: The Yoda Chronicles - The Phantom
+#DESCRIPTION Lego Star Wars: The Yoda Chronicles - The Phantom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/becops2014.mp4:Let's Be Cops
+#DESCRIPTION Let's Be Cops
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/life20.mp4:LIFE 2.0
+#DESCRIPTION LIFE 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lifebrian.mp4:Life Of Brian
+#DESCRIPTION Life Of Brian
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lionking.mp4:Lion King
+#DESCRIPTION Lion King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lonesurvivor.mp4:Lone Survivor
+#DESCRIPTION Lone Survivor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/loveand.mp4:Love & Basketball
+#DESCRIPTION Love & Basketball
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/machetekills.mp4:Machete Kills
+#DESCRIPTION Machete Kills
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/madea1.mp4:Madea Goes To Jail
+#DESCRIPTION Madea Goes To Jail
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/madea2.mp4:Madeas Family Reunion
+#DESCRIPTION Madeas Family Reunion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/maleficent.mp4:Maleficent
+#DESCRIPTION Maleficent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/malibu1.mp4:Malibu Most Wanted
+#DESCRIPTION Malibu Most Wanted
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/tai.mp4:Man Of Tai Chi
+#DESCRIPTION Man Of Tai Chi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/longwalk2013.mp4:Mandela: Long Walk to Freedom
+#DESCRIPTION Mandela: Long Walk to Freedom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/brown2004.mp4:Meet the Browns
+#DESCRIPTION Meet the Browns
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/browns1.mp4:Meet The Browns
+#DESCRIPTION Meet The Browns
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/geisha2005.mp4:Memoirs of a Geisha
+#DESCRIPTION Memoirs of a Geisha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/mnb1.mp4:Men In Black
+#DESCRIPTION Men In Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/mnb2.mp4:Men In Black 2
+#DESCRIPTION Men In Black 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/mnb3.mp4:Men In Black 3
+#DESCRIPTION Men In Black 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/miracle34.mp4:Miracle on 34th Street
+#DESCRIPTION Miracle on 34th Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/doubtfire.mp4:Mrs Doubtfire
+#DESCRIPTION Mrs Doubtfire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/napolean.mp4:Napolean Dynamite
+#DESCRIPTION Napolean Dynamite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lampoonc.mp4:National Lampoons Christmas Vacation
+#DESCRIPTION National Lampoons Christmas Vacation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/needforspeed.mp4:Need for Speed
+#DESCRIPTION Need for Speed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/neighbors2014.mp4:Neighbors
+#DESCRIPTION Neighbors
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/friday3.mp4:Next Friday
+#DESCRIPTION Next Friday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja1.mp4:Ninja
+#DESCRIPTION Ninja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja2.mp4:Ninja 2 Kick Back
+#DESCRIPTION Ninja 2 Kick Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/3ninja3.mp4:Ninja 3 Knuckle up
+#DESCRIPTION Ninja 3 Knuckle up
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/noah2014.mp4:Noah
+#DESCRIPTION Noah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/nonstop2014.mp4:Non-Stop
+#DESCRIPTION Non-Stop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/oldschool1.mp4:Old School
+#DESCRIPTION Old School
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fallen1.mp4:Olympus Has Fallen
+#DESCRIPTION Olympus Has Fallen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/onlys.mp4:Only The Strong
+#DESCRIPTION Only The Strong
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/rim2.mp4:Pacific Rim
+#DESCRIPTION Pacific Rim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/paingain.mp4:Pain & Gain
+#DESCRIPTION Pain & Gain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/peeples.mp4:Peeples
+#DESCRIPTION Peeples
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/petals2014.mp4:Petals on the wind
+#DESCRIPTION Petals on the wind
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/pitchperfect.mp4:Pitch Perfect
+#DESCRIPTION Pitch Perfect
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/planes2013.mp4:Planes
+#DESCRIPTION Planes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/apes6.mp4:Planet Of The Apes
+#DESCRIPTION Planet Of The Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/poetic.mp4:Poetic Justice
+#DESCRIPTION Poetic Justice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/pompeii2014.mp4:Pompeii
+#DESCRIPTION Pompeii
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/pootie.mp4:Pootie Tang
+#DESCRIPTION Pootie Tang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/projectx.mp4:Project X
+#DESCRIPTION Project X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/prometheus.mp4:Prometheus
+#DESCRIPTION Prometheus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ripd.mp4:R.I.P.D
+#DESCRIPTION R.I.P.D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ratatouille.mp4:Ratatouille
+#DESCRIPTION Ratatouille
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/titans1.mp4:Remember The Titans
+#DESCRIPTION Remember The Titans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/riddick2.mp4:Riddick(2013)
+#DESCRIPTION Riddick(2013)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ridealong2014.mp4:Ride Along
+#DESCRIPTION Ride Along
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/rio2.mp4:Rio 2
+#DESCRIPTION Rio 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/apes7.mp4:Rise Of The Planet Of The Apes
+#DESCRIPTION Rise Of The Planet Of The Apes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/robocop2014.mp4:Robocop(2014)
+#DESCRIPTION Robocop(2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/rush2013.mp4:Rush
+#DESCRIPTION Rush
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/sabotage2014.mp4:Sabotage
+#DESCRIPTION Sabotage
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/schooldance.mp4:School Dance
+#DESCRIPTION School Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/semipro.mp4:Semi Pro
+#DESCRIPTION Semi Pro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/sevenp.mp4:Seven Pounds
+#DESCRIPTION Seven Pounds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/smurfs2.mp4:Smurfs 2
+#DESCRIPTION Smurfs 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/soulfood.mp4:Soul Food
+#DESCRIPTION Soul Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/darkness.mp4:Star Trek Into Darkness
+#DESCRIPTION Star Trek Into Darkness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/starwarse1.mp4:Star Wars: Episode I - The Phantom Menace
+#DESCRIPTION Star Wars: Episode I - The Phantom Menace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/starwarse2.mp4:Star Wars: Episode II - Attack of the Clones
+#DESCRIPTION Star Wars: Episode II - Attack of the Clones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/starwarse3.mp4:Star Wars: Episode III - Revenge of the Sith
+#DESCRIPTION Star Wars: Episode III - Revenge of the Sith
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/starwarsiv.mp4:Star Wars: Episode IV - A New Hope
+#DESCRIPTION Star Wars: Episode IV - A New Hope
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/starwarsv.mp4:Star Wars: Episode V - The Empire Strikes Back
+#DESCRIPTION Star Wars: Episode V - The Empire Strikes Back
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/starwarsvi.mp4:Star Wars: Episode VI - Return of the Jedi
+#DESCRIPTION Star Wars: Episode VI - Return of the Jedi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/stepbro.mp4:Step Brothers
+#DESCRIPTION Step Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/steel.mp4:Superman Man Of Steel
+#DESCRIPTION Superman Man Of Steel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/talla.mp4:Talladega Nights
+#DESCRIPTION Talladega Nights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/tammy2014.mp4:Tammy
+#DESCRIPTION Tammy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/tmnt1.mp4:Teenage Mutant Ninja Turtles
+#DESCRIPTION Teenage Mutant Ninja Turtles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/ninjaturtle2014.mp4:Teenage Mutant Ninja Turtles
+#DESCRIPTION Teenage Mutant Ninja Turtles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/tmnt2.mp4:Teenage Mutant Ninja Turtles II: The Secret of the
+#DESCRIPTION Teenage Mutant Ninja Turtles II: The Secret of the
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/tmnt3.mp4:Teenage Mutant Ninja Turtles III
+#DESCRIPTION Teenage Mutant Ninja Turtles III
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/temptation.mp4:Temptation: Confessions of a Marriage Counselor
+#DESCRIPTION Temptation: Confessions of a Marriage Counselor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/amazin2.mp4:The Amazing Spider-Man 2
+#DESCRIPTION The Amazing Spider-Man 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bestman99.mp4:The Best Man
+#DESCRIPTION The Best Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bestman2013.mp4:The Best Man Holiday
+#DESCRIPTION The Best Man Holiday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bookeli.mp4:The Book Of Eli
+#DESCRIPTION The Book Of Eli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bourne1.mp4:The Bourne Identity
+#DESCRIPTION The Bourne Identity
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bourne4.mp4:The Bourne Legacy
+#DESCRIPTION The Bourne Legacy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bourne2.mp4:The Bourne Supremacy
+#DESCRIPTION The Bourne Supremacy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bourne3.mp4:The Bourne Ultimatum
+#DESCRIPTION The Bourne Ultimatum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thebox2009.mp4:The Box
+#DESCRIPTION The Box
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/colony.mp4:The Colony
+#DESCRIPTION The Colony
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/theday2004.mp4:The Day After Tomorrow
+#DESCRIPTION The Day After Tomorrow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thefamily2013.mp4:The Family
+#DESCRIPTION The Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/preys1.mp4:The Family That Preys
+#DESCRIPTION The Family That Preys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast1.mp4:The Fast And The Furious
+#DESCRIPTION The Fast And The Furious
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fast3.mp4:The Fast and The Furious Tokyo Drift 2006
+#DESCRIPTION The Fast and The Furious Tokyo Drift 2006
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/frozen.mp4:The Frozen Ground
+#DESCRIPTION The Frozen Ground
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/grandmaster.mp4:The Grandmaster
+#DESCRIPTION The Grandmaster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/debaters.mp4:The Great Debaters
+#DESCRIPTION The Great Debaters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/gatsby.mp4:The Great Gatsby
+#DESCRIPTION The Great Gatsby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/grey.mp4:The Grey
+#DESCRIPTION The Grey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hangover3.mp4:The Hangover 3
+#DESCRIPTION The Hangover 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/theheat.mp4:The Heat
+#DESCRIPTION The Heat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hitlist.mp4:The Hitlist
+#DESCRIPTION The Hitlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hobbit1.mp4:The Hobbit An Unexpected Journey
+#DESCRIPTION The Hobbit An Unexpected Journey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/smaug2013.mp4:The Hobbit: The Desolation of Smaug
+#DESCRIPTION The Hobbit: The Desolation of Smaug
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/housebunny2014.mp4:The House Bunny
+#DESCRIPTION The House Bunny
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hungergame1.mp4:The Hunger Games
+#DESCRIPTION The Hunger Games
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hungergames2.mp4:The Hunger Games: Catching Fire
+#DESCRIPTION The Hunger Games: Catching Fire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/hurricane99.mp4:The Hurricane
+#DESCRIPTION The Hurricane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/theimpossible2012.mp4:The Impossible
+#DESCRIPTION The Impossible
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/junglebook2013.mp4:The Jungle Book Return 2 The Jungle
+#DESCRIPTION The Jungle Book Return 2 The Jungle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thekick.mp4:The Kick
+#DESCRIPTION The Kick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lastdragon.mp4:The Last Dragon
+#DESCRIPTION The Last Dragon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thestand.mp4:The Last Stand
+#DESCRIPTION The Last Stand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/legomovie2014.mp4:The Lego Movie
+#DESCRIPTION The Lego Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/lenabaker2008.mp4:The Lena Baker Story
+#DESCRIPTION The Lena Baker Story
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/Lone.mp4:The Lone Ranger
+#DESCRIPTION The Lone Ranger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fellowship1.mp4:The Lord of the Ring - The Fellowship of the Ring
+#DESCRIPTION The Lord of the Ring - The Fellowship of the Ring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twotowers.mp4:The Lord of the Ring - The Two towers
+#DESCRIPTION The Lord of the Ring - The Two towers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/returnking1.mp4:The Lord of the Rings - The Return of the King
+#DESCRIPTION The Lord of the Rings - The Return of the King
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/matrix1.mp4:The Matrix
+#DESCRIPTION The Matrix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/matrix2.mp4:The Matrix Reloaded
+#DESCRIPTION The Matrix Reloaded
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/matrix3.mp4:The Matrix Revolutions
+#DESCRIPTION The Matrix Revolutions
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/mighty1.mp4:The Mighty Ducks 1
+#DESCRIPTION The Mighty Ducks 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/mighty2.mp4:The Mighty Ducks 2
+#DESCRIPTION The Mighty Ducks 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/mighty3.mp4:The Mighty Ducks 3
+#DESCRIPTION The Mighty Ducks 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/moneypit1986.mp4:The Money Pit
+#DESCRIPTION The Money Pit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/themort1.mp4:The Mortal Instruments City Of Bones
+#DESCRIPTION The Mortal Instruments City Of Bones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/nightmarebefore.mp4:The Nightmare Before Christmas
+#DESCRIPTION The Nightmare Before Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/otherguys.mp4:The Other Guys
+#DESCRIPTION The Other Guys
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thepet.mp4:The Pet
+#DESCRIPTION The Pet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/polarexpress2004.mp4:The Polar Express
+#DESCRIPTION The Polar Express
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/wifey.mp4:The Preachers Wife
+#DESCRIPTION The Preachers Wife
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thepurge2014.mp4:The Purge: Anarchy
+#DESCRIPTION The Purge: Anarchy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/pursuit.mp4:The Pursuit Of Happyness
+#DESCRIPTION The Pursuit Of Happyness
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/runningman1987.mp4:The Running Man
+#DESCRIPTION The Running Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/singlemom.mp4:The Single Moms Club
+#DESCRIPTION The Single Moms Club
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/starving2013.mp4:The Starving Games
+#DESCRIPTION The Starving Games
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/storyo.mp4:The Story of O
+#DESCRIPTION The Story of O
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twilight1.mp4:The Twilight Saga 1
+#DESCRIPTION The Twilight Saga 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twilight2.mp4:The Twilight Saga 2 New Moon
+#DESCRIPTION The Twilight Saga 2 New Moon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twilight3.mp4:The Twilight Saga 3 Eclipse
+#DESCRIPTION The Twilight Saga 3 Eclipse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twilight4.mp4:The Twilight Saga 4 Breaking Dawn Part 1
+#DESCRIPTION The Twilight Saga 4 Breaking Dawn Part 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/twilight5.mp4:The Twilight Saga 5 Breaking Dawn Part 2
+#DESCRIPTION The Twilight Saga 5 Breaking Dawn Part 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/wedding1998.mp4:The Wedding Singer
+#DESCRIPTION The Wedding Singer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/worldend.mp4:The World's End
+#DESCRIPTION The World's End
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thinklike1.mp4:Think Like a Man
+#DESCRIPTION Think Like a Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thischristmas2007.mp4:This Christmas
+#DESCRIPTION This Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thisis40.mp4:This is 40
+#DESCRIPTION This is 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/theend.mp4:This is The End
+#DESCRIPTION This is The End
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thor2.mp4:Thor: The Dark World
+#DESCRIPTION Thor: The Dark World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/tinker2014.mp4:Tinker Bell And The Pirate Fairy
+#DESCRIPTION Tinker Bell And The Pirate Fairy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/tlcstory.mp4:TLC: CrazySexyCool
+#DESCRIPTION TLC: CrazySexyCool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/storyterror.mp4:Toy Story Of Terror
+#DESCRIPTION Toy Story Of Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers1.mp4:Transformers
+#DESCRIPTION Transformers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers3.mp4:Transformers Dark Of The Moon
+#DESCRIPTION Transformers Dark Of The Moon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/transformers2.mp4:Transformers Revenge Of The Fallen
+#DESCRIPTION Transformers Revenge Of The Fallen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/turbo.mp4:Turbo
+#DESCRIPTION Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/madea2013.mp4:Tyler Perry's A Madea Christmas
+#DESCRIPTION Tyler Perry's A Madea Christmas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/fromhell2014.mp4:Tyler Perrys Madeas Neighbors From Hell
+#DESCRIPTION Tyler Perrys Madeas Neighbors From Hell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/unfaithful2002.mp4:Unfaithful
+#DESCRIPTION Unfaithful
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/unstoppable.mp4:Unstoppable
+#DESCRIPTION Unstoppable
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/exhaledvd.mp4:Waiting to Exhale
+#DESCRIPTION Waiting to Exhale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/millers.mp4:We're the Millers
+#DESCRIPTION We're the Millers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/saturdaycomes.mp4:When Saturday Comes
+#DESCRIPTION When Saturday Comes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/White.mp4:White House Down
+#DESCRIPTION White House Down
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/married1.mp4:Why Did I get Married
+#DESCRIPTION Why Did I get Married
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/married2.mp4:Why Did I get Married 2
+#DESCRIPTION Why Did I get Married 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/wildwest.mp4:Wild Wild West
+#DESCRIPTION Wild Wild West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/world.mp4:World War Z
+#DESCRIPTION World War Z
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/xmen1.mp4:X-Men 1
+#DESCRIPTION X-Men 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/xmen2.mp4:X-Men 2
+#DESCRIPTION X-Men 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/xmen3.mp4:X-Men 3 The Last Stand
+#DESCRIPTION X-Men 3 The Last Stand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/xmen4.mp4:X-Men First Class
+#DESCRIPTION X-Men First Class
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/origin.mp4:X-Men Origins: Wolverine
+#DESCRIPTION X-Men Origins: Wolverine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/zerodark.mp4:Zero Dark Thirty
+#DESCRIPTION Zero Dark Thirty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/zoolander.mp4:Zoolander
+#DESCRIPTION Zoolander
+#SERVICE 1:64:7D:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_::::::::::::::::::::::::::
+#DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_::::::::::::::::::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
+#DESCRIPTION Game of Thrones Season 1 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e2.mp4:Game of Thrones Season 1 Episode 2
+#DESCRIPTION Game of Thrones Season 1 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e3.mp4:Game of Thrones Season 1 Episode 3
+#DESCRIPTION Game of Thrones Season 1 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e4.mp4:Game of Thrones Season 1 Episode 4
+#DESCRIPTION Game of Thrones Season 1 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e5.mp4:Game of Thrones Season 1 Episode 5
+#DESCRIPTION Game of Thrones Season 1 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e6.mp4:Game of Thrones Season 1 Episode 6
+#DESCRIPTION Game of Thrones Season 1 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e7.mp4:Game of Thrones Season 1 Episode 7
+#DESCRIPTION Game of Thrones Season 1 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e8.mp4:Game of Thrones Season 1 Episode 8
+#DESCRIPTION Game of Thrones Season 1 Episode 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e9.mp4:Game of Thrones Season 1 Episode 9
+#DESCRIPTION Game of Thrones Season 1 Episode 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e10.mp4:Game of Thrones Season 1 Episode 10
+#DESCRIPTION Game of Thrones Season 1 Episode 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e1.mp4:Game of Thrones Season 2 Episode 1
+#DESCRIPTION Game of Thrones Season 2 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e2.mp4:Game of Thrones Season 2 Episode 2
+#DESCRIPTION Game of Thrones Season 2 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e3.mp4:Game of Thrones Season 2 Episode 3
+#DESCRIPTION Game of Thrones Season 2 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e4.mp4:Game of Thrones Season 2 Episode 4
+#DESCRIPTION Game of Thrones Season 2 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e5.mp4:Game of Thrones Season 2 Episode 5
+#DESCRIPTION Game of Thrones Season 2 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e6.mp4:Game of Thrones Season 2 Episode 6
+#DESCRIPTION Game of Thrones Season 2 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e7.mp4:Game of Thrones Season 2 Episode 7
+#DESCRIPTION Game of Thrones Season 2 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e8.mp4:Game of Thrones Season 2 Episode 8
+#DESCRIPTION Game of Thrones Season 2 Episode 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e9.mp4:Game of Thrones Season 2 Episode 9
+#DESCRIPTION Game of Thrones Season 2 Episode 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones2e10.mp4:Game of Thrones Season 2 Episode 10
+#DESCRIPTION Game of Thrones Season 2 Episode 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e1.mp4:Game of Thrones Season 3 Episode 1
+#DESCRIPTION Game of Thrones Season 3 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e2.mp4:Game of Thrones Season 3 Episode 2
+#DESCRIPTION Game of Thrones Season 3 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e3.mp4:Game of Thrones Season 3 Episode 3
+#DESCRIPTION Game of Thrones Season 3 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e4.mp4:Game of Thrones Season 3 Episode 4
+#DESCRIPTION Game of Thrones Season 3 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e5.mp4:Game of Thrones Season 3 Episode 5
+#DESCRIPTION Game of Thrones Season 3 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e6.mp4:Game of Thrones Season 3 Episode 6
+#DESCRIPTION Game of Thrones Season 3 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e7.mp4:Game of Thrones Season 3 Episode 7
+#DESCRIPTION Game of Thrones Season 3 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e8.mp4:Game of Thrones Season 3 Episode 8
+#DESCRIPTION Game of Thrones Season 3 Episode 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e9.mp4:Game of Thrones Season 3 Episode 9
+#DESCRIPTION Game of Thrones Season 3 Episode 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones3e10.mp4:Game of Thrones Season 3 Episode 10
+#DESCRIPTION Game of Thrones Season 3 Episode 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/gameofthroneicefire.mp4:Game of Thrones-Ice and Fire A Foreshadowing
+#DESCRIPTION Game of Thrones-Ice and Fire A Foreshadowing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e1.mp4:Game of Thrones Season 4 Episode 1
+#DESCRIPTION Game of Thrones Season 4 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e2.mp4:Game of Thrones Season 4 Episode 2
+#DESCRIPTION Game of Thrones Season 4 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e3.mp4:Game of Thrones Season 4 Episode 3
+#DESCRIPTION Game of Thrones Season 4 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e4.mp4:Game of Thrones Season 4 Episode 4
+#DESCRIPTION Game of Thrones Season 4 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e5.mp4:Game of Thrones Season 4 Episode 5
+#DESCRIPTION Game of Thrones Season 4 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e6.mp4:Game of Thrones Season 4 Episode 6
+#DESCRIPTION Game of Thrones Season 4 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e7.mp4:Game of Thrones Season 4 Episode 7
+#DESCRIPTION Game of Thrones Season 4 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e8.mp4:Game of Thrones Season 4 Episode 8
+#DESCRIPTION Game of Thrones Season 4 Episode 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e9.mp4:Game of Thrones Season 4 Episode 9
+#DESCRIPTION Game of Thrones Season 4 Episode 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones4e10.mp4:Game of Thrones Season 4 Episode 10
+#DESCRIPTION Game of Thrones Season 4 Episode 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e1.mp4:The Big Bang Theory Season 1 Episode 1
+#DESCRIPTION The Big Bang Theory Season 1 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e2.mp4:The Big Bang Theory Season 1 Episode 2
+#DESCRIPTION The Big Bang Theory Season 1 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e3.mp4:The Big Bang Theory Season 1 Episode 3
+#DESCRIPTION The Big Bang Theory Season 1 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e4.mp4:The Big Bang Theory Season 1 Episode 4
+#DESCRIPTION The Big Bang Theory Season 1 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e5.mp4:The Big Bang Theory Season 1 Episode 5
+#DESCRIPTION The Big Bang Theory Season 1 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e6.mp4:The Big Bang Theory Season 1 Episode 6
+#DESCRIPTION The Big Bang Theory Season 1 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e7.mp4:The Big Bang Theory Season 1 Episode 7
+#DESCRIPTION The Big Bang Theory Season 1 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e8.mp4:The Big Bang Theory Season 1 Episode 8
+#DESCRIPTION The Big Bang Theory Season 1 Episode 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e9.mp4:The Big Bang Theory Season 1 Episode 9
+#DESCRIPTION The Big Bang Theory Season 1 Episode 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e10.mp4:The Big Bang Theory Season 1 Episode 10
+#DESCRIPTION The Big Bang Theory Season 1 Episode 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e11.mp4:The Big Bang Theory Season 1 Episode 11
+#DESCRIPTION The Big Bang Theory Season 1 Episode 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e12.mp4:The Big Bang Theory Season 1 Episode 12
+#DESCRIPTION The Big Bang Theory Season 1 Episode 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e13.mp4:The Big Bang Theory Season 1 Episode 13
+#DESCRIPTION The Big Bang Theory Season 1 Episode 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e14.mp4:The Big Bang Theory Season 1 Episode 14
+#DESCRIPTION The Big Bang Theory Season 1 Episode 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e15.mp4:The Big Bang Theory Season 1 Episode 15
+#DESCRIPTION The Big Bang Theory Season 1 Episode 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e16.mp4:The Big Bang Theory Season 1 Episode 16
+#DESCRIPTION The Big Bang Theory Season 1 Episode 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/bangs1e17.mp4:The Big Bang Theory Season 1 Episode 17
+#DESCRIPTION The Big Bang Theory Season 1 Episode 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals1e1.mp4:Scandal Season 1 Episode 1
+#DESCRIPTION Scandal Season 1 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals1e2.mp4:Scandal Season 1 Episode 2
+#DESCRIPTION Scandal Season 1 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals1e3.mp4:Scandal Season 1 Episode 3
+#DESCRIPTION Scandal Season 1 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals1e4.mp4:Scandal Season 1 Episode 4
+#DESCRIPTION Scandal Season 1 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals1e5.mp4:Scandal Season 1 Episode 5
+#DESCRIPTION Scandal Season 1 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals1e6.mp4:Scandal Season 1 Episode 6
+#DESCRIPTION Scandal Season 1 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals1e7.mp4:Scandal Season 1 Episode 7
+#DESCRIPTION Scandal Season 1 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e1.mp4:Scandal Season 2 Episode 1
+#DESCRIPTION Scandal Season 2 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e2.mp4:Scandal Season 2 Episode 2
+#DESCRIPTION Scandal Season 2 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e3.mp4:Scandal Season 2 Episode 3
+#DESCRIPTION Scandal Season 2 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e4.mp4:Scandal Season 2 Episode 4
+#DESCRIPTION Scandal Season 2 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e5.mp4:Scandal Season 2 Episode 5
+#DESCRIPTION Scandal Season 2 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e6.mp4:Scandal Season 2 Episode 6
+#DESCRIPTION Scandal Season 2 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e7.mp4:Scandal Season 2 Episode 7
+#DESCRIPTION Scandal Season 2 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e8.mp4:Scandal Season 2 Episode 8
+#DESCRIPTION Scandal Season 2 Episode 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e9.mp4:Scandal Season 2 Episode 9
+#DESCRIPTION Scandal Season 2 Episode 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e10.mp4:Scandal Season 2 Episode 10
+#DESCRIPTION Scandal Season 2 Episode 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e11.mp4:Scandal Season 2 Episode 11
+#DESCRIPTION Scandal Season 2 Episode 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e12.mp4:Scandal Season 2 Episode 12
+#DESCRIPTION Scandal Season 2 Episode 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e13.mp4:Scandal Season 2 Episode 13
+#DESCRIPTION Scandal Season 2 Episode 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e14.mp4:Scandal Season 2 Episode 14
+#DESCRIPTION Scandal Season 2 Episode 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e15.mp4:Scandal Season 2 Episode 15
+#DESCRIPTION Scandal Season 2 Episode 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e16.mp4:Scandal Season 2 Episode 16
+#DESCRIPTION Scandal Season 2 Episode 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e17.mp4:Scandal Season 2 Episode 17
+#DESCRIPTION Scandal Season 2 Episode 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e18.mp4:Scandal Season 2 Episode 18
+#DESCRIPTION Scandal Season 2 Episode 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e19.mp4:Scandal Season 2 Episode 19
+#DESCRIPTION Scandal Season 2 Episode 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e20.mp4:Scandal Season 2 Episode 20
+#DESCRIPTION Scandal Season 2 Episode 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e21.mp4:Scandal Season 2 Episode 21
+#DESCRIPTION Scandal Season 2 Episode 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals2e22.mp4:Scandal Season 2 Episode 22
+#DESCRIPTION Scandal Season 2 Episode 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e1.mp4:Scandal Season 3 Episode 1
+#DESCRIPTION Scandal Season 3 Episode 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e2.mp4:Scandal Season 3 Episode 2
+#DESCRIPTION Scandal Season 3 Episode 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e3.mp4:Scandal Season 3 Episode 3
+#DESCRIPTION Scandal Season 3 Episode 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e4.mp4:Scandal Season 3 Episode 4
+#DESCRIPTION Scandal Season 3 Episode 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e5.mp4:Scandal Season 3 Episode 5
+#DESCRIPTION Scandal Season 3 Episode 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e6.mp4:Scandal Season 3 Episode 6
+#DESCRIPTION Scandal Season 3 Episode 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e7.mp4:Scandal Season 3 Episode 7
+#DESCRIPTION Scandal Season 3 Episode 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e8.mp4:Scandal Season 3 Episode 8
+#DESCRIPTION Scandal Season 3 Episode 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e9.mp4:Scandal Season 3 Episode 9
+#DESCRIPTION Scandal Season 3 Episode 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e10.mp4:Scandal Season 3 Episode 10
+#DESCRIPTION Scandal Season 3 Episode 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e11.mp4:Scandal Season 3 Episode 11
+#DESCRIPTION Scandal Season 3 Episode 11
