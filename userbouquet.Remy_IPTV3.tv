@@ -1,4 +1,6 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HXZlvafC14Y:Power Türk Fm
+#DESCRIPTION Power Türk Fm
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
@@ -13,14 +15,22 @@
 #DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:51B:3:42:1A40000:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8:DREAM TÜRK
 #DESCRIPTION DREAM TÜRK
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ND2NJMSJZ4Q:Kral Pop TV HD
+#DESCRIPTION Kral Pop TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Z8o1mz4_6Vg:Kral TV HD
+#DESCRIPTION Kral TV HD
 #SERVICE 4097:0:1:2A41:9E99:42E:1A40000:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
 #SERVICE 4097:0:1:2A41:9E99:42E:1A40000:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lxihjZS-fyA:Kral FM
+#DESCRIPTION Kral FM
 #SERVICE 4097:0:1:2A40:9E99:42E:1A40000:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
 #DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
 #DESCRIPTION KRAL POP TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=cMgrsG7LWik:Kral Pop Radyo
+#DESCRIPTION Kral Pop Radyo
 #SERVICE 4097:0:1:2A40:9E99:42E:1A40000:0:0:0:https%3a//stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8:KRAL WORLD TV
 #DESCRIPTION KRAL WORLD TV
 #SERVICE 4097:0:1:2A41:9E99:42E:1A40000:0:0:0:http%3a//cf2wcwwd.rocketcdn.com/kraldijital-doksanlartv.smil/chunklist.m3u8:KRAL 90� LAR TV
@@ -35,6 +45,10 @@
 #DESCRIPTION KRAL POP KONSER TV
 #SERVICE 4097:0:1:2A40:9E99:42E:1A40000:0:0:0:http%3a//kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8:KRAL POP PERFORMANS
 #DESCRIPTION KRAL POP PERFORMANS
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6z2yIYMej8k:Number1 Tv
+#DESCRIPTION Number1 Tv
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=kpygqP70u60:Number1 Türk
+#DESCRIPTION Number1 Türk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.99.157%3a1935/mavigecetv/mavigecetv/playlist.m3u8:MAVI GECE HD
 #DESCRIPTION MAVI GECE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.93.118.165/tempotv/livestream:TEMPO TV TURK
@@ -53,6 +67,8 @@
 #DESCRIPTION Vibee TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8:538 TV
 #DESCRIPTION 538 TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=hfq1qMM5zrk:Cat Music Live TV / Non Stop Music 24/7 🎧
+#DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL TV
 #DESCRIPTION CAPITAL TV
 #SERVICE 4097:0:1:8:3:D5:1C20000:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/_definst_/TODAYFM_TEST2/playlist.m3u8:CITY TV
@@ -259,6 +275,10 @@
 #DESCRIPTION Ocko Expres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.youiptv.ch%3a1935/8FM/8FM/livestream.m3u8:OTTO 8 FM TV
 #DESCRIPTION OTTO 8 FM TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs&amp;index=64&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Beautiful Relaxing Music 24/7
+#DESCRIPTION Beautiful Relaxing Music 24/7
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nVOQSNnV0BU&amp;index=72&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Relaxing Sleep Music 24/7: Deep Sleep Music
+#DESCRIPTION Relaxing Sleep Music 24/7: Deep Sleep Music
 #SERVICE 4097:0:1:264:0:0:0:0:0:0:rtmp%3a//78.140.209.14%3a1935/live/piktv2pik2tv:PIK TV
 #DESCRIPTION PIK TV
 #SERVICE 4097:0:1:266:0:0:0:0:0:0:rtmp%3a//78.140.209.14%3a1935/live/piktv3pik3tv:PIK TV
