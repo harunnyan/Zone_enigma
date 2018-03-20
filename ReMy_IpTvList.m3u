@@ -109,13 +109,13 @@ http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/20.ts
 http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/21.ts
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
-#EXTINF:-1,Arena Sport 1 
+#EXTINF:-1,Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
-#EXTINF:-1,Arena Sport 1 
+#EXTINF:-1,Arena Sport2
 http://46.40.5.99:8000/arena_2_high
-#EXTINF:-1,Arena Sport 1 
+#EXTINF:-1,Arena Sport3
 http://46.40.5.99:8000/arena_3_high
-#EXTINF:-1,Arena Sport 1 
+#EXTINF:-1,Arena Sport4
 http://46.40.5.99:8000/arena_4_high
 #EXTINF:-1,TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
