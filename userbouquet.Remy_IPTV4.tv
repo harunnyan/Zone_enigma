@@ -1,8 +1,8 @@
 #NAME **ENIGMA_TEAM_18+ADULT**
-#SERVICE 1:64:11D:0:0:0:0:0:0:0:::::::::::::::::::::::_E N I G M A__T U R K__T E A M__A D U L T_::::::::::::::::::::::::::
-#DESCRIPTION :::::::::::::::::::::_E N I G M A__T U R K__T E A M__A D U L T_::::::::::::::::::::::::::
-#SERVICE 1:64:11E:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_::::::::::::::::::::::::::
-#DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_::::::::::::::::::::::::::
+#SERVICE 1:64:112:0:0:0:0:0:0:0:::::::::::::::::::::::_E N I G M A__T U R K__T E A
+#DESCRIPTION :::::::::::::::::::::_E N I G M A__T U R K__T E A
+#SERVICE 1:64:113:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
+#DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8:MIAMI TV
 #DESCRIPTION MIAMI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream:JASMIN TV
@@ -13,11 +13,11 @@
 #DESCRIPTION BS 24 LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil%3a2346-mbr.smil/playlist.m3u8:Babestation Germany
 #DESCRIPTION Babestation Germany
-#SERVICE 4097:0:1:12A6:3458:13E:820000:0:0:0:http%3a//publish.thewebstream.co%3a1935/leved/_definst_/livesexlatinas/playlist.m3u8:Live Sex Latinas
+#SERVICE 1:0:1:12A6:3458:13E:820000:0:0:0:http%3a//publish.thewebstream.co%3a1935/leved/_definst_/livesexlatinas/playlist.m3u8:Live Sex Latinas
 #DESCRIPTION Live Sex Latinas
-#SERVICE 4097:0:1:3333:45B:1:C00000:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
+#SERVICE 1:0:1:3333:45B:1:C00000:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:315C:459:1:C00000:0:0:0:rtmp%3a//streaming.fundorado.com%3a80/fundoradotv//live.stream:Fundorado TV
+#SERVICE 1:0:1:315C:459:1:C00000:0:0:0:rtmp%3a//streaming.fundorado.com%3a80/fundoradotv//live.stream:Fundorado TV
 #DESCRIPTION Fundorado TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.128.7.227%3a81/udp/239.1.6.33%3a1234:HOYHONKAY
 #DESCRIPTION HOYHONKAY
@@ -53,8 +53,8 @@
 #DESCRIPTION Miami TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.111.128.190/miamitv/smil%3amiamitvspain/playlist.m3u8:Miami tv 3
 #DESCRIPTION Miami tv 3
-#SERVICE 1:64:11F:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_::::::::::::::::::::::::::
-#DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_::::::::::::::::::::::::::
+#SERVICE 1:64:114:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
+#DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/video/rompol.mp4:ROMAN POLONSKY
@@ -147,10 +147,10 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:120:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::::::::::::::::::::::::
-#DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::::::::::::::::::::::::
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Naked_and_Funny_Special_2_Spicy_Surprises_491_HD.mp4:Naked_and_Funny_Special_2_Spicy_Surprises_491_HD.mp4
-#DESCRIPTION Naked_and_Funny_Special_2_Spicy_Surprises_491_HD.mp4
+#SERVICE 1:64:115:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
+#DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Naked_and_Funny_Special_2_Spicy_Surprises_491_HD.mp4:Naked_and_Funny_Special_2_Spicy_Surprises_491_HD.m
+#DESCRIPTION Naked_and_Funny_Special_2_Spicy_Surprises_491_HD.m
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/nfspecials/nfspecial1-bouncingboobs.mp4:nfspecial1-bouncingboobs.mp4
 #DESCRIPTION nfspecial1-bouncingboobs.mp4
 #SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/nfspecials/nfspecial1-bouncingboobs_hd.mp4:nfspecial1-bouncingboobs_hd.mp4
@@ -405,8 +405,8 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:120:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_::::::::::::::::::::::::::
-#DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_::::::::::::::::::::::::::
+#SERVICE 1:64:116:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
+#DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.139.78/vidshd2/1.mp4:Vids HD  1
 #DESCRIPTION Vids HD  1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.139.78/vidshd2/2.mp4:Vids HD  3
@@ -1441,7 +1441,7 @@
 #DESCRIPTION wild-city-girl-shower-masturbation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.155.129.196/flashfiles/flash/young-couples-private-tape-leaked.flv:young-couples-private-tape-leaked
 #DESCRIPTION young-couples-private-tape-leaked
-#SERVICE 1:64:121:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
+#SERVICE 1:64:117:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #DESCRIPTION OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
 #DESCRIPTION Adult 4K: VOD 1

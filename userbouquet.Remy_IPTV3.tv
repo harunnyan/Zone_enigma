@@ -275,14 +275,6 @@
 #DESCRIPTION Ocko Expres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.youiptv.ch%3a1935/8FM/8FM/livestream.m3u8:OTTO 8 FM TV
 #DESCRIPTION OTTO 8 FM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=y7e-GC6oGhg:Beautiful Piano Music 24/7: Study Music
-#DESCRIPTION Beautiful Piano Music 24/7: Study Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oUzEopPJBLg:Waterfall & Jungle Sounds
-#DESCRIPTION Waterfall & Jungle Sounds
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c25OatSVic0:Relaxing Aquarium 24/7
-#DESCRIPTION Relaxing Aquarium 24/7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=h5hz2vlYP7Y:The Best Relaxing Aquarium 24/7
-#DESCRIPTION The Best Relaxing Aquarium 24/7
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs&amp;index=64&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Beautiful Relaxing Music 24/7
 #DESCRIPTION Beautiful Relaxing Music 24/7
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nVOQSNnV0BU&amp;index=72&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Relaxing Sleep Music 24/7: Deep Sleep Music
