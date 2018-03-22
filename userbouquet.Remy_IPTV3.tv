@@ -7,6 +7,16 @@
 #DESCRIPTION DiYANET KURAN RADiO
 #SERVICE 1:64:10B:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=hfq1qMM5zrk:Cat Music Live TV / Non Stop Music 24/7 🎧
+#DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oUzEopPJBLg:Waterfall & Jungle Sounds
+#DESCRIPTION Waterfall & Jungle Sounds
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c25OatSVic0:Relaxing Aquarium 24/7
+#DESCRIPTION Relaxing Aquarium 24/7
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=h5hz2vlYP7Y:The Best Relaxing Aquarium 24/7
+#DESCRIPTION The Best Relaxing Aquarium 24/7
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=o35TFk-IULM:Relaxing Music 24/7 Amazing Nature
+#DESCRIPTION Relaxing Music 24/7 Amazing Nature
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uludag.listenpowerapp.com/uludag/live/chunks.m3u8:Power Uludağ Cam Canlı Yayın
 #DESCRIPTION Power Uludağ Cam Canlı Yayın
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//polatotelerzurum.listenpowerapp.com/polatotelerzurum/live/chunks.m3u8:Power Erzurum Cam Canlı Yayın
@@ -67,8 +77,6 @@
 #DESCRIPTION Vibee TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8:538 TV
 #DESCRIPTION 538 TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=hfq1qMM5zrk:Cat Music Live TV / Non Stop Music 24/7 🎧
-#DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL TV
 #DESCRIPTION CAPITAL TV
 #SERVICE 1:0:1:8:3:D5:1C20000:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/_definst_/TODAYFM_TEST2/playlist.m3u8:CITY TV
@@ -275,10 +283,6 @@
 #DESCRIPTION Ocko Expres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.youiptv.ch%3a1935/8FM/8FM/livestream.m3u8:OTTO 8 FM TV
 #DESCRIPTION OTTO 8 FM TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs&amp;index=64&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Beautiful Relaxing Music 24/7
-#DESCRIPTION Beautiful Relaxing Music 24/7
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nVOQSNnV0BU&amp;index=72&amp;list=PLU12uITxBEPGAM3w5AIUs0jcun2gdEsxI&amp;t=0s:Relaxing Sleep Music 24/7: Deep Sleep Music
-#DESCRIPTION Relaxing Sleep Music 24/7: Deep Sleep Music
 #SERVICE 4097:0:1:264:0:0:0:0:0:0:rtmp%3a//78.140.209.14%3a1935/live/piktv2pik2tv:PIK TV
 #DESCRIPTION PIK TV
 #SERVICE 4097:0:1:266:0:0:0:0:0:0:rtmp%3a//78.140.209.14%3a1935/live/piktv3pik3tv:PIK TV
