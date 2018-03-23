@@ -5,7 +5,7 @@
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:10B:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
+#SERVICE 1:64:10C:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=hfq1qMM5zrk:Cat Music Live TV / Non Stop Music 24/7 🎧
 #DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
@@ -17,6 +17,14 @@
 #DESCRIPTION The Best Relaxing Aquarium 24/7
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=o35TFk-IULM:Relaxing Music 24/7 Amazing Nature
 #DESCRIPTION Relaxing Music 24/7 Amazing Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powerturktv4k.listenpowerapp.com/powerturktv/4k/chunks.m3u8?nimblesessionid=3055288:PowerTürk TV 4K
+#DESCRIPTION PowerTürk TV 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powertv4k.listenpowerapp.com/powertv/4k/chunks.m3u8?nimblesessionid=3088379:Power TV 4K
+#DESCRIPTION Power TV 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powerturktv.listenpowerapp.com/powerturktv/abr/powerturktv/360/chunks.m3u8?nimblesessionid=2278341:PowerTürk TV
+#DESCRIPTION PowerTürk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//powertv.listenpowerapp.com/powertv/abr/powertv/360/chunks.m3u8?nimblesessionid=2280754:Power TV
+#DESCRIPTION Power TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uludag.listenpowerapp.com/uludag/live/chunks.m3u8:Power Uludağ Cam Canlı Yayın
 #DESCRIPTION Power Uludağ Cam Canlı Yayın
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//polatotelerzurum.listenpowerapp.com/polatotelerzurum/live/chunks.m3u8:Power Erzurum Cam Canlı Yayın
@@ -385,9 +393,9 @@
 #DESCRIPTION ZMF1 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.goinfo.it/V33Live/v33ros/playlist.m3u8:Video 33 Trentino Alto Adige
 #DESCRIPTION Video 33 Trentino Alto Adige
-#SERVICE 1:64:10C:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
+#SERVICE 1:64:10D:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
-#SERVICE 1:64:10D:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
+#SERVICE 1:64:10E:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
 #DESCRIPTION :::::::::::::::::::::_KING Turkish Radios_::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -437,7 +445,7 @@
 #DESCRIPTION KRAL DIZI & FILM MUZIKLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:10E:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
+#SERVICE 1:64:10F:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
 #DESCRIPTION :::::::::::::::::::::_KING World Radios_::::::::::
 #SERVICE 4097:0:1:64:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akflashback.smil/chunklist_w2033212040_b64000.m3u8:KRAL FLASHBACK
 #DESCRIPTION KRAL FLASHBACK
@@ -491,7 +499,7 @@
 #DESCRIPTION KRAL FRANCE
 #SERVICE 4097:0:1:76:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akopera.smil/chunklist_w2006434852_b64000.m3u8:KRAL OPERA
 #DESCRIPTION KRAL OPERA
-#SERVICE 1:64:10F:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_Sta
+#SERVICE 1:64:110:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_Sta
 #DESCRIPTION :::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_Sta
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/best//babaradyo.stream:Baba Radyo
 #DESCRIPTION Baba Radyo
@@ -571,7 +579,7 @@
 #DESCRIPTION Power FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/GENCVEFIT128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=dce3b2e0-c000-46fc-a6e7-c1c63af7ee94:Genc & Fit
 #DESCRIPTION Genc & Fit
-#SERVICE 1:64:110:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
+#SERVICE 1:64:111:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_iTunes Radios_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
@@ -693,27 +701,27 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice7.securenetsystems.net/KSOPFM:Z104 Country KSOP-FM
 #DESCRIPTION Z104 Country KSOP-FM
-#SERVICE 1:64:111:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| CONCERTS_:::::
+#SERVICE 1:64:112:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| CONCERTS_:::::
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| CONCERTS_:::::
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/30%20Seconds%20to%20Mars%20iTunes%20Festival%202013%5BFromAnime%5D.MKV:30 Seconds to Mars iTunes Festival 2013[FromAnime]
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/30 Seconds to Mars iTunes Festival 2013[FromAnime].MKV:30 Seconds to Mars iTunes Festival 2013[FromAnime]
 #DESCRIPTION 30 Seconds to Mars iTunes Festival 2013[FromAnime]
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Adele%20-%20Live%20at%20Glastonbury%20Festival%202016%20%28720p-HD%29%28FromAnime%29.mp4:Adele - Live at Glastonbury Festival 2016 (720p)
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Adele - Live at Glastonbury Festival 2016 (720p-HD)(FromAnime).mp4:Adele - Live at Glastonbury Festival 2016 (720p)
 #DESCRIPTION Adele - Live at Glastonbury Festival 2016 (720p)
-#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Bruno%20Mars%20Full%20Concert%202017%20%5B720p%5D%5BFromAnime%5D.mp4:Bruno Mars Full Concert 2017 [720p][FromAnime].mp4
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Bruno Mars Full Concert 2017 [720p][FromAnime].mp4:Bruno Mars Full Concert 2017 [720p][FromAnime].mp4
 #DESCRIPTION Bruno Mars Full Concert 2017 [720p][FromAnime].mp4
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Coldplay%20Live%20%202016%20Glastonbury%20Festival%5BFromAnime%5D.mp4:Coldplay Live  2016 Glastonbury Festival
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Coldplay Live  2016 Glastonbury Festival[FromAnime].mp4:Coldplay Live  2016 Glastonbury Festival
 #DESCRIPTION Coldplay Live  2016 Glastonbury Festival
-#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Eminem-%20Live%20from%20New%20York%20City%20%5BHD%20Version%202015%5D%5BFromAnime%5D.mp4:Eminem- Live from New York City
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Eminem- Live from New York City [HD Version 2015][FromAnime].mp4:Eminem- Live from New York City
 #DESCRIPTION Eminem- Live from New York City
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Evanescence%20-%20Live%20Nation%20TV%20%40New%20York%202016%20%28HD%29%28FromAnime%29.mp4:Evanescence - Live Nation TV @New York 2016
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Evanescence - Live Nation TV @New York 2016 (HD)(FromAnime).mp4:Evanescence - Live Nation TV @New York 2016
 #DESCRIPTION Evanescence - Live Nation TV @New York 2016
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Lady%20Gaga%20presents-%20artRAVE%20Live%20from%20Paris%20Bercy%20%5BFromAnime%5D.mp4:Lady Gaga presents- artRAVE Live from Paris Ber..>
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Lady Gaga presents- artRAVE Live from Paris Bercy [FromAnime].mp4:Lady Gaga presents- artRAVE Live from Paris Ber..>
 #DESCRIPTION Lady Gaga presents- artRAVE Live from Paris Ber..>
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Maroon%205%20-%20Rock%20In%20Rio%20Lisboa%202016%20%28720p%29%28FromAnime%29.mp4:Maroon 5 - Rock In Rio Lisboa 2016 (720p)
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Maroon 5 - Rock In Rio Lisboa 2016 (720p)(FromAnime).mp4:Maroon 5 - Rock In Rio Lisboa 2016 (720p)
 #DESCRIPTION Maroon 5 - Rock In Rio Lisboa 2016 (720p)
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Nature%20Republic%20EXO%20Fan%20Festival%5BFromAnime%5D.mp4:Nature Republic EXO Fan Festival[FromAnime].mp4
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Nature Republic EXO Fan Festival[FromAnime].mp4:Nature Republic EXO Fan Festival[FromAnime].mp4
 #DESCRIPTION Nature Republic EXO Fan Festival[FromAnime].mp4
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Rihanna%20-%20Live%20at%20Rock%20in%20Rio%20Brazil%202015%5BFromAnime%5D.mp4:Rihanna - Live at Rock in Rio Brazil 2015
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Rihanna - Live at Rock in Rio Brazil 2015[FromAnime].mp4:Rihanna - Live at Rock in Rio Brazil 2015
 #DESCRIPTION Rihanna - Live at Rock in Rio Brazil 2015
 #SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//195.78.244.221%3a99/video/mp4/music/zz_top_live_from_texas.avi:zz_top_live_from_texas.avi
 #DESCRIPTION zz_top_live_from_texas.avi
@@ -721,25 +729,25 @@
 #DESCRIPTION aerosmith_monsters_of_rock_2013.mkv
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//195.78.244.221%3a99/video/mp4/music4/abba_deluxe_edition.avi:abba_deluxe_edition.avi
 #DESCRIPTION abba_deluxe_edition.avi
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/30%20Seconds%20to%20Mars%20iTunes%20Festival%202013%5BFromAnime%5D.MKV:30 Seconds to Mars iTunes Festival 2013[FromAnime]
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/30 Seconds to Mars iTunes Festival 2013[FromAnime].MKV:30 Seconds to Mars iTunes Festival 2013[FromAnime]
 #DESCRIPTION 30 Seconds to Mars iTunes Festival 2013[FromAnime]
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Adele%20-%20Live%20at%20Glastonbury%20Festival%202016%20%28720p-HD%29%28FromAnime%29.mp4:Adele - Live at Glastonbury Festival 2016 (720p)
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Adele - Live at Glastonbury Festival 2016 (720p-HD)(FromAnime).mp4:Adele - Live at Glastonbury Festival 2016 (720p)
 #DESCRIPTION Adele - Live at Glastonbury Festival 2016 (720p)
-#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Bruno%20Mars%20Full%20Concert%202017%20%5B720p%5D%5BFromAnime%5D.mp4:Bruno Mars Full Concert 2017 [720p][FromAnime].mp4
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Bruno Mars Full Concert 2017 [720p][FromAnime].mp4:Bruno Mars Full Concert 2017 [720p][FromAnime].mp4
 #DESCRIPTION Bruno Mars Full Concert 2017 [720p][FromAnime].mp4
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Coldplay%20Live%20%202016%20Glastonbury%20Festival%5BFromAnime%5D.mp4:Coldplay Live  2016 Glastonbury Festival
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Coldplay Live  2016 Glastonbury Festival[FromAnime].mp4:Coldplay Live  2016 Glastonbury Festival
 #DESCRIPTION Coldplay Live  2016 Glastonbury Festival
-#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Eminem-%20Live%20from%20New%20York%20City%20%5BHD%20Version%202015%5D%5BFromAnime%5D.mp4:Eminem- Live from New York City
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Eminem- Live from New York City [HD Version 2015][FromAnime].mp4:Eminem- Live from New York City
 #DESCRIPTION Eminem- Live from New York City
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Evanescence%20-%20Live%20Nation%20TV%20%40New%20York%202016%20%28HD%29%28FromAnime%29.mp4:Evanescence - Live Nation TV @New York 2016
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Evanescence - Live Nation TV @New York 2016 (HD)(FromAnime).mp4:Evanescence - Live Nation TV @New York 2016
 #DESCRIPTION Evanescence - Live Nation TV @New York 2016
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Lady%20Gaga%20presents-%20artRAVE%20Live%20from%20Paris%20Bercy%20%5BFromAnime%5D.mp4:Lady Gaga presents- artRAVE Live from Paris Ber..>
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Lady Gaga presents- artRAVE Live from Paris Bercy [FromAnime].mp4:Lady Gaga presents- artRAVE Live from Paris Ber..>
 #DESCRIPTION Lady Gaga presents- artRAVE Live from Paris Ber..>
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Maroon%205%20-%20Rock%20In%20Rio%20Lisboa%202016%20%28720p%29%28FromAnime%29.mp4:Maroon 5 - Rock In Rio Lisboa 2016 (720p)
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Maroon 5 - Rock In Rio Lisboa 2016 (720p)(FromAnime).mp4:Maroon 5 - Rock In Rio Lisboa 2016 (720p)
 #DESCRIPTION Maroon 5 - Rock In Rio Lisboa 2016 (720p)
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Nature%20Republic%20EXO%20Fan%20Festival%5BFromAnime%5D.mp4:Nature Republic EXO Fan Festival[FromAnime].mp4
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Nature Republic EXO Fan Festival[FromAnime].mp4:Nature Republic EXO Fan Festival[FromAnime].mp4
 #DESCRIPTION Nature Republic EXO Fan Festival[FromAnime].mp4
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Rihanna%20-%20Live%20at%20Rock%20in%20Rio%20Brazil%202015%5BFromAnime%5D.mp4:Rihanna - Live at Rock in Rio Brazil 2015
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/Rihanna - Live at Rock in Rio Brazil 2015[FromAnime].mp4:Rihanna - Live at Rock in Rio Brazil 2015
 #DESCRIPTION Rihanna - Live at Rock in Rio Brazil 2015
 #SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//195.78.244.221%3a99/video/mp4/music4/30_seconds_to_mars_itunes_festival_2013.avi:30_seconds_to_mars_itunes_festival_2013.avi
 #DESCRIPTION 30_seconds_to_mars_itunes_festival_2013.avi
@@ -1211,5 +1219,7 @@
 #DESCRIPTION via_ot_a_do_ya_5-p5.avi
 #SERVICE 4097:0:1:491:0:0:0:0:0:0:http%3a//195.78.244.221%3a99/video/mp4/music4/whitesnake_made_in_japan.avi:whitesnake_made_in_japan.avi
 #DESCRIPTION whitesnake_made_in_japan.avi
-#SERVICE 4097:0:1:493:0:0:0:0:0:0:http%3a//195.78.244.221%3a99/video/mp4/music4/xzibit_restless_xposed.avi:xzibit_restless_xposed.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.78.244.221%3a99/video/mp4/music4/xzibit_restless_xposed.avi:xzibit_restless_xposed.avi
 #DESCRIPTION xzibit_restless_xposed.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//one.ard.de/tv/live:ONE.de
+#DESCRIPTION ONE.de
