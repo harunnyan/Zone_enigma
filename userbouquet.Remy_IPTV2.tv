@@ -147,18 +147,30 @@
 #DESCRIPTION Semerkand TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L3rgPwpX5Tk:PERPA TV
 #DESCRIPTION PERPA TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c6h18FqpWiw:ANN7 TV
+#DESCRIPTION ANN7 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=y5hjoAZGf_E:Thailand | Sweet Soul Cafe Soi Green Mango
+#DESCRIPTION Thailand | Sweet Soul Cafe Soi Green Mango
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dK9pnpuwDWA:Thailand | Bondi Hotel
+#DESCRIPTION Thailand | Bondi Hotel
+#SERVICE 1:64:C8:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
+#DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler
 #DESCRIPTION Cocuklar icin Cizgi filmler
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=yJjQu7XyyJ8:Kırmızı Balık Bebek Şarkıları
-#DESCRIPTION Kırmızı Balık Bebek Şarkıları
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=EY0WWNoS2xo:Talking Tom Shorts FULL Episodes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=SgDqSFJpNbA:PJ Masks Full Episodes
+#DESCRIPTION PJ Masks Full Episodes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=EY0WWNoS2xo:Talking Tom Shorts FULL Episodes
 #DESCRIPTION Talking Tom Shorts FULL Episodes
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=f4aDp7TpkdU:Genießen Sie Tayo fur 24 Stunden
-#DESCRIPTION Genießen Sie Tayo fur 24 Stunden
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=4VJi0LWa434:PJ Masks Full Episodes LIVE
-#DESCRIPTION PJ Masks Full Episodes LIVE
-#SERVICE 1:64:C8:0:0:0:0:0:0:0::_:::_BELGESEL_:::_
-#DESCRIPTION _:::_BELGESEL_:::_
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Devriye Aracı araba şehrinde 🚓 🚒
+#DESCRIPTION Devriye Aracı araba şehrinde 🚓 🚒
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=zcJMU7um-uk:Bizans Oyunları
+#DESCRIPTION Bizans Oyunları
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=GNxEEyOMce4:Sevimli Tehlikeli
+#DESCRIPTION Sevimli Tehlikeli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HEgwR2CKnPY:ÇAM YARMASI 2018
+#DESCRIPTION ÇAM YARMASI 2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=01bf4a7rEyQ:Abbas'ın Melekleri
+#DESCRIPTION Abbas'ın Melekleri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=sufusHNa5YA:TURKEY_DiscoveryHD SHOWCASE
 #DESCRIPTION TURKEY_DiscoveryHD SHOWCASE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=buKLfdao-P4:Stephen Hawking-Universe
