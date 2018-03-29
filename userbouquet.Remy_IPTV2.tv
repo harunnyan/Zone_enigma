@@ -27,6 +27,14 @@
 #DESCRIPTION SPORT 1 HD
 #SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:SPORT 2 HD
 #DESCRIPTION SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_1_high:Arena Sport1
+#DESCRIPTION Arena Sport1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_2_high:Arena Sport2
+#DESCRIPTION Arena Sport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_3_high:Arena Sport3
+#DESCRIPTION Arena Sport3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_4_high:Arena Sport4
+#DESCRIPTION Arena Sport4
 #SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//178.22.187.253%3a1935/streaming-tv/mp4%3amyStream3/playlist.m3u8:Automoto
 #DESCRIPTION Automoto
 #SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//186.33.227.200%3a1935/DXTV/DXTV.smil/stream.m3u8:DXTV
@@ -121,38 +129,42 @@
 #DESCRIPTION Todo Deporte TV
 #SERVICE 1:64:C7:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEBSOCKET_LIVE_UPDATE_
 #DESCRIPTION :::::::::::::::::::::::_WEBSOCKET_LIVE_UPDATE_
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=i_C1EH6Rxxk:Kanal D HD
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=i_C1EH6Rxxk:Kanal D HD
 #DESCRIPTION Kanal D HD
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
 #DESCRIPTION Star TV HD
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=-lReU3_c79s:Tivibu Spor HD
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=KHZrh-ABTTo:Tivibu Spor HD
 #DESCRIPTION Tivibu Spor HD
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT
 #DESCRIPTION BloombergHT
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=aOSL257Ks7U:CNN TÜRK
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=pFbWliNsk2M:CNN TÜRK
 #DESCRIPTION CNN TÜRK
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iYY4F4EbWLc:Habertürk TV
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iYY4F4EbWLc:Habertürk TV
 #DESCRIPTION Habertürk TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=W-y4JcDTJiQ:NTV HD
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=W-y4JcDTJiQ:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Zz2qohZZc5o:NTV Spor HD
 #DESCRIPTION NTV Spor HD
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=QcWKIwojhEk:TGRT Haber
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=J-NTgUBcp0Q:TGRT Haber
 #DESCRIPTION TGRT Haber
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=XsUo2VtCwNQ:Halk TV
-#DESCRIPTION Halk TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c3MBUn5qVgU:Lâlegül TV
-#DESCRIPTION Lâlegül TV
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=sYDtNKiUsqg:24 TV
+#DESCRIPTION 24 TV
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=uzKq_AxCEqU:TRT HABER HD
+#DESCRIPTION TRT HABER HD
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=kZd6W6avS1c:FM TV
+#DESCRIPTION FM TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NdgdjsJcvtA:Semerkand TV
 #DESCRIPTION Semerkand TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L3rgPwpX5Tk:PERPA TV
-#DESCRIPTION PERPA TV
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c6h18FqpWiw:ANN7 TV
 #DESCRIPTION ANN7 TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=y5hjoAZGf_E:Thailand | Sweet Soul Cafe Soi Green Mango
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=vPbQcM4k1Ys:Venice Italy
+#DESCRIPTION Venice Italy
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=y5hjoAZGf_E:Thailand | Sweet Soul Cafe Soi Green Mango
 #DESCRIPTION Thailand | Sweet Soul Cafe Soi Green Mango
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dK9pnpuwDWA:Thailand | Bondi Hotel
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dK9pnpuwDWA:Thailand | Bondi Hotel
 #DESCRIPTION Thailand | Bondi Hotel
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lMyWidjcwns:Thailand | Sweet Soul Cafe Soi Green Mango
+#DESCRIPTION Thailand | Sweet Soul Cafe Soi Green Mango
 #SERVICE 1:64:C8:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler
@@ -187,7 +199,7 @@
 #DESCRIPTION Kuantum Mekaniği
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=LQcnazP_Qkk:Yeralti Şehirleri Anadolu
 #DESCRIPTION Yeralti Şehirleri Anadolu
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=hfq1qMM5zrk:Cat Music Live TV / Non Stop Music 24/7 🎧
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=g-6C9LaGIJU:Cat Music Live TV / Non Stop Music 24/7 🎧
 #DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oUzEopPJBLg:Waterfall & Jungle Sounds
 #DESCRIPTION Waterfall & Jungle Sounds
