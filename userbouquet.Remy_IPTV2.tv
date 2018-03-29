@@ -163,8 +163,8 @@
 #DESCRIPTION Thailand | Sweet Soul Cafe Soi Green Mango
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dK9pnpuwDWA:Thailand | Bondi Hotel
 #DESCRIPTION Thailand | Bondi Hotel
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lMyWidjcwns:Thailand | Sweet Soul Cafe Soi Green Mango
-#DESCRIPTION Thailand | Sweet Soul Cafe Soi Green Mango
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lMyWidjcwns:Thailand | Green Mango
+#DESCRIPTION Thailand | Green Mango
 #SERVICE 1:64:C8:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler
