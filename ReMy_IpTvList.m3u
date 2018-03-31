@@ -259,6 +259,40 @@ http://livetr.teleromagna.it/sport/live/playlist.m3u8
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1,Uni Sports
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1,(TR) beIN Sports 1 HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/452.ts
+#EXTINF:-1,(TR) beIN Sports 2 HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/470.ts
+#EXTINF:-1,(TR) beIN Sports 3 HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/478.ts
+#EXTINF:-1,(TR) beIN Sports 4 HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1937.ts
+#EXTINF:-1,(TR) beIN Sports Haber SD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2478.ts
+#EXTINF:-1,(TR) beIN Sports Haber UHD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2477.ts
+#EXTINF:-1,(TR) TivibuSpor 1
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/484.ts
+#EXTINF:-1,(TR) TivibuSpor 2
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/485.ts
+#EXTINF:-1,(TR) TivibuSpor 3
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2197.ts
+#EXTINF:-1,(TR) TivibuSpor 4
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2198.ts
+#EXTINF:-1,(TR) ATV HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/383.ts
+#EXTINF:-1,(TR) A2
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1440.ts
+#EXTINF:-1,(TR) A Spor HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/454.ts
+#EXTINF:-1,(TR) TV 8 HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/462.ts
+#EXTINF:-1,(TR) TV 8.5 HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1416.ts
+#EXTINF:-1,(TR) S Spor HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/477.ts
+#EXTINF:-1,(TR) Kanal D HD
+http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1380.ts
 #EXTINF:-1,Sportklub HD
 http://156.67.95.21:8000/play/a014/index.m3u8
 #EXTINF:-1,BBC HD
