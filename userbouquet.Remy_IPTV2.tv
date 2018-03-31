@@ -161,6 +161,40 @@
 #DESCRIPTION Huste.tv FORTUNA LIGA3
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/huste/709d48e0-ad88-42b0-a71e-60ec3acdc225/709d48e0-ad88-42b0-a71e-60ec3acdc225/709d48e0-ad88-42b0-a71e-60ec3acdc225-540p/playlist.m3u8:Huste.tv FORTUNA LIGA4
 #DESCRIPTION Huste.tv FORTUNA LIGA4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/452.ts:(TR) beIN Sports 1 HD
+#DESCRIPTION (TR) beIN Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/470.ts:(TR) beIN Sports 2 HD
+#DESCRIPTION (TR) beIN Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/478.ts:(TR) beIN Sports 3 HD
+#DESCRIPTION (TR) beIN Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1937.ts:(TR) beIN Sports 4 HD
+#DESCRIPTION (TR) beIN Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2478.ts:(TR) beIN Sports Haber SD
+#DESCRIPTION (TR) beIN Sports Haber SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2477.ts:(TR) beIN Sports Haber UHD
+#DESCRIPTION (TR) beIN Sports Haber UHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/484.ts:(TR) TivibuSpor 1
+#DESCRIPTION (TR) TivibuSpor 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/485.ts:(TR) TivibuSpor 2
+#DESCRIPTION (TR) TivibuSpor 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2197.ts:(TR) TivibuSpor 3
+#DESCRIPTION (TR) TivibuSpor 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2198.ts:(TR) TivibuSpor 4
+#DESCRIPTION (TR) TivibuSpor 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/383.ts:(TR) ATV HD
+#DESCRIPTION (TR) ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1440.ts:(TR) A2
+#DESCRIPTION (TR) A2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/454.ts:(TR) A Spor HD
+#DESCRIPTION (TR) A Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/462.ts:(TR) TV 8 HD
+#DESCRIPTION (TR) TV 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1416.ts:(TR) TV 8.5 HD
+#DESCRIPTION (TR) TV 8.5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/477.ts:(TR) S Spor HD
+#DESCRIPTION (TR) S Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1380.ts:(TR) Kanal D HD
+#DESCRIPTION (TR) Kanal D HD
 #SERVICE 1:64:C5:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:Sky News
