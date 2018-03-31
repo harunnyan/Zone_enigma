@@ -259,6 +259,88 @@ http://livetr.teleromagna.it/sport/live/playlist.m3u8
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1,Uni Sports
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1,Sportklub HD
+http://156.67.95.21:8000/play/a014/index.m3u8
+#EXTINF:-1,BBC HD
+http://156.67.95.21:8000/play/a01c/index.m3u8
+#EXTINF:-1,TV PULS HD
+http://156.67.95.21:8000/play/a00z/index.m3u8
+#EXTINF:-1,EskaROCK TV
+http://156.67.95.21:8000/play/a00x/index.m3u8
+#EXTINF:-1,TVP SERIALE
+http://156.67.95.21:8000/play/a00r/index.m3u8
+#EXTINF:-1,Zoom TV
+http://156.67.95.21:8000/play/a00i/index.m3u8
+#EXTINF:-1,FilmBox Premium HD
+http://156.67.95.21:8000/play/a00v/index.m3u8
+#EXTINF:-1,BBC Earth HD
+http://156.67.95.21:8000/play/a01d/index.m3u8
+#EXTINF:-1,Stopklatka TV
+http://156.67.95.21:8000/play/a009/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://156.67.95.21:8000/play/a003/index.m3u8
+#EXTINF:-1,VOX MUSIC TV
+http://156.67.95.21:8000/play/a00n/index.m3u8
+#EXTINF:-1,TVP INFO HD
+http://156.67.95.21:8000/play/a006/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://156.67.95.21:8000/play/a01e/index.m3u8
+#EXTINF:-1,4Fun.TV
+http://156.67.95.21:8000/play/a00e/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://156.67.95.21:8000/play/a004/index.m3u8
+#EXTINF:-1,4Fun Gold Hits
+http://156.67.95.21:8000/play/a00f/index.m3u8
+#EXTINF:-1,CBS Action
+http://156.67.95.21:8000/play/a00a/index.m3u8
+#EXTINF:-1,FilmBox Extra
+http://156.67.95.21:8000/play/a011/index.m3u8
+#EXTINF:-1,Polsat Music HD
+http://156.67.95.21:8000/play/a00k/index.m3u8
+#EXTINF:-1,Kino TV
+http://156.67.95.21:8000/play/a00w/index.m3u8
+#EXTINF:-1,TV Republika
+http://156.67.95.21:8000/play/a00d/index.m3u8
+#EXTINF:-1,KINO POLSKA
+http://156.67.95.21:8000/play/a002/index.m3u8
+#EXTINF:-1,WP
+http://156.67.95.21:8000/play/a00p/index.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://156.67.95.21:8000/play/a00c/index.m3u8
+#EXTINF:-1,AXN SPIN HD
+http://156.67.95.21:8000/play/a00s/index.m3u8
+#EXTINF:-1,TVP Historia
+http://156.67.95.21:8000/play/a010/index.m3u8
+#EXTINF:-1,4Fun Dance
+http://156.67.95.21:8000/play/a00g/index.m3u8
+#EXTINF:-1,Epic Drama HD
+http://156.67.95.21:8000/play/a00h/index.m3u8
+#EXTINF:-1,TV6
+http://156.67.95.21:8000/play/a00j/index.m3u8
+#EXTINF:-1,Kino Polska Muzyka
+http://156.67.95.21:8000/play/a013/index.m3u8
+#EXTINF:-1,Metro
+http://156.67.95.21:8000/play/a00b/index.m3u8
+#EXTINF:-1,Discovery Life HD
+http://156.67.95.21:8000/play/a00m/index.m3u8
+#EXTINF:-1,TVP Sport HD
+http://156.67.95.21:8000/play/a015/index.m3u8
+#EXTINF:-1,FilmBox Action
+http://156.67.95.21:8000/play/a00y/index.m3u8
+#EXTINF:-1,TVP Kultura
+http://156.67.95.21:8000/play/a00o/index.m3u8
+#EXTINF:-1,Wellbeing
+http://156.67.95.21:8000/play/a008/index.m3u8
+#EXTINF:-1,TVP ABC
+http://156.67.95.21:8000/play/a00u/index.m3u8
+#EXTINF:-1,TVP HD
+http://156.67.95.21:8000/play/a005/index.m3u8
+#EXTINF:-1,HBO3 HD
+http://156.67.95.21:8000/play/a01f/index.m3u8
+#EXTINF:-1,CBS Reality
+http://156.67.95.21:8000/play/a00q/index.m3u8
+#EXTINF:-1,Discovery Historia
+http://156.67.95.21:8000/play/a016/index.m3u8
 #EXTINF:-1,****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:-1, Kidz/Animez
