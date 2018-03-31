@@ -161,6 +161,24 @@
 #DESCRIPTION Huste.tv FORTUNA LIGA3
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/huste/709d48e0-ad88-42b0-a71e-60ec3acdc225/709d48e0-ad88-42b0-a71e-60ec3acdc225/709d48e0-ad88-42b0-a71e-60ec3acdc225-540p/playlist.m3u8:Huste.tv FORTUNA LIGA4
 #DESCRIPTION Huste.tv FORTUNA LIGA4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch922?code=610116485444847:SKY Sport 1 UK
+#DESCRIPTION SKY Sport 1 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch937?code=610116485444847:Sky Sport 2 UK
+#DESCRIPTION Sky Sport 2 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch914?code=610116485444847:SKY Sport 3 UK
+#DESCRIPTION SKY Sport 3 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch915?code=610116485444847:SKY Sport 4 UK
+#DESCRIPTION SKY Sport 4 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch916?code=610116485444847:SKY Sport 5 UK
+#DESCRIPTION SKY Sport 5 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch931?code=610116485444847:Sport Mix UK
+#DESCRIPTION Sport Mix UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch1828?code=610116485444847:BT Sport 1
+#DESCRIPTION BT Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch1829?code=610116485444847:BT Sport 2
+#DESCRIPTION BT Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch1830?code=610116485444847:BT Sport Extra
+#DESCRIPTION BT Sport Extra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/452.ts:(TR) beIN Sports 1 HD
 #DESCRIPTION (TR) beIN Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/470.ts:(TR) beIN Sports 2 HD
