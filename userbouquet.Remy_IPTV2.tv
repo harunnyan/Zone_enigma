@@ -1779,6 +1779,8 @@
 #DESCRIPTION ANN7 TV
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=g-6C9LaGIJU:Cat Music Live TV / Non Stop Music 24/7 🎧
 #DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=37vVcVypIPM:Best Shuffle Dance Music 2018
+#DESCRIPTION Best Shuffle Dance Music 2018
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=bQQK0iR5iBU:Real World Air Traffic-Information Zulu
 #DESCRIPTION Real World Air Traffic-Information Zulu
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oUzEopPJBLg:Waterfall & Jungle Sounds
