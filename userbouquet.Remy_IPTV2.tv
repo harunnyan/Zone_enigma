@@ -153,14 +153,6 @@
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deporte TV
 #DESCRIPTION Todo Deporte TV
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/huste/c3c57da1-120e-44c0-a563-f65087492e9b/c3c57da1-120e-44c0-a563-f65087492e9b/c3c57da1-120e-44c0-a563-f65087492e9b-540p/playlist.m3u8:Huste.tv FORTUNA LIGA1
-#DESCRIPTION Huste.tv FORTUNA LIGA1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/huste/cafcb80e-c812-403e-aa06-3c0bc57ca8c6/cafcb80e-c812-403e-aa06-3c0bc57ca8c6/cafcb80e-c812-403e-aa06-3c0bc57ca8c6-540p/playlist.m3u8:Huste.tv FORTUNA LIGA2
-#DESCRIPTION Huste.tv FORTUNA LIGA2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/huste/af9dd12b-6a35-48f1-8bce-427e07c5de51/af9dd12b-6a35-48f1-8bce-427e07c5de51/af9dd12b-6a35-48f1-8bce-427e07c5de51-540p/playlist.m3u8:Huste.tv FORTUNA LIGA3
-#DESCRIPTION Huste.tv FORTUNA LIGA3
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/huste/709d48e0-ad88-42b0-a71e-60ec3acdc225/709d48e0-ad88-42b0-a71e-60ec3acdc225/709d48e0-ad88-42b0-a71e-60ec3acdc225-540p/playlist.m3u8:Huste.tv FORTUNA LIGA4
-#DESCRIPTION Huste.tv FORTUNA LIGA4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch922?code=610116485444847:SKY Sport 1 UK
 #DESCRIPTION SKY Sport 1 UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch937?code=610116485444847:Sky Sport 2 UK
@@ -179,40 +171,6 @@
 #DESCRIPTION BT Sport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch1830?code=610116485444847:BT Sport Extra
 #DESCRIPTION BT Sport Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/452.ts:(TR) beIN Sports 1 HD
-#DESCRIPTION (TR) beIN Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/470.ts:(TR) beIN Sports 2 HD
-#DESCRIPTION (TR) beIN Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/478.ts:(TR) beIN Sports 3 HD
-#DESCRIPTION (TR) beIN Sports 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1937.ts:(TR) beIN Sports 4 HD
-#DESCRIPTION (TR) beIN Sports 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2478.ts:(TR) beIN Sports Haber SD
-#DESCRIPTION (TR) beIN Sports Haber SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2477.ts:(TR) beIN Sports Haber UHD
-#DESCRIPTION (TR) beIN Sports Haber UHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/484.ts:(TR) TivibuSpor 1
-#DESCRIPTION (TR) TivibuSpor 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/485.ts:(TR) TivibuSpor 2
-#DESCRIPTION (TR) TivibuSpor 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2197.ts:(TR) TivibuSpor 3
-#DESCRIPTION (TR) TivibuSpor 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/2198.ts:(TR) TivibuSpor 4
-#DESCRIPTION (TR) TivibuSpor 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/383.ts:(TR) ATV HD
-#DESCRIPTION (TR) ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1440.ts:(TR) A2
-#DESCRIPTION (TR) A2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/454.ts:(TR) A Spor HD
-#DESCRIPTION (TR) A Spor HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/462.ts:(TR) TV 8 HD
-#DESCRIPTION (TR) TV 8 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1416.ts:(TR) TV 8.5 HD
-#DESCRIPTION (TR) TV 8.5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/477.ts:(TR) S Spor HD
-#DESCRIPTION (TR) S Spor HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.nilsattv.com%3a8080/live/sdcdn/7Z2SVfUhNl/1380.ts:(TR) Kanal D HD
-#DESCRIPTION (TR) Kanal D HD
 #SERVICE 1:64:C5:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:Sky News
@@ -1491,6 +1449,424 @@
 #DESCRIPTION TRT Kurdi
 #SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//82.137.248.21%3a1935/Ugarit/UgaritLive/playlist.m3u8:UGARIT
 #DESCRIPTION UGARIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/195.ts:1+1
+#DESCRIPTION 1+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/196.ts:112
+#DESCRIPTION 112
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/192.ts:24 техно
+#DESCRIPTION 24 техно
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/191.ts:2х2
+#DESCRIPTION 2х2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/202.ts:3+
+#DESCRIPTION 3+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/190.ts:5 канал
+#DESCRIPTION 5 канал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/189.ts:A HBO
+#DESCRIPTION A HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/188.ts:A1
+#DESCRIPTION A1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/187.ts:A2
+#DESCRIPTION A2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/186.ts:Ani
+#DESCRIPTION Ani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/185.ts:Animal Planet
+#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/184.ts:BEST Films HD
+#DESCRIPTION BEST Films HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/183.ts:Cartoon Network
+#DESCRIPTION Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/181.ts:Da Vinc iLearning
+#DESCRIPTION Da Vinc iLearning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/180.ts:Discovery
+#DESCRIPTION Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/179.ts:Discovery Science
+#DESCRIPTION Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/178.ts:Disney
+#DESCRIPTION Disney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/177.ts:DTX
+#DESCRIPTION DTX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/176.ts:ENGLISH CLUB TV
+#DESCRIPTION ENGLISH CLUB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/175.ts:EU:Music
+#DESCRIPTION EU:Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/174.ts:Eurosport 1
+#DESCRIPTION Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/173.ts:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/171.ts:Fashion Word
+#DESCRIPTION Fashion Word
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/170.ts:Food Network
+#DESCRIPTION Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/203.ts:Fox life
+#DESCRIPTION Fox life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/169.ts:Glas
+#DESCRIPTION Glas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/168.ts:History
+#DESCRIPTION History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/167.ts:ICTV
+#DESCRIPTION ICTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/166.ts:ID Extra
+#DESCRIPTION ID Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/165.ts:K1
+#DESCRIPTION K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/164.ts:K2
+#DESCRIPTION K2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/163.ts:Lale
+#DESCRIPTION Lale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/162.ts:Lost HD
+#DESCRIPTION Lost HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/160.ts:M1
+#DESCRIPTION M1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/161.ts:M2
+#DESCRIPTION M2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/159.ts:Maxxi-TV
+#DESCRIPTION Maxxi-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/158.ts:MTV Dance
+#DESCRIPTION MTV Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/157.ts:MTV Hits
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/156.ts:MTV Rocks
+#DESCRIPTION MTV Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/155.ts:Music Box UA
+#DESCRIPTION Music Box UA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/206.ts:Nano
+#DESCRIPTION Nano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/154.ts:Nat Geo Wild
+#DESCRIPTION Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/153.ts:National Geograpfic
+#DESCRIPTION National Geograpfic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/152.ts:News Network
+#DESCRIPTION News Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/151.ts:News One
+#DESCRIPTION News One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/150.ts:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/149.ts:NickelodeonHD
+#DESCRIPTION NickelodeonHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/148.ts:Paramount Comedy
+#DESCRIPTION Paramount Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/146.ts:Q-tv
+#DESCRIPTION Q-tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/145.ts:4 канал
+#DESCRIPTION 4 канал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/144.ts:RTVI
+#DESCRIPTION RTVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/143.ts:Rutv
+#DESCRIPTION Rutv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/142.ts:Sky Sport 1 HD
+#DESCRIPTION Sky Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/140.ts:Sony
+#DESCRIPTION Sony
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/138.ts:Sony Turbo
+#DESCRIPTION Sony Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/137.ts:Sony Si-Fi
+#DESCRIPTION Sony Si-Fi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/136.ts:Sport 1
+#DESCRIPTION Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/135.ts:Sport 2
+#DESCRIPTION Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/134.ts:Star Cinema
+#DESCRIPTION Star Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/201.ts:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/133.ts:Travel Adventure
+#DESCRIPTION Travel Adventure
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/132.ts:Travel Channel
+#DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/131.ts:UA:Крим
+#DESCRIPTION UA:Крим
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/130.ts:Ua:Перший
+#DESCRIPTION Ua:Перший
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/127.ts:1 Classic
+#DESCRIPTION 1 Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/126.ts:Viasat Explorer
+#DESCRIPTION Viasat Explorer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/125.ts:Viasat History
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/124.ts:Viasat Nature
+#DESCRIPTION Viasat Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/123.ts:Viasat Sport
+#DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/122.ts:VIP Comedy HD
+#DESCRIPTION VIP Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/121.ts:VIP Megahit HD
+#DESCRIPTION VIP Megahit HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/120.ts:VIP Premiere HD
+#DESCRIPTION VIP Premiere HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/119.ts:Xsport
+#DESCRIPTION Xsport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/118.ts:XXI
+#DESCRIPTION XXI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/117.ts:Zee TV
+#DESCRIPTION Zee TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/115.ts:Zoom
+#DESCRIPTION Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/114.ts:ZOOПАРК
+#DESCRIPTION ZOOПАРК
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/113.ts:Авто 24
+#DESCRIPTION Авто 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/112.ts:Бигуди
+#DESCRIPTION Бигуди
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/110.ts:Дача
+#DESCRIPTION Дача
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/109.ts:Детский
+#DESCRIPTION Детский
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/108.ts:Детский Мир
+#DESCRIPTION Детский Мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/106.ts:Дождь
+#DESCRIPTION Дождь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/197.ts:Доктор
+#DESCRIPTION Доктор
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/105.ts:Дом Кино
+#DESCRIPTION Дом Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/104.ts:Домашний
+#DESCRIPTION Домашний
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/103.ts:Дотебе
+#DESCRIPTION Дотебе
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/102.ts:Драйв
+#DESCRIPTION Драйв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/101.ts:Еврокино
+#DESCRIPTION Еврокино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/100.ts:Евроновости
+#DESCRIPTION Евроновости
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/99.ts:Ентер-фильм
+#DESCRIPTION Ентер-фильм
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/98.ts:Еспрессотв
+#DESCRIPTION Еспрессотв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/97.ts:Звезда
+#DESCRIPTION Звезда
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/96.ts:Иллюзион+
+#DESCRIPTION Иллюзион+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/95.ts:Интер
+#DESCRIPTION Интер
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/94.ts:История
+#DESCRIPTION История
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/193.ts:Камин Релакс
+#DESCRIPTION Камин Релакс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/93.ts:Карусель
+#DESCRIPTION Карусель
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/92.ts:Квартал
+#DESCRIPTION Квартал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/91.ts:Кино ТВ
+#DESCRIPTION Кино ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/90.ts:Кинокомедия
+#DESCRIPTION Кинокомедия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/212.ts:КиноМеню HD
+#DESCRIPTION КиноМеню HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/89.ts:Киномикс
+#DESCRIPTION Киномикс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/88.ts:Киносерия
+#DESCRIPTION Киносерия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/87.ts:Кинохит
+#DESCRIPTION Кинохит
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/218.ts:Конный Мир
+#DESCRIPTION Конный Мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/86.ts:Кроха Тв
+#DESCRIPTION Кроха Тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/85.ts:Крт
+#DESCRIPTION Крт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/84.ts:ОЦЕ
+#DESCRIPTION ОЦЕ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/83.ts:Кхл
+#DESCRIPTION Кхл
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/81.ts:МаляткоТВ
+#DESCRIPTION МаляткоТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/80.ts:Матч!
+#DESCRIPTION Матч!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/78.ts:Матч! Арена
+#DESCRIPTION Матч! Арена
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/77.ts:Матч! Боец
+#DESCRIPTION Матч! Боец
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/76.ts:Матч! Игра
+#DESCRIPTION Матч! Игра
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/75.ts:Матч! Наш Спорт
+#DESCRIPTION Матч! Наш Спорт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/74.ts:Мега
+#DESCRIPTION Мега
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/72.ts:Мир
+#DESCRIPTION Мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/209.ts:Мир 24
+#DESCRIPTION Мир 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/71.ts:Мир сериала
+#DESCRIPTION Мир сериала
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/70.ts:Москва 24
+#DESCRIPTION Москва 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/204.ts:Моя Планета
+#DESCRIPTION Моя Планета
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/69.ts:Мужское кино
+#DESCRIPTION Мужское кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/68.ts:Мужской
+#DESCRIPTION Мужской
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/67.ts:Музыка Первого
+#DESCRIPTION Музыка Первого
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/66.ts:Мульт
+#DESCRIPTION Мульт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/205.ts:Мульт и Музыка
+#DESCRIPTION Мульт и Музыка
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/65.ts:Мультимания
+#DESCRIPTION Мультимания
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/62.ts:Наука
+#DESCRIPTION Наука
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/61.ts:Наш Футбол
+#DESCRIPTION Наш Футбол
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/60.ts:Наше Любимое Кино
+#DESCRIPTION Наше Любимое Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/213.ts:Неизвестная Планета
+#DESCRIPTION Неизвестная Планета
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/59.ts:Новый канал
+#DESCRIPTION Новый канал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/64.ts:НСТ
+#DESCRIPTION НСТ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/58.ts:Нтв
+#DESCRIPTION Нтв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/57.ts:Нтн
+#DESCRIPTION Нтн
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/55.ts:Оружие
+#DESCRIPTION Оружие
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/54.ts:Охота и рыбалка
+#DESCRIPTION Охота и рыбалка
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/53.ts:Первый
+#DESCRIPTION Первый
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/52.ts:Первый Автомобильный
+#DESCRIPTION Первый Автомобильный
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/51.ts:Первый Балтийский
+#DESCRIPTION Первый Балтийский
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/49.ts:Пиксель
+#DESCRIPTION Пиксель
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/48.ts:ПлюсПлюс
+#DESCRIPTION ПлюсПлюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/200.ts:Поехали!
+#DESCRIPTION Поехали!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/47.ts:ПравдаТут
+#DESCRIPTION ПравдаТут
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/215.ts:Прямий
+#DESCRIPTION Прямий
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/46.ts:Пятница
+#DESCRIPTION Пятница
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/45.ts:Пятый канал
+#DESCRIPTION Пятый канал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/43.ts:Радио шансон
+#DESCRIPTION Радио шансон
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/42.ts:Рен ТВ
+#DESCRIPTION Рен ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/41.ts:Ретро
+#DESCRIPTION Ретро
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/40.ts:Россия 1
+#DESCRIPTION Россия 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/39.ts:Россия К
+#DESCRIPTION Россия К
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/216.ts:Россия Ртр
+#DESCRIPTION Россия Ртр
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/38.ts:Россия24
+#DESCRIPTION Россия24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/37.ts:Русский Бестселлер
+#DESCRIPTION Русский Бестселлер
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/36.ts:Русский Детектив
+#DESCRIPTION Русский Детектив
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/35.ts:Русский Иллюзион
+#DESCRIPTION Русский Иллюзион
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/34.ts:Русский Роман
+#DESCRIPTION Русский Роман
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/33.ts:Русский Экстрим
+#DESCRIPTION Русский Экстрим
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/217.ts:Рыжий
+#DESCRIPTION Рыжий
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/31.ts:Солнце
+#DESCRIPTION Солнце
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/30.ts:Союз
+#DESCRIPTION Союз
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/29.ts:Спас
+#DESCRIPTION Спас
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/32.ts:СССР Кино
+#DESCRIPTION СССР Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/28.ts:Стб
+#DESCRIPTION Стб
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/27.ts:Страх HD
+#DESCRIPTION Страх HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/26.ts:Стс
+#DESCRIPTION Стс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/22.ts:Тв 3
+#DESCRIPTION Тв 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/21.ts:Твц
+#DESCRIPTION Твц
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/20.ts:Телеканал Футбол
+#DESCRIPTION Телеканал Футбол
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/19.ts:Телеканал24
+#DESCRIPTION Телеканал24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/18.ts:Телекафе
+#DESCRIPTION Телекафе
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/16.ts:Тет
+#DESCRIPTION Тет
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/15.ts:Тнт
+#DESCRIPTION Тнт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/14.ts:Тнт Музыка
+#DESCRIPTION Тнт Музыка
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/13.ts:Тнт4
+#DESCRIPTION Тнт4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/207.ts:Трейлер Тв
+#DESCRIPTION Трейлер Тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/12.ts:Трофей
+#DESCRIPTION Трофей
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/11.ts:Украина
+#DESCRIPTION Украина
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/10.ts:Униан
+#DESCRIPTION Униан
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/9.ts:Усадьба
+#DESCRIPTION Усадьба
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/8.ts:Фантастика HD
+#DESCRIPTION Фантастика HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/7.ts:Фауна
+#DESCRIPTION Фауна
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/6.ts:Феникс киноплюс
+#DESCRIPTION Феникс киноплюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/199.ts:Футбол 1 UA
+#DESCRIPTION Футбол 1 UA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/198.ts:Футбол 2 UA
+#DESCRIPTION Футбол 2 UA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/4.ts:Че
+#DESCRIPTION Че
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/5.ts:ЧП.info
+#DESCRIPTION ЧП.info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/3.ts:Шансон-ТВ
+#DESCRIPTION Шансон-ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/1.ts:Ю
+#DESCRIPTION Ю
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/283.ts:CBS Reality
+#DESCRIPTION CBS Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/246.ts:Jasmin +18
+#DESCRIPTION Jasmin +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/307.ts:Kabel 1
+#DESCRIPTION Kabel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/284.ts:Ocean
+#DESCRIPTION Ocean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/260.ts:Известия
+#DESCRIPTION Известия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/255.ts:Карапуз ТВ
+#DESCRIPTION Карапуз ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/287.ts:Квн
+#DESCRIPTION Квн
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/263.ts:Кинозал HD
+#DESCRIPTION Кинозал HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/256.ts:Классика Кино
+#DESCRIPTION Классика Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/286.ts:Еда
+#DESCRIPTION Еда
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/288.ts:Кухня тв
+#DESCRIPTION Кухня тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/264.ts:Любимый HD
+#DESCRIPTION Любимый HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/262.ts:Олимпийское тв HD
+#DESCRIPTION Олимпийское тв HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/247.ts:Первый Музыкальный HD
+#DESCRIPTION Первый Музыкальный HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/295.ts:Релакс
+#DESCRIPTION Релакс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/270.ts:Супер
+#DESCRIPTION Супер
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/265.ts:Телепутешествие
+#DESCRIPTION Телепутешествие
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/testiptv/dfjklgdfklag;er;jentgjkernfjklndejkawe/268.ts:Эгоист [+18]
+#DESCRIPTION Эгоист [+18]
 #SERVICE 1:64:C8:0:0:0:0:0:0:0::*** N1 ***
 #DESCRIPTION *** N1 ***
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1srb?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 SRB

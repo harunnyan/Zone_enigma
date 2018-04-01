@@ -447,6 +447,30 @@
 #DESCRIPTION ZIRAAT TV
 #SERVICE 1:64:98:0:0:0:0:0:0:0::FILM_A-SALON-VOD
 #DESCRIPTION FILM_A-SALON-VOD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8:Hellraiser: Judgment (2018)
+#DESCRIPTION Hellraiser: Judgment (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Downsizing.2017.m3u8:Downsizing (2017)
+#DESCRIPTION Downsizing (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Geostorm.2017HDRip.m3u8:Geostorm (2017)
+#DESCRIPTION Geostorm (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/IT.2017.EBRip.m3u8:It (2017)
+#DESCRIPTION It (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Justice.League.2017_hd.m3u8:Justice League (2017)
+#DESCRIPTION Justice League (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8:Justice League Dark (2017)
+#DESCRIPTION Justice League Dark (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/The.Shape.of.Water.2017.m3u8:The Shape of Water (2017)
+#DESCRIPTION The Shape of Water (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8:Thor: Ragnarok (2017)
+#DESCRIPTION Thor: Ragnarok (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/the.cloverfield.paradox.2018.m3u8:The Cloverfield Paradox (2018)
+#DESCRIPTION The Cloverfield Paradox (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Coco.2017.DVDScr_720p.m3u8:Coco (2017)
+#DESCRIPTION Coco (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Darkest.Hour.2017.WEB-DL.m3u8:Darkest Hour (2017)
+#DESCRIPTION Darkest Hour (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/The_Founder_2016_360p.m3u8:The Founder (2016)
+#DESCRIPTION The Founder (2016)
 #SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/11215.mp4:Night of Something Strange (2016)
 #DESCRIPTION Night of Something Strange (2016)
 #SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/11198.mp4:T2 Trainspotting (2017)
@@ -803,6 +827,336 @@
 #DESCRIPTION Warcraft (2016) 720p WEB-DL_AVADL
 #SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv:Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv
 #DESCRIPTION Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/154.mp4:Zootropolis PT
+#DESCRIPTION Zootropolis PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/173.mp4:Whiskey Tango Foxtrot
+#DESCRIPTION Whiskey Tango Foxtrot
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/172.mp4:Viram se Novamente Gregos Para Casar
+#DESCRIPTION Viram se Novamente Gregos Para Casar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/152.mkv:The Young Messiah
+#DESCRIPTION The Young Messiah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/151.mp4:The Offering
+#DESCRIPTION The Offering
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/170.mp4:The Duel
+#DESCRIPTION The Duel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/150.mp4:The Do-Over
+#DESCRIPTION The Do-Over
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/171.mp4:The Confirmation
+#DESCRIPTION The Confirmation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/149.mp4:The Brothers Grimsby
+#DESCRIPTION The Brothers Grimsby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/147.mp4:Sponge Bob Esponja Fora De Agua
+#DESCRIPTION Sponge Bob Esponja Fora De Agua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/169.mp4:O Nosso Milagre
+#DESCRIPTION O Nosso Milagre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/168.mp4:O Escaravelho do Diabo
+#DESCRIPTION O Escaravelho do Diabo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/167.mp4:Never Back Down No Surrender
+#DESCRIPTION Never Back Down No Surrender
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/146.mp4:Minimos
+#DESCRIPTION Minimos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/166.mp4:Marauders
+#DESCRIPTION Marauders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/145.mp4:Manhattan Night
+#DESCRIPTION Manhattan Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/176.mp4:Kung Fu Panda 3 PT
+#DESCRIPTION Kung Fu Panda 3 PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/144.mp4:Kiddo O Super Camiao
+#DESCRIPTION Kiddo O Super Camiao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/143.mp4:Home
+#DESCRIPTION Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/142.mp4:Hardcore Henry
+#DESCRIPTION Hardcore Henry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/164.mp4:Girl in Woods
+#DESCRIPTION Girl in Woods
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/153.mp4:Frozen Reino Gelo
+#DESCRIPTION Frozen Reino Gelo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/163.mp4:Emmas Chance
+#DESCRIPTION Emmas Chance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/141.mp4:Electra Woman and Dyna Girl
+#DESCRIPTION Electra Woman and Dyna Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/140.mp4:Eddie The Eagle
+#DESCRIPTION Eddie The Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/162.mp4:Demolicao
+#DESCRIPTION Demolicao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/161.mp4:Deadly Intent
+#DESCRIPTION Deadly Intent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/160.mp4:Dead Rising Endgame
+#DESCRIPTION Dead Rising Endgame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/139.mp4:Dads Army
+#DESCRIPTION Dads Army
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/159.mp4:Da Serie Divergente Convergente
+#DESCRIPTION Da Serie Divergente Convergente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/138.mp4:Criminoso
+#DESCRIPTION Criminoso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/137.mp4:Code of Honor
+#DESCRIPTION Code of Honor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/158.mp4:Cell Chamada Para a Morte
+#DESCRIPTION Cell Chamada Para a Morte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/175.mp4:Brahman Naman
+#DESCRIPTION Brahman Naman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/157.mp4:Before I Wake
+#DESCRIPTION Before I Wake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/156.mp4:Batman v Super Homem O Despertar da Justica
+#DESCRIPTION Batman v Super Homem O Despertar da Justica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/174.mp4:Barbershop The Next
+#DESCRIPTION Barbershop The Next
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/136.mp4:Avioes Equipa de Resgate PT
+#DESCRIPTION Avioes Equipa de Resgate PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/155.mp4:Alice do Outro Lado do Espelho
+#DESCRIPTION Alice do Outro Lado do Espelho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/135.mp4:Abelha Maia PT
+#DESCRIPTION Abelha Maia PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/133.mp4:7 Anao O Pequeno Heroi
+#DESCRIPTION 7 Anao O Pequeno Heroi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/134.mp4:13 Horas Os Soldados Secretos de Benghazi
+#DESCRIPTION 13 Horas Os Soldados Secretos de Benghazi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/live/painel/H94uP9vwlG/95.ts:##########>>>>>>MAIO 2016<<<<<<<<###############
+#DESCRIPTION ##########>>>>>>MAIO 2016<<<<<<<<###############
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/127.mp4:Zootopia
+#DESCRIPTION Zootopia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/126.mp4:Zoolander 2
+#DESCRIPTION Zoolander 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/119.mp4:Uma Escolha Por Amor
+#DESCRIPTION Uma Escolha Por Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/125.mp4:Triple 9
+#DESCRIPTION Triple 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/124.mp4:The Veil
+#DESCRIPTION The Veil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/130.mkv:The Trust
+#DESCRIPTION The Trust
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/120.mp4:The Dead Room
+#DESCRIPTION The Dead Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/118.mp4:The Boy - Segue as Regras
+#DESCRIPTION The Boy - Segue as Regras
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/117.mp4:Tevar
+#DESCRIPTION Tevar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/132.mp4:Tempo Limite
+#DESCRIPTION Tempo Limite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/116.mp4:Stealing Cars
+#DESCRIPTION Stealing Cars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/115.mp4:Special Correspondents
+#DESCRIPTION Special Correspondents
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/114.mp4:Sniper: Special Ops
+#DESCRIPTION Sniper: Special Ops
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/113.mp4:Sacrifice
+#DESCRIPTION Sacrifice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/111.mp4:Reza Lenda
+#DESCRIPTION Reza Lenda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/112.mp4:Ressurreição
+#DESCRIPTION Ressurreição
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/109.mp4:Pee-wee's Big Holiday
+#DESCRIPTION Pee-wee's Big Holiday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/108.mp4:Outcast - O Último Templário
+#DESCRIPTION Outcast - O Último Templário
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/100.mp4:Os Deuses do Egipto
+#DESCRIPTION Os Deuses do Egipto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/122.mp4:O Caçador e a Rainha do Gelo
+#DESCRIPTION O Caçador e a Rainha do Gelo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/107.mp4:Nowhere Boys: The Book of Shadows
+#DESCRIPTION Nowhere Boys: The Book of Shadows
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/129.mp4:Norm Heroi do Artico PT
+#DESCRIPTION Norm Heroi do Artico PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/106.mp4:Mothers and Daughters
+#DESCRIPTION Mothers and Daughters
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/105.mp4:Misconduct
+#DESCRIPTION Misconduct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/104.mp4:Midnight Special
+#DESCRIPTION Midnight Special
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/102.mkv:Lego Scooby-Doo!: Haunted Hollywood
+#DESCRIPTION Lego Scooby-Doo!: Haunted Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/131.mp4:Leao da Estrela
+#DESCRIPTION Leao da Estrela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/101.mp4:Kindergarten Cop 2
+#DESCRIPTION Kindergarten Cop 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/121.mp4:Horas Decisivas
+#DESCRIPTION Horas Decisivas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/123.mp4:Factor de Risco
+#DESCRIPTION Factor de Risco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/110.mp4:Duplo Confronto
+#DESCRIPTION Duplo Confronto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/99.mp4:Devdas
+#DESCRIPTION Devdas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/98.mp4:Capitão América: Guerra Civil
+#DESCRIPTION Capitão América: Guerra Civil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/97.mp4:Brothers
+#DESCRIPTION Brothers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/128.mp4:Boog e Elliot Aventura Na Floresta [PT/PT]
+#DESCRIPTION Boog e Elliot Aventura Na Floresta [PT/PT]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/103.mp4:Assalto a Londres
+#DESCRIPTION Assalto a Londres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/96.mkv:António Raminhos Apresenta As Marias
+#DESCRIPTION António Raminhos Apresenta As Marias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/77.mp4:10 Cloverfield Lane
+#DESCRIPTION 10 Cloverfield Lane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/83.mp4:Um Avô Muito à Frente
+#DESCRIPTION Um Avô Muito à Frente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/76.mp4:The Witch
+#DESCRIPTION The Witch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/91.mp4:Salve, César!
+#DESCRIPTION Salve, César!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/75.mkv:Pandemic
+#DESCRIPTION Pandemic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/94.mp4:Lake Eerie
+#DESCRIPTION Lake Eerie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/88.mp4:Killing Jesus
+#DESCRIPTION Killing Jesus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/87.mp4:Jarhead 3: The Siege
+#DESCRIPTION Jarhead 3: The Siege
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/80.mp4:I Am Wrath
+#DESCRIPTION I Am Wrath
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/74.mp4:Hush
+#DESCRIPTION Hush
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/92.mp4:Holidays
+#DESCRIPTION Holidays
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/84.mp4:Emelie
+#DESCRIPTION Emelie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/90.mp4:Diablo
+#DESCRIPTION Diablo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/82.mp4:Decay
+#DESCRIPTION Decay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/79.mp4:Deadpool
+#DESCRIPTION Deadpool
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/93.mp4:Como Ser Solteira
+#DESCRIPTION Como Ser Solteira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/81.mp4:Cabin Fever
+#DESCRIPTION Cabin Fever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/89.mp4:Barbie e As Agentes Secretas PT-PT
+#DESCRIPTION Barbie e As Agentes Secretas PT-PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/85.mp4:As Cinquenta Sombras de Black
+#DESCRIPTION As Cinquenta Sombras de Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/86.mp4:Arranha Céus
+#DESCRIPTION Arranha Céus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/78.mp4:Amor em Roma
+#DESCRIPTION Amor em Roma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/live/painel/H94uP9vwlG/73.ts:##########>>>>>>ABR 2016<<<<<<<<###############
+#DESCRIPTION ##########>>>>>>ABR 2016<<<<<<<<###############
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/61.mp4:Umrao Jaan
+#DESCRIPTION Umrao Jaan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/64.mp4:The Hoarder
+#DESCRIPTION The Hoarder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/69.mp4:The Girl in the Photographs
+#DESCRIPTION The Girl in the Photographs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/51.mp4:Star Wars: O Despertar da Força
+#DESCRIPTION Star Wars: O Despertar da Força
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/50.mp4:Snoopy e Charlie Brown: Peanuts PT
+#DESCRIPTION Snoopy e Charlie Brown: Peanuts PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/49.mp4:Remember
+#DESCRIPTION Remember
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/68.mp4:Ramaiya Vastavaiya
+#DESCRIPTION Ramaiya Vastavaiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/71.mp4:Polícias em Grandes Apuros
+#DESCRIPTION Polícias em Grandes Apuros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/48.mp4:Orgulho e Preconceito e Guerra
+#DESCRIPTION Orgulho e Preconceito e Guerra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/52.mp4:O Principezinho
+#DESCRIPTION O Principezinho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/67.mp4:Muito a Frente Pt
+#DESCRIPTION Muito a Frente Pt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/47.mp4:Kung Fu Panda 3
+#DESCRIPTION Kung Fu Panda 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/65.mp4:Jazbaa
+#DESCRIPTION Jazbaa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/63.mp4:James White
+#DESCRIPTION James White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/46.mp4:ip Man 3
+#DESCRIPTION ip Man 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/56.mp4:Heropanti
+#DESCRIPTION Heropanti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/54.mp4:Get a Job
+#DESCRIPTION Get a Job
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/45.mp4:Fourth Man Out
+#DESCRIPTION Fourth Man Out
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/62.mp4:Ek Tha Tiger
+#DESCRIPTION Ek Tha Tiger
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/55.mp4:Curse of the Witching Tree
+#DESCRIPTION Curse of the Witching Tree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/53.mp4:Bem vindo ao Afeganistão
+#DESCRIPTION Bem vindo ao Afeganistão
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/59.mp4:As Armas de Jane
+#DESCRIPTION As Armas de Jane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/44.mp4:Alvin e os Esquilos: A Grande Aventura PT
+#DESCRIPTION Alvin e os Esquilos: A Grande Aventura PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/43.mp4:A Viagem de Arlo - PT
+#DESCRIPTION A Viagem de Arlo - PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/70.mkv:A Guarda do Leao o Regresso do Rugido PT
+#DESCRIPTION A Guarda do Leao o Regresso do Rugido PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/42.mp4:A 5 Vaga
+#DESCRIPTION A 5 Vaga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/live/painel/H94uP9vwlG/72.ts:#########>>>>>>>>>MAR2016<<<<<<<<<<<<#######
+#DESCRIPTION #########>>>>>>>>>MAR2016<<<<<<<<<<<<#######
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/29.mp4:The Overnight
+#DESCRIPTION The Overnight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/26.mp4:The Lobster
+#DESCRIPTION The Lobster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/38.mp4:Só Podiam Ser Irmãs
+#DESCRIPTION Só Podiam Ser Irmãs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/39.mp4:Samurai Cop 2: Deadly Vengeance
+#DESCRIPTION Samurai Cop 2: Deadly Vengeance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/37.mp4:Point Break Caçadores de Emoções
+#DESCRIPTION Point Break Caçadores de Emoções
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/36.mp4:Pai Há Só Um!
+#DESCRIPTION Pai Há Só Um!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/41.mp4:Junto ao Mar
+#DESCRIPTION Junto ao Mar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/35.mp4:Jogos da Fome : A Revolta 2
+#DESCRIPTION Jogos da Fome : A Revolta 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/28.mp4:Hotel Transylvania 2 PT
+#DESCRIPTION Hotel Transylvania 2 PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/27.mp4:Forsaken
+#DESCRIPTION Forsaken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/31.mp4:Alvin e os Esquilos: A Grande Aventura
+#DESCRIPTION Alvin e os Esquilos: A Grande Aventura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/33.mp4:A Senhora da Furgoneta
+#DESCRIPTION A Senhora da Furgoneta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/30.mp4:A Modista
+#DESCRIPTION A Modista
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/32.mp4:A Última Noitada
+#DESCRIPTION A Última Noitada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/40.mp4:90 Minutes in Heaven
+#DESCRIPTION 90 Minutes in Heaven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/21.mp4:Victor Frankenstein
+#DESCRIPTION Victor Frankenstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/13.mp4:Verdade
+#DESCRIPTION Verdade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/25.mp4:The Forest
+#DESCRIPTION The Forest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/20.mp4:The Boy 2015
+#DESCRIPTION The Boy 2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/3.mp4:Terminus
+#DESCRIPTION Terminus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/24.mp4:Standoff
+#DESCRIPTION Standoff
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/23.mp4:Southbound
+#DESCRIPTION Southbound
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/19.mp4:Sem Compromissos
+#DESCRIPTION Sem Compromissos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/22.mp4:Rainha do Deserto
+#DESCRIPTION Rainha do Deserto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/10.mp4:Pan: Viagem à Terra do Nunca  PT
+#DESCRIPTION Pan: Viagem à Terra do Nunca  PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/17.mp4:Os Coopers São o Máximo
+#DESCRIPTION Os Coopers São o Máximo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/4.mp4:Os 33
+#DESCRIPTION Os 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/12.mp4:O Segredo dos Seus Olhos
+#DESCRIPTION O Segredo dos Seus Olhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/18.mp4:Moonwalkers
+#DESCRIPTION Moonwalkers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/9.mp4:Monster High: Boo York, Boo York PT
+#DESCRIPTION Monster High: Boo York, Boo York PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/6.mp4:Jeruzalem
+#DESCRIPTION Jeruzalem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/16.mp4:Criminal Activities
+#DESCRIPTION Criminal Activities
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/5.mp4:Cartel Land
+#DESCRIPTION Cartel Land
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/14.mp4:American Hero
+#DESCRIPTION American Hero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/7.mp4:Adulterers
+#DESCRIPTION Adulterers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/11.mp4:45 Anos
+#DESCRIPTION 45 Anos
 #SERVICE 1:64:99:0:0:0:0:0:0:0::FILM_A-SALON-TITAN
 #DESCRIPTION FILM_A-SALON-TITAN
 #SERVICE 4097:0:1:2186:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2002.MP4:Maze Runner The Scorch Trials (2015)
