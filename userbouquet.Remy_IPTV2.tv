@@ -1423,8 +1423,6 @@
 #DESCRIPTION Altaghier
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8:BBC Arabic
 #DESCRIPTION BBC Arabic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.142.60%3a1935/tv10/xetero/playlist.m3u8?wowzasessionid=774911692:TV 10
-#DESCRIPTION TV 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaitv/smil%3adubaitv.smil/playlist.m3u8:DUBAI TV
 #DESCRIPTION DUBAI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer11.elementssys.com%3a8080/demo/Hadath/index.m3u8:Hadath Iraq TV
@@ -1445,6 +1443,8 @@
 #DESCRIPTION Sharqiya News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
 #DESCRIPTION TRT Kurdi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.142.60%3a1935/tv10/xetero/playlist.m3u8?wowzasessionid=774911692:TV 10
+#DESCRIPTION TV 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.137.248.21%3a1935/Ugarit/UgaritLive/playlist.m3u8:UGARIT
 #DESCRIPTION UGARIT
 #SERVICE 1:64:C8:0:0:0:0:0:0:0:::::_RUSSIAN_PREMIERE_:::
@@ -2199,12 +2199,6 @@
 #DESCRIPTION Tokyo Live Camera ch1
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ot3wAWjCVsM:SKT T1 Faker Live Stream LOL
 #DESCRIPTION SKT T1 Faker Live Stream LOL
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=y5hjoAZGf_E:Thailand | Sweet Soul Cafe Soi Green Mango
-#DESCRIPTION Thailand | Sweet Soul Cafe Soi Green Mango
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dK9pnpuwDWA:Thailand | Bondi Hotel
-#DESCRIPTION Thailand | Bondi Hotel
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lMyWidjcwns:Thailand | Green Mango
-#DESCRIPTION Thailand | Green Mango
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&amp;rebase=on:ABC News-Yahoo!
 #DESCRIPTION ABC News-Yahoo!
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=PHX3E3TQ_Zo:The National
