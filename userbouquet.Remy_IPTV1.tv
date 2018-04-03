@@ -447,242 +447,222 @@
 #DESCRIPTION ZIRAAT TV
 #SERVICE 1:64:98:0:0:0:0:0:0:0::FILM_A-SALON-VOD
 #DESCRIPTION FILM_A-SALON-VOD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8:Hellraiser: Judgment (2018)
-#DESCRIPTION Hellraiser: Judgment (2018)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Downsizing.2017.m3u8:Downsizing (2017)
-#DESCRIPTION Downsizing (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Geostorm.2017HDRip.m3u8:Geostorm (2017)
-#DESCRIPTION Geostorm (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/IT.2017.EBRip.m3u8:It (2017)
-#DESCRIPTION It (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Justice.League.2017_hd.m3u8:Justice League (2017)
-#DESCRIPTION Justice League (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8:Justice League Dark (2017)
-#DESCRIPTION Justice League Dark (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/The.Shape.of.Water.2017.m3u8:The Shape of Water (2017)
-#DESCRIPTION The Shape of Water (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8:Thor: Ragnarok (2017)
-#DESCRIPTION Thor: Ragnarok (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/the.cloverfield.paradox.2018.m3u8:The Cloverfield Paradox (2018)
-#DESCRIPTION The Cloverfield Paradox (2018)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Coco.2017.DVDScr_720p.m3u8:Coco (2017)
-#DESCRIPTION Coco (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Darkest.Hour.2017.WEB-DL.m3u8:Darkest Hour (2017)
-#DESCRIPTION Darkest Hour (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/The_Founder_2016_360p.m3u8:The Founder (2016)
-#DESCRIPTION The Founder (2016)
-#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/11215.mp4:Night of Something Strange (2016)
-#DESCRIPTION Night of Something Strange (2016)
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/11198.mp4:T2 Trainspotting (2017)
-#DESCRIPTION T2 Trainspotting (2017)
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10921.mp4:Totgeschwiegen (2017)
-#DESCRIPTION Totgeschwiegen (2017)
-#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10924.mp4:Transpecos (2016)
-#DESCRIPTION Transpecos (2016)
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/107.mp4:Angry Birds SA PRIJEVODOM (2016)
-#DESCRIPTION Angry Birds SA PRIJEVODOM (2016)
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Angry_Birds_2016/Angry_Birds_2016.avi:Angry Birds SINKRONIZIRANO (2016)
-#DESCRIPTION Angry Birds SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:125:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/02.mkv:Arthur u zemlji Minimoya SINKRONIZIRANO (2006)
-#DESCRIPTION Arthur u zemlji Minimoya SINKRONIZIRANO (2006)
-#SERVICE 4097:0:1:121:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/03.avi:Auti SINKRONIZIRANO (2006)
-#DESCRIPTION Auti SINKRONIZIRANO (2006)
-#SERVICE 4097:0:1:123:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/03.avi:Auti SINKRONIZIRANO (2006) Link 2
-#DESCRIPTION Auti SINKRONIZIRANO (2006) Link 2
-#SERVICE 4097:0:1:87:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Avanture_gospodina_Peabodya_i_Shermana/Avanture_gospodina_Peabodya_i_Shermana.avi:Avanture gospodina Peabodya i Shermana
-#DESCRIPTION Avanture gospodina Peabodya i Shermana
-#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/04.avi:Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
-#DESCRIPTION Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/04.avi:Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
-#DESCRIPTION Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Ballerina.i.Viktor.2016DVDRip.avi:Balerina i Viktor SINKRONIZIRANO (2016)
-#DESCRIPTION Balerina i Viktor SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/51.mp4:Batman: The Killing Joke SA PRIJEVODOM (2016)
-#DESCRIPTION Batman: The Killing Joke SA PRIJEVODOM (2016)
-#SERVICE 4097:0:1:99:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/ Bijeg_s_planeta_Zemlje/Bijeg_s_planeta_Zemlje.avi:Bijeg s planeta Zemlje SINKRONIZIRANO (2013)
-#DESCRIPTION Bijeg s planeta Zemlje SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/bfg.hr.bd4yu.avi:Blagi Fantasticni Gorostas SINKRONIZIRANO (2016)
-#DESCRIPTION Blagi Fantasticni Gorostas SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Brzi.Ozi.2016.HRSink.BDRip.XviD.avi:Brzi Ozzy SINKRONIZIRANO (2016)
-#DESCRIPTION Brzi Ozzy SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Carobna.kupka.Dr.Proktora.2015.HRSink.HDRip.XviD-B9@BD4YU.avi:Carobna kupka Doktora Proktora SINKRONIZIRANO (201
-#DESCRIPTION Carobna kupka Doktora Proktora SINKRONIZIRANO (201
-#SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Carolija.usnulog.Zmaja.2016.MULTISINK.DVDRip.avi:Carolija usnulog zmaja SINKRONIZIRANO (2016)
-#DESCRIPTION Carolija usnulog zmaja SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:97:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/CudoviSta_sa_sveucilista/Cudovista.sa.sveucilista.avi:Cudovista sa sveucilista SINKRONIZIRANO (2013)
-#DESCRIPTION Cudovista sa sveucilista SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/10.mkv:Despicable Me 2: Gru na supertajnom zadatku SINKRO
-#DESCRIPTION Despicable Me 2: Gru na supertajnom zadatku SINKRO
-#SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/10.mkv:Despicable Me 2: Gru na supertajnom zadatku SINKRO
-#DESCRIPTION Despicable Me 2: Gru na supertajnom zadatku SINKRO
-#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Dobri_dinosaur/Dobri.dinosaur.HRsink.avi:Dobri dinosaur SINKRONIZIRANO (2015)
-#DESCRIPTION Dobri dinosaur SINKRONIZIRANO (2015)
-#SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/BigHero/Big.Hero.6.avi:Ekipa za 6 SINKRONIZIRANO (2014)
-#DESCRIPTION Ekipa za 6 SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Izvrnuto_obrnuto/Izvrnuto.obrnuto.2015.avi:Izvrnuto obrnuto SINKRONIZIRANO (2015)
-#DESCRIPTION Izvrnuto obrnuto SINKRONIZIRANO (2015)
-#SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Kako_izdresirati_zmaja2/Kako.izdresirati.zmaja.2.mp4:Kako izdresirati zmaja 2 SINKRONIZIRANO (2014)
-#DESCRIPTION Kako izdresirati zmaja 2 SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/12.mkv:Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
-#DESCRIPTION Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
-#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/12.mkv:Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
-#DESCRIPTION Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
-#SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Khumba/Khumba.2013.avi:Khumba SINKRONIZIRANO (2013)
-#DESCRIPTION Khumba SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/83.mp4:Kung Fu Panda 3 SA PRIJEVODOM (2016)
-#DESCRIPTION Kung Fu Panda 3 SA PRIJEVODOM (2016)
-#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/74.mp4:Ledeno doba: The Great Egg-Scapade SA PRIJEVODOM (
-#DESCRIPTION Ledeno doba: The Great Egg-Scapade SA PRIJEVODOM (
-#SERVICE 4097:0:1:35:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/73.mp4:Ledeno doba: Veliki udar SA PRIJEVODOM (2016)
-#DESCRIPTION Ledeno doba: Veliki udar SA PRIJEVODOM (2016)
-#SERVICE 4097:0:1:136:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Lego.Batman.Film.2017.Hrsink..avi:Lego Batman (2017)
-#DESCRIPTION Lego Batman (2017)
-#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Lego.Batman.Film.2017.HRSink.BDRip.XviD.AC3.avi:Lego Batman Film SINKRONIZIRANO (2017)
-#DESCRIPTION Lego Batman Film SINKRONIZIRANO (2017)
-#SERVICE 4097:0:1:152:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10934.mp4:Lego Batman Movie (2017)
-#DESCRIPTION Lego Batman Movie (2017)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Beauty.and.the.Beast.2017.HRSink.BRRip.XviD.avi:Ljepotica i zvijer SINKRONIZIRANO (2017)
-#DESCRIPTION Ljepotica i zvijer SINKRONIZIRANO (2017)
-#SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Minions_Malci/Minions.2015.mp4:Malci SINKRONIZIRANO (2015)
-#DESCRIPTION Malci SINKRONIZIRANO (2015)
-#SERVICE 4097:0:1:310:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod1/Mali.Princ.2015.mkv:Mali Princ (2015)
-#DESCRIPTION Mali Princ (2015)
-#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Mali.Sef.2017.HRSink.720p.BRRip.x264.AC3.5.1-BD4YU.avi:Mali sef SINKRONIZIRANO (2017)
-#DESCRIPTION Mali sef SINKRONIZIRANO (2017)
-#SERVICE 4097:0:1:264:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Mali.Zmaj.Kokos.2014.mkv:Mali Zmaj Kokos (2014)
-#DESCRIPTION Mali Zmaj Kokos (2014)
-#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Mali_zmaj_Kokos/Mali.Zmaj.Kokos.2014.avi:Mali zmaj Kokos SINKRONIZIRANO (2014)
-#DESCRIPTION Mali zmaj Kokos SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:117:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Mumini_i_potjera_za_kometom/Mumini.i.potjera.za.kometom.avi:Mumini i potjera za kometom SINKRONIZIRANO (2010)
-#DESCRIPTION Mumini i potjera za kometom SINKRONIZIRANO (2010)
-#SERVICE 4097:0:1:119:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Oblacno_s_Cuftama/Oblacno.s.Cuftama.2.avi:Oblacno s cuftama SINKRONIZIRANO (2009)
-#DESCRIPTION Oblacno s cuftama SINKRONIZIRANO (2009)
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Oto.Istrazivac.Dubina.2017.HRSink.avi:Oto: Istrazivac dubina SINKRONIZIRANO (2017)
-#DESCRIPTION Oto: Istrazivac dubina SINKRONIZIRANO (2017)
-#SERVICE 4097:0:1:73:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Ovako_je_sve_pocelo/Ovako.je.sve.pocelo.2014.avi:Ovako je sve pocelo SINKRONIZIRANO (2014)
-#DESCRIPTION Ovako je sve pocelo SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Pernata.banda.HRsink.x264.WEBDL.avi:Pernata banda SINKRONIZIRANO (2016)
-#DESCRIPTION Pernata banda SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:242:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Pingvini.S.Madagaskara.2014.mkv:Pingvini S Madagaskara (2014)
-#DESCRIPTION Pingvini S Madagaskara (2014)
-#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Pingvini_s_Madagaskara_2014/Pingvini.s.Madagaskara.2014.avi:Pingvini s Madagaskara SINKRONIZIRANO (2014)
-#DESCRIPTION Pingvini s Madagaskara SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Sing.2016.HRSink.BDRip.XviD.B9@BD4YU.avi:Pjevajte s nama SINKRONIZIRANO (2016)
-#DESCRIPTION Pjevajte s nama SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:127:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/15.avi:Potraga za Nemom SINKRONIZIRANO (2003)
-#DESCRIPTION Potraga za Nemom SINKRONIZIRANO (2003)
-#SERVICE 4097:0:1:129:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/15.avi:Potraga za Nemom SINKRONIZIRANO (2003) Link 2
-#DESCRIPTION Potraga za Nemom SINKRONIZIRANO (2003) Link 2
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Bling.2016.HRSink.BDRiP.XviD-B9@BD4YU.avi:Prste(n) k sebi SINKRONIZIRANO (2016)
-#DESCRIPTION Prste(n) k sebi SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Robi_uzbuna_na_Orlovu_vrhu/Robi.Uzbuna.na.Orlovu.Vrhu.mp4:Robi: Uzbuna na orlovu vrhu SINKRONIZIRANO (2013)
-#DESCRIPTION Robi: Uzbuna na orlovu vrhu SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Robinson_Crusoe_2016/Robinson.Crusoe.2016.avi:Robinson Crusoe SINKRONIZIRANO (2016)
-#DESCRIPTION Robinson Crusoe SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Rode.2016.HRSink.BDRip.XviD.avi:Rode SINKRONIZIRANO (2016)
-#DESCRIPTION Rode SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Saba_Mali_ratnik_velikoga_srca/Saba.Mali.ratnik.velikoga.srca.avi:Saba: Mali ratnik velikog srca SINKRONIZIRANO (201
-#DESCRIPTION Saba: Mali ratnik velikog srca SINKRONIZIRANO (201
-#SERVICE 4097:0:1:109:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Setnja_sa_Dinosaurima_2013/Setnja.sa.Dinosaurima.2013.avi:Setnja s dinosaurima SINKRONIZIRANO (2013)
-#DESCRIPTION Setnja s dinosaurima SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:111:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/17.mp4:Setnja s dinosaurima SINKRONIZIRANO (2013) Link 2
-#DESCRIPTION Setnja s dinosaurima SINKRONIZIRANO (2013) Link 2
-#SERVICE 4097:0:1:113:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/17.mp4:Setnja s dinosaurima SINKRONIZIRANO (2013) Link 3
-#DESCRIPTION Setnja s dinosaurima SINKRONIZIRANO (2013) Link 3
-#SERVICE 4097:0:1:131:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/18.avi:Shrek SINKRONIZIRANO (2001)
-#DESCRIPTION Shrek SINKRONIZIRANO (2001)
-#SERVICE 4097:0:1:133:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/18.avi:Shrek SINKRONIZIRANO (2001) Link 2
-#DESCRIPTION Shrek SINKRONIZIRANO (2001) Link 2
-#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Snezna.Kraljica.3.HRSink.720p.WEB-DL.x264-BD4YU.avi:Snjezna kraljica 3: Vatra i led SINKRONIZIRANO (20
-#DESCRIPTION Snjezna kraljica 3: Vatra i led SINKRONIZIRANO (20
-#SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Snjezno.Kraljevstvo.2013.Hrsink.DVDRip.XviD.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013)
-#DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:105:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/20.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 2
-#DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 2
-#SERVICE 4097:0:1:107:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/20.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 3
-#DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 3
-#SERVICE 4097:0:1:91:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Spasavanje_Djeda_Mraza/Spasavanje.Djeda.Mraza.2013.avi:Spasavanje Djeda Mraza SINKRONIZIRANO (2013)
-#DESCRIPTION Spasavanje Djeda Mraza SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:89:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Strumpfovi2/Strumpfovi.2.avi:Strumpfovi 2 SINKRONIZIRANO (2013)
-#DESCRIPTION Strumpfovi 2 SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Strumpfovi.skriveno.selo.2017.HRSink.720p.BRRip.avi:Strumpfovi: Skriveno selo SINKRONIZIRANO (2017)
-#DESCRIPTION Strumpfovi: Skriveno selo SINKRONIZIRANO (2017)
-#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/130.mp4:Tajni zivot ljubimaca SA PRIJEVODOM (2016)
-#DESCRIPTION Tajni zivot ljubimaca SA PRIJEVODOM (2016)
-#SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/321.mp4:Tajni zivot ljubimaca SINKRONIZIRANO (2016)
-#DESCRIPTION Tajni zivot ljubimaca SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Tko.se.boji.Vuka.jos.2016.HRSink.BRRip.XviD.avi:Tko se boji vuka jos SINKRONIZIRANO (2016)
-#DESCRIPTION Tko se boji vuka jos SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:186:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Trolls.2016.mkv:Trolls (2016)
-#DESCRIPTION Trolls (2016)
-#SERVICE 4097:0:1:156:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Trolovi.2016.Hrsink.720p.BRRip.x264-lujo.mp4:Trolovi (2016)
-#DESCRIPTION Trolovi (2016)
-#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Trolovi_iz_kutije_2014/Trolovi.iz.kutije.2014.avi:Trolovi iz kutije SINKRONIZIRANO (2014)
-#DESCRIPTION Trolovi iz kutije SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Moana.2016.HRSink.BDRip.XviD.Cam.Audio.avi:Vaiana: Potraga za mitskim otokom SINKRONIZIRANO
-#DESCRIPTION Vaiana: Potraga za mitskim otokom SINKRONIZIRANO
-#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Vau.Vau.Zvijezda.2016.avi:Vau Vau zvijezda SINKRONIZIRANO (2016)
-#DESCRIPTION Vau Vau zvijezda SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Zootropolis_2016/Zootropolis.2016.mp4:Zootropola SINKRONIZIRANO (2016)
-#DESCRIPTION Zootropola SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Zvoncica_i_gusarska_vila_2014/Zvoncica.i.gusarska.vila.2014.avi:Zvoncica i gusarska vila SINKRONIZIRANO (2014)
-#DESCRIPTION Zvoncica i gusarska vila SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/77.mp4:10 Cloverfield Lane
+#DESCRIPTION 10 Cloverfield Lane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/134.mp4:13 Horas Os Soldados Secretos de Benghazi
+#DESCRIPTION 13 Horas Os Soldados Secretos de Benghazi
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/20th.Century.Women.2016.720p.BrRip.x265.HEVC_AVADL.BiZ.mkv:20th.Century.Women.2016.720p.BrRip.x265.HEVC_AVADL
 #DESCRIPTION 20th.Century.Women.2016.720p.BrRip.x265.HEVC_AVADL
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/3-x Return of Xander Cage 2017 HC 1080p HDRip AVADL.BiZ.mp4:3-x Return of Xander Cage 2017 HC 1080p HDRip
 #DESCRIPTION 3-x Return of Xander Cage 2017 HC 1080p HDRip
 #SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/3-x Return of Xander Cage 2017 HC 720p HDRip AVADL.BiZ.mp4:3-x Return of Xander Cage 2017 HC 720p HDRip
 #DESCRIPTION 3-x Return of Xander Cage 2017 HC 720p HDRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/11.mp4:45 Anos
+#DESCRIPTION 45 Anos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/133.mp4:7 Anao O Pequeno Heroi
+#DESCRIPTION 7 Anao O Pequeno Heroi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/40.mp4:90 Minutes in Heaven
+#DESCRIPTION 90 Minutes in Heaven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/42.mp4:A 5 Vaga
+#DESCRIPTION A 5 Vaga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/70.mkv:A Guarda do Leao o Regresso do Rugido PT
+#DESCRIPTION A Guarda do Leao o Regresso do Rugido PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/30.mp4:A Modista
+#DESCRIPTION A Modista
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/33.mp4:A Senhora da Furgoneta
+#DESCRIPTION A Senhora da Furgoneta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/43.mp4:A Viagem de Arlo - PT
+#DESCRIPTION A Viagem de Arlo - PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/32.mp4:A Última Noitada
+#DESCRIPTION A Última Noitada
 #SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/A.Monster.Calls.2016.720p.BrRip.x264.AVADL.BiZ.mkv:A.Monster.Calls.2016.720p.BrRip.x264.AVADL.BiZ.mkv
 #DESCRIPTION A.Monster.Calls.2016.720p.BrRip.x264.AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/135.mp4:Abelha Maia PT
+#DESCRIPTION Abelha Maia PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/7.mp4:Adulterers
+#DESCRIPTION Adulterers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/155.mp4:Alice do Outro Lado do Espelho
+#DESCRIPTION Alice do Outro Lado do Espelho
 #SERVICE 4097:0:1:191:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/250/Alien (1979) 720p BrRip_AVADL.BiZ.mp4:Alien (1979) 720p BrRip_AVADL.BiZ.mp4
 #DESCRIPTION Alien (1979) 720p BrRip_AVADL.BiZ.mp4
 #SERVICE 4097:0:1:193:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/250/Aliens (1986) 720p BrRip_AVADL.BiZ.mp4:Aliens (1986) 720p BrRip_AVADL.BiZ.mp4
 #DESCRIPTION Aliens (1986) 720p BrRip_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/31.mp4:Alvin e os Esquilos: A Grande Aventura
+#DESCRIPTION Alvin e os Esquilos: A Grande Aventura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/44.mp4:Alvin e os Esquilos: A Grande Aventura PT
+#DESCRIPTION Alvin e os Esquilos: A Grande Aventura PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/14.mp4:American Hero
+#DESCRIPTION American Hero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/78.mp4:Amor em Roma
+#DESCRIPTION Amor em Roma
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/107.mp4:Angry Birds SA PRIJEVODOM (2016)
+#DESCRIPTION Angry Birds SA PRIJEVODOM (2016)
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Angry_Birds_2016/Angry_Birds_2016.avi:Angry Birds SINKRONIZIRANO (2016)
+#DESCRIPTION Angry Birds SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/96.mkv:António Raminhos Apresenta As Marias
+#DESCRIPTION António Raminhos Apresenta As Marias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/86.mp4:Arranha Céus
+#DESCRIPTION Arranha Céus
 #SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Arrival (2016) DVDSCr x264_AVADL.BiZ.mkv:Arrival (2016) DVDSCr x264_AVADL.BiZ.mkv
 #DESCRIPTION Arrival (2016) DVDSCr x264_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:137:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Arrival (2016) HDCAM_AVADL.BiZ.mkv:Arrival (2016) HDCAM_AVADL.BiZ.mkv
 #DESCRIPTION Arrival (2016) HDCAM_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:125:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/02.mkv:Arthur u zemlji Minimoya SINKRONIZIRANO (2006)
+#DESCRIPTION Arthur u zemlji Minimoya SINKRONIZIRANO (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/59.mp4:As Armas de Jane
+#DESCRIPTION As Armas de Jane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/85.mp4:As Cinquenta Sombras de Black
+#DESCRIPTION As Cinquenta Sombras de Black
 #SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Ass4ssins.Cr3ed.2016.1080p.WEB-DL.x264.AVADL.BiZ.mp4:Ass4ssins.Cr3ed.2016.1080p.WEB-DL.x264.AVADL.BiZ.m
 #DESCRIPTION Ass4ssins.Cr3ed.2016.1080p.WEB-DL.x264.AVADL.BiZ.m
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/103.mp4:Assalto a Londres
+#DESCRIPTION Assalto a Londres
+#SERVICE 4097:0:1:121:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/03.avi:Auti SINKRONIZIRANO (2006)
+#DESCRIPTION Auti SINKRONIZIRANO (2006)
+#SERVICE 4097:0:1:123:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/03.avi:Auti SINKRONIZIRANO (2006) Link 2
+#DESCRIPTION Auti SINKRONIZIRANO (2006) Link 2
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Avanture_gospodina_Peabodya_i_Shermana/Avanture_gospodina_Peabodya_i_Shermana.avi:Avanture gospodina Peabodya i Shermana
+#DESCRIPTION Avanture gospodina Peabodya i Shermana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/136.mp4:Avioes Equipa de Resgate PT
+#DESCRIPTION Avioes Equipa de Resgate PT
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/04.avi:Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
+#DESCRIPTION Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/04.avi:Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
+#DESCRIPTION Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
 #SERVICE 4097:0:1:195:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/250/Back to the Future (1985) 720p BrRip_AVADL.BiZ.mkv:Back to the Future (1985) 720p
 #DESCRIPTION Back to the Future (1985) 720p
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Ballerina.i.Viktor.2016DVDRip.avi:Balerina i Viktor SINKRONIZIRANO (2016)
+#DESCRIPTION Balerina i Viktor SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/174.mp4:Barbershop The Next
+#DESCRIPTION Barbershop The Next
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/89.mp4:Barbie e As Agentes Secretas PT-PT
+#DESCRIPTION Barbie e As Agentes Secretas PT-PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/156.mp4:Batman v Super Homem O Despertar da Justica
+#DESCRIPTION Batman v Super Homem O Despertar da Justica
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/51.mp4:Batman: The Killing Joke SA PRIJEVODOM (2016)
+#DESCRIPTION Batman: The Killing Joke SA PRIJEVODOM (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/157.mp4:Before I Wake
+#DESCRIPTION Before I Wake
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/53.mp4:Bem vindo ao Afeganistão
+#DESCRIPTION Bem vindo ao Afeganistão
 #SERVICE 4097:0:1:139:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Ben-Hur (2016) 720p BrRip x265_AVADL.BiZ.mkv:Ben-Hur (2016) 720p BrRip x265_AVADL.BiZ.mkv
 #DESCRIPTION Ben-Hur (2016) 720p BrRip x265_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/ Bijeg_s_planeta_Zemlje/Bijeg_s_planeta_Zemlje.avi:Bijeg s planeta Zemlje SINKRONIZIRANO (2013)
+#DESCRIPTION Bijeg s planeta Zemlje SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/bfg.hr.bd4yu.avi:Blagi Fantasticni Gorostas SINKRONIZIRANO (2016)
+#DESCRIPTION Blagi Fantasticni Gorostas SINKRONIZIRANO (2016)
 #SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Boo.A.Madea.Halloween.2016.720p.BrRip.AVADL.BiZ.mkv:Boo.A.Madea.Halloween.2016.720p.BrRip.AVADL.BiZ.mk
 #DESCRIPTION Boo.A.Madea.Halloween.2016.720p.BrRip.AVADL.BiZ.mk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/128.mp4:Boog e Elliot Aventura Na Floresta [PT/PT]
+#DESCRIPTION Boog e Elliot Aventura Na Floresta [PT/PT]
 #SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Brace.for.Impact.2016.720p.HDTV.x265.AVADL.BiZ.mkv:Brace.for.Impact.2016.720p.HDTV.x265.AVADL.BiZ.mkv
 #DESCRIPTION Brace.for.Impact.2016.720p.HDTV.x265.AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/175.mp4:Brahman Naman
+#DESCRIPTION Brahman Naman
 #SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Breaking.Bad.The.Movie.2017.720p.WEB-DL.x265.HEVC.AVADL.BiZ.mkv:Breaking.Bad.The.Movie.2017.720p.WEB-DL.x265.HEVC.
 #DESCRIPTION Breaking.Bad.The.Movie.2017.720p.WEB-DL.x265.HEVC.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/97.mp4:Brothers
+#DESCRIPTION Brothers
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Brzi.Ozi.2016.HRSink.BDRip.XviD.avi:Brzi Ozzy SINKRONIZIRANO (2016)
+#DESCRIPTION Brzi Ozzy SINKRONIZIRANO (2016)
 #SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Burning Sands (2017) HDRip x264_AVADL.BiZ.mp4:Burning Sands% 2017 HDRip x264_AVADL.BiZ.mp4
 #DESCRIPTION Burning Sands% 2017 HDRip x264_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/81.mp4:Cabin Fever
+#DESCRIPTION Cabin Fever
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/98.mp4:Capitão América: Guerra Civil
+#DESCRIPTION Capitão América: Guerra Civil
 #SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Captain America 3 (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:Captain America 3 (2016) 1080p BrRip
 #DESCRIPTION Captain America 3 (2016) 1080p BrRip
 #SERVICE 4097:0:1:105:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Captain America 3 (2016) 720p BrRip x265_AVADL.BiZ.mkv:Captain America 3 (2016) 720p BrRip
 #DESCRIPTION Captain America 3 (2016) 720p BrRip
+#SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Carobna.kupka.Dr.Proktora.2015.HRSink.HDRip.XviD-B9@BD4YU.avi:Carobna kupka Doktora Proktora SINKRONIZIRANO (201
+#DESCRIPTION Carobna kupka Doktora Proktora SINKRONIZIRANO (201
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Carolija.usnulog.Zmaja.2016.MULTISINK.DVDRip.avi:Carolija usnulog zmaja SINKRONIZIRANO (2016)
+#DESCRIPTION Carolija usnulog zmaja SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/5.mp4:Cartel Land
+#DESCRIPTION Cartel Land
 #SERVICE 4097:0:1:107:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Cell (2016) 720p BrRip x265_AVADL.BiZ.mkv:Cell (2016) 720p BrRip x265_AVADL.BiZ.mkv
 #DESCRIPTION Cell (2016) 720p BrRip x265_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/158.mp4:Cell Chamada Para a Morte
+#DESCRIPTION Cell Chamada Para a Morte
 #SERVICE 4097:0:1:109:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Central Intelligence (2016) 720p WEB-DL x265_AVADL.BiZ.mkv:Central Intelligence (2016) 720p WEB-DL x265
 #DESCRIPTION Central Intelligence (2016) 720p WEB-DL x265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Coco.2017.DVDScr_720p.m3u8:Coco (2017)
+#DESCRIPTION Coco (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/137.mp4:Code of Honor
+#DESCRIPTION Code of Honor
 #SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Collateral.Beauty.2016.HDCAM.x264.AVADL.BiZ.mkv:Collateral.Beauty.2016.HDCAM.x264.AVADL.BiZ.mkv
 #DESCRIPTION Collateral.Beauty.2016.HDCAM.x264.AVADL.BiZ.mkv
 #SERVICE 4097:0:1:135:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/12/Collide (2016) HC HDRip_AVADL.BiZ.mkv:Collide (2016) HC HDRip_AVADL.BiZ.mkv
 #DESCRIPTION Collide (2016) HC HDRip_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Come.and.Find.Me.2016.720p.BrRip.x265.AVADL.BiZ.mkv:Come.and.Find.Me.2016.720p.BrRip.x265.AVADL.BiZ.mk
 #DESCRIPTION Come.and.Find.Me.2016.720p.BrRip.x265.AVADL.BiZ.mk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/93.mp4:Como Ser Solteira
+#DESCRIPTION Como Ser Solteira
 #SERVICE 4097:0:1:175:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/09/Criminal (2016) 720p BrRip x265_AVADL.BiZ.mkv:Criminal (2016) 720p BrRip x265_AVADL.BiZ.mkv
 #DESCRIPTION Criminal (2016) 720p BrRip x265_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/16.mp4:Criminal Activities
+#DESCRIPTION Criminal Activities
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/138.mp4:Criminoso
+#DESCRIPTION Criminoso
 #SERVICE 4097:0:1:133:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/12/Crossfire (2016) WEBRip_AVADL.BiZ.mp4:Crossfire (2016) WEBRip_AVADL.BiZ.mp4
 #DESCRIPTION Crossfire (2016) WEBRip_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:97:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/CudoviSta_sa_sveucilista/Cudovista.sa.sveucilista.avi:Cudovista sa sveucilista SINKRONIZIRANO (2013)
+#DESCRIPTION Cudovista sa sveucilista SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/55.mp4:Curse of the Witching Tree
+#DESCRIPTION Curse of the Witching Tree
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/159.mp4:Da Serie Divergente Convergente
+#DESCRIPTION Da Serie Divergente Convergente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/139.mp4:Dads Army
+#DESCRIPTION Dads Army
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Darkest.Hour.2017.WEB-DL.m3u8:Darkest Hour (2017)
+#DESCRIPTION Darkest Hour (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/160.mp4:Dead Rising Endgame
+#DESCRIPTION Dead Rising Endgame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/161.mp4:Deadly Intent
+#DESCRIPTION Deadly Intent
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/79.mp4:Deadpool
+#DESCRIPTION Deadpool
 #SERVICE 4097:0:1:177:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/09/Dear Eleanor (2016) 720p WEB-DL x265_AVADL.BiZ.mkv:Dear Eleanor (2016) 720p WEB-DL x265
 #DESCRIPTION Dear Eleanor (2016) 720p WEB-DL x265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/82.mp4:Decay
+#DESCRIPTION Decay
 #SERVICE 4097:0:1:127:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/12/Deepwater Horizon (2016) 720p WEB-DL x265_AVADL.BiZ.mkv:Deepwater Horizon (2016) 720p WEB-DL x265_AVADL
 #DESCRIPTION Deepwater Horizon (2016) 720p WEB-DL x265_AVADL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/162.mp4:Demolicao
+#DESCRIPTION Demolicao
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/10.mkv:Despicable Me 2: Gru na supertajnom zadatku SINKRO
+#DESCRIPTION Despicable Me 2: Gru na supertajnom zadatku SINKRO
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/10.mkv:Despicable Me 2: Gru na supertajnom zadatku SINKRO
+#DESCRIPTION Despicable Me 2: Gru na supertajnom zadatku SINKRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/99.mp4:Devdas
+#DESCRIPTION Devdas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/90.mp4:Diablo
+#DESCRIPTION Diablo
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Dobri_dinosaur/Dobri.dinosaur.HRsink.avi:Dobri dinosaur SINKRONIZIRANO (2015)
+#DESCRIPTION Dobri dinosaur SINKRONIZIRANO (2015)
 #SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Dont.Knock.Twice.2016.720p.BrRip.hevc.x265.AVADL.BiZ.mkv:Dont.Knock.Twice.2016.720p.BrRip.hevc.x265.AVADL.B
 #DESCRIPTION Dont.Knock.Twice.2016.720p.BrRip.hevc.x265.AVADL.B
 #SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Downhill (2016) DVDRip_AVADL.BiZ.mkv:Downhill 2016 DVDRip_AVADL.BiZ.mkv
 #DESCRIPTION Downhill 2016 DVDRip_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Downsizing.2017.m3u8:Downsizing (2017)
+#DESCRIPTION Downsizing (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/110.mp4:Duplo Confronto
+#DESCRIPTION Duplo Confronto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/140.mp4:Eddie The Eagle
+#DESCRIPTION Eddie The Eagle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/62.mp4:Ek Tha Tiger
+#DESCRIPTION Ek Tha Tiger
+#SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/BigHero/Big.Hero.6.avi:Ekipa za 6 SINKRONIZIRANO (2014)
+#DESCRIPTION Ekipa za 6 SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/141.mp4:Electra Woman and Dyna Girl
+#DESCRIPTION Electra Woman and Dyna Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/84.mp4:Emelie
+#DESCRIPTION Emelie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/163.mp4:Emmas Chance
+#DESCRIPTION Emmas Chance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/123.mp4:Factor de Risco
+#DESCRIPTION Factor de Risco
 #SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Fantastic.Beasts.and.Where.to.Find.Them.2016.1080p.HC.HDRip.6CH.AVADL.BiZ.mkv:Fantastic.Beasts.and.Where.to.Find.Them.2016.1080p
 #DESCRIPTION Fantastic.Beasts.and.Where.to.Find.Them.2016.1080p
 #SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Fantastic.Beasts.and.Where.to.Find.Them.2016.720p.HC.HDRip.X265.AVADL.BiZ.mkv:Fantastic.Beasts.and.Where.to.Find.Them.2016.720p.
@@ -691,14 +671,26 @@
 #DESCRIPTION Forrest Gump (1994) 1080p BrRip x265
 #SERVICE 4097:0:1:199:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/250/Forrest Gump (1994) 720p BrRip_AVADL.BiZ.mp4:Forrest Gump (1994) 720p BrRip_AVADL.BiZ.mp4
 #DESCRIPTION Forrest Gump (1994) 720p BrRip_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/27.mp4:Forsaken
+#DESCRIPTION Forsaken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/45.mp4:Fourth Man Out
+#DESCRIPTION Fourth Man Out
 #SERVICE 4097:0:1:179:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/09/Free State of Jones (2016) 1080p BrRip 6.1CH_AVADL.BiZ.mkv:Free State of Jones (2016) 1080p BrRip
 #DESCRIPTION Free State of Jones (2016) 1080p BrRip
 #SERVICE 4097:0:1:181:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/09/Free State of Jones (2016) 720p WEB-DL_AVADL.BiZ.mkv:Free State of Jones (2016) 720p
 #DESCRIPTION Free State of Jones (2016) 720p
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/153.mp4:Frozen Reino Gelo
+#DESCRIPTION Frozen Reino Gelo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Geostorm.2017HDRip.m3u8:Geostorm (2017)
+#DESCRIPTION Geostorm (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/54.mp4:Get a Job
+#DESCRIPTION Get a Job
 #SERVICE 4097:0:1:183:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/09/Ghostbusters (2016) 1080p BrRip x265_AVADL.BiZ.mkv:Ghostbusters (2016) 1080p BrRip
 #DESCRIPTION Ghostbusters (2016) 1080p BrRip
 #SERVICE 4097:0:1:185:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/09/Ghostbusters (2016) 720p WEB-DL_AVADL.BiZ.mkv:Ghostbusters (2016) 720p WEB-DL_AVADL.BiZ.mkv
 #DESCRIPTION Ghostbusters (2016) 720p WEB-DL_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/164.mp4:Girl in Woods
+#DESCRIPTION Girl in Woods
 #SERVICE 4097:0:1:129:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/12/Good Tidings (2016) HDRip x265_AVADL.BiZ.mkv:Good Tidings (2016) HDRip x265_AVADL.BiZ.mkv
 #DESCRIPTION Good Tidings (2016) HDRip x265_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:131:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/12/Greater (2016) HDRip x264_AVADL.BiZ.mkv:Greater (2016) HDRip x264_AVADL.BiZ.mkv
@@ -707,12 +699,30 @@
 #DESCRIPTION Hacksaw Ridge (2016) HDCAM x264_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:143:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Hands of Stone (2016) 720p BrRip_AVADL.BiZ.mkv:Hands of Stone (2016) 720p BrRip
 #DESCRIPTION Hands of Stone (2016) 720p BrRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/142.mp4:Hardcore Henry
+#DESCRIPTION Hardcore Henry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8:Hellraiser: Judgment (2018)
+#DESCRIPTION Hellraiser: Judgment (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/56.mp4:Heropanti
+#DESCRIPTION Heropanti
 #SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Hidden Figures (2016) DVDScr_AVADL.BiZ.mp4:Hidden Figures 2016 DVDScr_AVADL.BiZ.mp4
 #DESCRIPTION Hidden Figures 2016 DVDScr_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/92.mp4:Holidays
+#DESCRIPTION Holidays
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/143.mp4:Home
+#DESCRIPTION Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/121.mp4:Horas Decisivas
+#DESCRIPTION Horas Decisivas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/28.mp4:Hotel Transylvania 2 PT
+#DESCRIPTION Hotel Transylvania 2 PT
 #SERVICE 4097:0:1:35:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/House of VHS (2016) DVDRip_AVADL.BiZ.mkv:House of VHS 2016 DVDRip_AVADL.BiZ.mkv
 #DESCRIPTION House of VHS 2016 DVDRip_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/74.mp4:Hush
+#DESCRIPTION Hush
 #SERVICE 4097:0:1:145:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/I Am Bolt (2016) 720p BrRip_AVADL.BiZ.mkv:I Am Bolt (2016) 720p BrRip_AVADL.BiZ.mkv
 #DESCRIPTION I Am Bolt (2016) 720p BrRip_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/80.mp4:I Am Wrath
+#DESCRIPTION I Am Wrath
 #SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/I Daniel Blake (2016) HC HDRip x264_AVADL.BiZ.mkv:I Daniel Blake 2016 HC HDRip x264_AVADL.BiZ.mkv
 #DESCRIPTION I Daniel Blake 2016 HC HDRip x264_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:111:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Independence Day (2016) HC 720p HDRip x265_AVADL.BiZ.mkv:Independence Day (2016) HC 720p HDRip x265
@@ -723,82 +733,352 @@
 #DESCRIPTION Inferno (2016) 720p WEB-DL x265_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:147:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Into the Inferno (2016) 720p WEBRip_AVADL.BiZ.mkv:Into the Inferno (2016) 720p WEBRip
 #DESCRIPTION Into the Inferno (2016) 720p WEBRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/46.mp4:ip Man 3
+#DESCRIPTION ip Man 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/IT.2017.EBRip.m3u8:It (2017)
+#DESCRIPTION It (2017)
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Izvrnuto_obrnuto/Izvrnuto.obrnuto.2015.avi:Izvrnuto obrnuto SINKRONIZIRANO (2015)
+#DESCRIPTION Izvrnuto obrnuto SINKRONIZIRANO (2015)
 #SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Jack Reacher Never Go Back (2016) 720p BrRip x265_AVADL.BiZ.mkv:Jack Reacher Never Go Back 2016 720p BrRip x265_AV
 #DESCRIPTION Jack Reacher Never Go Back 2016 720p BrRip x265_AV
 #SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Jack.Reacher.Never.Go.Back.2016.1080p.WEB-DL.AVADL.BiZ.mkv:Jack.Reacher.Never.Go.Back.2016.1080p.WEB-DL.AVADL
 #DESCRIPTION Jack.Reacher.Never.Go.Back.2016.1080p.WEB-DL.AVADL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/63.mp4:James White
+#DESCRIPTION James White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/87.mp4:Jarhead 3: The Siege
+#DESCRIPTION Jarhead 3: The Siege
 #SERVICE 4097:0:1:149:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Jason Bourne (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:Jason Bourne (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv
 #DESCRIPTION Jason Bourne (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:151:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Jason Bourne (2016) 720p BrRip_AVADL.BiZ.mkv:Jason Bourne (2016) 720p BrRip_AVADL.BiZ.mkv
 #DESCRIPTION Jason Bourne (2016) 720p BrRip_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:113:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Jason Bourne (2016) HC 720p HDRip x265_AVADL.BiZ.mkv:Jason Bourne (2016) HC 720p HDRip x265
 #DESCRIPTION Jason Bourne (2016) HC 720p HDRip x265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/65.mp4:Jazbaa
+#DESCRIPTION Jazbaa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/6.mp4:Jeruzalem
+#DESCRIPTION Jeruzalem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/35.mp4:Jogos da Fome : A Revolta 2
+#DESCRIPTION Jogos da Fome : A Revolta 2
 #SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Johnny.Frank.Garretts.Last.Word.2016.720p.WEB-DL_AVADL.BiZ.mkv:Johnny.Frank.Garretts.Last.Word.2016.720p.WEB-DL_A
 #DESCRIPTION Johnny.Frank.Garretts.Last.Word.2016.720p.WEB-DL_A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/41.mp4:Junto ao Mar
+#DESCRIPTION Junto ao Mar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Justice.League.2017_hd.m3u8:Justice League (2017)
+#DESCRIPTION Justice League (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Justice_League_Dark_2017_720p.m3u8:Justice League Dark (2017)
+#DESCRIPTION Justice League Dark (2017)
+#SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Kako_izdresirati_zmaja2/Kako.izdresirati.zmaja.2.mp4:Kako izdresirati zmaja 2 SINKRONIZIRANO (2014)
+#DESCRIPTION Kako izdresirati zmaja 2 SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/12.mkv:Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
+#DESCRIPTION Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/12.mkv:Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
+#DESCRIPTION Kako izdresirati zmaja 2 SINKRONIZIRANO (2014) Lin
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Khumba/Khumba.2013.avi:Khumba SINKRONIZIRANO (2013)
+#DESCRIPTION Khumba SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/144.mp4:Kiddo O Super Camiao
+#DESCRIPTION Kiddo O Super Camiao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/88.mp4:Killing Jesus
+#DESCRIPTION Killing Jesus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/101.mp4:Kindergarten Cop 2
+#DESCRIPTION Kindergarten Cop 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/47.mp4:Kung Fu Panda 3
+#DESCRIPTION Kung Fu Panda 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/176.mp4:Kung Fu Panda 3 PT
+#DESCRIPTION Kung Fu Panda 3 PT
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/83.mp4:Kung Fu Panda 3 SA PRIJEVODOM (2016)
+#DESCRIPTION Kung Fu Panda 3 SA PRIJEVODOM (2016)
 #SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/La La Land (2016) HDCAM x264_AVADL.BiZ.mp4:La La Land (2016) HDCAM x264_AVADL.BiZ.mp4
 #DESCRIPTION La La Land (2016) HDCAM x264_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/94.mp4:Lake Eerie
+#DESCRIPTION Lake Eerie
 #SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Larceny (2017) HDRip_AVADL.BiZ.mp4:Larceny 2017 HDRip_AVADL.BiZ.mp4
 #DESCRIPTION Larceny 2017 HDRip_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/131.mp4:Leao da Estrela
+#DESCRIPTION Leao da Estrela
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/74.mp4:Ledeno doba: The Great Egg-Scapade SA PRIJEVODOM (
+#DESCRIPTION Ledeno doba: The Great Egg-Scapade SA PRIJEVODOM (
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/73.mp4:Ledeno doba: Veliki udar SA PRIJEVODOM (2016)
+#DESCRIPTION Ledeno doba: Veliki udar SA PRIJEVODOM (2016)
+#SERVICE 4097:0:1:136:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Lego.Batman.Film.2017.Hrsink..avi:Lego Batman (2017)
+#DESCRIPTION Lego Batman (2017)
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Lego.Batman.Film.2017.HRSink.BDRip.XviD.AC3.avi:Lego Batman Film SINKRONIZIRANO (2017)
+#DESCRIPTION Lego Batman Film SINKRONIZIRANO (2017)
+#SERVICE 4097:0:1:152:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10934.mp4:Lego Batman Movie (2017)
+#DESCRIPTION Lego Batman Movie (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/102.mkv:Lego Scooby-Doo!: Haunted Hollywood
+#DESCRIPTION Lego Scooby-Doo!: Haunted Hollywood
 #SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Lion.2016.BrRip.720p.HEVC.x265.AVADL.BiZ.mkv:Lion.2016.BrRip.720p.HEVC.x265.AVADL.BiZ.mkv
 #DESCRIPTION Lion.2016.BrRip.720p.HEVC.x265.AVADL.BiZ.mkv
 #SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Live by Night (2016) DVDScr x264_AVADL.BiZ.mkv:Live by Night (2016) DVDScr x264_AVADL.BiZ.mkv
 #DESCRIPTION Live by Night (2016) DVDScr x264_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Beauty.and.the.Beast.2017.HRSink.BRRip.XviD.avi:Ljepotica i zvijer SINKRONIZIRANO (2017)
+#DESCRIPTION Ljepotica i zvijer SINKRONIZIRANO (2017)
 #SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Logan.2017.720p.HDTS.v2.x264.AVADL.BiZ.mkv:Logan.2017.720p.HDTS.v2.x264.AVADL.BiZ.mkv
 #DESCRIPTION Logan.2017.720p.HDTS.v2.x264.AVADL.BiZ.mkv
 #SERVICE 4097:0:1:55:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Lost.and.Found.2016.720p.WEB-DL.AVADL.BiZ.mkv:Lost.and.Found.2016.720p.WEB-DL.AVADL.BiZ.mkv
 #DESCRIPTION Lost.and.Found.2016.720p.WEB-DL.AVADL.BiZ.mkv
 #SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Maigret.Sets.a.Trap.2016.BrRip.720p.AVADL.BiZ.mkv:Maigret.Sets.a.Trap.2016.BrRip.720p.AVADL.BiZ.mkv
 #DESCRIPTION Maigret.Sets.a.Trap.2016.BrRip.720p.AVADL.BiZ.mkv
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Minions_Malci/Minions.2015.mp4:Malci SINKRONIZIRANO (2015)
+#DESCRIPTION Malci SINKRONIZIRANO (2015)
+#SERVICE 4097:0:1:310:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod1/Mali.Princ.2015.mkv:Mali Princ (2015)
+#DESCRIPTION Mali Princ (2015)
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Mali.Sef.2017.HRSink.720p.BRRip.x264.AC3.5.1-BD4YU.avi:Mali sef SINKRONIZIRANO (2017)
+#DESCRIPTION Mali sef SINKRONIZIRANO (2017)
+#SERVICE 4097:0:1:264:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Mali.Zmaj.Kokos.2014.mkv:Mali Zmaj Kokos (2014)
+#DESCRIPTION Mali Zmaj Kokos (2014)
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Mali_zmaj_Kokos/Mali.Zmaj.Kokos.2014.avi:Mali zmaj Kokos SINKRONIZIRANO (2014)
+#DESCRIPTION Mali zmaj Kokos SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/145.mp4:Manhattan Night
+#DESCRIPTION Manhattan Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/166.mp4:Marauders
+#DESCRIPTION Marauders
 #SERVICE 4097:0:1:153:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Mechanic Resurrection (2016) 1080p BrRip x265 6CH_AVADL.BiZ.mkv:Mechanic Resurrection (2016) 1080p BrRip
 #DESCRIPTION Mechanic Resurrection (2016) 1080p BrRip
 #SERVICE 4097:0:1:155:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Mechanic Resurrection (2016) 720p BrRip_AVADL.BiZ.mkv:Mechanic Resurrection (2016) 720p BrRip
 #DESCRIPTION Mechanic Resurrection (2016) 720p BrRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/104.mp4:Midnight Special
+#DESCRIPTION Midnight Special
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/146.mp4:Minimos
+#DESCRIPTION Minimos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/105.mp4:Misconduct
+#DESCRIPTION Misconduct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/9.mp4:Monster High: Boo York, Boo York PT
+#DESCRIPTION Monster High: Boo York, Boo York PT
 #SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Moonlight.2016.1080p.BrRip.6CH.AVADL.BiZ.mkv:Moonlight.2016.1080p.BrRip.6CH.AVADL.BiZ.mkv
 #DESCRIPTION Moonlight.2016.1080p.BrRip.6CH.AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/18.mp4:Moonwalkers
+#DESCRIPTION Moonwalkers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/106.mp4:Mothers and Daughters
+#DESCRIPTION Mothers and Daughters
 #SERVICE 4097:0:1:157:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Mower Minions (2016) 720p BrRip x265_AVADL.BiZ.mkv:Mower Minions (2016) 720p BrRip
 #DESCRIPTION Mower Minions (2016) 720p BrRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/67.mp4:Muito a Frente Pt
+#DESCRIPTION Muito a Frente Pt
+#SERVICE 4097:0:1:117:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Mumini_i_potjera_za_kometom/Mumini.i.potjera.za.kometom.avi:Mumini i potjera za kometom SINKRONIZIRANO (2010)
+#DESCRIPTION Mumini i potjera za kometom SINKRONIZIRANO (2010)
 #SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Neighbors 2 (2016) 720p BrRip_AVADL.BiZ.mkv:Neighbors 2 (2016) 720p BrRip_AVADL.BiZ.mkv
 #DESCRIPTION Neighbors 2 (2016) 720p BrRip_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/167.mp4:Never Back Down No Surrender
+#DESCRIPTION Never Back Down No Surrender
+#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/11215.mp4:Night of Something Strange (2016)
+#DESCRIPTION Night of Something Strange (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/129.mp4:Norm Heroi do Artico PT
+#DESCRIPTION Norm Heroi do Artico PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/107.mp4:Nowhere Boys: The Book of Shadows
+#DESCRIPTION Nowhere Boys: The Book of Shadows
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/122.mp4:O Caçador e a Rainha do Gelo
+#DESCRIPTION O Caçador e a Rainha do Gelo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/168.mp4:O Escaravelho do Diabo
+#DESCRIPTION O Escaravelho do Diabo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/169.mp4:O Nosso Milagre
+#DESCRIPTION O Nosso Milagre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/52.mp4:O Principezinho
+#DESCRIPTION O Principezinho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/12.mp4:O Segredo dos Seus Olhos
+#DESCRIPTION O Segredo dos Seus Olhos
+#SERVICE 4097:0:1:119:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Oblacno_s_Cuftama/Oblacno.s.Cuftama.2.avi:Oblacno s cuftama SINKRONIZIRANO (2009)
+#DESCRIPTION Oblacno s cuftama SINKRONIZIRANO (2009)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/48.mp4:Orgulho e Preconceito e Guerra
+#DESCRIPTION Orgulho e Preconceito e Guerra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/4.mp4:Os 33
+#DESCRIPTION Os 33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/17.mp4:Os Coopers São o Máximo
+#DESCRIPTION Os Coopers São o Máximo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/100.mp4:Os Deuses do Egipto
+#DESCRIPTION Os Deuses do Egipto
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Oto.Istrazivac.Dubina.2017.HRSink.avi:Oto: Istrazivac dubina SINKRONIZIRANO (2017)
+#DESCRIPTION Oto: Istrazivac dubina SINKRONIZIRANO (2017)
 #SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Ouija Origin of Evil (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:Ouija Origin of Evil (2016) 1080p BrRip 6CH_
 #DESCRIPTION Ouija Origin of Evil (2016) 1080p BrRip 6CH_
 #SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Ouija Origin of Evil (2016) 720p BrRip x265_AVADL.BiZ.mkv:Ouija Origin of Evil (2016) 720p BrRip x265
 #DESCRIPTION Ouija Origin of Evil (2016) 720p BrRip x265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/108.mp4:Outcast - O Último Templário
+#DESCRIPTION Outcast - O Último Templário
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Ovako_je_sve_pocelo/Ovako.je.sve.pocelo.2014.avi:Ovako je sve pocelo SINKRONIZIRANO (2014)
+#DESCRIPTION Ovako je sve pocelo SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/36.mp4:Pai Há Só Um!
+#DESCRIPTION Pai Há Só Um!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/10.mp4:Pan: Viagem à Terra do Nunca  PT
+#DESCRIPTION Pan: Viagem à Terra do Nunca  PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/75.mkv:Pandemic
+#DESCRIPTION Pandemic
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Patriots Day (2016) DVDScr_AVADL.BiZ.mp4:Patriots Day (2016) DVDScr_AVADL.BiZ.mp4
 #DESCRIPTION Patriots Day (2016) DVDScr_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/109.mp4:Pee-wee's Big Holiday
+#DESCRIPTION Pee-wee's Big Holiday
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Pernata.banda.HRsink.x264.WEBDL.avi:Pernata banda SINKRONIZIRANO (2016)
+#DESCRIPTION Pernata banda SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:242:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Pingvini.S.Madagaskara.2014.mkv:Pingvini S Madagaskara (2014)
+#DESCRIPTION Pingvini S Madagaskara (2014)
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Pingvini_s_Madagaskara_2014/Pingvini.s.Madagaskara.2014.avi:Pingvini s Madagaskara SINKRONIZIRANO (2014)
+#DESCRIPTION Pingvini s Madagaskara SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Sing.2016.HRSink.BDRip.XviD.B9@BD4YU.avi:Pjevajte s nama SINKRONIZIRANO (2016)
+#DESCRIPTION Pjevajte s nama SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/37.mp4:Point Break Caçadores de Emoções
+#DESCRIPTION Point Break Caçadores de Emoções
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/71.mp4:Polícias em Grandes Apuros
+#DESCRIPTION Polícias em Grandes Apuros
 #SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Population Zero (2016) 1080p WEB-DL x265 HEVC_AVADL.BiZ.mkv:Population Zero (2016) 1080p WEB-DL x265
 #DESCRIPTION Population Zero (2016) 1080p WEB-DL x265
+#SERVICE 4097:0:1:127:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/15.avi:Potraga za Nemom SINKRONIZIRANO (2003)
+#DESCRIPTION Potraga za Nemom SINKRONIZIRANO (2003)
+#SERVICE 4097:0:1:129:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/15.avi:Potraga za Nemom SINKRONIZIRANO (2003) Link 2
+#DESCRIPTION Potraga za Nemom SINKRONIZIRANO (2003) Link 2
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Bling.2016.HRSink.BDRiP.XviD-B9@BD4YU.avi:Prste(n) k sebi SINKRONIZIRANO (2016)
+#DESCRIPTION Prste(n) k sebi SINKRONIZIRANO (2016)
 #SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Queen of Katwe (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:Queen of Katwe (2016) 1080p BrRip 6CH
 #DESCRIPTION Queen of Katwe (2016) 1080p BrRip 6CH
 #SERVICE 4097:0:1:71:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Queen of Katwe (2016) 720p BrRip x265_AVADL.BiZ.mkv:Queen of Katwe (2016) 720p BrRip x265
 #DESCRIPTION Queen of Katwe (2016) 720p BrRip x265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/22.mp4:Rainha do Deserto
+#DESCRIPTION Rainha do Deserto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/68.mp4:Ramaiya Vastavaiya
+#DESCRIPTION Ramaiya Vastavaiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/49.mp4:Remember
+#DESCRIPTION Remember
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/112.mp4:Ressurreição
+#DESCRIPTION Ressurreição
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/111.mp4:Reza Lenda
+#DESCRIPTION Reza Lenda
+#SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Robi_uzbuna_na_Orlovu_vrhu/Robi.Uzbuna.na.Orlovu.Vrhu.mp4:Robi: Uzbuna na orlovu vrhu SINKRONIZIRANO (2013)
+#DESCRIPTION Robi: Uzbuna na orlovu vrhu SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Robinson_Crusoe_2016/Robinson.Crusoe.2016.avi:Robinson Crusoe SINKRONIZIRANO (2016)
+#DESCRIPTION Robinson Crusoe SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Rode.2016.HRSink.BDRip.XviD.avi:Rode SINKRONIZIRANO (2016)
+#DESCRIPTION Rode SINKRONIZIRANO (2016)
 #SERVICE 4097:0:1:73:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Rogue.One.2016.1080p.BrRip.6CH.x265.HEVC.AVADL.BiZ.mkv:Rogue.One.2016.1080p.BrRip.6CH.x265.HEVC.
 #DESCRIPTION Rogue.One.2016.1080p.BrRip.6CH.x265.HEVC.
 #SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Rogue.One.2016.720p.BrRip.x264.AVADL.BiZ.mkv:Rogue.One.2016.720p.BrRip.x264.AVADL.BiZ.mkv
 #DESCRIPTION Rogue.One.2016.720p.BrRip.x264.AVADL.BiZ.mkv
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Saba_Mali_ratnik_velikoga_srca/Saba.Mali.ratnik.velikoga.srca.avi:Saba: Mali ratnik velikog srca SINKRONIZIRANO (201
+#DESCRIPTION Saba: Mali ratnik velikog srca SINKRONIZIRANO (201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/113.mp4:Sacrifice
+#DESCRIPTION Sacrifice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/91.mp4:Salve, César!
+#DESCRIPTION Salve, César!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/39.mp4:Samurai Cop 2: Deadly Vengeance
+#DESCRIPTION Samurai Cop 2: Deadly Vengeance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/19.mp4:Sem Compromissos
+#DESCRIPTION Sem Compromissos
+#SERVICE 4097:0:1:109:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Setnja_sa_Dinosaurima_2013/Setnja.sa.Dinosaurima.2013.avi:Setnja s dinosaurima SINKRONIZIRANO (2013)
+#DESCRIPTION Setnja s dinosaurima SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:111:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/17.mp4:Setnja s dinosaurima SINKRONIZIRANO (2013) Link 2
+#DESCRIPTION Setnja s dinosaurima SINKRONIZIRANO (2013) Link 2
+#SERVICE 4097:0:1:113:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/17.mp4:Setnja s dinosaurima SINKRONIZIRANO (2013) Link 3
+#DESCRIPTION Setnja s dinosaurima SINKRONIZIRANO (2013) Link 3
+#SERVICE 4097:0:1:131:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/18.avi:Shrek SINKRONIZIRANO (2001)
+#DESCRIPTION Shrek SINKRONIZIRANO (2001)
+#SERVICE 4097:0:1:133:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/18.avi:Shrek SINKRONIZIRANO (2001) Link 2
+#DESCRIPTION Shrek SINKRONIZIRANO (2001) Link 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/114.mp4:Sniper: Special Ops
+#DESCRIPTION Sniper: Special Ops
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Snezna.Kraljica.3.HRSink.720p.WEB-DL.x264-BD4YU.avi:Snjezna kraljica 3: Vatra i led SINKRONIZIRANO (20
+#DESCRIPTION Snjezna kraljica 3: Vatra i led SINKRONIZIRANO (20
+#SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Snjezno.Kraljevstvo.2013.Hrsink.DVDRip.XviD.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013)
+#DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:105:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/20.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 2
+#DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 2
+#SERVICE 4097:0:1:107:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/20.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 3
+#DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/50.mp4:Snoopy e Charlie Brown: Peanuts PT
+#DESCRIPTION Snoopy e Charlie Brown: Peanuts PT
 #SERVICE 4097:0:1:159:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Snowden (2016) 1080p BrRip 5.1CH_AVADL.BiZ.mkv:Snowden (2016) 1080p BrRip 5.1CH_AVADL.BiZ.mkv
 #DESCRIPTION Snowden (2016) 1080p BrRip 5.1CH_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:161:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Snowden (2016) 720p BrRip_AVADL.BiZ.mkv:Snowden (2016) 720p BrRip_AVADL.BiZ.mkv
 #DESCRIPTION Snowden (2016) 720p BrRip_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/23.mp4:Southbound
+#DESCRIPTION Southbound
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Spasavanje_Djeda_Mraza/Spasavanje.Djeda.Mraza.2013.avi:Spasavanje Djeda Mraza SINKRONIZIRANO (2013)
+#DESCRIPTION Spasavanje Djeda Mraza SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/115.mp4:Special Correspondents
+#DESCRIPTION Special Correspondents
 #SERVICE 4097:0:1:163:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Spectral (2016) NF 720p WEBRip_AVADL.BiZ.mkv:Spectral (2016) NF 720p WEBRip_AVADL.BiZ.mkv
 #DESCRIPTION Spectral (2016) NF 720p WEBRip_AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/147.mp4:Sponge Bob Esponja Fora De Agua
+#DESCRIPTION Sponge Bob Esponja Fora De Agua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/24.mp4:Standoff
+#DESCRIPTION Standoff
 #SERVICE 4097:0:1:165:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Star Trek Beyond (2016) 1080p BrRip x265 6CH_AVADL.BiZ.mkv:Star Trek Beyond (2016) 1080p BrRip x265
 #DESCRIPTION Star Trek Beyond (2016) 1080p BrRip x265
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/51.mp4:Star Wars: O Despertar da Força
+#DESCRIPTION Star Wars: O Despertar da Força
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/116.mp4:Stealing Cars
+#DESCRIPTION Stealing Cars
+#SERVICE 4097:0:1:89:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Strumpfovi2/Strumpfovi.2.avi:Strumpfovi 2 SINKRONIZIRANO (2013)
+#DESCRIPTION Strumpfovi 2 SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Strumpfovi.skriveno.selo.2017.HRSink.720p.BRRip.avi:Strumpfovi: Skriveno selo SINKRONIZIRANO (2017)
+#DESCRIPTION Strumpfovi: Skriveno selo SINKRONIZIRANO (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/38.mp4:Só Podiam Ser Irmãs
+#DESCRIPTION Só Podiam Ser Irmãs
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/11198.mp4:T2 Trainspotting (2017)
+#DESCRIPTION T2 Trainspotting (2017)
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/130.mp4:Tajni zivot ljubimaca SA PRIJEVODOM (2016)
+#DESCRIPTION Tajni zivot ljubimaca SA PRIJEVODOM (2016)
+#SERVICE 4097:0:1:51:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/321.mp4:Tajni zivot ljubimaca SINKRONIZIRANO (2016)
+#DESCRIPTION Tajni zivot ljubimaca SINKRONIZIRANO (2016)
 #SERVICE 4097:0:1:77:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Tangled.Before.Ever.After.2017.720p.HDrip.X264_AVADL.BiZ.mp4:Tangled.Before.Ever.After.2017.720p.HDrip.X264_AVA
 #DESCRIPTION Tangled.Before.Ever.After.2017.720p.HDrip.X264_AVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/132.mp4:Tempo Limite
+#DESCRIPTION Tempo Limite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/3.mp4:Terminus
+#DESCRIPTION Terminus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/117.mp4:Tevar
+#DESCRIPTION Tevar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/118.mp4:The Boy - Segue as Regras
+#DESCRIPTION The Boy - Segue as Regras
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/20.mp4:The Boy 2015
+#DESCRIPTION The Boy 2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/149.mp4:The Brothers Grimsby
+#DESCRIPTION The Brothers Grimsby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/the.cloverfield.paradox.2018.m3u8:The Cloverfield Paradox (2018)
+#DESCRIPTION The Cloverfield Paradox (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/171.mp4:The Confirmation
+#DESCRIPTION The Confirmation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/120.mp4:The Dead Room
+#DESCRIPTION The Dead Room
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/150.mp4:The Do-Over
+#DESCRIPTION The Do-Over
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/170.mp4:The Duel
+#DESCRIPTION The Duel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/25.mp4:The Forest
+#DESCRIPTION The Forest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/The_Founder_2016_360p.m3u8:The Founder (2016)
+#DESCRIPTION The Founder (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/69.mp4:The Girl in the Photographs
+#DESCRIPTION The Girl in the Photographs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/64.mp4:The Hoarder
+#DESCRIPTION The Hoarder
 #SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/The Ivory Game (2016) 720p WEBRip x265_AVADL.BiZ.mkv:The Ivory Game (2016) 720p WEBRip x265
 #DESCRIPTION The Ivory Game (2016) 720p WEBRip x265
 #SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/The Legend of Chupacabras (2017) HDRip_AVADL.BiZ.mp4:The Legend of Chupacabras (2017) HDRip
 #DESCRIPTION The Legend of Chupacabras (2017) HDRip
 #SERVICE 4097:0:1:117:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/The Legend of Tarzan (2016) HC 720p HDRip x265_AVADL.BiZ.mkv:The Legend of Tarzan (2016) HC 720p HDRip
 #DESCRIPTION The Legend of Tarzan (2016) HC 720p HDRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/26.mp4:The Lobster
+#DESCRIPTION The Lobster
 #SERVICE 4097:0:1:167:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/The Magnificent Seven (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:The Magnificent Seven (2016) 1080p BrRip
 #DESCRIPTION The Magnificent Seven (2016) 1080p BrRip
 #SERVICE 4097:0:1:169:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/The Magnificent Seven (2016) 720p BrRip x265_AVADL.BiZ.mkv:The Magnificent Seven (2016) 720p BrRip
 #DESCRIPTION The Magnificent Seven (2016) 720p BrRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/151.mp4:The Offering
+#DESCRIPTION The Offering
 #SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/The Other Half 2016 720p WEB-DL_AVADL.BiZ.mkv:The Other Half 2016 720p WEB-DL_AVADL
 #DESCRIPTION The Other Half 2016 720p WEB-DL_AVADL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/29.mp4:The Overnight
+#DESCRIPTION The Overnight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/The.Shape.of.Water.2017.m3u8:The Shape of Water (2017)
+#DESCRIPTION The Shape of Water (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/130.mkv:The Trust
+#DESCRIPTION The Trust
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/124.mp4:The Veil
+#DESCRIPTION The Veil
 #SERVICE 4097:0:1:119:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/The Whole Truth (2016) HC 720p HDRip_AVADL.BiZ.mkv:The Whole Truth (2016) HC 720p HDRip
 #DESCRIPTION The Whole Truth (2016) HC 720p HDRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/76.mp4:The Witch
+#DESCRIPTION The Witch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/152.mkv:The Young Messiah
+#DESCRIPTION The Young Messiah
 #SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/The Young Offenders (2016) HDRip_AVADL.BiZ.avi:The Young Offenders (2016) HDRip_AVADL.BiZ.avi
 #DESCRIPTION The Young Offenders (2016) HDRip_AVADL.BiZ.avi
 #SERVICE 4097:0:1:87:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/The.Evangelist.2016.DVDRip.x264_AVADL.BiZ.mkv:The.Evangelist.2016.DVDRip.x264_AVADL.BiZ.mkv
@@ -809,10 +1089,42 @@
 #DESCRIPTION The.Great.Wall.2016.720p.HC.HDRip.HEVC.x265.AVADL.
 #SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/The.Hollow.Point.2016.720p.BrRip.AVADL.BiZ.mkv:The.Hollow.Point.2016.720p.BrRip.AVADL.BiZ.mkv
 #DESCRIPTION The.Hollow.Point.2016.720p.BrRip.AVADL.BiZ.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8:Thor: Ragnarok (2017)
+#DESCRIPTION Thor: Ragnarok (2017)
 #SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Time Toys (2016) HDRip_AVADL.BiZ.mp4:Time Toys (2016) HDRip_AVADL.BiZ.mp4
 #DESCRIPTION Time Toys (2016) HDRip_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Tko.se.boji.Vuka.jos.2016.HRSink.BRRip.XviD.avi:Tko se boji vuka jos SINKRONIZIRANO (2016)
+#DESCRIPTION Tko se boji vuka jos SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10921.mp4:Totgeschwiegen (2017)
+#DESCRIPTION Totgeschwiegen (2017)
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10924.mp4:Transpecos (2016)
+#DESCRIPTION Transpecos (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/125.mp4:Triple 9
+#DESCRIPTION Triple 9
+#SERVICE 4097:0:1:186:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Trolls.2016.mkv:Trolls (2016)
+#DESCRIPTION Trolls (2016)
+#SERVICE 4097:0:1:156:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Trolovi.2016.Hrsink.720p.BRRip.x264-lujo.mp4:Trolovi (2016)
+#DESCRIPTION Trolovi (2016)
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Trolovi_iz_kutije_2014/Trolovi.iz.kutije.2014.avi:Trolovi iz kutije SINKRONIZIRANO (2014)
+#DESCRIPTION Trolovi iz kutije SINKRONIZIRANO (2014)
 #SERVICE 4097:0:1:173:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/10/UFO Chronicles Alien Arrivals (2016) DVDRip_AVADL.BiZ.mkv:UFO Chronicles Alien Arrivals (2016) DVDRip
 #DESCRIPTION UFO Chronicles Alien Arrivals (2016) DVDRip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/83.mp4:Um Avô Muito à Frente
+#DESCRIPTION Um Avô Muito à Frente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/119.mp4:Uma Escolha Por Amor
+#DESCRIPTION Uma Escolha Por Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/61.mp4:Umrao Jaan
+#DESCRIPTION Umrao Jaan
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Moana.2016.HRSink.BDRip.XviD.Cam.Audio.avi:Vaiana: Potraga za mitskim otokom SINKRONIZIRANO
+#DESCRIPTION Vaiana: Potraga za mitskim otokom SINKRONIZIRANO
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Vau.Vau.Zvijezda.2016.avi:Vau Vau zvijezda SINKRONIZIRANO (2016)
+#DESCRIPTION Vau Vau zvijezda SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/13.mp4:Verdade
+#DESCRIPTION Verdade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/21.mp4:Victor Frankenstein
+#DESCRIPTION Victor Frankenstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/172.mp4:Viram se Novamente Gregos Para Casar
+#DESCRIPTION Viram se Novamente Gregos Para Casar
 #SERVICE 4097:0:1:97:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Virtual.Revolution.2016.HDRip.AVADL.BiZ.mkv:Virtual.Revolution.2016.HDRip.AVADL.BiZ.mkv
 #DESCRIPTION Virtual.Revolution.2016.HDRip.AVADL.BiZ.mkv
 #SERVICE 4097:0:1:99:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/VooDoo.2017.720p.WEB-DL.AVADL.BiZ.mkv:VooDoo.2017.720p.WEB-DL.AVADL.BiZ.mkv
@@ -825,338 +1137,20 @@
 #DESCRIPTION Warcraft (2016) 720p BrRip x265_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:123:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Warcraft (2016) 720p WEB-DL_AVADL.BiZ.mkv:Warcraft (2016) 720p WEB-DL_AVADL
 #DESCRIPTION Warcraft (2016) 720p WEB-DL_AVADL
-#SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv:Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv
-#DESCRIPTION Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/154.mp4:Zootropolis PT
-#DESCRIPTION Zootropolis PT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/173.mp4:Whiskey Tango Foxtrot
 #DESCRIPTION Whiskey Tango Foxtrot
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/172.mp4:Viram se Novamente Gregos Para Casar
-#DESCRIPTION Viram se Novamente Gregos Para Casar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/152.mkv:The Young Messiah
-#DESCRIPTION The Young Messiah
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/151.mp4:The Offering
-#DESCRIPTION The Offering
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/170.mp4:The Duel
-#DESCRIPTION The Duel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/150.mp4:The Do-Over
-#DESCRIPTION The Do-Over
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/171.mp4:The Confirmation
-#DESCRIPTION The Confirmation
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/149.mp4:The Brothers Grimsby
-#DESCRIPTION The Brothers Grimsby
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/147.mp4:Sponge Bob Esponja Fora De Agua
-#DESCRIPTION Sponge Bob Esponja Fora De Agua
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/169.mp4:O Nosso Milagre
-#DESCRIPTION O Nosso Milagre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/168.mp4:O Escaravelho do Diabo
-#DESCRIPTION O Escaravelho do Diabo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/167.mp4:Never Back Down No Surrender
-#DESCRIPTION Never Back Down No Surrender
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/146.mp4:Minimos
-#DESCRIPTION Minimos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/166.mp4:Marauders
-#DESCRIPTION Marauders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/145.mp4:Manhattan Night
-#DESCRIPTION Manhattan Night
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/176.mp4:Kung Fu Panda 3 PT
-#DESCRIPTION Kung Fu Panda 3 PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/144.mp4:Kiddo O Super Camiao
-#DESCRIPTION Kiddo O Super Camiao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/143.mp4:Home
-#DESCRIPTION Home
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/142.mp4:Hardcore Henry
-#DESCRIPTION Hardcore Henry
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/164.mp4:Girl in Woods
-#DESCRIPTION Girl in Woods
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/153.mp4:Frozen Reino Gelo
-#DESCRIPTION Frozen Reino Gelo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/163.mp4:Emmas Chance
-#DESCRIPTION Emmas Chance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/141.mp4:Electra Woman and Dyna Girl
-#DESCRIPTION Electra Woman and Dyna Girl
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/140.mp4:Eddie The Eagle
-#DESCRIPTION Eddie The Eagle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/162.mp4:Demolicao
-#DESCRIPTION Demolicao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/161.mp4:Deadly Intent
-#DESCRIPTION Deadly Intent
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/160.mp4:Dead Rising Endgame
-#DESCRIPTION Dead Rising Endgame
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/139.mp4:Dads Army
-#DESCRIPTION Dads Army
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/159.mp4:Da Serie Divergente Convergente
-#DESCRIPTION Da Serie Divergente Convergente
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/138.mp4:Criminoso
-#DESCRIPTION Criminoso
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/137.mp4:Code of Honor
-#DESCRIPTION Code of Honor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/158.mp4:Cell Chamada Para a Morte
-#DESCRIPTION Cell Chamada Para a Morte
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/175.mp4:Brahman Naman
-#DESCRIPTION Brahman Naman
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/157.mp4:Before I Wake
-#DESCRIPTION Before I Wake
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/156.mp4:Batman v Super Homem O Despertar da Justica
-#DESCRIPTION Batman v Super Homem O Despertar da Justica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/174.mp4:Barbershop The Next
-#DESCRIPTION Barbershop The Next
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/136.mp4:Avioes Equipa de Resgate PT
-#DESCRIPTION Avioes Equipa de Resgate PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/155.mp4:Alice do Outro Lado do Espelho
-#DESCRIPTION Alice do Outro Lado do Espelho
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/135.mp4:Abelha Maia PT
-#DESCRIPTION Abelha Maia PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/133.mp4:7 Anao O Pequeno Heroi
-#DESCRIPTION 7 Anao O Pequeno Heroi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/134.mp4:13 Horas Os Soldados Secretos de Benghazi
-#DESCRIPTION 13 Horas Os Soldados Secretos de Benghazi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/live/painel/H94uP9vwlG/95.ts:##########>>>>>>MAIO 2016<<<<<<<<###############
-#DESCRIPTION ##########>>>>>>MAIO 2016<<<<<<<<###############
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/127.mp4:Zootopia
-#DESCRIPTION Zootopia
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv:Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv
+#DESCRIPTION Why.Him.2016.720p.BrRip.HEVC.x265_AVADL.BiZ.mkv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/126.mp4:Zoolander 2
 #DESCRIPTION Zoolander 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/119.mp4:Uma Escolha Por Amor
-#DESCRIPTION Uma Escolha Por Amor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/125.mp4:Triple 9
-#DESCRIPTION Triple 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/124.mp4:The Veil
-#DESCRIPTION The Veil
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/130.mkv:The Trust
-#DESCRIPTION The Trust
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/120.mp4:The Dead Room
-#DESCRIPTION The Dead Room
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/118.mp4:The Boy - Segue as Regras
-#DESCRIPTION The Boy - Segue as Regras
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/117.mp4:Tevar
-#DESCRIPTION Tevar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/132.mp4:Tempo Limite
-#DESCRIPTION Tempo Limite
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/116.mp4:Stealing Cars
-#DESCRIPTION Stealing Cars
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/115.mp4:Special Correspondents
-#DESCRIPTION Special Correspondents
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/114.mp4:Sniper: Special Ops
-#DESCRIPTION Sniper: Special Ops
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/113.mp4:Sacrifice
-#DESCRIPTION Sacrifice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/111.mp4:Reza Lenda
-#DESCRIPTION Reza Lenda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/112.mp4:Ressurreição
-#DESCRIPTION Ressurreição
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/109.mp4:Pee-wee's Big Holiday
-#DESCRIPTION Pee-wee's Big Holiday
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/108.mp4:Outcast - O Último Templário
-#DESCRIPTION Outcast - O Último Templário
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/100.mp4:Os Deuses do Egipto
-#DESCRIPTION Os Deuses do Egipto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/122.mp4:O Caçador e a Rainha do Gelo
-#DESCRIPTION O Caçador e a Rainha do Gelo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/107.mp4:Nowhere Boys: The Book of Shadows
-#DESCRIPTION Nowhere Boys: The Book of Shadows
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/129.mp4:Norm Heroi do Artico PT
-#DESCRIPTION Norm Heroi do Artico PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/106.mp4:Mothers and Daughters
-#DESCRIPTION Mothers and Daughters
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/105.mp4:Misconduct
-#DESCRIPTION Misconduct
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/104.mp4:Midnight Special
-#DESCRIPTION Midnight Special
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/102.mkv:Lego Scooby-Doo!: Haunted Hollywood
-#DESCRIPTION Lego Scooby-Doo!: Haunted Hollywood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/131.mp4:Leao da Estrela
-#DESCRIPTION Leao da Estrela
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/101.mp4:Kindergarten Cop 2
-#DESCRIPTION Kindergarten Cop 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/121.mp4:Horas Decisivas
-#DESCRIPTION Horas Decisivas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/123.mp4:Factor de Risco
-#DESCRIPTION Factor de Risco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/110.mp4:Duplo Confronto
-#DESCRIPTION Duplo Confronto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/99.mp4:Devdas
-#DESCRIPTION Devdas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/98.mp4:Capitão América: Guerra Civil
-#DESCRIPTION Capitão América: Guerra Civil
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/97.mp4:Brothers
-#DESCRIPTION Brothers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/128.mp4:Boog e Elliot Aventura Na Floresta [PT/PT]
-#DESCRIPTION Boog e Elliot Aventura Na Floresta [PT/PT]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/103.mp4:Assalto a Londres
-#DESCRIPTION Assalto a Londres
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/96.mkv:António Raminhos Apresenta As Marias
-#DESCRIPTION António Raminhos Apresenta As Marias
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/77.mp4:10 Cloverfield Lane
-#DESCRIPTION 10 Cloverfield Lane
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/83.mp4:Um Avô Muito à Frente
-#DESCRIPTION Um Avô Muito à Frente
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/76.mp4:The Witch
-#DESCRIPTION The Witch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/91.mp4:Salve, César!
-#DESCRIPTION Salve, César!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/75.mkv:Pandemic
-#DESCRIPTION Pandemic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/94.mp4:Lake Eerie
-#DESCRIPTION Lake Eerie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/88.mp4:Killing Jesus
-#DESCRIPTION Killing Jesus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/87.mp4:Jarhead 3: The Siege
-#DESCRIPTION Jarhead 3: The Siege
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/80.mp4:I Am Wrath
-#DESCRIPTION I Am Wrath
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/74.mp4:Hush
-#DESCRIPTION Hush
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/92.mp4:Holidays
-#DESCRIPTION Holidays
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/84.mp4:Emelie
-#DESCRIPTION Emelie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/90.mp4:Diablo
-#DESCRIPTION Diablo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/82.mp4:Decay
-#DESCRIPTION Decay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/79.mp4:Deadpool
-#DESCRIPTION Deadpool
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/93.mp4:Como Ser Solteira
-#DESCRIPTION Como Ser Solteira
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/81.mp4:Cabin Fever
-#DESCRIPTION Cabin Fever
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/89.mp4:Barbie e As Agentes Secretas PT-PT
-#DESCRIPTION Barbie e As Agentes Secretas PT-PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/85.mp4:As Cinquenta Sombras de Black
-#DESCRIPTION As Cinquenta Sombras de Black
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/86.mp4:Arranha Céus
-#DESCRIPTION Arranha Céus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/78.mp4:Amor em Roma
-#DESCRIPTION Amor em Roma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/live/painel/H94uP9vwlG/73.ts:##########>>>>>>ABR 2016<<<<<<<<###############
-#DESCRIPTION ##########>>>>>>ABR 2016<<<<<<<<###############
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/61.mp4:Umrao Jaan
-#DESCRIPTION Umrao Jaan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/64.mp4:The Hoarder
-#DESCRIPTION The Hoarder
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/69.mp4:The Girl in the Photographs
-#DESCRIPTION The Girl in the Photographs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/51.mp4:Star Wars: O Despertar da Força
-#DESCRIPTION Star Wars: O Despertar da Força
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/50.mp4:Snoopy e Charlie Brown: Peanuts PT
-#DESCRIPTION Snoopy e Charlie Brown: Peanuts PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/49.mp4:Remember
-#DESCRIPTION Remember
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/68.mp4:Ramaiya Vastavaiya
-#DESCRIPTION Ramaiya Vastavaiya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/71.mp4:Polícias em Grandes Apuros
-#DESCRIPTION Polícias em Grandes Apuros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/48.mp4:Orgulho e Preconceito e Guerra
-#DESCRIPTION Orgulho e Preconceito e Guerra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/52.mp4:O Principezinho
-#DESCRIPTION O Principezinho
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/67.mp4:Muito a Frente Pt
-#DESCRIPTION Muito a Frente Pt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/47.mp4:Kung Fu Panda 3
-#DESCRIPTION Kung Fu Panda 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/65.mp4:Jazbaa
-#DESCRIPTION Jazbaa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/63.mp4:James White
-#DESCRIPTION James White
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/46.mp4:ip Man 3
-#DESCRIPTION ip Man 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/56.mp4:Heropanti
-#DESCRIPTION Heropanti
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/54.mp4:Get a Job
-#DESCRIPTION Get a Job
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/45.mp4:Fourth Man Out
-#DESCRIPTION Fourth Man Out
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/62.mp4:Ek Tha Tiger
-#DESCRIPTION Ek Tha Tiger
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/55.mp4:Curse of the Witching Tree
-#DESCRIPTION Curse of the Witching Tree
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/53.mp4:Bem vindo ao Afeganistão
-#DESCRIPTION Bem vindo ao Afeganistão
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/59.mp4:As Armas de Jane
-#DESCRIPTION As Armas de Jane
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/44.mp4:Alvin e os Esquilos: A Grande Aventura PT
-#DESCRIPTION Alvin e os Esquilos: A Grande Aventura PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/43.mp4:A Viagem de Arlo - PT
-#DESCRIPTION A Viagem de Arlo - PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/70.mkv:A Guarda do Leao o Regresso do Rugido PT
-#DESCRIPTION A Guarda do Leao o Regresso do Rugido PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/42.mp4:A 5 Vaga
-#DESCRIPTION A 5 Vaga
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/live/painel/H94uP9vwlG/72.ts:#########>>>>>>>>>MAR2016<<<<<<<<<<<<#######
-#DESCRIPTION #########>>>>>>>>>MAR2016<<<<<<<<<<<<#######
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/29.mp4:The Overnight
-#DESCRIPTION The Overnight
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/26.mp4:The Lobster
-#DESCRIPTION The Lobster
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/38.mp4:Só Podiam Ser Irmãs
-#DESCRIPTION Só Podiam Ser Irmãs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/39.mp4:Samurai Cop 2: Deadly Vengeance
-#DESCRIPTION Samurai Cop 2: Deadly Vengeance
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/37.mp4:Point Break Caçadores de Emoções
-#DESCRIPTION Point Break Caçadores de Emoções
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/36.mp4:Pai Há Só Um!
-#DESCRIPTION Pai Há Só Um!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/41.mp4:Junto ao Mar
-#DESCRIPTION Junto ao Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/35.mp4:Jogos da Fome : A Revolta 2
-#DESCRIPTION Jogos da Fome : A Revolta 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/28.mp4:Hotel Transylvania 2 PT
-#DESCRIPTION Hotel Transylvania 2 PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/27.mp4:Forsaken
-#DESCRIPTION Forsaken
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/31.mp4:Alvin e os Esquilos: A Grande Aventura
-#DESCRIPTION Alvin e os Esquilos: A Grande Aventura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/33.mp4:A Senhora da Furgoneta
-#DESCRIPTION A Senhora da Furgoneta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/30.mp4:A Modista
-#DESCRIPTION A Modista
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/32.mp4:A Última Noitada
-#DESCRIPTION A Última Noitada
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/40.mp4:90 Minutes in Heaven
-#DESCRIPTION 90 Minutes in Heaven
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/21.mp4:Victor Frankenstein
-#DESCRIPTION Victor Frankenstein
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/13.mp4:Verdade
-#DESCRIPTION Verdade
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/25.mp4:The Forest
-#DESCRIPTION The Forest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/20.mp4:The Boy 2015
-#DESCRIPTION The Boy 2015
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/3.mp4:Terminus
-#DESCRIPTION Terminus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/24.mp4:Standoff
-#DESCRIPTION Standoff
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/23.mp4:Southbound
-#DESCRIPTION Southbound
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/19.mp4:Sem Compromissos
-#DESCRIPTION Sem Compromissos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/22.mp4:Rainha do Deserto
-#DESCRIPTION Rainha do Deserto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/10.mp4:Pan: Viagem à Terra do Nunca  PT
-#DESCRIPTION Pan: Viagem à Terra do Nunca  PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/17.mp4:Os Coopers São o Máximo
-#DESCRIPTION Os Coopers São o Máximo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/4.mp4:Os 33
-#DESCRIPTION Os 33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/12.mp4:O Segredo dos Seus Olhos
-#DESCRIPTION O Segredo dos Seus Olhos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/18.mp4:Moonwalkers
-#DESCRIPTION Moonwalkers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/9.mp4:Monster High: Boo York, Boo York PT
-#DESCRIPTION Monster High: Boo York, Boo York PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/6.mp4:Jeruzalem
-#DESCRIPTION Jeruzalem
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/16.mp4:Criminal Activities
-#DESCRIPTION Criminal Activities
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/5.mp4:Cartel Land
-#DESCRIPTION Cartel Land
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/14.mp4:American Hero
-#DESCRIPTION American Hero
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/7.mp4:Adulterers
-#DESCRIPTION Adulterers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/11.mp4:45 Anos
-#DESCRIPTION 45 Anos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/127.mp4:Zootopia
+#DESCRIPTION Zootopia
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Zootropolis_2016/Zootropolis.2016.mp4:Zootropola SINKRONIZIRANO (2016)
+#DESCRIPTION Zootropola SINKRONIZIRANO (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/154.mp4:Zootropolis PT
+#DESCRIPTION Zootropolis PT
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Zvoncica_i_gusarska_vila_2014/Zvoncica.i.gusarska.vila.2014.avi:Zvoncica i gusarska vila SINKRONIZIRANO (2014)
+#DESCRIPTION Zvoncica i gusarska vila SINKRONIZIRANO (2014)
 #SERVICE 1:64:99:0:0:0:0:0:0:0::FILM_A-SALON-TITAN
 #DESCRIPTION FILM_A-SALON-TITAN
 #SERVICE 4097:0:1:2186:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2002.MP4:Maze Runner The Scorch Trials (2015)
