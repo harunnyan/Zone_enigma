@@ -3,8 +3,6 @@
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8:SKY SPORT NEWS HD
 #DESCRIPTION SKY SPORT NEWS HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tinyurl.com/ybv744ph:LIVE BEIN ENGLAND
-#DESCRIPTION LIVE BEIN ENGLAND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8:Bursaspor TV
@@ -445,24 +443,6 @@
 #DESCRIPTION WRN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/632368443?ticket=9D599102EF84BA40B2007C024B45E73BD18115B7&amp;profile=pass:ZDF HD
 #DESCRIPTION ZDF HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch922?code=610116485444847:SKY Sport 1 UK
-#DESCRIPTION SKY Sport 1 UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch937?code=610116485444847:Sky Sport 2 UK
-#DESCRIPTION Sky Sport 2 UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch914?code=610116485444847:SKY Sport 3 UK
-#DESCRIPTION SKY Sport 3 UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch915?code=610116485444847:SKY Sport 4 UK
-#DESCRIPTION SKY Sport 4 UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch916?code=610116485444847:SKY Sport 5 UK
-#DESCRIPTION SKY Sport 5 UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch931?code=610116485444847:Sport Mix UK
-#DESCRIPTION Sport Mix UK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch1828?code=610116485444847:BT Sport 1
-#DESCRIPTION BT Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch1829?code=610116485444847:BT Sport 2
-#DESCRIPTION BT Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnv.cli.tn/iptv/ch1830?code=610116485444847:BT Sport Extra
-#DESCRIPTION BT Sport Extra
 #SERVICE 1:64:C6:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:Sky News
