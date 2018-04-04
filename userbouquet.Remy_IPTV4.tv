@@ -1,7 +1,7 @@
 #NAME **ENIGMA_TEAM_18+ADULT**
-#SERVICE 1:64:103:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_E N I G M A__T U R K__T E A
+#SERVICE 1:64:104:0:0:0:0:0:0:0:::::::::::::::::::::::_E N I G M A__T U R K__T E A
 #DESCRIPTION :::::::::::::::::::::_E N I G M A__T U R K__T E A
-#SERVICE 1:64:104:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_P R E M I U M__A D U L T_%3a%3a%3a
+#SERVICE 1:64:105:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00y/index.m3u8:FilmBox Action
 #DESCRIPTION FilmBox Action
@@ -33,8 +33,6 @@
 #DESCRIPTION RUSNOCH
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.128.7.227%3a81/udp/239.1.6.34%3a1234:O-la-la
 #DESCRIPTION O-la-la
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/500/index.m3u8:XXL
-#DESCRIPTION XXL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.128.7.227%3a81/udp/239.1.6.36%3a1234:blue Hustler
 #DESCRIPTION blue Hustler
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.128.7.227%3a81/udp/239.1.6.40%3a1234:Brazzers TV
@@ -55,7 +53,63 @@
 #DESCRIPTION RUSNOCH
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.128.7.227%3a81/udp/239.1.6.33%3a1234:HOYHONKAY
 #DESCRIPTION HOYHONKAY
-#SERVICE 1:64:105:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_S E X Y__C L I P S_%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/142/index.m3u8:Playboy
+#DESCRIPTION Playboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/264/index.m3u8:Nuart TV
+#DESCRIPTION Nuart TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/266/index.m3u8:Русская Ночь
+#DESCRIPTION Русская Ночь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/267/index.m3u8:Эгоист
+#DESCRIPTION Эгоист
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/268/index.m3u8:Blue Hustler
+#DESCRIPTION Blue Hustler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/346/index.m3u8:Brazzers TV Europe
+#DESCRIPTION Brazzers TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/354/index.m3u8:Private TV HD
+#DESCRIPTION Private TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/358/index.m3u8:Ev*lAng*lTV
+#DESCRIPTION Ev*lAng*lTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/359/index.m3u8:DUSK
+#DESCRIPTION DUSK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/360/index.m3u8:SCT
+#DESCRIPTION SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/361/index.m3u8:C*nto X C*nto
+#DESCRIPTION C*nto X C*nto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/362/index.m3u8:S*sto S*nso
+#DESCRIPTION S*sto S*nso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/363/index.m3u8:PassionX**
+#DESCRIPTION PassionX**
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/364/index.m3u8:Livechannel
+#DESCRIPTION Livechannel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/365/index.m3u8:Pink O TV
+#DESCRIPTION Pink O TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/500/index.m3u8:XXL
+#DESCRIPTION XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/500/index.m3u8:XXL
+#DESCRIPTION XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/501/index.m3u8:Redlight HD
+#DESCRIPTION Redlight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/502/index.m3u8:Hustler HD
+#DESCRIPTION Hustler HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/754/index.m3u8:Vivid TV Europe
+#DESCRIPTION Vivid TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/755/index.m3u8:Brazzers TV CZ
+#DESCRIPTION Brazzers TV CZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/851/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/852/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/853/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/854/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8:Zest TV
+#DESCRIPTION Zest TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/862/index.m3u8:Barely Legal TV
+#DESCRIPTION Barely Legal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8:EROX HD
+#DESCRIPTION EROX HD
+#SERVICE 1:64:106:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -149,7 +203,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:106:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_NAKED_SEXY_FUNNY_VIDEOS_%3a%3a%3a%3a
+#SERVICE 1:64:107:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
 #DESCRIPTION 2017 Victoria’s Secret Fashion Show
@@ -255,7 +309,7 @@
 #DESCRIPTION Naked_and_Funny_Talented_Magician
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_When_Statues_Attack!_9030_hd.mp4:Naked_and_Funny_When_Statues_Attack!
 #DESCRIPTION Naked_and_Funny_When_Statues_Attack!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_Won`t_Hurt_A_Bit!_9049_hd.mp4:Naked_and_Funny_Won%2560t_Hurt_A_Bit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_Won`t_Hurt_A_Bit!_9049_hd.mp4:Naked_and_Funny_Won%60t_Hurt_A_Bit
 #DESCRIPTION Naked_and_Funny_Won%60t_Hurt_A_Bit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked and Funny Do These Panties Match 9020.mp4:Naked and Funny Do These Panties Match
 #DESCRIPTION Naked and Funny Do These Panties Match
@@ -555,7 +609,7 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:107:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_V I D E O__C L I P S_%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:108:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.139.78/vidshd2/1.mp4:Vids HD  1
 #DESCRIPTION Vids HD  1
@@ -1227,67 +1281,89 @@
 #DESCRIPTION VOD_X 155
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.48.92.204/tjoobuploads/xxxtions/NjUyNTUwNmFuaW0yNTA0NA==.mp4:VOD_X 157
 #DESCRIPTION VOD_X 157
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
+#DESCRIPTION Adult 4K: VOD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4:Adult 4K: VOD 2
+#DESCRIPTION Adult 4K: VOD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4:Adult 4K: VOD 3
+#DESCRIPTION Adult 4K: VOD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4:Adult 4K: VOD 4
+#DESCRIPTION Adult 4K: VOD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4:Adult 4K: VOD 5
+#DESCRIPTION Adult 4K: VOD 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4:Adult 4K: VOD 6
+#DESCRIPTION Adult 4K: VOD 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4:Adult 4K: VOD 7
+#DESCRIPTION Adult 4K: VOD 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4:Adult 4K: VOD 8
+#DESCRIPTION Adult 4K: VOD 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4:Adult 4K: VOD 9
+#DESCRIPTION Adult 4K: VOD 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4:Adult 4K: VOD 10
+#DESCRIPTION Adult 4K: VOD 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4:Adult 4K: VOD 11
+#DESCRIPTION Adult 4K: VOD 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 12
 #DESCRIPTION Adult 4K: VOD 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 13
 #DESCRIPTION Adult 4K: VOD 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/566/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/566/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 14
 #DESCRIPTION Adult 4K: VOD 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/707/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/707/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 15
 #DESCRIPTION Adult 4K: VOD 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/592/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/592/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 16
 #DESCRIPTION Adult 4K: VOD 16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/535/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/535/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 17
 #DESCRIPTION Adult 4K: VOD 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 18
 #DESCRIPTION Adult 4K: VOD 18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/046/475/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/046/475/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 19
 #DESCRIPTION Adult 4K: VOD 19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/741/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/741/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 20
 #DESCRIPTION Adult 4K: VOD 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/467/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/467/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 21
 #DESCRIPTION Adult 4K: VOD 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/557/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/557/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 22
 #DESCRIPTION Adult 4K: VOD 22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/705/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/705/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 23
 #DESCRIPTION Adult 4K: VOD 23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/599/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/599/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 24
 #DESCRIPTION Adult 4K: VOD 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 26
 #DESCRIPTION Adult 4K: VOD 26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 27
 #DESCRIPTION Adult 4K: VOD 27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/059/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/059/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 29
 #DESCRIPTION Adult 4K: VOD 29
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/536/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/536/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 30
 #DESCRIPTION Adult 4K: VOD 30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/742/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 31
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/742/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 31
 #DESCRIPTION Adult 4K: VOD 31
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/595/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 32
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/595/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 32
 #DESCRIPTION Adult 4K: VOD 32
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/585/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/585/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 34
 #DESCRIPTION Adult 4K: VOD 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 35
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 35
 #DESCRIPTION Adult 4K: VOD 35
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/358/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 36
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/358/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 36
 #DESCRIPTION Adult 4K: VOD 36
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/443/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 37
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/443/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 37
 #DESCRIPTION Adult 4K: VOD 37
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/946/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/946/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 38
 #DESCRIPTION Adult 4K: VOD 38
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/046/498/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 39
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/046/498/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 39
 #DESCRIPTION Adult 4K: VOD 39
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/057/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/057/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 41
 #DESCRIPTION Adult 4K: VOD 41
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/802/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 42
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/802/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 42
 #DESCRIPTION Adult 4K: VOD 42
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/528/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 43
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/528/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 43
 #DESCRIPTION Adult 4K: VOD 43
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/333/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 44
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/052/333/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 44
 #DESCRIPTION Adult 4K: VOD 44
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/164/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 45
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/053/164/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 45
 #DESCRIPTION Adult 4K: VOD 45
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/374/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K%3a VOD 46
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/047/374/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 46
 #DESCRIPTION Adult 4K: VOD 46
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//galleries.3dcatchyfetish.com/tube/028/trailer.f4v:3D XXX
 #DESCRIPTION 3D XXX
@@ -1591,29 +1667,29 @@
 #DESCRIPTION wild-city-girl-shower-masturbation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.155.129.196/flashfiles/flash/young-couples-private-tape-leaked.flv:young-couples-private-tape-leaked
 #DESCRIPTION young-couples-private-tape-leaked
-#SERVICE 1:64:108:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
+#SERVICE 1:64:109:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #DESCRIPTION OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K%3a VOD 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
 #DESCRIPTION Adult 4K: VOD 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4:Adult 4K%3a VOD 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4:Adult 4K: VOD 2
 #DESCRIPTION Adult 4K: VOD 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4:Adult 4K%3a VOD 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4:Adult 4K: VOD 3
 #DESCRIPTION Adult 4K: VOD 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4:Adult 4K%3a VOD 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4:Adult 4K: VOD 4
 #DESCRIPTION Adult 4K: VOD 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4:Adult 4K%3a VOD 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4:Adult 4K: VOD 5
 #DESCRIPTION Adult 4K: VOD 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4:Adult 4K%3a VOD 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4:Adult 4K: VOD 6
 #DESCRIPTION Adult 4K: VOD 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4:Adult 4K%3a VOD 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4:Adult 4K: VOD 7
 #DESCRIPTION Adult 4K: VOD 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4:Adult 4K%3a VOD 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4:Adult 4K: VOD 8
 #DESCRIPTION Adult 4K: VOD 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4:Adult 4K%3a VOD 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4:Adult 4K: VOD 9
 #DESCRIPTION Adult 4K: VOD 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4:Adult 4K%3a VOD 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4:Adult 4K: VOD 10
 #DESCRIPTION Adult 4K: VOD 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4:Adult 4K%3a VOD 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4:Adult 4K: VOD 11
 #DESCRIPTION Adult 4K: VOD 11
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.phicatube.net/media/videos/iphone/40054.mp4:LARA CROFT VIDEOGAMES XXX
 #DESCRIPTION LARA CROFT VIDEOGAMES XXX

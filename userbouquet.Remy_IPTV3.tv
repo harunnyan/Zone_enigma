@@ -3,7 +3,7 @@
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:FB:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
+#SERVICE 1:64:FD:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uludag.listenpowerapp.com/uludag/live/chunks.m3u8:Power Uludağ Cam Canlı Yayın
 #DESCRIPTION Power Uludağ Cam Canlı Yayın
@@ -95,6 +95,8 @@
 #DESCRIPTION D-HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT HOT
 #DESCRIPTION DJING HOT HOT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/28031-04.m3u8:DJing HOT Live
+#DESCRIPTION DJing HOT Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/27963-03.m3u8:DJING
 #DESCRIPTION DJING
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/27971-04.m3u8:DJING M
@@ -375,9 +377,9 @@
 #DESCRIPTION ZMF1 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.goinfo.it/V33Live/v33ros/playlist.m3u8:Video 33 Trentino Alto Adige
 #DESCRIPTION Video 33 Trentino Alto Adige
-#SERVICE 1:64:FC:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
+#SERVICE 1:64:FE:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
-#SERVICE 1:64:FD:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
+#SERVICE 1:64:FF:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
 #DESCRIPTION :::::::::::::::::::::_KING Turkish Radios_::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -427,7 +429,7 @@
 #DESCRIPTION KRAL DIZI & FILM MUZIKLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:FE:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
+#SERVICE 1:64:100:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
 #DESCRIPTION :::::::::::::::::::::_KING World Radios_::::::::::
 #SERVICE 4097:0:1:64:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akflashback.smil/chunklist_w2033212040_b64000.m3u8:KRAL FLASHBACK
 #DESCRIPTION KRAL FLASHBACK
@@ -481,7 +483,7 @@
 #DESCRIPTION KRAL FRANCE
 #SERVICE 4097:0:1:76:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akopera.smil/chunklist_w2006434852_b64000.m3u8:KRAL OPERA
 #DESCRIPTION KRAL OPERA
-#SERVICE 1:64:FF:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_Sta
+#SERVICE 1:64:101:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_Sta
 #DESCRIPTION :::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_Sta
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:rtmp%3a//37.247.100.100/best//babaradyo.stream:Baba Radyo
 #DESCRIPTION Baba Radyo
@@ -561,7 +563,7 @@
 #DESCRIPTION Power FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17703.live.streamtheworld.com/GENCVEFIT128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=dce3b2e0-c000-46fc-a6e7-c1c63af7ee94:Genc & Fit
 #DESCRIPTION Genc & Fit
-#SERVICE 1:64:100:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
+#SERVICE 1:64:102:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_iTunes Radios_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
@@ -683,7 +685,7 @@
 #DESCRIPTION WRCF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ice7.securenetsystems.net/KSOPFM:Z104 Country KSOP-FM
 #DESCRIPTION Z104 Country KSOP-FM
-#SERVICE 1:64:101:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| CONCERTS_:::::
+#SERVICE 1:64:103:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| CONCERTS_:::::
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| CONCERTS_:::::
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//fromv.ir/vip/Concert/eyd96/30 Seconds to Mars iTunes Festival 2013[FromAnime].MKV:30 Seconds to Mars iTunes Festival 2013[FromAnime]
 #DESCRIPTION 30 Seconds to Mars iTunes Festival 2013[FromAnime]
