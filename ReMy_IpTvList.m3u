@@ -259,40 +259,99 @@ http://livetr.teleromagna.it/sport/live/playlist.m3u8
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1,Uni Sports
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
-#EXTINF:-1,(TR) beIN Sports 1 HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/452.ts
-#EXTINF:-1,(TR) beIN Sports 2 HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/470.ts
-#EXTINF:-1,(TR) beIN Sports 3 HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/478.ts
-#EXTINF:-1,(TR) beIN Sports 4 HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1937.ts
-#EXTINF:-1,(TR) beIN Sports Haber SD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2478.ts
-#EXTINF:-1,(TR) beIN Sports Haber UHD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2477.ts
-#EXTINF:-1,(TR) TivibuSpor 1
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/484.ts
-#EXTINF:-1,(TR) TivibuSpor 2
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/485.ts
-#EXTINF:-1,(TR) TivibuSpor 3
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2197.ts
-#EXTINF:-1,(TR) TivibuSpor 4
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/2198.ts
-#EXTINF:-1,(TR) ATV HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/383.ts
-#EXTINF:-1,(TR) A2
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1440.ts
-#EXTINF:-1,(TR) A Spor HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/454.ts
-#EXTINF:-1,(TR) TV 8 HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/462.ts
-#EXTINF:-1,(TR) TV 8.5 HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1416.ts
-#EXTINF:-1,(TR) S Spor HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/477.ts
-#EXTINF:-1,(TR) Kanal D HD
-http://www.nilsattv.com:8080/live/sdcdn/7Z2SVfUhNl/1380.ts
+# EXTM3U
+#EXTINF: -1, CBCSportHD
+http://78.36.74.205:6689/stream?cid=4824
+#EXTINF: -1, MatchTV
+http://78.36.74.205:6689/stream?cid=3568
+#EXTINF: -1, MatchTWHD
+http://78.36.74.205:6689/stream?cid=91
+#EXTINF: -1, Match! Arena
+http://78.36.74.205:6689/stream?cid=3652
+#EXTINF: -1, Match! ArenaHD
+http://78.36.74.205:6689/stream?cid=3577
+#EXTINF: -1, Match! Game
+http://78.36.74.205:6689/stream?cid=3672
+#EXTINF: -1, Match! GameHD
+http://78.36.74.205:6689/stream?cid=3572
+#EXTINF: -1, Match! OurSport
+http://78.36.74.205:6689/stream?cid=3669
+#EXTINF: -1, Match! Planet
+http://78.36.74.205:6689/stream?cid=3676
+#EXTINF: -1, Match! Soccer1
+http://78.36.74.205:6689/stream?cid=3679
+#EXTINF: -1, Match! Football1HD
+http://78.36.74.205:6689/stream?cid=3569
+#EXTINF: -1, Match! Football2
+http://78.36.74.205:6689/stream?cid=3671
+#EXTINF: -1, match! Football2HD
+http://78.36.74.205:6689/stream?cid=3570
+#EXTINF: -1, Match Soccer3
+http://78.36.74.205:6689/stream?cid=3681
+#EXTINF: -1, match! Football3HD
+http://78.36.74.205:6689/stream?cid=3571
+#EXTINF: -1, Football1 (Ukraine)
+http://78.36.74.205:6689/stream?cid=3895
+#EXTINF: -1, Football1HD (Nomodation)
+http://78.36.74.205:6689/stream?cid=5877
+#EXTINF: -1, Football2 (Ukraine)
+http://78.36.74.205:6689/stream?cid=3779
+#EXTINF: -1, Football
+http://78.36.74.205:6689/stream?cid=4837
+#EXTINF: -1, FootballHD (Nomoderations)
+http://78.36.74.205:6689/stream?cid=5851
+#EXTINF: -1, Sport1 (Ukraine)
+http://78.36.74.205:6689/stream?cid=5435
+#EXTINF: -1, StartTVHD (namoderatsiya)
+http://78.36.74.205:6689/stream?cid=5606
+#EXTINF: -1, SetanaSportEvrasiaHD (Nomodation)
+http://78.36.74.205:6689/stream?cid=5884
+#EXTINF: -1, SetanaSport + EurasiaHD (Nomodation)
+http://78.36.74.205:6689/stream?cid=5880
+#EXTINF: -1, XSport
+http: //78.36.74.http6689/stream? cid = 4620
+#EXTINF: -1, XSportHD (namoderatsii)
+http://78.36.74.205:6689/stream?cid=5844
+#EXTINF: -1, KazSport
+http://78.36.74.205:6689/stream?cid=5668
+#EXTINF: -1, Eurosport1
+http://78.36.74.205:6689/stream?cid=3651
+#EXTINF: -1, Eurosport1HD
+http://78.36.74.205:6689/stream?cid=3674
+#EXTINF: -1, Eurosport2
+http://78.36.74.205:6689/stream?cid=3680
+#EXTINF: -1, Eurosport2HD
+http://78.36.74.205:6689/stream?cid=3685
+#EXTINF: -1, EurosportNews
+http://78.36.74.205:6689/stream?cid=5353
+#EXTINF: -1, ViasatFotboll
+http://78.36.74.205:6689/stream?cid=3684
+#EXTINF: -1, ViasatSport
+http://78.36.74.205:6689/stream?cid=3677
+#EXTINF: -1, ViasatSportHD
+http://78.36.74.205:6689/stream?cid=3682
+#EXTINF: -1, ViasatSportBaltic
+http://78.36.74.205:6689/stream?cid=3683
+#EXTINF: -1, TeleSport
+http://78.36.74.205:6689/stream?cid=5892
+#EXTINF: -1, TELESPORT4
+http://78.36.74.205:6689/stream?cid=5891
+#EXTINF: -1, KHLHD
+http://78.36.74.205:6689/stream?cid=3678
+#EXTINF: -1, KHLTV
+http://78.36.74.205:6689/stream?cid=3668
+#EXTINF: -1, Connomyr
+http://78.36.74.205:6689/stream?cid=4513
+#EXTINF: -1, CondominiumHD
+http://78.36.74.205:6689/stream?cid=4359
+#EXTINF: -1, ADSport1HD (namereda)
+http://78.36.74.205:6689/stream?cid=5641
+#EXTINF: -1, ADSport2HD (namoredation)
+http://78.36.74.205:6689/stream?cid=5818
+#EXTINF: -1, PolsatSportExtra
+http://78.36.74.205:6689/stream?cid=5798
+#EXTINF: -1, SkySportNewsHDDeutschland
+http://78.36.74.205:6689/stream?cid=5754
 #EXTINF:-1,Sportklub HD
 http://156.67.95.21:8000/play/a014/index.m3u8
 #EXTINF:-1,BBC HD
@@ -1483,63 +1542,57 @@ rtmp://streaming.fundorado.com:80/fundoradotv//live.stream
 rtmp://stream.visit-x.tv/vxtv//live_720p
 #EXTINF:-1 parent-code="1234",BS 24 LIVE
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 parent-code="1234",SEX STATION
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-#EXTINF:-1 parent-code="1234",NUART
-http://78.111.176.132:8080
-#EXTINF:-1 parent-code="1234",RUSNOCH
-http://5.128.7.227:81/udp/239.1.6.32:1234
-#EXTINF:-1 parent-code="1234",evil angel
-http://37.9.0.201:8889
-#EXTINF:-1 parent-code="1234",Hustler
-http://5.128.7.227:81/udp/239.1.6.36:1234
-#EXTINF:-1 parent-code="1234",Brazzers TV
-http://5.128.7.227:81/udp/239.1.6.40:1234
-#EXTINF:-1 parent-code="1234",Cento X Cento
-http://37.9.0.201:8811
-#EXTINF:-1 parent-code="1234",Passion XXX
-http://37.9.0.201:8888
-#EXTINF:-1 parent-code="1234",xtreme
-http://144.217.254.99:25461/live/Danone2016/Danonedanone40/1258.ts
-#EXTINF:-1 parent-code="1234",xy Hot
-http://144.217.254.99:25461/live/Danone2016/Danonedanone40/1257.ts
-#EXTINF:-1 parent-code="1234",Venus
-http://144.217.254.99:25461/live/Danone2016/Danonedanone40/2649.ts
-#EXTINF:-1 parent-code="1234",Playboy TV
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/502.ts
-#EXTINF:-1 parent-code="1234",PentHouse HD
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/979.ts
-#EXTINF:-1 parent-code="1234",Sextreme
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/473.ts
-#EXTINF:-1 parent-code="1234",Sexy Hot
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/472.ts
-#EXTINF:-1 parent-code="1234",SexZone
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/978.ts
-#EXTINF:-1 parent-code="1234",SexZone HD
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/423.ts
-#EXTINF:-1 parent-code="1234",Hot HD
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/982.ts
-#EXTINF:-1 parent-code="1234",Hustler HD
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/981.ts
-#EXTINF:-1 parent-code="1234",Passie XXX
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/980.ts
-#EXTINF:-1 parent-code="1234",Venus
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/984.ts
-#EXTINF:-1 parent-code="1234",XxxxXXX
-http://paineliptvgold.info:25461/live/canalvocesabianao2018/8ZIdREboQk/977.ts
-#EXTINF:-1 parent-code="1234",Brazzers TV HD
-http://144.217.254.99:25461/live/lele/lele/2363.ts
-#EXTINF:-1 parent-code="1234",Venus
-http://144.217.254.99:25461/live/lele/lele/2649.ts
-#EXTINF:-1 parent-code="1234",Hot HD
-http://144.217.254.99:25461/live/lele/lele/2770.ts
-#EXTINF:-1 parent-code="1234",Hustler HD
-http://144.217.254.99:25461/live/lele/lele/2769.ts
-#EXTINF:-1 parent-code="1234",Passie XXX
-http://144.217.254.99:25461/live/lele/lele/2772.ts
-#EXTINF:-1 parent-code="1234",PentHouse HD
-http://144.217.254.99:25461/live/lele/lele/2771.ts
-#EXTINF:-1 parent-code="1234",SexZone
-http://144.217.254.99:25461/live/lele/lele/2773.ts
-#EXTINF:-1 parent-code="1234",XxxxXXX
-http://144.217.254.99:25461/live/lele/lele/2768.ts
+#EXTINF:-1 parent-code="1234",Playboy 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/142/index.m3u8
+#EXTINF:-1 parent-code="1234",Nuart TV 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/264/index.m3u8
+#EXTINF:-1 parent-code="1234",Русская Ночь 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/266/index.m3u8
+#EXTINF:-1 parent-code="1234",Эгоист 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/267/index.m3u8
+#EXTINF:-1 parent-code="1234",Blue Hustler 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/268/index.m3u8
+#EXTINF:-1 parent-code="1234",Brazzers TV Europe 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/346/index.m3u8
+#EXTINF:-1 parent-code="1234",Private TV HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/354/index.m3u8
+#EXTINF:-1 parent-code="1234",Ev*lAng*lTV 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/358/index.m3u8
+#EXTINF:-1 parent-code="1234",DUSK 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/359/index.m3u8
+#EXTINF:-1 parent-code="1234",SCT 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/360/index.m3u8
+#EXTINF:-1 parent-code="1234",C*nto X C*nto 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/361/index.m3u8
+#EXTINF:-1 parent-code="1234",S*sto S*nso 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/362/index.m3u8
+#EXTINF:-1 parent-code="1234",PassionX** 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/363/index.m3u8
+#EXTINF:-1 parent-code="1234",Livechannel 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/364/index.m3u8
+#EXTINF:-1 parent-code="1234",Pink O TV 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/365/index.m3u8
+#EXTINF:-1 parent-code="1234",XXL 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/500/index.m3u8
+#EXTINF:-1 parent-code="1234",Redlight HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/501/index.m3u8
+#EXTINF:-1 parent-code="1234",Hustler HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/502/index.m3u8
+#EXTINF:-1 parent-code="1234",Vivid TV Europe 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/754/index.m3u8
+#EXTINF:-1 parent-code="1234",Brazzers TV CZ 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/755/index.m3u8
+#EXTINF:-1 parent-code="1234",Dorcel TV HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/851/index.m3u8
+#EXTINF:-1 parent-code="1234",Dorcel TV HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/852/index.m3u8
+#EXTINF:-1 parent-code="1234",Dorcel TV HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/853/index.m3u8
+#EXTINF:-1 parent-code="1234",Dorcel TV HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/854/index.m3u8
+#EXTINF:-1 parent-code="1234",Zest TV 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8
+#EXTINF:-1 parent-code="1234",Barely Legal TV 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/862/index.m3u8
+#EXTINF:-1 parent-code="1234",EROX HD 
+http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8
