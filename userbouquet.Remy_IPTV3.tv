@@ -349,6 +349,12 @@
 #DESCRIPTION TOP SOUND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co%3a80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8:Trendy CHANNEL
 #DESCRIPTION Trendy CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00j/index.m3u8:TV6 HD
+#DESCRIPTION TV6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/live.m3u8:TV MAS HD
+#DESCRIPTION TV MAS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv//master.m3u8:TVMas
+#DESCRIPTION TVMas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.16.66.101%3a1935/livecast/_definst_/tvm3/playlist.m3u8:TVM3
 #DESCRIPTION TVM3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canal22santiago.cl/playlist.m3u8:TVR
@@ -1205,3 +1211,5 @@
 #DESCRIPTION whitesnake_made_in_japan.avi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.78.244.221%3a99/video/mp4/music4/xzibit_restless_xposed.avi:xzibit_restless_xposed.avi
 #DESCRIPTION xzibit_restless_xposed.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00n/index.m3u8:VOX MUSIC TV
+#DESCRIPTION VOX MUSIC TV

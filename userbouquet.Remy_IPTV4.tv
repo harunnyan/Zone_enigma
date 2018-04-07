@@ -3,6 +3,8 @@
 #DESCRIPTION :::::::::::::::::::::_E N I G M A__T U R K__T E A
 #SERVICE 1:64:105:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/1327376622?ticket=44971DF0510284E244CAAF6B7B1B9153DF0EBA10&amp;profile=pass:SPORT1 HD
+#DESCRIPTION SPORT1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00y/index.m3u8:FilmBox Action
 #DESCRIPTION FilmBox Action
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
