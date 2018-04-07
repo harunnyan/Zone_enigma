@@ -155,6 +155,20 @@
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deporte TV
 #DESCRIPTION Todo Deporte TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/566/index.m3u8:beIN Sports HD
+#DESCRIPTION beIN Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/569/index.m3u8:Movistar+ Golf HD
+#DESCRIPTION Movistar+ Golf HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/574/index.m3u8:beIN LaLiga HD
+#DESCRIPTION beIN LaLiga HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/575/index.m3u8:Movistar+ Futbol
+#DESCRIPTION Movistar+ Futbol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/581/index.m3u8:LaLiga TV Bar HD
+#DESCRIPTION LaLiga TV Bar HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/612/index.m3u8:Movistar+ F1
+#DESCRIPTION Movistar+ F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/613/index.m3u8:Movistar+ Moto GP
+#DESCRIPTION Movistar+ Moto GP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/2138041101?ticket=C10E1D37AEADA1216C92A73148A59F5A2F58B012&amp;profile=pass:SKYSPORT 1 HD
 #DESCRIPTION SKYSPORT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/1558616690?ticket=F1C17C4F311791847FBE55712145573EB71AE809&amp;profile=pass:Equidia
