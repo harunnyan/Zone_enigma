@@ -335,15 +335,15 @@
 #DESCRIPTION BURSA LINE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz%3a80/Bursaspor/bursaspor/playlist.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
-#SERVICE 1:0:1:C9FF:A926:42E:1A40000:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/caytv/bant1/CAYTV.m3u8:CAY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/caytv/bant1/CAYTV.m3u8:CAY TV
 #DESCRIPTION CAY TV
-#SERVICE 1:0:1:3911:A21D:42E:1A40000:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/deha/bant1/DEHATV.m3u8:DEHA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/deha/bant1/DEHATV.m3u8:DEHA TV
 #DESCRIPTION DEHA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/denizhaber/denizhaber.m3u8:DENIZ HABER
 #DESCRIPTION DENIZ HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/diyalogtv/chunklist.m3u8:DIYALOG TV
 #DESCRIPTION DIYALOG TV
-#SERVICE 1:0:1:C803:A3AE:42E:1A40000:0:0:0:rtmp%3a//stream2.taksimbilisim.com/drt/bant1:DRT DENIZLI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.taksimbilisim.com/drt/bant1:DRT DENIZLI
 #DESCRIPTION DRT DENIZLI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/duzcetv/playlist.m3u8:DUZCE TV
 #DESCRIPTION DUZCE TV
@@ -359,7 +359,7 @@
 #DESCRIPTION FUL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/gazitv/gazitv/playlist.m3u8:Gazi TV
 #DESCRIPTION Gazi TV
-#SERVICE 1:0:1:CABF:7A45:42E:1A40000:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/gtv/bant1/GuneydoguTV.m3u8:GUNEYDOGU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/gtv/bant1/GuneydoguTV.m3u8:GUNEYDOGU TV
 #DESCRIPTION GUNEYDOGU TV
 #SERVICE 4097:0:1:239:0:0:0:0:0:0:rtmp%3a//streaming.linuxhosting.gen.tr/Kgrt/Kgrt:KARAMAN KGRT
 #DESCRIPTION KARAMAN KGRT
@@ -367,7 +367,7 @@
 #DESCRIPTION Kanal 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/kanal24/kanal243/chunklist.m3u8:KANAL 24
 #DESCRIPTION KANAL 24
-#SERVICE 1:0:1:390E:A21D:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal26/bant1/Kanal26.m3u8:Kanal 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal26/bant1/Kanal26.m3u8:Kanal 26
 #DESCRIPTION Kanal 26
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/kanal34tv/kanal34tv/chunklist.m3u8:KANAL 34
 #DESCRIPTION KANAL 34
@@ -377,7 +377,7 @@
 #DESCRIPTION KANAL 38
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/erciyestv/playlist.m3u8:KAYSERI ERCIYES
 #DESCRIPTION KAYSERI ERCIYES
-#SERVICE 1:0:1:C5B1:75F9:42E:1A40000:0:0:0:rtmp%3a//yayin5.canliyayin.org/live/kanalfirat:KANAL FIRAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//yayin5.canliyayin.org/live/kanalfirat:KANAL FIRAT
 #DESCRIPTION KANAL FIRAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/kanallikya/playlist.m3u8:KANAL LIKYA
 #DESCRIPTION KANAL LIKYA
@@ -431,13 +431,13 @@
 #DESCRIPTION TURKMEN YASLIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv41/smil%3atv41.smil/chunklist.m3u8:TV 41
 #DESCRIPTION TV 41
-#SERVICE 1:0:1:3919:A21D:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv41/bant1/TV41.m3u8:TV 41
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv41/bant1/TV41.m3u8:TV 41
 #DESCRIPTION TV 41
-#SERVICE 1:0:1:C3BB:A475:42E:1A40000:0:0:0:rtmp%3a//stream.taksimbilisim.com/tv52/bant1:TV 52
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/tv52/bant1:TV 52
 #DESCRIPTION TV 52
-#SERVICE 1:0:1:C6DA:778A:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv2000/bant1/Remy.m3u8:TV2000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv2000/bant1/Remy.m3u8:TV2000
 #DESCRIPTION TV2000
-#SERVICE 1:0:1:C5A8:75F9:42E:1A40000:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv1/bant1/TV1.m3u8:TV KAYSERI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/tv1/bant1/TV1.m3u8:TV KAYSERI
 #DESCRIPTION TV KAYSERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/gtv/bant1/GuneydoguTV.m3u8:URFA GUNEYDOGU
 #DESCRIPTION URFA GUNEYDOGU
