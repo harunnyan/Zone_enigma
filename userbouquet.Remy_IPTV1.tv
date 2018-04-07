@@ -83,7 +83,7 @@
 #DESCRIPTION TRT AVAZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8:TRT ARAPÇA
 #DESCRIPTION TRT ARAPÇA
-#SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
 #DESCRIPTION TRT Kurdi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.170%3a1234:DİSNEY TV
 #DESCRIPTION DİSNEY TV
@@ -299,7 +299,7 @@
 #DESCRIPTION Istweb TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza4:Istweb TV
 #DESCRIPTION Istweb TV
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/kanal3/bant1:AFYON KANAL 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/kanal3/bant1:AFYON KANAL 3
 #DESCRIPTION AFYON KANAL 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/chunklist.m3u8:AFYON KANAL 3
 #DESCRIPTION AFYON KANAL 3
@@ -307,13 +307,13 @@
 #DESCRIPTION AKSARAY 68
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal68/bant1/Kanal68.m3u8:AKSARAY 68
 #DESCRIPTION AKSARAY 68
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/aksutv/smil%3aaksutv.smil/Remy.m3u8:AKSU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/aksutv/smil%3aaksutv.smil/Remy.m3u8:AKSU TV
 #DESCRIPTION AKSU TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//canliyayin.kanalalanya.com%3a1935/live/liveStream:ALANYA
 #DESCRIPTION ALANYA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliyayin.kanalalanya.com%3a1935/live/liveStream/playlist.m3u8:ALANYA TV
 #DESCRIPTION ALANYA TV
-#SERVICE 4097:0:1:23:0:0:0:0:0:0:rtmp%3a//anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp:ANADOLU TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//anadolutv.radyotvyayini.com/rtplive/anadolutv.sdp:ANADOLU TV
 #DESCRIPTION ANADOLU TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/kanalvip/bant1/VTV.m3u8:ANTALYA VTV
 #DESCRIPTION ANTALYA VTV
@@ -363,7 +363,7 @@
 #DESCRIPTION GUNEYDOGU TV
 #SERVICE 4097:0:1:239:0:0:0:0:0:0:rtmp%3a//streaming.linuxhosting.gen.tr/Kgrt/Kgrt:KARAMAN KGRT
 #DESCRIPTION KARAMAN KGRT
-#SERVICE 4097:0:1:193:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/Kanal3.m3u8:Kanal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/Kanal3.m3u8:Kanal 3
 #DESCRIPTION Kanal 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/kanal24/kanal243/chunklist.m3u8:KANAL 24
 #DESCRIPTION KANAL 24
@@ -389,7 +389,7 @@
 #DESCRIPTION KAYSERI TV1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/live/kontv/playlist.m3u8:KON TV
 #DESCRIPTION KON TV
-#SERVICE 4097:0:1:253:0:0:0:0:0:0:rtmp%3a//yayin3.canlitv.com/live/untv:KONYA SELCUK UNI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//yayin3.canlitv.com/live/untv:KONYA SELCUK UNI
 #DESCRIPTION KONYA SELCUK UNI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/kanal43/playlist.m3u8:KUTAHYA 43
 #DESCRIPTION KUTAHYA 43
@@ -413,7 +413,7 @@
 #DESCRIPTION SINOP YILDIZ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/srt/smil%3asrt.smil/playlist.m3u8:SIVAS SRT
 #DESCRIPTION SIVAS SRT
-#SERVICE 4097:0:1:323:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/mersinsuntv/bant1/SUNTV.m3u8:SUN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.taksimbilisim.com%3a1935/mersinsuntv/bant1/SUNTV.m3u8:SUN TV
 #DESCRIPTION SUN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/superkanal/playlist.m3u8:SUPER KANAL
 #DESCRIPTION SUPER KANAL
