@@ -1297,543 +1297,9 @@
 #DESCRIPTION Zootropolis PT
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Zvoncica_i_gusarska_vila_2014/Zvoncica.i.gusarska.vila.2014.avi:Zvoncica i gusarska vila SINKRONIZIRANO (2014)
 #DESCRIPTION Zvoncica i gusarska vila SINKRONIZIRANO (2014)
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::FILM_A-SALON-TITAN
-#DESCRIPTION FILM_A-SALON-TITAN
-#SERVICE 4097:0:1:2186:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2002.MP4:Maze Runner The Scorch Trials (2015)
-#DESCRIPTION Maze Runner The Scorch Trials (2015)
-#SERVICE 4097:0:1:2184:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1719.MP4:McFarland USA (2015)
-#DESCRIPTION McFarland USA (2015)
-#SERVICE 4097:0:1:2182:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1721.MP4:Me and Earl and the Dying Girl (2015)
-#DESCRIPTION Me and Earl and the Dying Girl (2015)
-#SERVICE 4097:0:1:2180:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1720.MP4:Me Before You (2016)
-#DESCRIPTION Me Before You (2016)
-#SERVICE 4097:0:1:2178:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1722.MP4:Meadowland (2015)
-#DESCRIPTION Meadowland (2015)
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10923.mp4:Mean Dreams (2017)
-#DESCRIPTION Mean Dreams (2017)
-#SERVICE 4097:0:1:2176:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1723.MP4:Mechanic Resurrection (2016)
-#DESCRIPTION Mechanic Resurrection (2016)
-#SERVICE 4097:0:1:2174:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1724.MP4:Memento (2000)
-#DESCRIPTION Memento (2000)
-#SERVICE 4097:0:1:2172:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2003.MP4:Memoirs of a Geisha (2005)
-#DESCRIPTION Memoirs of a Geisha (2005)
-#SERVICE 4097:0:1:2170:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1726.MP4:Midnight Special (2016)
-#DESCRIPTION Midnight Special (2016)
-#SERVICE 4097:0:1:2168:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1727.MP4:Million Dollar Arm (2014)
-#DESCRIPTION Million Dollar Arm (2014)
-#SERVICE 4097:0:1:2166:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2004.MP4:Million Dollar Baby (2004)
-#DESCRIPTION Million Dollar Baby (2004)
-#SERVICE 4097:0:1:2164:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2005.MP4:Minority Report (2002)
-#DESCRIPTION Minority Report (2002)
-#SERVICE 4097:0:1:2162:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1728.MP4:Miracles from Heaven (2016)
-#DESCRIPTION Miracles from Heaven (2016)
-#SERVICE 4097:0:1:2160:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1729.MP4:Mirror Mirror (2012)
-#DESCRIPTION Mirror Mirror (2012)
-#SERVICE 4097:0:1:2158:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1730.MP4:Mischief Night (2013)
-#DESCRIPTION Mischief Night (2013)
-#SERVICE 4097:0:1:2156:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1731.MP4:Misconduct (2016)
-#DESCRIPTION Misconduct (2016)
-#SERVICE 4097:0:1:2154:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1732.MP4:Miss You Already (2015)
-#DESCRIPTION Miss You Already (2015)
-#SERVICE 4097:0:1:2152:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1733.MP4:Mistress America (2015)
-#DESCRIPTION Mistress America (2015)
-#SERVICE 4097:0:1:2150:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2006.MP4:Moby Dick (2011)
-#DESCRIPTION Moby Dick (2011)
-#SERVICE 4097:0:1:2148:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1734.MP4:Money Monster (2016)
-#DESCRIPTION Money Monster (2016)
-#SERVICE 4097:0:1:2146:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1735.MP4:Monster (2003)
-#DESCRIPTION Monster (2003)
-#SERVICE 4097:0:1:2144:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1737.MP4:Monsters Inc. (2001)
-#DESCRIPTION Monsters Inc. (2001)
-#SERVICE 4097:0:1:2142:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1736.MP4:Monsters University (2013)
-#DESCRIPTION Monsters University (2013)
-#SERVICE 4097:0:1:2140:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1738.MP4:Moon (2009)
-#DESCRIPTION Moon (2009)
-#SERVICE 4097:0:1:1664:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/554.MP4:Moonlight (2016)
-#DESCRIPTION Moonlight (2016)
-#SERVICE 4097:0:1:2138:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1739.MP4:Mothers Day (2016)
-#DESCRIPTION Mothers Day (2016)
-#SERVICE 4097:0:1:2136:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1740.MP4:Mr. and Mrs. Smith (2005)
-#DESCRIPTION Mr. and Mrs. Smith (2005)
-#SERVICE 4097:0:1:2134:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1741.MP4:Mr. Holmes (2015)
-#DESCRIPTION Mr. Holmes (2015)
-#SERVICE 4097:0:1:2132:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1742.MP4:Mr. Right (2015)
-#DESCRIPTION Mr. Right (2015)
-#SERVICE 4097:0:1:2130:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2007.MP4:Mr. Turner (2014)
-#DESCRIPTION Mr. Turner (2014)
-#SERVICE 4097:0:1:2128:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1743.MP4:Mustang (2015)
-#DESCRIPTION Mustang (2015)
-#SERVICE 4097:0:1:2126:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1744.MP4:My All-American (2015)
-#DESCRIPTION My All-American (2015)
-#SERVICE 4097:0:1:2124:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1745.MP4:My Big Fat Greek Wedding 2 (2016)
-#DESCRIPTION My Big Fat Greek Wedding 2 (2016)
-#SERVICE 4097:0:1:2122:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1746.MP4:My King (2015)
-#DESCRIPTION My King (2015)
-#SERVICE 4097:0:1:2120:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1747.MP4:My Sisters Keeper (2009)
-#DESCRIPTION My Sisters Keeper (2009)
-#SERVICE 4097:0:1:2118:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2008.MP4:Mythica 5 The GodSlayer (2017)
-#DESCRIPTION Mythica 5 The GodSlayer (2017)
-#SERVICE 4097:0:1:2116:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1748.MP4:Mythica A Quest for Heroes (2014)
-#DESCRIPTION Mythica A Quest for Heroes (2014)
-#SERVICE 4097:0:1:2114:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1749.MP4:Mythica The Darkspore (2015)
-#DESCRIPTION Mythica The Darkspore (2015)
-#SERVICE 4097:0:1:2112:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1750.MP4:Mythica The Iron Crown (2016)
-#DESCRIPTION Mythica The Iron Crown (2016)
-#SERVICE 4097:0:1:2110:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1751.MP4:Mythica The Necromancer (2015)
-#DESCRIPTION Mythica The Necromancer (2015)
-#SERVICE 4097:0:1:2108:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1752.MP4:Narcopolis (2015)
-#DESCRIPTION Narcopolis (2015)
-#SERVICE 4097:0:1:2106:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1753.MP4:National Lampoons Christmas Vacation (1989)
-#DESCRIPTION National Lampoons Christmas Vacation (1989)
-#SERVICE 4097:0:1:2104:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1754.MP4:National Treasure (2004)
-#DESCRIPTION National Treasure (2004)
-#SERVICE 4097:0:1:2102:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1755.MP4:Neighbors (2014)
-#DESCRIPTION Neighbors (2014)
-#SERVICE 4097:0:1:2100:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1756.MP4:Neighbors 2 Sorority Rising (2016)
-#DESCRIPTION Neighbors 2 Sorority Rising (2016)
-#SERVICE 4097:0:1:2098:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1757.MP4:Never Let Me Go (2010)
-#DESCRIPTION Never Let Me Go (2010)
-#SERVICE 4097:0:1:2096:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1758.MP4:Night at the Museum Secret of the Tomb (2014)
-#DESCRIPTION Night at the Museum Secret of the Tomb (2014)
-#SERVICE 4097:0:1:2094:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1759.MP4:Nightcrawler (2014)
-#DESCRIPTION Nightcrawler (2014)
-#SERVICE 4097:0:1:2092:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1760.MP4:No Escape (2015)
-#DESCRIPTION No Escape (2015)
-#SERVICE 4097:0:1:2090:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1761.MP4:No Strings Attached (2011)
-#DESCRIPTION No Strings Attached (2011)
-#SERVICE 4097:0:1:2088:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2009.MP4:Noah (2014)
-#DESCRIPTION Noah (2014)
-#SERVICE 4097:0:1:2086:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2010.MP4:Nochnye strazhi (2016)
-#DESCRIPTION Nochnye strazhi (2016)
-#SERVICE 4097:0:1:2084:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1762.MP4:Now You See Me (2013)
-#DESCRIPTION Now You See Me (2013)
-#SERVICE 4097:0:1:2082:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1763.MP4:Now You See Me 2 (2016)
-#DESCRIPTION Now You See Me 2 (2016)
-#SERVICE 4097:0:1:2080:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1764.MP4:Oceans Eleven (2001)
-#DESCRIPTION Oceans Eleven (2001)
-#SERVICE 4097:0:1:2078:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1765.MP4:Oceans Thirteen (2007)
-#DESCRIPTION Oceans Thirteen (2007)
-#SERVICE 4097:0:1:2076:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1766.MP4:October Baby (2011)
-#DESCRIPTION October Baby (2011)
-#SERVICE 4097:0:1:2074:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1767.MP4:Off Piste (2016)
-#DESCRIPTION Off Piste (2016)
-#SERVICE 4097:0:1:2072:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1768.MP4:Oldboy (2013)
-#DESCRIPTION Oldboy (2013)
-#SERVICE 4097:0:1:1638:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/573.MP4:Once Brothers (2010)
-#DESCRIPTION Once Brothers (2010)
-#SERVICE 4097:0:1:2070:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1769.MP4:Only Lovers Left Alive (2013)
-#DESCRIPTION Only Lovers Left Alive (2013)
-#SERVICE 4097:0:1:2068:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1770.MP4:Open Grave (2013)
-#DESCRIPTION Open Grave (2013)
-#SERVICE 4097:0:1:2066:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1771.MP4:Our Brand Is Crisis (2015)
-#DESCRIPTION Our Brand Is Crisis (2015)
-#SERVICE 4097:0:1:2064:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1772.MP4:Overdrive (2017)
-#DESCRIPTION Overdrive (2017)
-#SERVICE 4097:0:1:2062:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1773.MP4:Oz the Great and Powerful (2013)
-#DESCRIPTION Oz the Great and Powerful (2013)
-#SERVICE 4097:0:1:2060:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1774.MP4:P.S. I Love You (2007)
-#DESCRIPTION P.S. I Love You (2007)
-#SERVICE 4097:0:1:2058:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1775.MP4:Pacific Rim (2013)
-#DESCRIPTION Pacific Rim (2013)
-#SERVICE 4097:0:1:2056:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1776.MP4:Paddington (2014)
-#DESCRIPTION Paddington (2014)
-#SERVICE 4097:0:1:2054:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1777.MP4:Pain and Gain (2013)
-#DESCRIPTION Pain and Gain (2013)
-#SERVICE 4097:0:1:2052:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1778.MP4:Pan (2015)
-#DESCRIPTION Pan (2015)
-#SERVICE 4097:0:1:2050:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1779.MP4:Pandorica (2016)
-#DESCRIPTION Pandorica (2016)
-#SERVICE 4097:0:1:2048:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1780.MP4:Paper Planes (2014)
-#DESCRIPTION Paper Planes (2014)
-#SERVICE 4097:0:1:2046:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1781.MP4:Paper Towns (2015)
-#DESCRIPTION Paper Towns (2015)
-#SERVICE 4097:0:1:2044:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1783.MP4:Paranormal Activity (2007)
-#DESCRIPTION Paranormal Activity (2007)
-#SERVICE 4097:0:1:2042:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1784.MP4:Paranormal Activity 2 (2010)
-#DESCRIPTION Paranormal Activity 2 (2010)
-#SERVICE 4097:0:1:2040:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1785.MP4:Paranormal Activity 4 (2012)
-#DESCRIPTION Paranormal Activity 4 (2012)
-#SERVICE 4097:0:1:2038:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1786.MP4:Paranormal Activity The Ghost Dimension (2015)
-#DESCRIPTION Paranormal Activity The Ghost Dimension (2015)
-#SERVICE 4097:0:1:2036:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1782.MP4:ParaNorman (2012)
-#DESCRIPTION ParaNorman (2012)
-#SERVICE 4097:0:1:2034:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1787.MP4:Parkland (2013)
-#DESCRIPTION Parkland (2013)
-#SERVICE 4097:0:1:2032:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1788.MP4:Partisan (2015)
-#DESCRIPTION Partisan (2015)
-#SERVICE 4097:0:1:2030:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2011.MP4:Passengers (2016)
-#DESCRIPTION Passengers (2016)
-#SERVICE 4097:0:1:1662:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/555.MP4:Patriots Day (2016)
-#DESCRIPTION Patriots Day (2016)
-#SERVICE 4097:0:1:2028:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1789.MP4:Pawn Sacrifice (2014)
-#DESCRIPTION Pawn Sacrifice (2014)
-#SERVICE 4097:0:1:2026:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1790.MP4:Pay the Ghost (2015)
-#DESCRIPTION Pay the Ghost (2015)
-#SERVICE 4097:0:1:2024:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1791.MP4:Payback (1999)
-#DESCRIPTION Payback (1999)
-#SERVICE 4097:0:1:2022:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1792.MP4:Penguins of Madagascar (2014)
-#DESCRIPTION Penguins of Madagascar (2014)
-#SERVICE 4097:0:1:2020:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1793.MP4:Phantom (2015)
-#DESCRIPTION Phantom (2015)
-#SERVICE 4097:0:1:2018:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1794.MP4:Philadelphia (1993)
-#DESCRIPTION Philadelphia (1993)
-#SERVICE 4097:0:1:2016:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1795.MP4:Philomena (2013)
-#DESCRIPTION Philomena (2013)
-#SERVICE 4097:0:1:2014:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1796.MP4:Pilgrimage (2017)
-#DESCRIPTION Pilgrimage (2017)
-#SERVICE 4097:0:1:2012:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1797.MP4:Pinocchio (2002)
-#DESCRIPTION Pinocchio (2002)
-#SERVICE 4097:0:1:2010:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2012.MP4:Pirates (2003)
-#DESCRIPTION Pirates (2003)
-#SERVICE 4097:0:1:2008:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2013.MP4:Pirates (2006)
-#DESCRIPTION Pirates (2006)
-#SERVICE 4097:0:1:2006:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2014.MP4:Pirates of the Caribbean At Worlds End (2007)
-#DESCRIPTION Pirates of the Caribbean At Worlds End (2007)
-#SERVICE 4097:0:1:2004:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2015.MP4:Pirates of the Caribbean Dead Men Tell No Tales (2
-#DESCRIPTION Pirates of the Caribbean Dead Men Tell No Tales (2
-#SERVICE 4097:0:1:2002:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1798.MP4:Pitch Perfect 2 (2015)
-#DESCRIPTION Pitch Perfect 2 (2015)
-#SERVICE 4097:0:1:2000:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1799.MP4:Pixels (2015)
-#DESCRIPTION Pixels (2015)
-#SERVICE 4097:0:1:1998:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1800.MP4:Pixies (2015)
-#DESCRIPTION Pixies (2015)
-#SERVICE 4097:0:1:1996:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1801.MP4:Playing It Cool (2014)
-#DESCRIPTION Playing It Cool (2014)
-#SERVICE 4097:0:1:1994:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1802.MP4:Point Break (2015)
-#DESCRIPTION Point Break (2015)
-#SERVICE 4097:0:1:1992:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1803.MP4:Pompeii (2014)
-#DESCRIPTION Pompeii (2014)
-#SERVICE 4097:0:1:1990:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1804.MP4:Pound of Flesh (2015)
-#DESCRIPTION Pound of Flesh (2015)
-#SERVICE 4097:0:1:1988:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2016.MP4:Predator (1987)
-#DESCRIPTION Predator (1987)
-#SERVICE 4097:0:1:1986:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1805.MP4:Predator 2 (1990)
-#DESCRIPTION Predator 2 (1990)
-#SERVICE 4097:0:1:1984:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1806.MP4:Predestination (2014)
-#DESCRIPTION Predestination (2014)
-#SERVICE 4097:0:1:1982:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1807.MP4:Pressure (2015)
-#DESCRIPTION Pressure (2015)
-#SERVICE 4097:0:1:1980:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2017.MP4:Prisoners (2013)
-#DESCRIPTION Prisoners (2013)
-#SERVICE 4097:0:1:1978:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1808.MP4:Project Almanac (2015)
-#DESCRIPTION Project Almanac (2015)
-#SERVICE 4097:0:1:1976:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1809.MP4:Project X (2012)
-#DESCRIPTION Project X (2012)
-#SERVICE 4097:0:1:1974:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1810.MP4:Promised Land (2012)
-#DESCRIPTION Promised Land (2012)
-#SERVICE 4097:0:1:1972:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1811.MP4:Quackerz (2016)
-#DESCRIPTION Quackerz (2016)
-#SERVICE 4097:0:1:1970:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1812.MP4:Queen of Earth (2015)
-#DESCRIPTION Queen of Earth (2015)
-#SERVICE 4097:0:1:1968:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1813.MP4:Queen of the Desert (2015)
-#DESCRIPTION Queen of the Desert (2015)
-#SERVICE 4097:0:1:1966:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1815.MP4:Race (2016)
-#DESCRIPTION Race (2016)
-#SERVICE 4097:0:1:1964:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1816.MP4:Racing Extinction (2015)
-#DESCRIPTION Racing Extinction (2015)
-#SERVICE 4097:0:1:1962:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2018.MP4:Ragamuffin (2014)
-#DESCRIPTION Ragamuffin (2014)
-#SERVICE 4097:0:1:1960:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1817.MP4:Real Steel (2011)
-#DESCRIPTION Real Steel (2011)
-#SERVICE 4097:0:1:1958:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1818.MP4:Recovery (2016)
-#DESCRIPTION Recovery (2016)
-#SERVICE 4097:0:1:1956:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1814.MP4:RED (2010)
-#DESCRIPTION RED (2010)
-#SERVICE 4097:0:1:1954:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1819.MP4:Red 2 (2013)
-#DESCRIPTION Red 2 (2013)
-#SERVICE 4097:0:1:1952:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1820.MP4:Redirected (2014)
-#DESCRIPTION Redirected (2014)
-#SERVICE 4097:0:1:1950:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1821.MP4:Regression (2015)
-#DESCRIPTION Regression (2015)
-#SERVICE 4097:0:1:1948:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1822.MP4:Remember (2015)
-#DESCRIPTION Remember (2015)
-#SERVICE 4097:0:1:1946:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1823.MP4:Remember Sunday (2013)
-#DESCRIPTION Remember Sunday (2013)
-#SERVICE 4097:0:1:1944:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1824.MP4:Repo Men (2010)
-#DESCRIPTION Repo Men (2010)
-#SERVICE 4097:0:1:1942:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1825.MP4:Rescue Dawn (2006)
-#DESCRIPTION Rescue Dawn (2006)
-#SERVICE 4097:0:1:1940:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1826.MP4:Resident Evil (2002)
-#DESCRIPTION Resident Evil (2002)
-#SERVICE 4097:0:1:1938:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1827.MP4:Resident Evil (2012)
-#DESCRIPTION Resident Evil (2012)
-#SERVICE 4097:0:1:1936:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1828.MP4:Resident Evil Afterlife (2010)
-#DESCRIPTION Resident Evil Afterlife (2010)
-#SERVICE 4097:0:1:1934:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1829.MP4:Resident Evil Extinction (2007)
-#DESCRIPTION Resident Evil Extinction (2007)
-#SERVICE 4097:0:1:1932:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2019.MP4:Resident Evil The Final Chapter ( 2017 )
-#DESCRIPTION Resident Evil The Final Chapter ( 2017 )
-#SERVICE 4097:0:1:1678:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2050.MP4:Return of Xander Cage (2017)
-#DESCRIPTION Return of Xander Cage (2017)
-#SERVICE 4097:0:1:1930:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1830.MP4:Ride Along (2014)
-#DESCRIPTION Ride Along (2014)
-#SERVICE 4097:0:1:1928:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1831.MP4:Ride Along 2 (2016)
-#DESCRIPTION Ride Along 2 (2016)
-#SERVICE 4097:0:1:1926:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1832.MP4:Rio 2 (2014)
-#DESCRIPTION Rio 2 (2014)
-#SERVICE 4097:0:1:1924:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2020.MP4:Riphagen (2016)
-#DESCRIPTION Riphagen (2016)
-#SERVICE 4097:0:1:1922:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1833.MP4:Rise of the Guardians (2012)
-#DESCRIPTION Rise of the Guardians (2012)
-#SERVICE 4097:0:1:1920:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1834.MP4:Rise of the Planet of the Apes (2011)
-#DESCRIPTION Rise of the Planet of the Apes (2011)
-#SERVICE 4097:0:1:1918:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1835.MP4:Risen (2016)
-#DESCRIPTION Risen (2016)
-#SERVICE 4097:0:1:1916:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1836.MP4:Road Games (2015)
-#DESCRIPTION Road Games (2015)
-#SERVICE 4097:0:1:1914:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1837.MP4:Road to Perdition (2002)
-#DESCRIPTION Road to Perdition (2002)
-#SERVICE 4097:0:1:1912:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1838.MP4:Rob the Mob (2014)
-#DESCRIPTION Rob the Mob (2014)
-#SERVICE 4097:0:1:1910:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2021.MP4:Robin Hood Prince of Thieves (1991)
-#DESCRIPTION Robin Hood Prince of Thieves (1991)
-#SERVICE 4097:0:1:1908:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1839.MP4:RoboCop (2014)
-#DESCRIPTION RoboCop (2014)
-#SERVICE 4097:0:1:1660:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/556.MP4:Silence (2016)
-#DESCRIPTION Silence (2016)
-#SERVICE 4097:0:1:1644:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/571.MP4:Snowden (2016)
-#DESCRIPTION Snowden (2016)
-#SERVICE 4097:0:1:1904:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2023.MP4:Spider Man Homecoming (2017)
-#DESCRIPTION Spider Man Homecoming (2017)
-#SERVICE 4097:0:1:1902:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2024.MP4:Split (2016)
-#DESCRIPTION Split (2016)
-#SERVICE 4097:0:1:1646:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/563.MP4:Sully (2016)
-#DESCRIPTION Sully (2016)
-#SERVICE 4097:0:1:1900:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1840.MP4:Talon Falls (2017)
-#DESCRIPTION Talon Falls (2017)
-#SERVICE 4097:0:1:1898:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1841.MP4:Temple (2017)
-#DESCRIPTION Temple (2017)
-#SERVICE 4097:0:1:1656:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/541.MP4:The Accountant (2016)
-#DESCRIPTION The Accountant (2016)
-#SERVICE 4097:0:1:1896:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2025.MP4:The Bunnyman Massacre (2014)
-#DESCRIPTION The Bunnyman Massacre (2014)
-#SERVICE 4097:0:1:1668:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/557.MP4:The Fate of the Furious (2017)
-#DESCRIPTION The Fate of the Furious (2017)
-#SERVICE 4097:0:1:1654:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/542.MP4:The Intouchables (2016)
-#DESCRIPTION The Intouchables (2016)
-#SERVICE 4097:0:1:1890:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2026.MP4:The Lovelly Bones (2009)
-#DESCRIPTION The Lovelly Bones (2009)
-#SERVICE 4097:0:1:1642:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/572.MP4:The Magnificent Seven (2016)
-#DESCRIPTION The Magnificent Seven (2016)
-#SERVICE 4097:0:1:1886:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1844.MP4:The Secret Life of Walter Mitty (2013)
-#DESCRIPTION The Secret Life of Walter Mitty (2013)
-#SERVICE 4097:0:1:1884:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1845.MP4:The Selfish Giant (2013)
-#DESCRIPTION The Selfish Giant (2013)
-#SERVICE 4097:0:1:1882:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2028.MP4:The Shawshank Redemption (1994)
-#DESCRIPTION The Shawshank Redemption (1994)
-#SERVICE 4097:0:1:1880:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1846.MP4:The Simpsons Movie (2007)
-#DESCRIPTION The Simpsons Movie (2007)
-#SERVICE 4097:0:1:1878:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1847.MP4:The Sleeping Dictionary (2003)
-#DESCRIPTION The Sleeping Dictionary (2003)
-#SERVICE 4097:0:1:1876:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1848.MP4:The Smurfs 2 (2013)
-#DESCRIPTION The Smurfs 2 (2013)
-#SERVICE 4097:0:1:1874:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1849.MP4:The Spectacular Now (2013)
-#DESCRIPTION The Spectacular Now (2013)
-#SERVICE 4097:0:1:1872:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1850.MP4:The SpongeBob Movie Sponge Out of Water (2015)
-#DESCRIPTION The SpongeBob Movie Sponge Out of Water (2015)
-#SERVICE 4097:0:1:1870:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1851.MP4:The Stanford Prison Experiment (2015)
-#DESCRIPTION The Stanford Prison Experiment (2015)
-#SERVICE 4097:0:1:1868:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1852.MP4:The Theory of Everything (2014)
-#DESCRIPTION The Theory of Everything (2014)
-#SERVICE 4097:0:1:1866:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1853.MP4:The Time Travelers Wife (2009)
-#DESCRIPTION The Time Travelers Wife (2009)
-#SERVICE 4097:0:1:1864:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1854.MP4:The To Do List (2013)
-#DESCRIPTION The To Do List (2013)
-#SERVICE 4097:0:1:1862:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1855.MP4:The Tourist (2010)
-#DESCRIPTION The Tourist (2010)
-#SERVICE 4097:0:1:1860:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1856.MP4:The Truman Show (1998)
-#DESCRIPTION The Truman Show (1998)
-#SERVICE 4097:0:1:1858:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1857.MP4:The Trust (2016)
-#DESCRIPTION The Trust (2016)
-#SERVICE 4097:0:1:1856:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2029.MP4:The Truth About Love Is... (2017)
-#DESCRIPTION The Truth About Love Is... (2017)
-#SERVICE 4097:0:1:1854:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2030.MP4:The Twilight Saga Breaking Dawn - Part 2 (2012)
-#DESCRIPTION The Twilight Saga Breaking Dawn - Part 2 (2012)
-#SERVICE 4097:0:1:1852:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2031.MP4:The Twilight Saga Eclipse (2010)
-#DESCRIPTION The Twilight Saga Eclipse (2010)
-#SERVICE 4097:0:1:1850:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2032.MP4:The Twilight Saga New Moon (2009)
-#DESCRIPTION The Twilight Saga New Moon (2009)
-#SERVICE 4097:0:1:1848:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1858.MP4:The Ugly Truth (2009)
-#DESCRIPTION The Ugly Truth (2009)
-#SERVICE 4097:0:1:1846:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1859.MP4:The Usual Suspects (1995)
-#DESCRIPTION The Usual Suspects (1995)
-#SERVICE 4097:0:1:1844:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1860.MP4:The Voices (2014)
-#DESCRIPTION The Voices (2014)
-#SERVICE 4097:0:1:1842:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1861.MP4:The Walk (2015)
-#DESCRIPTION The Walk (2015)
-#SERVICE 4097:0:1:1840:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1862.MP4:The Water Diviner (2014)
-#DESCRIPTION The Water Diviner (2014)
-#SERVICE 4097:0:1:1838:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1863.MP4:The Wave (2008)
-#DESCRIPTION The Wave (2008)
-#SERVICE 4097:0:1:1836:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1864.MP4:The Way Way Back (2013)
-#DESCRIPTION The Way Way Back (2013)
-#SERVICE 4097:0:1:1834:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2033.MP4:The Wolf of Wall Street (2013)
-#DESCRIPTION The Wolf of Wall Street (2013)
-#SERVICE 4097:0:1:1832:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1865.MP4:The Woman in Black (2012)
-#DESCRIPTION The Woman in Black (2012)
-#SERVICE 4097:0:1:1830:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1866.MP4:The Worlds End (2013)
-#DESCRIPTION The Worlds End (2013)
-#SERVICE 4097:0:1:1828:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1867.MP4:The Wrestler (2008)
-#DESCRIPTION The Wrestler (2008)
-#SERVICE 4097:0:1:1826:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1868.MP4:The Zero Theorem (2013)
-#DESCRIPTION The Zero Theorem (2013)
-#SERVICE 4097:0:1:1824:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1869.MP4:There Be Dragons (2011)
-#DESCRIPTION There Be Dragons (2011)
-#SERVICE 4097:0:1:1822:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1870.MP4:Theres Something About Mary (1998)
-#DESCRIPTION Theres Something About Mary (1998)
-#SERVICE 4097:0:1:1820:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2034.MP4:Third Person (2013)
-#DESCRIPTION Third Person (2013)
-#SERVICE 4097:0:1:1818:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1871.MP4:This Is the End (2013)
-#DESCRIPTION This Is the End (2013)
-#SERVICE 4097:0:1:1816:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1872.MP4:Thor (2011)
-#DESCRIPTION Thor (2011)
-#SERVICE 4097:0:1:1814:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1873.MP4:Tombstone (1993)
-#DESCRIPTION Tombstone (1993)
-#SERVICE 4097:0:1:1812:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2035.MP4:Top Cat Begins (2015)
-#DESCRIPTION Top Cat Begins (2015)
-#SERVICE 4097:0:1:1810:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1874.MP4:Top Gun (1986)
-#DESCRIPTION Top Gun (1986)
-#SERVICE 4097:0:1:1808:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1875.MP4:Traded (2016)
-#DESCRIPTION Traded (2016)
-#SERVICE 4097:0:1:1806:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1876.MP4:Trainspotting (1996)
-#DESCRIPTION Trainspotting (1996)
-#SERVICE 4097:0:1:1804:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1877.MP4:Transcendence (2014)
-#DESCRIPTION Transcendence (2014)
-#SERVICE 4097:0:1:1802:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2036.MP4:Transformers (2007)
-#DESCRIPTION Transformers (2007)
-#SERVICE 4097:0:1:1800:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2037.MP4:Transformers Dark of the Moon (2011)
-#DESCRIPTION Transformers Dark of the Moon (2011)
-#SERVICE 4097:0:1:1798:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2038.MP4:Transformers Revenge of the Fallen (2009)
-#DESCRIPTION Transformers Revenge of the Fallen (2009)
-#SERVICE 4097:0:1:1796:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2039.MP4:TransformersAge of Extinction (2014)
-#DESCRIPTION TransformersAge of Extinction (2014)
-#SERVICE 4097:0:1:1794:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1878.MP4:Trapped in Paradise (1994)
-#DESCRIPTION Trapped in Paradise (1994)
-#SERVICE 4097:0:1:1792:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1879.MP4:Triple 9 (2016)
-#DESCRIPTION Triple 9 (2016)
-#SERVICE 4097:0:1:1790:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1880.MP4:Tropic Thunder (2008)
-#DESCRIPTION Tropic Thunder (2008)
-#SERVICE 4097:0:1:1788:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1881.MP4:Trouble with the Curve (2012)
-#DESCRIPTION Trouble with the Curve (2012)
-#SERVICE 4097:0:1:1786:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1882.MP4:Trumbo (2015)
-#DESCRIPTION Trumbo (2015)
-#SERVICE 4097:0:1:1784:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1883.MP4:Tsel vizhu (2013)
-#DESCRIPTION Tsel vizhu (2013)
-#SERVICE 4097:0:1:1782:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1884.MP4:Tucker and Dale vs. Evil (2010)
-#DESCRIPTION Tucker and Dale vs. Evil (2010)
-#SERVICE 4097:0:1:1780:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1885.MP4:Tumbledown (2015)
-#DESCRIPTION Tumbledown (2015)
-#SERVICE 4097:0:1:1778:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1886.MP4:Turbo (2013)
-#DESCRIPTION Turbo (2013)
-#SERVICE 4097:0:1:1776:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1887.MP4:Twice Born (2012)
-#DESCRIPTION Twice Born (2012)
-#SERVICE 4097:0:1:1774:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2040.MP4:Twilight (2008)
-#DESCRIPTION Twilight (2008)
-#SERVICE 4097:0:1:1772:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1888.MP4:Two Night Stand (2014)
-#DESCRIPTION Two Night Stand (2014)
-#SERVICE 4097:0:1:1770:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2041.MP4:Unbroken (2014)
-#DESCRIPTION Unbroken (2014)
-#SERVICE 4097:0:1:1768:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1889.MP4:Uncanny (2015)
-#DESCRIPTION Uncanny (2015)
-#SERVICE 4097:0:1:1766:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2042.MP4:Underground (1995)
-#DESCRIPTION Underground (1995)
-#SERVICE 4097:0:1:1764:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1890.MP4:Underworld Awakening (2012)
-#DESCRIPTION Underworld Awakening (2012)
-#SERVICE 4097:0:1:1762:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1891.MP4:Underworld Rise of the Lycans (2009)
-#DESCRIPTION Underworld Rise of the Lycans (2009)
-#SERVICE 4097:0:1:1760:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1892.MP4:Undisputed (2002)
-#DESCRIPTION Undisputed (2002)
-#SERVICE 4097:0:1:1758:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1893.MP4:Undisputed 3 Redemption (2010)
-#DESCRIPTION Undisputed 3 Redemption (2010)
-#SERVICE 4097:0:1:1756:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1894.MP4:Unfriended (2015)
-#DESCRIPTION Unfriended (2015)
-#SERVICE 4097:0:1:1754:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1895.MP4:Vacation (2015)
-#DESCRIPTION Vacation (2015)
-#SERVICE 4097:0:1:1752:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1896.MP4:Vampire Academy (2014)
-#DESCRIPTION Vampire Academy (2014)
-#SERVICE 4097:0:1:1750:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1897.MP4:Victor Frankenstein (2015)
-#DESCRIPTION Victor Frankenstein (2015)
-#SERVICE 4097:0:1:1748:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1898.MP4:Vier gegen die Bank (2016)
-#DESCRIPTION Vier gegen die Bank (2016)
-#SERVICE 4097:0:1:1746:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1899.MP4:Vigilante Diaries (2016)
-#DESCRIPTION Vigilante Diaries (2016)
-#SERVICE 4097:0:1:1744:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1900.MP4:Walk of Shame (2014)
-#DESCRIPTION Walk of Shame (2014)
-#SERVICE 4097:0:1:1742:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1901.MP4:Walking with Dinosaurs 3D (2013)
-#DESCRIPTION Walking with Dinosaurs 3D (2013)
-#SERVICE 4097:0:1:1740:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1903.MP4:War for the Planet of the Apes (2017)
-#DESCRIPTION War for the Planet of the Apes (2017)
-#SERVICE 4097:0:1:1738:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1904.MP4:War of the Worlds (2005)
-#DESCRIPTION War of the Worlds (2005)
-#SERVICE 4097:0:1:1736:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1902.MP4:War Room (2015)
-#DESCRIPTION War Room (2015)
-#SERVICE 4097:0:1:1734:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1905.MP4:Warm Bodies (2013)
-#DESCRIPTION Warm Bodies (2013)
-#SERVICE 4097:0:1:1732:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2043.MP4:Waterworld (1995)
-#DESCRIPTION Waterworld (1995)
-#SERVICE 4097:0:1:1730:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1906.MP4:We Need to Talk About Kevin (2011)
-#DESCRIPTION We Need to Talk About Kevin (2011)
-#SERVICE 4097:0:1:1728:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2044.MP4:We Were Soldiers (2002)
-#DESCRIPTION We Were Soldiers (2002)
-#SERVICE 4097:0:1:1726:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1907.MP4:Welcome to Me (2014)
-#DESCRIPTION Welcome to Me (2014)
-#SERVICE 4097:0:1:1724:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1908.MP4:Were The Millers (2013)
-#DESCRIPTION Were The Millers (2013)
-#SERVICE 4097:0:1:1722:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1909.MP4:What If (2013)
-#DESCRIPTION What If (2013)
-#SERVICE 4097:0:1:1720:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1910.MP4:What Maisie Knew (2012)
-#DESCRIPTION What Maisie Knew (2012)
-#SERVICE 4097:0:1:1718:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1911.MP4:What Women Want (2000)
-#DESCRIPTION What Women Want (2000)
-#SERVICE 4097:0:1:1716:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1912.MP4:Wheelman (2017)
-#DESCRIPTION Wheelman (2017)
-#SERVICE 4097:0:1:1714:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1913.MP4:When the Game Stands Tall (2014)
-#DESCRIPTION When the Game Stands Tall (2014)
-#SERVICE 4097:0:1:1712:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1914.MP4:Where Hope Grows (2014)
-#DESCRIPTION Where Hope Grows (2014)
-#SERVICE 4097:0:1:1710:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1915.MP4:Whiskey Tango Foxtrot (2016)
-#DESCRIPTION Whiskey Tango Foxtrot (2016)
-#SERVICE 4097:0:1:1708:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1916.MP4:White Chicks (2004)
-#DESCRIPTION White Chicks (2004)
-#SERVICE 4097:0:1:1706:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2045.MP4:Wiener Dog Nationals (2013)
-#DESCRIPTION Wiener Dog Nationals (2013)
-#SERVICE 4097:0:1:1704:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1917.MP4:Wild (2014)
-#DESCRIPTION Wild (2014)
-#SERVICE 4097:0:1:1702:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1918.MP4:Wild Card (2015)
-#DESCRIPTION Wild Card (2015)
-#SERVICE 4097:0:1:1700:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1919.MP4:Wild Horses (2015)
-#DESCRIPTION Wild Horses (2015)
-#SERVICE 4097:0:1:1698:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1920.MP4:Wind River (2017)
-#DESCRIPTION Wind River (2017)
-#SERVICE 4097:0:1:1696:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1921.MP4:Wolf Creek (2005)
-#DESCRIPTION Wolf Creek (2005)
-#SERVICE 4097:0:1:1694:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2046.MP4:Wolf Warrior (2015)
-#DESCRIPTION Wolf Warrior (2015)
-#SERVICE 4097:0:1:1692:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1922.MP4:Woman in Gold (2015)
-#DESCRIPTION Woman in Gold (2015)
-#SERVICE 4097:0:1:1690:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1923.MP4:Wonder Woman (2017)
-#DESCRIPTION Wonder Woman (2017)
-#SERVICE 4097:0:1:1688:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1924.MP4:Words And Pictures (2014)
-#DESCRIPTION Words And Pictures (2014)
-#SERVICE 4097:0:1:1686:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1925.MP4:Wrath of the Titans (2012)
-#DESCRIPTION Wrath of the Titans (2012)
-#SERVICE 4097:0:1:1684:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1926.MP4:Wyrmwood Road of the Dead (2014)
-#DESCRIPTION Wyrmwood Road of the Dead (2014)
-#SERVICE 4097:0:1:1682:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2047.MP4:X First Class (2011)
-#DESCRIPTION X First Class (2011)
-#SERVICE 4097:0:1:1680:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1927.MP4:X-Men Apocalypse (2016)
-#DESCRIPTION X-Men Apocalypse (2016)
-#SERVICE 4097:0:1:1676:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1928.MP4:Youth (2015)
-#DESCRIPTION Youth (2015)
-#SERVICE 4097:0:1:1674:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/1929.MP4:Z for Zachariah (2015)
-#DESCRIPTION Z for Zachariah (2015)
-#SERVICE 4097:0:1:1672:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2048.MP4:Zero Dark Thirty (2012)
-#DESCRIPTION Zero Dark Thirty (2012)
-#SERVICE 4097:0:1:1670:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2049.MP4:Zodiac (2007)
-#DESCRIPTION Zodiac (2007)
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::::::::::::::::::::::::_NEW_SERIES_FUN_::::::::::::
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::::::::::::::::::::::::_NEW_SERIES_FUN_::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_NEW_SERIES_FUN_::::::::::::
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S1 ---
+#SERVICE 1:64:9B:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S1 ---
 #DESCRIPTION --- The.Big.Bang.Theory S1 ---
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S01/BBT-S01E01.mkv:BBT-S01E01.mkv
 #DESCRIPTION BBT-S01E01.mkv
@@ -1869,7 +1335,7 @@
 #DESCRIPTION BBT-S01E16.mkv
 #SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S01/BBT-S01E17.mkv:BBT-S01E17.mkv
 #DESCRIPTION BBT-S01E17.mkv
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S2 ---
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S2 ---
 #DESCRIPTION --- The.Big.Bang.Theory S2 ---
 #SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S02/BBT-S02E01.mkv:BBT-S02E01.mkv
 #DESCRIPTION BBT-S02E01.mkv
@@ -1917,7 +1383,7 @@
 #DESCRIPTION BBT-S02E22.mkv
 #SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S02/BBT-S02E23.mkv:BBT-S02E23.mkv
 #DESCRIPTION BBT-S02E23.mkv
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S3 ---
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S3 ---
 #DESCRIPTION --- The.Big.Bang.Theory S3 ---
 #SERVICE 4097:0:1:84:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S03/BB-S03E01.mkv:BB-S03E01.mkv
 #DESCRIPTION BB-S03E01.mkv
@@ -1965,7 +1431,7 @@
 #DESCRIPTION BB-S03E22.mkv
 #SERVICE 4097:0:1:128:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S03/BB-S03E23.mkv:BB-S03E23.mkv
 #DESCRIPTION BB-S03E23.mkv
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S4 ---
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S4 ---
 #DESCRIPTION --- The.Big.Bang.Theory S4 ---
 #SERVICE 4097:0:1:131:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S04/BBT-S04E01.mkv:BBT-S04E01.mkv
 #DESCRIPTION BBT-S04E01.mkv
@@ -2015,7 +1481,7 @@
 #DESCRIPTION BBT-S04E23.mkv
 #SERVICE 4097:0:1:177:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S04/BBT-S04E24.mkv:BBT-S04E24.mkv
 #DESCRIPTION BBT-S04E24.mkv
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S5 --
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S5 --
 #DESCRIPTION --- The.Big.Bang.Theory S5 --
 #SERVICE 4097:0:1:180:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S05/BBT-S05E01.mkv:BBT-S05E01.mkv
 #DESCRIPTION BBT-S05E01.mkv
@@ -2065,7 +1531,7 @@
 #DESCRIPTION BBT-S05E23.mkv
 #SERVICE 4097:0:1:226:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S05/BBT-S05E24.mkv:BBT-S05E24.mkv
 #DESCRIPTION BBT-S05E24.mkv
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S6 ---
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S6 ---
 #DESCRIPTION --- The.Big.Bang.Theory S6 ---
 #SERVICE 4097:0:1:229:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S06/The.Big.Bang.Theory.S06E01.720p.mkv:The.Big.Bang.Theory.S06E01.mkv
 #DESCRIPTION The.Big.Bang.Theory.S06E01.mkv
@@ -2115,7 +1581,7 @@
 #DESCRIPTION The.Big.Bang.Theory.S06E23.mkv
 #SERVICE 4097:0:1:275:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S06/The.Big.Bang.Theory.S06E24.720p.HDTV.mkv:The.Big.Bang.Theory.S06E24.mkv
 #DESCRIPTION The.Big.Bang.Theory.S06E24.mkv
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S7 ---
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S7 ---
 #DESCRIPTION --- The.Big.Bang.Theory S7 ---
 #SERVICE 4097:0:1:278:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S07/The.Big.Bang.Theory.S07E01.720p.mkv:The.Big.Bang.Theory.S07E01.mkv
 #DESCRIPTION The.Big.Bang.Theory.S07E01.mkv
@@ -2165,7 +1631,7 @@
 #DESCRIPTION The.Big.Bang.Theory.S07E23.mkv
 #SERVICE 4097:0:1:324:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S07/The.Big.Bang.Theory.S07E24.720p.mkv:The.Big.Bang.Theory.S07E24.mkv
 #DESCRIPTION The.Big.Bang.Theory.S07E24.mkv
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S8 ---
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::--- The.Big.Bang.Theory S8 ---
 #DESCRIPTION --- The.Big.Bang.Theory S8 ---
 #SERVICE 4097:0:1:327:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S08/The.Big.Bang.Theory.S08E01.720p.mkv:The.Big.Bang.Theory.S08E01.mkv
 #DESCRIPTION The.Big.Bang.Theory.S08E01.mkv
@@ -2215,7 +1681,7 @@
 #DESCRIPTION The.Big.Bang.Theory.S08E23.mkv
 #SERVICE 4097:0:1:373:0:0:0:0:0:0:http%3a//dl3.melimedia.net/mersad/serial/The Big Bang Theory/S08/The.Big.Bang.Theory.S08E24.720p.mkv:The.Big.Bang.Theory.S08E24.mkv
 #DESCRIPTION The.Big.Bang.Theory.S08E24.mkv
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::--- Two And A Half Men/s1 ---
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::--- Two And A Half Men/s1 ---
 #DESCRIPTION --- Two And A Half Men/s1 ---
 #SERVICE 4097:0:1:376:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S01/Two and a Half Men S01E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S01 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S01 E01 (ParsFilm).mkv
@@ -2265,7 +1731,7 @@
 #DESCRIPTION Two And A Half Men S01 E23 (ParsFilm).mkv
 #SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S01/Two and a Half Men S01E24 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S01 E24 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S01 E24 (ParsFilm).mkv
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::--- Two And A Half Men/s2 ---
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::--- Two And A Half Men/s2 ---
 #DESCRIPTION --- Two And A Half Men/s2 ---
 #SERVICE 4097:0:1:425:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S02/Two and a Half Men S02E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S02 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S02 E01 (ParsFilm).mkv
@@ -2315,7 +1781,7 @@
 #DESCRIPTION Two And A Half Men S02 E23 (ParsFilm).mkv
 #SERVICE 4097:0:1:471:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S02/Two and a Half Men S02E24 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S02 E24 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S02 E24 (ParsFilm).mkv
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::--- Two And A Half Men/s3 ---
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::--- Two And A Half Men/s3 ---
 #DESCRIPTION --- Two And A Half Men/s3 ---
 #SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S03/Two and a Half Men S03E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S03 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S03 E01 (ParsFilm).mkv
@@ -2365,7 +1831,7 @@
 #DESCRIPTION Two And A Half Men S03 E23 (ParsFilm).mkv
 #SERVICE 4097:0:1:520:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S03/Two and a Half Men S03E24 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S03 E24 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S03 E24 (ParsFilm).mkv
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::--- Two And A Half Men/s4 ---
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::--- Two And A Half Men/s4 ---
 #DESCRIPTION --- Two And A Half Men/s4 ---
 #SERVICE 4097:0:1:523:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S04/Two and a Half Men S04E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S04 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S04 E01 (ParsFilm).mkv
@@ -2415,7 +1881,7 @@
 #DESCRIPTION Two And A Half Men S04 E23 (ParsFilm).mkv
 #SERVICE 4097:0:1:569:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S04/Two and a Half Men S04E24 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S04 E24 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S04 E24 (ParsFilm).mkv
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::--- Two And A Half Men/s5 ---
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::--- Two And A Half Men/s5 ---
 #DESCRIPTION --- Two And A Half Men/s5 ---
 #SERVICE 4097:0:1:572:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S05/Two and a Half Men S05E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S05 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S05 E01 (ParsFilm).mkv
@@ -2455,7 +1921,7 @@
 #DESCRIPTION Two And A Half Men S05 E18 (ParsFilm).mkv
 #SERVICE 4097:0:1:608:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S05/Two and a Half Men S05E19 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S05 E19 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S05 E19 (ParsFilm).mkv
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::--- Two And A Half Men/s6 ---
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::--- Two And A Half Men/s6 ---
 #DESCRIPTION --- Two And A Half Men/s6 ---
 #SERVICE 4097:0:1:611:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S06/Two and a Half Men S06E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S06 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S06 E01 (ParsFilm).mkv
@@ -2505,7 +1971,7 @@
 #DESCRIPTION Two And A Half Men S06 E23 (ParsFilm).mkv
 #SERVICE 4097:0:1:657:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S06/Two and a Half Men S06E24 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S06 E24 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S06 E24 (ParsFilm).mkv
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::--- Two And A Half Men/s7 ---
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::--- Two And A Half Men/s7 ---
 #DESCRIPTION --- Two And A Half Men/s7 ---
 #SERVICE 4097:0:1:660:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S07/Two and a Half Men S07E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S07 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S07 E01 (ParsFilm).mkv
@@ -2551,7 +2017,7 @@
 #DESCRIPTION Two And A Half Men S07 E21 (ParsFilm).mkv
 #SERVICE 4097:0:1:702:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S07/Two and a Half Men S07E22 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S07 E22 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S07 E22 (ParsFilm).mkv
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::--- Two And A Half Men/s8 --
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::--- Two And A Half Men/s8 --
 #DESCRIPTION --- Two And A Half Men/s8 --
 #SERVICE 4097:0:1:705:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S08/Two and a Half Men S08E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S08 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S08 E01 (ParsFilm).mkv
@@ -2585,7 +2051,7 @@
 #DESCRIPTION Two And A Half Men S08 E15 (ParsFilm).mkv
 #SERVICE 4097:0:1:735:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S08/Two and a Half Men S08E16 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S08 E16 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S08 E16 (ParsFilm).mkv
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::--- Two And A Half Men/s9 --
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::--- Two And A Half Men/s9 --
 #DESCRIPTION --- Two And A Half Men/s9 --
 #SERVICE 4097:0:1:738:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S09/Two and a Half Men S09E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S09 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S09 E01 (ParsFilm).mkv
@@ -2635,7 +2101,7 @@
 #DESCRIPTION Two And A Half Men S09 E23 (ParsFilm).mkv
 #SERVICE 4097:0:1:784:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S09/Two and a Half Men S09E24 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S09 E24 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S09 E24 (ParsFilm).mkv
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::--- Two And A Half Men/s10 --
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::--- Two And A Half Men/s10 --
 #DESCRIPTION --- Two And A Half Men/s10 --
 #SERVICE 4097:0:1:787:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S10/Two and a Half Men S10E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S10 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S10 E01 (ParsFilm).mkv
@@ -2683,7 +2149,7 @@
 #DESCRIPTION Two And A Half Men S10 E22 (ParsFilm).mkv
 #SERVICE 4097:0:1:831:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S10/Two and a Half Men S10E23 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S10 E23 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S10 E23 (ParsFilm).mkv
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::--- Two And A Half Men/s11 ---
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::--- Two And A Half Men/s11 ---
 #DESCRIPTION --- Two And A Half Men/s11 ---
 #SERVICE 4097:0:1:834:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S11/Two and a Half Men S11E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S11 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S11 E01 (ParsFilm).mkv
@@ -2729,7 +2195,7 @@
 #DESCRIPTION Two And A Half Men S11 E21 (ParsFilm).mkv
 #SERVICE 4097:0:1:876:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S11/Two and a Half Men S11E22 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S11 E22 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S11 E22 (ParsFilm).mkv
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::--- Two And A Half Men/s12 ---
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::--- Two And A Half Men/s12 ---
 #DESCRIPTION --- Two And A Half Men/s12 ---
 #SERVICE 4097:0:1:879:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S12/Two and a Half Men S12E01 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S12 E01 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S12 E01 (ParsFilm).mkv
@@ -2761,7 +2227,7 @@
 #DESCRIPTION Two And A Half Men S12 E14 (ParsFilm).mkv
 #SERVICE 4097:0:1:907:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/New2/Serial/TAAHM/S12/Two and a Half Men S12E15 HDTV 480p_AVADL.CoM.mkv:Two And A Half Men S12 E15-16 (ParsFilm).mkv
 #DESCRIPTION Two And A Half Men S12 E15-16 (ParsFilm).mkv
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::*** Seinfeld S01 ***
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::*** Seinfeld S01 ***
 #DESCRIPTION *** Seinfeld S01 ***
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S01/720p/Seinfeld_S01E01_720p_WebRip.FardaDL.mkv:Seinfeld S01E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S01E01_720p_WebRip.FardaDL.mkv
@@ -2773,7 +2239,7 @@
 #DESCRIPTION Seinfeld S01E04_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S01/720p/Seinfeld_S01E05_720p_WebRip.FardaDL.mkv:Seinfeld S01E05_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S01E05_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::*** Seinfeld S02 ***
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::*** Seinfeld S02 ***
 #DESCRIPTION *** Seinfeld S02 ***
 #SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S02/720p/Seinfeld_S02E01_720p_WebRip.FardaDL.mkv:Seinfeld S02E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S02E01_720p_WebRip.FardaDL.mkv
@@ -2801,7 +2267,7 @@
 #DESCRIPTION Seinfeld S02E12_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S02/720p/Seinfeld_S02E13_720p_WebRip.FardaDL.mkv:Seinfeld S02E13_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S02E13_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::*** Seinfeld S03 ***
+#SERVICE 1:64:B1:0:0:0:0:0:0:0::*** Seinfeld S03 ***
 #DESCRIPTION *** Seinfeld S03 ***
 #SERVICE 4097:0:1:40:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S03/720p/Seinfeld_S03E01_720p_WebRip.FardaDL.mkv:Seinfeld S03E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S03E01_720p_WebRip.FardaDL.mkv
@@ -2845,7 +2311,7 @@
 #DESCRIPTION Seinfeld S03E21_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:80:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S03/720p/Seinfeld_S03E22_720p_WebRip.FardaDL.mkv:Seinfeld S03E22_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S03E22_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::*** Seinfeld S04 ***
+#SERVICE 1:64:B2:0:0:0:0:0:0:0::*** Seinfeld S04 ***
 #DESCRIPTION *** Seinfeld S04 ***
 #SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S04/720p/Seinfeld_S04E01_720p_WebRip.FardaDL.mkv:Seinfeld S04E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S04E01_720p_WebRip.FardaDL.mkv
@@ -2891,7 +2357,7 @@
 #DESCRIPTION Seinfeld S04E22_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:125:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S04/720p/Seinfeld_S04E23-E24_720p_WebRip.FardaDL.mkv:Seinfeld S04E23-E24_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S04E23-E24_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B4:0:0:0:0:0:0:0::*** Seinfeld S05 ***
+#SERVICE 1:64:B3:0:0:0:0:0:0:0::*** Seinfeld S05 ***
 #DESCRIPTION *** Seinfeld S05 ***
 #SERVICE 4097:0:1:128:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S05/720p/Seinfeld_S05E01_720p_WebRip.FardaDL.mkv:Seinfeld S05E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S05E01_720p_WebRip.FardaDL.mkv
@@ -2935,7 +2401,7 @@
 #DESCRIPTION Seinfeld S05E21_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:168:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S05/720p/Seinfeld_S05E22_720p_WebRip.FardaDL.mkv:Seinfeld S05E22_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S05E22_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B5:0:0:0:0:0:0:0::*** Seinfeld S06 ***
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::*** Seinfeld S06 ***
 #DESCRIPTION *** Seinfeld S06 ***
 #SERVICE 4097:0:1:171:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S06/720p/Seinfeld_S06E01_720p_WebRip.FardaDL.mkv:Seinfeld S06E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S06E01_720p_WebRip.FardaDL.mkv
@@ -2983,7 +2449,7 @@
 #DESCRIPTION Seinfeld S06E23_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:215:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S06/720p/Seinfeld_S06E24_720p_WebRip.FardaDL.mkv:Seinfeld S06E24_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S06E24_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B6:0:0:0:0:0:0:0::*** Seinfeld S07 ***
+#SERVICE 1:64:B5:0:0:0:0:0:0:0::*** Seinfeld S07 ***
 #DESCRIPTION *** Seinfeld S07 ***
 #SERVICE 4097:0:1:218:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S07/720p/Seinfeld_S07E01_720p_WebRip.FardaDL.mkv:Seinfeld S07E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S07E01_720p_WebRip.FardaDL.mkv
@@ -3031,7 +2497,7 @@
 #DESCRIPTION Seinfeld S07E23_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:262:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S07/720p/Seinfeld_S07E24_720p_WebRip.FardaDL.mkv:Seinfeld S07E24_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S07E24_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B7:0:0:0:0:0:0:0::*** Seinfeld S08 ***
+#SERVICE 1:64:B6:0:0:0:0:0:0:0::*** Seinfeld S08 ***
 #DESCRIPTION *** Seinfeld S08 ***
 #SERVICE 4097:0:1:265:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S08/720p/Seinfeld_S08E01_720p_WebRip.FardaDL.mkv:Seinfeld S08E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S08E01_720p_WebRip.FardaDL.mkv
@@ -3077,7 +2543,7 @@
 #DESCRIPTION Seinfeld S08E21_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:307:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S08/720p/Seinfeld_S08E22_720p_WebRip.FardaDL.mkv:Seinfeld S08E22_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S08E22_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B8:0:0:0:0:0:0:0::*** Seinfeld S09 ***
+#SERVICE 1:64:B7:0:0:0:0:0:0:0::*** Seinfeld S09 ***
 #DESCRIPTION *** Seinfeld S09 ***
 #SERVICE 4097:0:1:310:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S09/720p/Seinfeld_S09E01_720p_WebRip.FardaDL.mkv:Seinfeld S09E01_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S09E01_720p_WebRip.FardaDL.mkv
@@ -3123,7 +2589,7 @@
 #DESCRIPTION Seinfeld S09E21-E22_720p_WebRip.FardaDL.mkv
 #SERVICE 4097:0:1:352:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/Seinfeld/S09/720p/Seinfeld_S09E23-E24_720p_WebRip.FardaDL.mkv:Seinfeld S09E23-E24_720p_WebRip.FardaDL.mkv
 #DESCRIPTION Seinfeld S09E23-E24_720p_WebRip.FardaDL.mkv
-#SERVICE 1:64:B9:0:0:0:0:0:0:0::*** Allo! Allo! S01 ***
+#SERVICE 1:64:B8:0:0:0:0:0:0:0::*** Allo! Allo! S01 ***
 #DESCRIPTION *** Allo! Allo! S01 ***
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s01/Allo.Allo.DL.S01E00.mkv:Allo! Allo! S01E00.mkv
 #DESCRIPTION Allo! Allo! S01E00.mkv
@@ -3143,7 +2609,7 @@
 #DESCRIPTION Allo! Allo! S01E07.mkv
 #SERVICE 4097:0:1:18:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s01/Allo.Allo.DL.S01E08.mkv:Allo! Allo! S01E08.mkv
 #DESCRIPTION Allo! Allo! S01E08.mkv
-#SERVICE 1:64:BA:0:0:0:0:0:0:0::*** Allo! Allo! S02 ***
+#SERVICE 1:64:B9:0:0:0:0:0:0:0::*** Allo! Allo! S02 ***
 #DESCRIPTION *** Allo! Allo! S02 ***
 #SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s02/Allo.Allo.DL.S02E01.mkv:Allo! Allo! S02E01.mkv
 #DESCRIPTION Allo! Allo! S02E01.mkv
@@ -3159,7 +2625,7 @@
 #DESCRIPTION Allo! Allo! S02E06.mkv
 #SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s02/Allo.Allo.DL.S02E07.mkv:Allo! Allo! S02E07.mkv
 #DESCRIPTION Allo! Allo! S02E07.mkv
-#SERVICE 1:64:BB:0:0:0:0:0:0:0::*** Allo! Allo! S03 ***
+#SERVICE 1:64:BA:0:0:0:0:0:0:0::*** Allo! Allo! S03 ***
 #DESCRIPTION *** Allo! Allo! S03 ***
 #SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s03/Allo.Allo.DL.S03E01.mkv:Allo! Allo! S03E01.mkv
 #DESCRIPTION Allo! Allo! S03E01.mkv
@@ -3173,7 +2639,7 @@
 #DESCRIPTION Allo! Allo! S03E05.mkv
 #SERVICE 4097:0:1:46:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s03/Allo.Allo.DL.S03E06.mkv:Allo! Allo! S03E06.mkv
 #DESCRIPTION Allo! Allo! S03E06.mkv
-#SERVICE 1:64:BC:0:0:0:0:0:0:0::*** Allo! Allo! S04 ***
+#SERVICE 1:64:BB:0:0:0:0:0:0:0::*** Allo! Allo! S04 ***
 #DESCRIPTION *** Allo! Allo! S04 ***
 #SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s04/Allo.Allo.DL.S04E01.mkv:Allo! Allo! S04E01.mkv
 #DESCRIPTION Allo! Allo! S04E01.mkv
@@ -3187,7 +2653,7 @@
 #DESCRIPTION Allo! Allo! S04E05.mkv
 #SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s04/Allo.Allo.DL.S04E06.mkv:Allo! Allo! S04E06.mkv
 #DESCRIPTION Allo! Allo! S04E06.mkv
-#SERVICE 1:64:BD:0:0:0:0:0:0:0::*** Allo! Allo! S05 ***
+#SERVICE 1:64:BC:0:0:0:0:0:0:0::*** Allo! Allo! S05 ***
 #DESCRIPTION *** Allo! Allo! S05 ***
 #SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s05/Allo.Allo.DL.S05E01.mkv:Allo! Allo! S05E01.mkv
 #DESCRIPTION Allo! Allo! S05E01.mkv
@@ -3241,7 +2707,7 @@
 #DESCRIPTION Allo! Allo! S05E25.mkv
 #SERVICE 4097:0:1:112:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s05/Allo.Allo.DL.S05E26.mkv:Allo! Allo! S05E26.mkv
 #DESCRIPTION Allo! Allo! S05E26.mkv
-#SERVICE 1:64:BE:0:0:0:0:0:0:0::*** Allo! Allo! S06 ***
+#SERVICE 1:64:BD:0:0:0:0:0:0:0::*** Allo! Allo! S06 ***
 #DESCRIPTION *** Allo! Allo! S06 ***
 #SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s06/Allo.Allo.DL.S06E01.mkv:Allo! Allo! S06E01.mkv
 #DESCRIPTION Allo! Allo! S06E01.mkv
@@ -3255,7 +2721,7 @@
 #DESCRIPTION Allo! Allo! S06E05.mkv
 #SERVICE 4097:0:1:125:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s06/Allo.Allo.DL.S06E06.mkv:Allo! Allo! S06E06.mkv
 #DESCRIPTION Allo! Allo! S06E06.mkv
-#SERVICE 1:64:BF:0:0:0:0:0:0:0::*** Allo! Allo! S07 ***
+#SERVICE 1:64:BE:0:0:0:0:0:0:0::*** Allo! Allo! S07 ***
 #DESCRIPTION *** Allo! Allo! S07 ***
 #SERVICE 4097:0:1:128:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s07/Allo.Allo.DL.S07E01.mkv:Allo! Allo! S07E01.mkv
 #DESCRIPTION Allo! Allo! S07E01.mkv
@@ -3277,7 +2743,7 @@
 #DESCRIPTION Allo! Allo! S07E09.mkv
 #SERVICE 4097:0:1:146:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s07/Allo.Allo.DL.S07E10.mkv:Allo! Allo! S07E10.mkv
 #DESCRIPTION Allo! Allo! S07E10.mkv
-#SERVICE 1:64:C0:0:0:0:0:0:0:0::*** Allo! Allo! S08 ***
+#SERVICE 1:64:BF:0:0:0:0:0:0:0::*** Allo! Allo! S08 ***
 #DESCRIPTION *** Allo! Allo! S08 ***
 #SERVICE 4097:0:1:149:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s08/Allo.Allo.DL.S08E00.mkv:Allo! Allo! S08E00.mkv
 #DESCRIPTION Allo! Allo! S08E00.mkv
@@ -3295,7 +2761,7 @@
 #DESCRIPTION Allo! Allo! S08E06.mkv
 #SERVICE 4097:0:1:163:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s08/Allo.Allo.DL.S08E07.mkv:Allo! Allo! S08E07.mkv
 #DESCRIPTION Allo! Allo! S08E07.mkv
-#SERVICE 1:64:C1:0:0:0:0:0:0:0::*** Allo! Allo! S09 ***
+#SERVICE 1:64:C0:0:0:0:0:0:0:0::*** Allo! Allo! S09 ***
 #DESCRIPTION *** Allo! Allo! S09 ***
 #SERVICE 4097:0:1:166:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s09/Allo.Allo.DL.S09E01.mkv:Allo! Allo! S09E01.mkv
 #DESCRIPTION Allo! Allo! S09E01.mkv
@@ -3309,7 +2775,7 @@
 #DESCRIPTION Allo! Allo! S09E05.mkv
 #SERVICE 4097:0:1:176:0:0:0:0:0:0:http%3a//mc2.dl3enter.in/files/serial1/Allo Allo/s09/Allo.Allo.DL.S09E06.mkv:Allo! Allo! S09E06.mkv
 #DESCRIPTION Allo! Allo! S09E06.mkv
-#SERVICE 1:64:C2:0:0:0:0:0:0:0::*** Fawlty Towers S01 ***
+#SERVICE 1:64:C1:0:0:0:0:0:0:0::*** Fawlty Towers S01 ***
 #DESCRIPTION *** Fawlty Towers S01 ***
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/250 IMDB/Fawlty Towers 1975-1979/S01/Fawlty.Towers.S01E01.DVDrip.FardaDL.avi:Fawlty Towers S01E01.avi
 #DESCRIPTION Fawlty Towers S01E01.avi
@@ -3323,7 +2789,7 @@
 #DESCRIPTION Fawlty Towers S01E05.avi
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/250 IMDB/Fawlty Towers 1975-1979/S01/Fawlty.Towers.S01E06.DVDrip.FardaDL.avi:Fawlty Towers S01E06.avi
 #DESCRIPTION Fawlty Towers S01E06.avi
-#SERVICE 1:64:C3:0:0:0:0:0:0:0::*** Fawlty Towers S02 ***
+#SERVICE 1:64:C2:0:0:0:0:0:0:0::*** Fawlty Towers S02 ***
 #DESCRIPTION *** Fawlty Towers S02 ***
 #SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//dl.upload8.in/files/Serial/250 IMDB/Fawlty Towers 1975-1979/S02/Fawlty.Towers.S02E01.DVDrip.FardaDL.avi:Fawlty Towers S02E01.avi
 #DESCRIPTION Fawlty Towers S02E01.avi
@@ -3685,7 +3151,7 @@
 #DESCRIPTION Gotham S03E20
 #SERVICE 4097:0:1:347:0:0:0:0:0:0:http%3a//titaniptv.com%3a9140/movie/pedamaric/cGTdWkCyO5/2218.MP4:Gotham S03E21-22
 #DESCRIPTION Gotham S03E21-22
-#SERVICE 1:64:C4:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:C3:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
