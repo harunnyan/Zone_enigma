@@ -2553,6 +2553,2258 @@
 #DESCRIPTION Viet My TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//live.vietchristian.com/tv:Viet Christian
 #DESCRIPTION Viet Christian
+#SERVICE 1:64:D1:0:0:0:0:0:0:0::##### FREE SERVER #####
+#DESCRIPTION ##### FREE SERVER #####
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4955.ts:☆☆☆☆ Premium Sports ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ Premium Sports ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/301.ts:NL: Fox Sport 1 HD
+#DESCRIPTION NL: Fox Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/302.ts:NL: Fox Sport 2 HD
+#DESCRIPTION NL: Fox Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/303.ts:NL: Fox Sport 3 HD
+#DESCRIPTION NL: Fox Sport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/362.ts:NL: Fox Sport 4 HD
+#DESCRIPTION NL: Fox Sport 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/363.ts:NL: Fox Sport 5 HD
+#DESCRIPTION NL: Fox Sport 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/364.ts:NL: Fox Sport 6 HD
+#DESCRIPTION NL: Fox Sport 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4337.ts:NL: Ziggo Sport Select HD
+#DESCRIPTION NL: Ziggo Sport Select HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1717.ts:NL: Ziggo Sport Voetbal HD
+#DESCRIPTION NL: Ziggo Sport Voetbal HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4336.ts:NL: Ziggo Sport Racing HD
+#DESCRIPTION NL: Ziggo Sport Racing HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4334.ts:NL: Ziggo Sport Extra 1
+#DESCRIPTION NL: Ziggo Sport Extra 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4335.ts:NL: Ziggo Sport Extra 2
+#DESCRIPTION NL: Ziggo Sport Extra 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4241.ts:NL: Eurosport 1 HD
+#DESCRIPTION NL: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4980.ts:NL: Eurosport 2
+#DESCRIPTION NL: Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4979.ts:NL: Edge Sport HD
+#DESCRIPTION NL: Edge Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4922.ts:DE: Sky Sport Bundesliga 1 HD
+#DESCRIPTION DE: Sky Sport Bundesliga 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4923.ts:DE: Sky Sport Bundesliga 2 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 2 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4924.ts:DE: Sky Sport Bundesliga 3 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 3 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4925.ts:DE: Sky Sport Bundesliga 4 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 4 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4926.ts:DE: Sky Sport Bundesliga 5 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 5 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4927.ts:DE: Sky Sport Bundesliga 6 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 6 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4928.ts:DE: Sky Sport Bundesliga 7 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 7 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4929.ts:DE: Sky Sport Bundesliga 8 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 8 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4930.ts:DE: Sky Sport Bundesliga 9 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 9 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4931.ts:DE: Sky Sport Bundesliga 10 HD (Match Time)
+#DESCRIPTION DE: Sky Sport Bundesliga 10 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4933.ts:DE: Sky Sport 1 HD
+#DESCRIPTION DE: Sky Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4934.ts:DE: Sky Sport 2 HD
+#DESCRIPTION DE: Sky Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4935.ts:DE: Sky Sport 3 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 3 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4936.ts:DE: Sky Sport 4 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 4 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4937.ts:DE: Sky Sport 5 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 5 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4938.ts:DE: Sky Sport 6 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 6 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4939.ts:DE: Sky Sport 7 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 7 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4940.ts:DE: Sky Sport 8 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 8 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4941.ts:DE: Sky Sport 9 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 9 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4942.ts:DE: Sky Sport 10 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 10 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4943.ts:DE: Sky Sport 11 HD (Match Time)
+#DESCRIPTION DE: Sky Sport 11 HD (Match Time)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4932.ts:DE: Sky Sport Austria HD
+#DESCRIPTION DE: Sky Sport Austria HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4944.ts:DE: Eurosport 1 HD
+#DESCRIPTION DE: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4945.ts:DE: Eurosport 2 HD
+#DESCRIPTION DE: Eurosport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4615.ts:BE: Play Sports 1 HD
+#DESCRIPTION BE: Play Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4616.ts:BE: Play Sports 2 HD
+#DESCRIPTION BE: Play Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4617.ts:BE: Play Sports 3 HD
+#DESCRIPTION BE: Play Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4618.ts:BE: Play Sports 4 HD
+#DESCRIPTION BE: Play Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4619.ts:BE: Play Sports 5 HD
+#DESCRIPTION BE: Play Sports 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4620.ts:BE: Eurosport 1 HD
+#DESCRIPTION BE: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4621.ts:BE: Eurosport 2
+#DESCRIPTION BE: Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4576.ts:FR: Bein Sports 1 HD
+#DESCRIPTION FR: Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4577.ts:FR: Bein Sports 2 HD
+#DESCRIPTION FR: Bein Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4578.ts:FR: Bein Sports 3 HD
+#DESCRIPTION FR: Bein Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4579.ts:FR: Bein Sports 4 Max HD
+#DESCRIPTION FR: Bein Sports 4 Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4580.ts:FR: Bein Sports 5 Max HD
+#DESCRIPTION FR: Bein Sports 5 Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4581.ts:FR: Bein Sports 6 Max HD
+#DESCRIPTION FR: Bein Sports 6 Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4582.ts:FR: Bein Sports 7 Max HD
+#DESCRIPTION FR: Bein Sports 7 Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4583.ts:FR: Bein Sports 8 Max HD
+#DESCRIPTION FR: Bein Sports 8 Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4584.ts:FR: Bein Sports 9 Max HD
+#DESCRIPTION FR: Bein Sports 9 Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4585.ts:FR: Bein Sports 10 Max HD
+#DESCRIPTION FR: Bein Sports 10 Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4587.ts:FR: Eurosport 1 HD
+#DESCRIPTION FR: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4588.ts:FR: Eurosport 2 HD
+#DESCRIPTION FR: Eurosport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4586.ts:FR: Info Sports HD
+#DESCRIPTION FR: Info Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1190.ts:PT: Sport TV 1
+#DESCRIPTION PT: Sport TV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1189.ts:PT: Sport TV 2
+#DESCRIPTION PT: Sport TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1188.ts:PT: Sport TV 3
+#DESCRIPTION PT: Sport TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1187.ts:PT: Sport TV 4
+#DESCRIPTION PT: Sport TV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1186.ts:PT: Sport TV 5
+#DESCRIPTION PT: Sport TV 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1712.ts:PT: EuroSport 1
+#DESCRIPTION PT: EuroSport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1711.ts:PT: EuroSport 2
+#DESCRIPTION PT: EuroSport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4665.ts:AR: Bein Sports 1 HD
+#DESCRIPTION AR: Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4666.ts:AR: Bein Sports 2 HD
+#DESCRIPTION AR: Bein Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4667.ts:AR: Bein Sports 3 HD
+#DESCRIPTION AR: Bein Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4668.ts:AR: Bein Sports 4 HD
+#DESCRIPTION AR: Bein Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4669.ts:AR: Bein Sports 5 HD
+#DESCRIPTION AR: Bein Sports 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4670.ts:AR: Bein Sports 6 HD
+#DESCRIPTION AR: Bein Sports 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4672.ts:AR: Bein Sports 8 HD
+#DESCRIPTION AR: Bein Sports 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4673.ts:AR: Bein Sports 9 HD
+#DESCRIPTION AR: Bein Sports 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4671.ts:AR: Bein Sprots 7 HD
+#DESCRIPTION AR: Bein Sprots 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3958.ts:AL: Super Sport 1 HD
+#DESCRIPTION AL: Super Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3959.ts:AL: Super Sport 2 HD
+#DESCRIPTION AL: Super Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3960.ts:AL: Super Sport 3 HD
+#DESCRIPTION AL: Super Sport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3961.ts:AL: Super Sport 4 HD
+#DESCRIPTION AL: Super Sport 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3962.ts:AL: Super Sport 5 HD
+#DESCRIPTION AL: Super Sport 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3891.ts:TR: Tivibu Spor 1 HD
+#DESCRIPTION TR: Tivibu Spor 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3892.ts:TR: Tivibu Spor 2 HD
+#DESCRIPTION TR: Tivibu Spor 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2938.ts:IT: Rai Sport 2
+#DESCRIPTION IT: Rai Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2937.ts:IT: Rai Sport 1 HD
+#DESCRIPTION IT: Rai Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3014.ts:ES: Movistar F1 HD
+#DESCRIPTION ES: Movistar F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3017.ts:ES: Eurosport 1 HD
+#DESCRIPTION ES: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3027.ts:ES: Canal  Futbol HD
+#DESCRIPTION ES: Canal  Futbol HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4464.ts:PL: Polsat Sport Extra HD
+#DESCRIPTION PL: Polsat Sport Extra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4463.ts:PL: Polsat Sport HD
+#DESCRIPTION PL: Polsat Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4486.ts:PL: TVP Sport HD
+#DESCRIPTION PL: TVP Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1285.ts:Sky Sports Main Event
+#DESCRIPTION Sky Sports Main Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1292.ts:SKY SPORTS MAIN EVENT HD
+#DESCRIPTION SKY SPORTS MAIN EVENT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1314.ts:Box Nation
+#DESCRIPTION Box Nation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1302.ts:BT Sports Extra 1
+#DESCRIPTION BT Sports Extra 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1305.ts:BT SPORTS EUROPE HD
+#DESCRIPTION BT SPORTS EUROPE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1304.ts:BT SPORTS 2 HD
+#DESCRIPTION BT SPORTS 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1303.ts:BT SPORTS 1 HD
+#DESCRIPTION BT SPORTS 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1300.ts:BT Sport EUROPE
+#DESCRIPTION BT Sport EUROPE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1301.ts:BT Sport ESPN
+#DESCRIPTION BT Sport ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1299.ts:BT Sport 2
+#DESCRIPTION BT Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1298.ts:BT Sport 1
+#DESCRIPTION BT Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1290.ts:SKY Sports News HD
+#DESCRIPTION SKY Sports News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1319.ts:Viasat Golf
+#DESCRIPTION Viasat Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1297.ts:SKY SPORTS F1 HD
+#DESCRIPTION SKY SPORTS F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1291.ts:Sky Sports F1
+#DESCRIPTION Sky Sports F1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1296.ts:SKY SPORTS PREMIER LEAGUE HD
+#DESCRIPTION SKY SPORTS PREMIER LEAGUE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1289.ts:Sky Sports Premier League
+#DESCRIPTION Sky Sports Premier League
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1295.ts:SKY SPORTS GOLF HD
+#DESCRIPTION SKY SPORTS GOLF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1288.ts:Sky Sports Golf
+#DESCRIPTION Sky Sports Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1294.ts:SKY SPORTS ACTION HD
+#DESCRIPTION SKY SPORTS ACTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1287.ts:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1293.ts:SKY SPORTS CRICKET HD
+#DESCRIPTION SKY SPORTS CRICKET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1286.ts:Sky Sports Cricket
+#DESCRIPTION Sky Sports Cricket
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1310.ts:Setanta/Premier Sports HD
+#DESCRIPTION Setanta/Premier Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1309.ts:Setanta Sports 1 / Premier Sports
+#DESCRIPTION Setanta Sports 1 / Premier Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1470.ts:Eleven Sports
+#DESCRIPTION Eleven Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1307.ts:British Eurosport2
+#DESCRIPTION British Eurosport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1306.ts:British Eurosport
+#DESCRIPTION British Eurosport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4415.ts:US: NBA TV
+#DESCRIPTION US: NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4419.ts:UK: SKY SPORTS ARENA HD
+#DESCRIPTION UK: SKY SPORTS ARENA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4418.ts:UK: SKY SPORTS FOOTBALL HD
+#DESCRIPTION UK: SKY SPORTS FOOTBALL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4420.ts:SKY SPORTS MIX HD
+#DESCRIPTION SKY SPORTS MIX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4423.ts:Eir Sports 2
+#DESCRIPTION Eir Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4424.ts:Eir Sports 1
+#DESCRIPTION Eir Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4426.ts:Sky Sports News
+#DESCRIPTION Sky Sports News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4956.ts:☆☆☆☆ Netherlands ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ Netherlands ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/262.ts:NL: NPO 1 HD
+#DESCRIPTION NL: NPO 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1063.ts:NL: NPO 2 HD
+#DESCRIPTION NL: NPO 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/266.ts:NL: NPO 3 HD
+#DESCRIPTION NL: NPO 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/679.ts:NL: RTL 4 HD
+#DESCRIPTION NL: RTL 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/273.ts:NL: RTL 5 HD
+#DESCRIPTION NL: RTL 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/680.ts:NL: SBS 6 HD
+#DESCRIPTION NL: SBS 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/270.ts:NL: RTL 7 HD
+#DESCRIPTION NL: RTL 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4239.ts:NL: RTL Z HD
+#DESCRIPTION NL: RTL Z HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/268.ts:NL: RTL 8 HD
+#DESCRIPTION NL: RTL 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/281.ts:NL: NET 5 HD
+#DESCRIPTION NL: NET 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/277.ts:NL: SBS 9 HD
+#DESCRIPTION NL: SBS 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/280.ts:NL: Veronica/DinseyXD HD
+#DESCRIPTION NL: Veronica/DinseyXD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4243.ts:NL: Disney Channel HD
+#DESCRIPTION NL: Disney Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4992.ts:NL: Disney Junior
+#DESCRIPTION NL: Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4987.ts:NL: Jim Jam
+#DESCRIPTION NL: Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/299.ts:NL: Nickelodeon HD
+#DESCRIPTION NL: Nickelodeon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4255.ts:NL: Nick Toons
+#DESCRIPTION NL: Nick Toons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4991.ts:NL: Nick Junior
+#DESCRIPTION NL: Nick Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4990.ts:NL: Nick Music
+#DESCRIPTION NL: Nick Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1718.ts:NL: Cartoon Network
+#DESCRIPTION NL: Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4989.ts:NL: Boomerang
+#DESCRIPTION NL: Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4988.ts:NL: Baby TV
+#DESCRIPTION NL: Baby TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/352.ts:NL: Comedy Central HD
+#DESCRIPTION NL: Comedy Central HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4245.ts:NL: Comedy Central Family
+#DESCRIPTION NL: Comedy Central Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4246.ts:NL: Comedy Central Extra
+#DESCRIPTION NL: Comedy Central Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4973.ts:NL: E! Entertainment HD
+#DESCRIPTION NL: E! Entertainment HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4985.ts:NL: Viceland HD
+#DESCRIPTION NL: Viceland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4250.ts:NL: RTL Lounge
+#DESCRIPTION NL: RTL Lounge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4984.ts:NL: BBC First HD
+#DESCRIPTION NL: BBC First HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4986.ts:NL: RTL Crime HD
+#DESCRIPTION NL: RTL Crime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4981.ts:NL: Spike
+#DESCRIPTION NL: Spike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1715.ts:NL: Fox Channel
+#DESCRIPTION NL: Fox Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4983.ts:NL: MTV
+#DESCRIPTION NL: MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/314.ts:NL: TLC
+#DESCRIPTION NL: TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4982.ts:NL: AT5
+#DESCRIPTION NL: AT5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/284.ts:NL: Film1 Premiere HD
+#DESCRIPTION NL: Film1 Premiere HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/288.ts:NL: Film1 Action HD
+#DESCRIPTION NL: Film1 Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/286.ts:NL: Film1 Family HD
+#DESCRIPTION NL: Film1 Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/282.ts:NL: Film1 Drama HD
+#DESCRIPTION NL: Film1 Drama HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/335.ts:NL: National Geographic HD
+#DESCRIPTION NL: National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4978.ts:NL: National Geographic Wild HD
+#DESCRIPTION NL: National Geographic Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4240.ts:NL: Discovery Channel HD
+#DESCRIPTION NL: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4977.ts:NL: Discovery Science HD+
+#DESCRIPTION NL: Discovery Science HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4976.ts:NL: Discovery World HD
+#DESCRIPTION NL: Discovery World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4975.ts:NL: ID HD
+#DESCRIPTION NL: ID HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4974.ts:NL: Crime &amp; Investigation
+#DESCRIPTION NL: Crime &amp; Investigation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4244.ts:NL: History HD
+#DESCRIPTION NL: History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4252.ts:NL: Animal Planet
+#DESCRIPTION NL: Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/397.ts:NL: 24 Kitchen HD
+#DESCRIPTION NL: 24 Kitchen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4972.ts:NL: Outdoor Channel HD
+#DESCRIPTION NL: Outdoor Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4971.ts:NL: Omroep Brabant
+#DESCRIPTION NL: Omroep Brabant
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4970.ts:NL: Omroep Gelderland
+#DESCRIPTION NL: Omroep Gelderland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4969.ts:NL: Omroep Zeeland
+#DESCRIPTION NL: Omroep Zeeland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4968.ts:NL: Omrop Fryslan
+#DESCRIPTION NL: Omrop Fryslan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4967.ts:NL: RTV Drenthe
+#DESCRIPTION NL: RTV Drenthe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4964.ts:NL: RTV Oost
+#DESCRIPTION NL: RTV Oost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4966.ts:NL: RTV Noord
+#DESCRIPTION NL: RTV Noord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4965.ts:NL: L1 Limburg
+#DESCRIPTION NL: L1 Limburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4957.ts:NL: The QYOU
+#DESCRIPTION NL: The QYOU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4960.ts:NL: MTV 24 Music
+#DESCRIPTION NL: MTV 24 Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4961.ts:NL: MTV Brand New
+#DESCRIPTION NL: MTV Brand New
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4958.ts:NL: ONS
+#DESCRIPTION NL: ONS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4959.ts:NL: 192 TV
+#DESCRIPTION NL: 192 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4963.ts:NL: NPO Politiek/Sport
+#DESCRIPTION NL: NPO Politiek/Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4962.ts:NL: NPO Zapp Xtra/NPO Best
+#DESCRIPTION NL: NPO Zapp Xtra/NPO Best
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4995.ts:☆☆☆☆ United Kingdom ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ United Kingdom ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1320.ts:UK: BBC One HD
+#DESCRIPTION UK: BBC One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1323.ts:UK: BBC One London HD
+#DESCRIPTION UK: BBC One London HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1325.ts:UK: BBC One Wales HD
+#DESCRIPTION UK: BBC One Wales HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1324.ts:UK: BBC One Scotland HD
+#DESCRIPTION UK: BBC One Scotland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1326.ts:UK: BBC One Northern Ireland
+#DESCRIPTION UK: BBC One Northern Ireland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1321.ts:UK: BBC Two HD
+#DESCRIPTION UK: BBC Two HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1327.ts:UK: BBC Two
+#DESCRIPTION UK: BBC Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1328.ts:UK: BBC Two Scotland HD
+#DESCRIPTION UK: BBC Two Scotland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1359.ts:UK: BBC News HD
+#DESCRIPTION UK: BBC News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1371.ts:UK: BBC World News
+#DESCRIPTION UK: BBC World News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1332.ts:UK: BBC Parliament
+#DESCRIPTION UK: BBC Parliament
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1329.ts:UK: BBC Four
+#DESCRIPTION UK: BBC Four
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1333.ts:UK: BBC Alba
+#DESCRIPTION UK: BBC Alba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1373.ts:UK: CNBC Europe
+#DESCRIPTION UK: CNBC Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1330.ts:UK: CBeebies
+#DESCRIPTION UK: CBeebies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1322.ts:UK: CBBC HD
+#DESCRIPTION UK: CBBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1331.ts:UK: CBBC
+#DESCRIPTION UK: CBBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1372.ts:UK: CNN
+#DESCRIPTION UK: CNN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1363.ts:UK: Fox News
+#DESCRIPTION UK: Fox News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1370.ts:UK: Euronews
+#DESCRIPTION UK: Euronews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1369.ts:UK: France 24 English
+#DESCRIPTION UK: France 24 English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1336.ts:UK: ITV HD
+#DESCRIPTION UK: ITV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1338.ts:UK: ITV
+#DESCRIPTION UK: ITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1340.ts:UK: ITV 2
+#DESCRIPTION UK: ITV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1341.ts:UK: ITV 3
+#DESCRIPTION UK: ITV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1342.ts:UK: ITV 4
+#DESCRIPTION UK: ITV 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1344.ts:UK: ITV Encore
+#DESCRIPTION UK: ITV Encore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1345.ts:ITV Choice
+#DESCRIPTION ITV Choice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1343.ts:UK: ITV BE
+#DESCRIPTION UK: ITV BE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1346.ts:UK: CITV
+#DESCRIPTION UK: CITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1349.ts:UK: TV3 IE
+#DESCRIPTION UK: TV3 IE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1358.ts:UK: E4
+#DESCRIPTION UK: E4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1357.ts:UK: More 4
+#DESCRIPTION UK: More 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1356.ts:UK: Film 4
+#DESCRIPTION UK: Film 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1355.ts:UK: Channel 4 HD
+#DESCRIPTION UK: Channel 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1354.ts:UK: Channel 4
+#DESCRIPTION UK: Channel 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1353.ts:UK: Channel 5 HD
+#DESCRIPTION UK: Channel 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1352.ts:UK: Channel 5
+#DESCRIPTION UK: Channel 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1416.ts:UK: CBS Action
+#DESCRIPTION UK: CBS Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1415.ts:UK: CBS Drama
+#DESCRIPTION UK: CBS Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1414.ts:UK: CBS Reality 1
+#DESCRIPTION UK: CBS Reality 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1400.ts:UK: Alibi
+#DESCRIPTION UK: Alibi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1397.ts:UK: Dave
+#DESCRIPTION UK: Dave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1422.ts:UK: DMAX
+#DESCRIPTION UK: DMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1402.ts:UK: Drama
+#DESCRIPTION UK: Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4425.ts:UK: FOX
+#DESCRIPTION UK: FOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4340.ts:UK: Sky One HD
+#DESCRIPTION UK: Sky One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1391.ts:UK: Sky 1
+#DESCRIPTION UK: Sky 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1392.ts:UK: Sky 2
+#DESCRIPTION UK: Sky 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1361.ts:UK: Sky News HD
+#DESCRIPTION UK: Sky News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1334.ts:UK: RTE One
+#DESCRIPTION UK: RTE One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1335.ts:UK: RTE Two
+#DESCRIPTION UK: RTE Two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1366.ts:UK: RTE News
+#DESCRIPTION UK: RTE News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1436.ts:UK: RTE jr
+#DESCRIPTION UK: RTE jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1350.ts:UK: TG4
+#DESCRIPTION UK: TG4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1404.ts:UK: Gold
+#DESCRIPTION UK: Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1438.ts:UK: Disney XD
+#DESCRIPTION UK: Disney XD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1440.ts:UK: Disney Channel
+#DESCRIPTION UK: Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1439.ts:UK: Disney Junior
+#DESCRIPTION UK: Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1446.ts:UK: Nick Toons
+#DESCRIPTION UK: Nick Toons
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1443.ts:UK: Nick
+#DESCRIPTION UK: Nick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1445.ts:UK: Nick Junior Too
+#DESCRIPTION UK: Nick Junior Too
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1444.ts:UK: Nick Junior
+#DESCRIPTION UK: Nick Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1437.ts:UK: Boomerang
+#DESCRIPTION UK: Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1441.ts:UK: Cartoon Network
+#DESCRIPTION UK: Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1364.ts:UK: Bloomberg
+#DESCRIPTION UK: Bloomberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1435.ts:UK: Baby TV
+#DESCRIPTION UK: Baby TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1410.ts:UK: Comedy Central
+#DESCRIPTION UK: Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1409.ts:UK: Comedy Central Extra
+#DESCRIPTION UK: Comedy Central Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1381.ts:UK: Sky Movies Action HD
+#DESCRIPTION UK: Sky Movies Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1375.ts:UK: Sky Movies Premiere HD
+#DESCRIPTION UK: Sky Movies Premiere HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1383.ts:UK: Sky Movies Select HD
+#DESCRIPTION UK: Sky Movies Select HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1384.ts:UK: Sky Movies SCI-FI &amp; Horror HD
+#DESCRIPTION UK: Sky Movies SCI-FI &amp; Horror HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1376.ts:UK: Sky Movies Disney HD
+#DESCRIPTION UK: Sky Movies Disney HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1393.ts:UK: Sky Living 1 HD
+#DESCRIPTION UK: Sky Living 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1377.ts:UK: Sky Movies Modern Greats HD
+#DESCRIPTION UK: Sky Movies Modern Greats HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1378.ts:UK: Sky Movies Family HD
+#DESCRIPTION UK: Sky Movies Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1379.ts:UK: Sky Movies Drama &amp; Romance HD
+#DESCRIPTION UK: Sky Movies Drama &amp; Romance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1380.ts:UK: Sky Movies Comedy HD
+#DESCRIPTION UK: Sky Movies Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1394.ts:UK: Sky Atlantic HD
+#DESCRIPTION UK: Sky Atlantic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1395.ts:UK: Sky Arts HD
+#DESCRIPTION UK: Sky Arts HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1382.ts:UK: Sky Movies Crime &amp; Thriller HD
+#DESCRIPTION UK: Sky Movies Crime &amp; Thriller HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4994.ts:☆☆☆☆ Germany ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ Germany ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4877.ts:DE: Das Erste HD
+#DESCRIPTION DE: Das Erste HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4878.ts:DE: ZDF HD
+#DESCRIPTION DE: ZDF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4879.ts:DE: WDR HD
+#DESCRIPTION DE: WDR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4880.ts:DE: 3SAT HD
+#DESCRIPTION DE: 3SAT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4888.ts:DE: Sat.1 HD
+#DESCRIPTION DE: Sat.1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4889.ts:DE: Sat.1 Gold HD
+#DESCRIPTION DE: Sat.1 Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4883.ts:DE: N-TV HD
+#DESCRIPTION DE: N-TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4884.ts:DE: NDR HD
+#DESCRIPTION DE: NDR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4882.ts:DE: N24 HD
+#DESCRIPTION DE: N24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4881.ts:DE: Arte HD
+#DESCRIPTION DE: Arte HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4885.ts:DE: DMAX HD
+#DESCRIPTION DE: DMAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4886.ts:DE: VOX HD
+#DESCRIPTION DE: VOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4887.ts:DE: Kabel Eins HD
+#DESCRIPTION DE: Kabel Eins HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4890.ts:DE: ProSieben HD
+#DESCRIPTION DE: ProSieben HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4891.ts:DE: Pro7 Maxx HD
+#DESCRIPTION DE: Pro7 Maxx HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4892.ts:DE: RTL HD
+#DESCRIPTION DE: RTL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4893.ts:DE: RTL 2 HD
+#DESCRIPTION DE: RTL 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4894.ts:DE: RTL Passion HD
+#DESCRIPTION DE: RTL Passion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4896.ts:DE: RTL Crime HD
+#DESCRIPTION DE: RTL Crime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4897.ts:DE: RTL Plus HD
+#DESCRIPTION DE: RTL Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4895.ts:DE: RTL Nitro
+#DESCRIPTION DE: RTL Nitro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4898.ts:DE: Fox HD
+#DESCRIPTION DE: Fox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4899.ts:DE: DisneyXD
+#DESCRIPTION DE: DisneyXD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4900.ts:DE: Disney Cinemagic
+#DESCRIPTION DE: Disney Cinemagic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4901.ts:DE: Disney Junior
+#DESCRIPTION DE: Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4903.ts:DE: Toggo Plus
+#DESCRIPTION DE: Toggo Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4902.ts:DE: Super RTL
+#DESCRIPTION DE: Super RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4905.ts:DE: Junior
+#DESCRIPTION DE: Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4904.ts:DE: Kika
+#DESCRIPTION DE: Kika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4906.ts:DE: Sky Cinema HD
+#DESCRIPTION DE: Sky Cinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4907.ts:DE: Sky Cinema +1 HD
+#DESCRIPTION DE: Sky Cinema +1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4908.ts:DE: Sky Cinema +24 HD
+#DESCRIPTION DE: Sky Cinema +24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4909.ts:DE: Sky Cinema Action HD
+#DESCRIPTION DE: Sky Cinema Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4910.ts:DE: Sky Cinema Atlantic HD
+#DESCRIPTION DE: Sky Cinema Atlantic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4911.ts:DE: Sky Cinema Comedy HD
+#DESCRIPTION DE: Sky Cinema Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4912.ts:DE: Sky Cinema Family HD
+#DESCRIPTION DE: Sky Cinema Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4913.ts:DE: Sky Cinema Emotion HD
+#DESCRIPTION DE: Sky Cinema Emotion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4914.ts:DE: Sky Cinema Hits HD
+#DESCRIPTION DE: Sky Cinema Hits HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4915.ts:DE: Sky Cinema Krimi HD
+#DESCRIPTION DE: Sky Cinema Krimi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4916.ts:DE: Sky Cinema Nostalgie HD
+#DESCRIPTION DE: Sky Cinema Nostalgie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4917.ts:DE: Sky Select 1 HD
+#DESCRIPTION DE: Sky Select 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4918.ts:DE: Sky Select 2 HD
+#DESCRIPTION DE: Sky Select 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4919.ts:DE: Sky Select 3 HD
+#DESCRIPTION DE: Sky Select 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4920.ts:DE: Sky Select 4 HD
+#DESCRIPTION DE: Sky Select 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4921.ts:DE: Sky Select 5 HD
+#DESCRIPTION DE: Sky Select 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4946.ts:DE: Nat Geo HD
+#DESCRIPTION DE: Nat Geo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4947.ts:DE: Nat Geo Wild HD
+#DESCRIPTION DE: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4948.ts:DE: Discovery Channel HD
+#DESCRIPTION DE: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4949.ts:DE: History Channel HD
+#DESCRIPTION DE: History Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4952.ts:DE: AXN HD
+#DESCRIPTION DE: AXN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4951.ts:DE: SYSF HD
+#DESCRIPTION DE: SYSF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4950.ts:DE: 13TH Street HD
+#DESCRIPTION DE: 13TH Street HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4436.ts:Sky Sports Box Office PPV
+#DESCRIPTION Sky Sports Box Office PPV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1434.ts:UK: Spike HD
+#DESCRIPTION UK: Spike HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1386.ts:UK: True Movies 1
+#DESCRIPTION UK: True Movies 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1387.ts:UK: Good Food
+#DESCRIPTION UK: Good Food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1388.ts:UK: True Entertainment
+#DESCRIPTION UK: True Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1385.ts:UK: Sony Movies
+#DESCRIPTION UK: Sony Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1401.ts:UK: Watch
+#DESCRIPTION UK: Watch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1460.ts:UK: VIVA the Hits!
+#DESCRIPTION UK: VIVA the Hits!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1088.ts:VIP AR: Rotana Masriya
+#DESCRIPTION VIP AR: Rotana Masriya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1089.ts:VIP AR: Rotana Khaligi
+#DESCRIPTION VIP AR: Rotana Khaligi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1459.ts:UK: VH1 Classic
+#DESCRIPTION UK: VH1 Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1458.ts:UK: VH1
+#DESCRIPTION UK: VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1348.ts:UK: UTV IE
+#DESCRIPTION UK: UTV IE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1431.ts:UK: Travel Channel 1
+#DESCRIPTION UK: Travel Channel 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1390.ts:UK: TCM 1
+#DESCRIPTION UK: TCM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1389.ts:UK: TCM
+#DESCRIPTION UK: TCM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1396.ts:UK: SyFy HD
+#DESCRIPTION UK: SyFy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1308.ts:UK: Setanta Ireland
+#DESCRIPTION UK: Setanta Ireland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1347.ts:UK: S4C
+#DESCRIPTION UK: S4C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1411.ts:UK: Real Lives
+#DESCRIPTION UK: Real Lives
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1312.ts:Racing UK
+#DESCRIPTION Racing UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1406.ts:UK: Pick
+#DESCRIPTION UK: Pick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1367.ts:UK: NHK News HD
+#DESCRIPTION UK: NHK News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1429.ts:UK: National Geographic HD
+#DESCRIPTION UK: National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1430.ts:UK: Nat Geo Wild HD
+#DESCRIPTION UK: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1317.ts:MUTV HD
+#DESCRIPTION MUTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1316.ts:MUTV
+#DESCRIPTION MUTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1454.ts:UK: MTV Rocks
+#DESCRIPTION UK: MTV Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1449.ts:UK: MTV Rocks HD
+#DESCRIPTION UK: MTV Rocks HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1456.ts:UK: MTV Music
+#DESCRIPTION UK: MTV Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1451.ts:UK: MTV Live HD
+#DESCRIPTION UK: MTV Live HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1452.ts:UK: MTV Hits!
+#DESCRIPTION UK: MTV Hits!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1447.ts:UK: MTV Hits HD
+#DESCRIPTION UK: MTV Hits HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1450.ts:UK: MTV Dance HD
+#DESCRIPTION UK: MTV Dance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1455.ts:UK: MTV Dance
+#DESCRIPTION UK: MTV Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1457.ts:UK: MTV Classic
+#DESCRIPTION UK: MTV Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1453.ts:UK: MTV Base
+#DESCRIPTION UK: MTV Base
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1448.ts:UK: MTV Base HD
+#DESCRIPTION UK: MTV Base HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1413.ts:UK: Movies 4 Men
+#DESCRIPTION UK: Movies 4 Men
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1313.ts:Motors UK
+#DESCRIPTION Motors UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1420.ts:UK: London Live
+#DESCRIPTION UK: London Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1315.ts:UK: Liverpool TV
+#DESCRIPTION UK: Liverpool TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1432.ts:UK: Investigation Discovery HD
+#DESCRIPTION UK: Investigation Discovery HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1417.ts:UK: Horror Channel
+#DESCRIPTION UK: Horror Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1403.ts:UK: Home 1
+#DESCRIPTION UK: Home 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1418.ts:UK: History HD
+#DESCRIPTION UK: History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1461.ts:UK: Heart TV
+#DESCRIPTION UK: Heart TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1419.ts:UK: H2
+#DESCRIPTION UK: H2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1408.ts:UK: Fine Living Network
+#DESCRIPTION UK: Fine Living Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1469.ts:UK: Eleven Sports 1 HD
+#DESCRIPTION UK: Eleven Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1405.ts:UK: Eden 1
+#DESCRIPTION UK: Eden 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1399.ts:UK: E! Entertainment
+#DESCRIPTION UK: E! Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1427.ts:UK: Discovery Turbo
+#DESCRIPTION UK: Discovery Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1428.ts:UK: Discovery Shed
+#DESCRIPTION UK: Discovery Shed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1424.ts:UK: Discovery Science
+#DESCRIPTION UK: Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1426.ts:UK: Discovery Home &amp; Health HD
+#DESCRIPTION UK: Discovery Home &amp; Health HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1425.ts:UK: Discovery History HD
+#DESCRIPTION UK: Discovery History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1423.ts:UK: Discovery Channel HD
+#DESCRIPTION UK: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1433.ts:UK: Crime Investigation HD
+#DESCRIPTION UK: Crime Investigation HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1318.ts:Chelsea TV
+#DESCRIPTION Chelsea TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1407.ts:UK: Challenge
+#DESCRIPTION UK: Challenge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4410.ts:US: A&amp;E HD
+#DESCRIPTION US: A&amp;E HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4414.ts:US: ABC HD
+#DESCRIPTION US: ABC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4413.ts:US: ABC News HD
+#DESCRIPTION US: ABC News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4411.ts:US: AMC HD
+#DESCRIPTION US: AMC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4409.ts:US: Bein Sports HD
+#DESCRIPTION US: Bein Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4404.ts:US: CBS HD
+#DESCRIPTION US: CBS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4405.ts:US: City HD
+#DESCRIPTION US: City HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4407.ts:US: CNBC HD
+#DESCRIPTION US: CNBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4406.ts:US: CNN HD
+#DESCRIPTION US: CNN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4395.ts:US: Comedy Central HD
+#DESCRIPTION US: Comedy Central HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4408.ts:US: CW Central HD
+#DESCRIPTION US: CW Central HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4377.ts:US: Discovery Channel HD
+#DESCRIPTION US: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4402.ts:US: Fox  HD
+#DESCRIPTION US: Fox  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4403.ts:US: Fox News HD
+#DESCRIPTION US: Fox News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4379.ts:US: GSN TV
+#DESCRIPTION US: GSN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4401.ts:US: Hallmark HD
+#DESCRIPTION US: Hallmark HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4392.ts:US: HBO Family HD
+#DESCRIPTION US: HBO Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4391.ts:US: HBO Signature HD
+#DESCRIPTION US: HBO Signature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4398.ts:US: HGTV HD
+#DESCRIPTION US: HGTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4378.ts:US: History Channel HD
+#DESCRIPTION US: History Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4384.ts:US: KPBS HD
+#DESCRIPTION US: KPBS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4400.ts:US: Life Time HD
+#DESCRIPTION US: Life Time HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4380.ts:US: My9 HD
+#DESCRIPTION US: My9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4381.ts:US: Nasa TV HD
+#DESCRIPTION US: Nasa TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4383.ts:US: NBC HD
+#DESCRIPTION US: NBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4382.ts:US: NBC Sport HD
+#DESCRIPTION US: NBC Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4399.ts:US: NBCSN HD
+#DESCRIPTION US: NBCSN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4412.ts:US: NFL Network HD
+#DESCRIPTION US: NFL Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4393.ts:US: Nick HD
+#DESCRIPTION US: Nick HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4396.ts:US: Showtime 2 HD
+#DESCRIPTION US: Showtime 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4397.ts:US: Showtime HD
+#DESCRIPTION US: Showtime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4394.ts:US: Spike HD
+#DESCRIPTION US: Spike HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4387.ts:US: Starz Cinema HD
+#DESCRIPTION US: Starz Cinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4386.ts:US: Starz Comedy
+#DESCRIPTION US: Starz Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4385.ts:US: Starz Edge HD
+#DESCRIPTION US: Starz Edge HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4388.ts:US: SYSF HD
+#DESCRIPTION US: SYSF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4389.ts:US: TLC HD
+#DESCRIPTION US: TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4390.ts:US: WWE HD
+#DESCRIPTION US: WWE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4330.ts:AR: LDC
+#DESCRIPTION AR: LDC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4329.ts:AR: LBC HD
+#DESCRIPTION AR: LBC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3904.ts:AL: Top Channel HD
+#DESCRIPTION AL: Top Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4211.ts:AL: Vizion Plus HD
+#DESCRIPTION AL: Vizion Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3905.ts:AL: Klan HD
+#DESCRIPTION AL: Klan HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4209.ts:AL: Klan Kosova
+#DESCRIPTION AL: Klan Kosova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3910.ts:AL: KTV HD
+#DESCRIPTION AL: KTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3924.ts:AL: Alsat M HD
+#DESCRIPTION AL: Alsat M HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4212.ts:AL: RTV 21 HD
+#DESCRIPTION AL: RTV 21 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4214.ts:AL: RTV 21 Plus
+#DESCRIPTION AL: RTV 21 Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4216.ts:AL: TVSH
+#DESCRIPTION AL: TVSH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4236.ts:AL: TV Plisi HD
+#DESCRIPTION AL: TV Plisi HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4219.ts:AL: ABC News
+#DESCRIPTION AL: ABC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4218.ts:AL: Top News HD
+#DESCRIPTION AL: Top News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3931.ts:AL: Tribuna HD
+#DESCRIPTION AL: Tribuna HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4221.ts:AL: A1 Report HD
+#DESCRIPTION AL: A1 Report HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4217.ts:AL: Kanali 7
+#DESCRIPTION AL: Kanali 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4222.ts:AL: Film Nje HD
+#DESCRIPTION AL: Film Nje HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4223.ts:AL: Film Dy HD
+#DESCRIPTION AL: Film Dy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4224.ts:AL: Film Aksion
+#DESCRIPTION AL: Film Aksion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4233.ts:AL: Film Thriller
+#DESCRIPTION AL: Film Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4228.ts:AL: Film Digi Gold HD
+#DESCRIPTION AL: Film Digi Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4229.ts:AL: Film Digi Gold 1 HD
+#DESCRIPTION AL: Film Digi Gold 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4230.ts:AL: Film Digi Gold 2 HD
+#DESCRIPTION AL: Film Digi Gold 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4210.ts:AL: Klan Plus HD
+#DESCRIPTION AL: Klan Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3956.ts:AL: Tring Comedy
+#DESCRIPTION AL: Tring Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3954.ts:AL: Tring Jolly HD
+#DESCRIPTION AL: Tring Jolly HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3955.ts:AL: Tring Fantasy
+#DESCRIPTION AL: Tring Fantasy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3951.ts:AL: Tring Shqip
+#DESCRIPTION AL: Tring Shqip
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3950.ts:AL: Tring Smile
+#DESCRIPTION AL: Tring Smile
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3948.ts:AL: Tring Super
+#DESCRIPTION AL: Tring Super
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3953.ts:AL: Tring Max
+#DESCRIPTION AL: Tring Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3952.ts:AL: Tring Life
+#DESCRIPTION AL: Tring Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3957.ts:AL: Tring 3
+#DESCRIPTION AL: Tring 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3947.ts:AL: Tring Tring
+#DESCRIPTION AL: Tring Tring
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3949.ts:AL: Tring Sofia
+#DESCRIPTION AL: Tring Sofia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4220.ts:AL: Tip TV
+#DESCRIPTION AL: Tip TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3848.ts:TR: TRT 1 HD
+#DESCRIPTION TR: TRT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3820.ts:TR: ATV HD
+#DESCRIPTION TR: ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3828.ts:TR: Kanal D HD
+#DESCRIPTION TR: Kanal D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3817.ts:TR: Star TV HD
+#DESCRIPTION TR: Star TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3823.ts:TR: Fox HD
+#DESCRIPTION TR: Fox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3825.ts:TR: TV8 HD
+#DESCRIPTION TR: TV8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3835.ts:TR: A Haber HD
+#DESCRIPTION TR: A Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3831.ts:TR: Beyaz TV HD
+#DESCRIPTION TR: Beyaz TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3893.ts:TR: A Spor HD
+#DESCRIPTION TR: A Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3871.ts:TR: Cartoon Network
+#DESCRIPTION TR: Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3839.ts:TR: CNN Turk HD
+#DESCRIPTION TR: CNN Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3833.ts:TR: Flash TV HD
+#DESCRIPTION TR: Flash TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3837.ts:TR: Haber Turk HD
+#DESCRIPTION TR: Haber Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3844.ts:TR: Kanal 7 HD
+#DESCRIPTION TR: Kanal 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4279.ts:TR: KRAL POP TV
+#DESCRIPTION TR: KRAL POP TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3873.ts:TR: Minika Cocuk
+#DESCRIPTION TR: Minika Cocuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3872.ts:TR: Minika Go
+#DESCRIPTION TR: Minika Go
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3841.ts:TR: NTV HD
+#DESCRIPTION TR: NTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3877.ts:TR: Moviesmart Premium HD
+#DESCRIPTION TR: Moviesmart Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3878.ts:TR: Moviesmart Premium 2 HD
+#DESCRIPTION TR: Moviesmart Premium 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3879.ts:TR: Moviesmart Turk HD
+#DESCRIPTION TR: Moviesmart Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3815.ts:TR: Show Max
+#DESCRIPTION TR: Show Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3813.ts:TR: Show TV HD
+#DESCRIPTION TR: Show TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3861.ts:TR: TRT Belgesel HD
+#DESCRIPTION TR: TRT Belgesel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3859.ts:TR: TRT Cocuk HD
+#DESCRIPTION TR: TRT Cocuk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3857.ts:TR: TRT Haber HD
+#DESCRIPTION TR: TRT Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3855.ts:TR: TRT Muzik HD
+#DESCRIPTION TR: TRT Muzik HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3854.ts:TR: TRT Okul HD
+#DESCRIPTION TR: TRT Okul HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3850.ts:TR: TRT Turk HD
+#DESCRIPTION TR: TRT Turk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3852.ts:TR: TRT World HD
+#DESCRIPTION TR: TRT World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5023.ts:☆☆☆☆ Portugal ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ Portugal ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1204.ts:PT: RTP 1
+#DESCRIPTION PT: RTP 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1203.ts:PT: RTP 2
+#DESCRIPTION PT: RTP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1202.ts:PT: RTP 3
+#DESCRIPTION PT: RTP 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1200.ts:PT: RTP Africa
+#DESCRIPTION PT: RTP Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1201.ts:PT: RTP AÇORES
+#DESCRIPTION PT: RTP AÇORES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1198.ts:PT: RTP MADEIRA
+#DESCRIPTION PT: RTP MADEIRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1197.ts:PT: RTP Memoria
+#DESCRIPTION PT: RTP Memoria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1176.ts:PT: TVI
+#DESCRIPTION PT: TVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1175.ts:PT: TVI 24
+#DESCRIPTION PT: TVI 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1173.ts:PT: TVI Reality
+#DESCRIPTION PT: TVI Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1174.ts:PT: TVI FICÇÃO
+#DESCRIPTION PT: TVI FICÇÃO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1178.ts:PT: TV Record
+#DESCRIPTION PT: TV Record
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4435.ts:PT: TV Record (backup)
+#DESCRIPTION PT: TV Record (backup)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3204.ts:PT:Tve Internacional
+#DESCRIPTION PT:Tve Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1180.ts:PT: TV Globo
+#DESCRIPTION PT: TV Globo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4433.ts:PT: TV Globo (backup)
+#DESCRIPTION PT: TV Globo (backup)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1179.ts:PT: TV Globo Premium
+#DESCRIPTION PT: TV Globo Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4434.ts:PT: TV Globo Premium (backup)
+#DESCRIPTION PT: TV Globo Premium (backup)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3811.ts:PT: TCV  (TELEVISÃO DE CABO VERDE)
+#DESCRIPTION PT: TCV  (TELEVISÃO DE CABO VERDE)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1196.ts:PT: SBT Brasil
+#DESCRIPTION PT: SBT Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1195.ts:PT: SIC
+#DESCRIPTION PT: SIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1191.ts:PT: SIC RADICAL
+#DESCRIPTION PT: SIC RADICAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1194.ts:PT: SIC CARAS
+#DESCRIPTION PT: SIC CARAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1192.ts:PT: SIC NOTÍCIAS
+#DESCRIPTION PT: SIC NOTÍCIAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1193.ts:PT: SIC MULHER
+#DESCRIPTION PT: SIC MULHER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1208.ts:PT: Nickelodeon
+#DESCRIPTION PT: Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1227.ts:PT: Biggs
+#DESCRIPTION PT: Biggs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1225.ts:PT: Canal Panda
+#DESCRIPTION PT: Canal Panda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1212.ts:PT: Jim Jam
+#DESCRIPTION PT: Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1224.ts:PT: Canal Q
+#DESCRIPTION PT: Canal Q
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1177.ts:PT: TVCine 1
+#DESCRIPTION PT: TVCine 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1183.ts:PT: TV Cine 2
+#DESCRIPTION PT: TV Cine 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1182.ts:PT: TV Cine 3
+#DESCRIPTION PT: TV Cine 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1181.ts:PT: TV Cine 4
+#DESCRIPTION PT: TV Cine 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1223.ts:PT: Cinemundo
+#DESCRIPTION PT: Cinemundo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1210.ts:PT: Nat geo
+#DESCRIPTION PT: Nat geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1209.ts:PT: Nat Geo Wild
+#DESCRIPTION PT: Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1221.ts:PT: Discovery Channel
+#DESCRIPTION PT: Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1235.ts:PT: 24 KITCHEN
+#DESCRIPTION PT: 24 KITCHEN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1218.ts:PT: Fox
+#DESCRIPTION PT: Fox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1215.ts:PT: Fox Life
+#DESCRIPTION PT: Fox Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1216.ts:PT: Fox Crime
+#DESCRIPTION PT: Fox Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1217.ts:PT: Fox Comedy
+#DESCRIPTION PT: Fox Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1214.ts:PT: Fox Movies
+#DESCRIPTION PT: Fox Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1231.ts:PT: AXN
+#DESCRIPTION PT: AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1229.ts:PT: AXN White
+#DESCRIPTION PT: AXN White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1230.ts:PT: AXN Black
+#DESCRIPTION PT: AXN Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1220.ts:PT: E! Entertainment
+#DESCRIPTION PT: E! Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1184.ts:PT: TLC
+#DESCRIPTION PT: TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1233.ts:PT: A&amp;E
+#DESCRIPTION PT: A&amp;E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1232.ts:PT: AMC
+#DESCRIPTION PT: AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1226.ts:PT: Caca &amp; Pesca
+#DESCRIPTION PT: Caca &amp; Pesca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1222.ts:PT: CM TV
+#DESCRIPTION PT: CM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1219.ts:PT: Feul TV
+#DESCRIPTION PT: Feul TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1213.ts:PT: Hollywood
+#DESCRIPTION PT: Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1206.ts:PT: PFC
+#DESCRIPTION PT: PFC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1710.ts:PT: Benfica TV1
+#DESCRIPTION PT: Benfica TV1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1205.ts:PT: Porto Canal
+#DESCRIPTION PT: Porto Canal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1211.ts:PT: Motors TV
+#DESCRIPTION PT: Motors TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1185.ts:PT: Sporting TV
+#DESCRIPTION PT: Sporting TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4168.ts:AR: Rotana cinema
+#DESCRIPTION AR: Rotana cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4175.ts:AR: Nat Geo AD
+#DESCRIPTION AR: Nat Geo AD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4170.ts:AR: MTV Lebanon A
+#DESCRIPTION AR: MTV Lebanon A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4171.ts:AR: Cinema Pro
+#DESCRIPTION AR: Cinema Pro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4169.ts:AR: Cartoon Network
+#DESCRIPTION AR: Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4173.ts:AR: Al Jazeera EN
+#DESCRIPTION AR: Al Jazeera EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4172.ts:AR: Al Jazeera Arabic
+#DESCRIPTION AR: Al Jazeera Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3549.ts:&amp;TV HD
+#DESCRIPTION &amp;TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4416.ts:&amp;Pictures HD
+#DESCRIPTION &amp;Pictures HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3557.ts:COLORS TV HD
+#DESCRIPTION COLORS TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3543.ts:ZEE TV UK
+#DESCRIPTION ZEE TV UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3566.ts:ZING INDIA
+#DESCRIPTION ZING INDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3560.ts:STAR GOLD HD
+#DESCRIPTION STAR GOLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3554.ts:SONY TV HD
+#DESCRIPTION SONY TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1575.ts:IN: ZEE TV UK
+#DESCRIPTION IN: ZEE TV UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1576.ts:IN: ZEE TV HD USA
+#DESCRIPTION IN: ZEE TV HD USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1577.ts:IN: ZEE TV HD IND
+#DESCRIPTION IN: ZEE TV HD IND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1578.ts:IN: ZEE MARATHI
+#DESCRIPTION IN: ZEE MARATHI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1579.ts:IN: ZEE CLASSICS
+#DESCRIPTION IN: ZEE CLASSICS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1580.ts:IN: ZEE CINEMA UK
+#DESCRIPTION IN: ZEE CINEMA UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1581.ts:IN: ZEE CINEMA ME
+#DESCRIPTION IN: ZEE CINEMA ME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1582.ts:IN: ZEE CINEMA HD INDIA
+#DESCRIPTION IN: ZEE CINEMA HD INDIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1583.ts:IN: ZEE CINEMA
+#DESCRIPTION IN: ZEE CINEMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1584.ts:IN: ZEE ACTION
+#DESCRIPTION IN: ZEE ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1585.ts:IN: STAR PLUS UK
+#DESCRIPTION IN: STAR PLUS UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1586.ts:IN: STAR PLUS IND
+#DESCRIPTION IN: STAR PLUS IND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1587.ts:IN: STAR PLUS HD
+#DESCRIPTION IN: STAR PLUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1588.ts:IN: STAR GOLD HD
+#DESCRIPTION IN: STAR GOLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1589.ts:IN: SONY TV UK
+#DESCRIPTION IN: SONY TV UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1590.ts:IN: SONY TV HD
+#DESCRIPTION IN: SONY TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1591.ts:IN: SONY TV ASIA
+#DESCRIPTION IN: SONY TV ASIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1592.ts:IN: SONY TV
+#DESCRIPTION IN: SONY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1593.ts:IN: SONY SAB UK
+#DESCRIPTION IN: SONY SAB UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1594.ts:IN: SONY SAB ASIAu
+#DESCRIPTION IN: SONY SAB ASIAu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1595.ts:IN: SONY SAB
+#DESCRIPTION IN: SONY SAB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1596.ts:IN: SONY MAX 2
+#DESCRIPTION IN: SONY MAX 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1597.ts:IN: SETMAX UK
+#DESCRIPTION IN: SETMAX UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1598.ts:IN: SETMAX
+#DESCRIPTION IN: SETMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3567.ts:B4U MUSIC
+#DESCRIPTION B4U MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2936.ts:IT: Rai Yoyo
+#DESCRIPTION IT: Rai Yoyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2939.ts:IT: Rai Premium
+#DESCRIPTION IT: Rai Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2928.ts:IT: Rai News 24
+#DESCRIPTION IT: Rai News 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2929.ts:IT: Rai Movie
+#DESCRIPTION IT: Rai Movie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2930.ts:IT: Rai Gulp
+#DESCRIPTION IT: Rai Gulp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2935.ts:IT: Rai 5
+#DESCRIPTION IT: Rai 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2934.ts:IT: Rai 4
+#DESCRIPTION IT: Rai 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2933.ts:IT: Rai 3 HD
+#DESCRIPTION IT: Rai 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2932.ts:IT: Rai 2 HD
+#DESCRIPTION IT: Rai 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2931.ts:IT: Rai 1 HD
+#DESCRIPTION IT: Rai 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2953.ts:IT: Sky Cinema Uno HD
+#DESCRIPTION IT: Sky Cinema Uno HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2954.ts:IT: Sky Cinema Max
+#DESCRIPTION IT: Sky Cinema Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2955.ts:IT: Sky Cinema Cult HD
+#DESCRIPTION IT: Sky Cinema Cult HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2956.ts:IT: Sky Cinema Family HD
+#DESCRIPTION IT: Sky Cinema Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2957.ts:IT: Sky Cinema Classic HD
+#DESCRIPTION IT: Sky Cinema Classic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2958.ts:IT: Sky Cinema Comedy HD
+#DESCRIPTION IT: Sky Cinema Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2959.ts:IT: Sky Cinema Passion HD
+#DESCRIPTION IT: Sky Cinema Passion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2960.ts:IT: Premium Cinema 2  24
+#DESCRIPTION IT: Premium Cinema 2  24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2961.ts:IT: Premium Cinema 2
+#DESCRIPTION IT: Premium Cinema 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2962.ts:IT: Premium Cinema  24
+#DESCRIPTION IT: Premium Cinema  24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2944.ts:IT: Italia 2
+#DESCRIPTION IT: Italia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2943.ts:IT: Italia 1
+#DESCRIPTION IT: Italia 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2946.ts:IT: Fox Life
+#DESCRIPTION IT: Fox Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2951.ts:IT: Canale 5 HD
+#DESCRIPTION IT: Canale 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2992.ts:ES: TNT HD
+#DESCRIPTION ES: TNT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2971.ts:ES: TeleCinco HD
+#DESCRIPTION ES: TeleCinco HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2993.ts:ES: TCM HD
+#DESCRIPTION ES: TCM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2995.ts:ES: PARAMOUNT CHANNEL
+#DESCRIPTION ES: PARAMOUNT CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3008.ts:ES: Non Stop People
+#DESCRIPTION ES: Non Stop People
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3010.ts:ES: Nat Geo Wild HD
+#DESCRIPTION ES: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3012.ts:ES: MTV
+#DESCRIPTION ES: MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3015.ts:ES: LTC
+#DESCRIPTION ES: LTC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2967.ts:ES: LA 2 HD
+#DESCRIPTION ES: LA 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2966.ts:ES: LA 1 HD
+#DESCRIPTION ES: LA 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2996.ts:ES: Hollywood HD
+#DESCRIPTION ES: Hollywood HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2997.ts:ES: Fox Life HD
+#DESCRIPTION ES: Fox Life HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3018.ts:ES: Energy
+#DESCRIPTION ES: Energy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3022.ts:ES: Cosmo
+#DESCRIPTION ES: Cosmo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3000.ts:ES: Comedy Central
+#DESCRIPTION ES: Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2989.ts:ES: Canal Panda
+#DESCRIPTION ES: Canal Panda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2984.ts:ES: Canal  Series
+#DESCRIPTION ES: Canal  Series
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2985.ts:ES: Canal  Estrenos HD
+#DESCRIPTION ES: Canal  Estrenos HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3028.ts:ES: Canal  Deportes HD
+#DESCRIPTION ES: Canal  Deportes HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2986.ts:ES: Canal  Dcine HD
+#DESCRIPTION ES: Canal  Dcine HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2987.ts:ES: Canal  Comedia HD
+#DESCRIPTION ES: Canal  Comedia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/2988.ts:ES: Canal  Accion HD
+#DESCRIPTION ES: Canal  Accion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3034.ts:ES: Barca TV
+#DESCRIPTION ES: Barca TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/3004.ts:ES: AMC HD
+#DESCRIPTION ES: AMC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1311.ts:At The Races
+#DESCRIPTION At The Races
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1071.ts:AR: Nile Life
+#DESCRIPTION AR: Nile Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1072.ts:AR: Nile Drama
+#DESCRIPTION AR: Nile Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1073.ts:AR: Nile Comedy
+#DESCRIPTION AR: Nile Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1074.ts:AR: Nile Cinema
+#DESCRIPTION AR: Nile Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1094.ts:AR: MBC MAX
+#DESCRIPTION AR: MBC MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1095.ts:AR: MBC Masr
+#DESCRIPTION AR: MBC Masr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1096.ts:AR: MBC Drama
+#DESCRIPTION AR: MBC Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1097.ts:AR: MBC Bollywood
+#DESCRIPTION AR: MBC Bollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1098.ts:AR: MBC Action
+#DESCRIPTION AR: MBC Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1099.ts:AR: MBC 4
+#DESCRIPTION AR: MBC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1100.ts:AR: MBC 3
+#DESCRIPTION AR: MBC 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1101.ts:AR: MBC 2
+#DESCRIPTION AR: MBC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1102.ts:AR: MBC 1
+#DESCRIPTION AR: MBC 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1075.ts:AR: Hannibal Tv
+#DESCRIPTION AR: Hannibal Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1076.ts:AR: First TV
+#DESCRIPTION AR: First TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1077.ts:AR: El Hiwar Tounsi
+#DESCRIPTION AR: El Hiwar Tounsi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1078.ts:AR: El Djanoubia
+#DESCRIPTION AR: El Djanoubia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1103.ts:AR: Dubia Zaman
+#DESCRIPTION AR: Dubia Zaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1104.ts:AR: Dubai One
+#DESCRIPTION AR: Dubai One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1105.ts:AR: Dubai Drama
+#DESCRIPTION AR: Dubai Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1106.ts:AR: Dubai
+#DESCRIPTION AR: Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1107.ts:AR: CBC Sofra
+#DESCRIPTION AR: CBC Sofra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1108.ts:AR: CBC Extra
+#DESCRIPTION AR: CBC Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1109.ts:AR: CBC DRama
+#DESCRIPTION AR: CBC DRama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1110.ts:AR: CBC
+#DESCRIPTION AR: CBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1079.ts:AR: BBC News Arabic
+#DESCRIPTION AR: BBC News Arabic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1080.ts:AR: Attasia
+#DESCRIPTION AR: Attasia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1081.ts:AR: Art Hekayat 2
+#DESCRIPTION AR: Art Hekayat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1082.ts:AR: Art Hekayat
+#DESCRIPTION AR: Art Hekayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1083.ts:AR: Art Cinema
+#DESCRIPTION AR: Art Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1085.ts:AR: AL Hayat 2
+#DESCRIPTION AR: AL Hayat 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1086.ts:AR: AL Hayat
+#DESCRIPTION AR: AL Hayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1112.ts:Maroc AR: Tamazight
+#DESCRIPTION Maroc AR: Tamazight
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1113.ts:Maroc AR: Medi 1
+#DESCRIPTION Maroc AR: Medi 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1114.ts:Maroc AR: Bzaf TV
+#DESCRIPTION Maroc AR: Bzaf TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1116.ts:Maroc AR: Arriadhia
+#DESCRIPTION Maroc AR: Arriadhia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1117.ts:Maroc AR: Arrabiaa
+#DESCRIPTION Maroc AR: Arrabiaa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1118.ts:Maroc AR: Al Maghribia
+#DESCRIPTION Maroc AR: Al Maghribia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1119.ts:Maroc AR: Al aoula Layoun
+#DESCRIPTION Maroc AR: Al aoula Layoun
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1120.ts:Maroc AR: 2M Maroc
+#DESCRIPTION Maroc AR: 2M Maroc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1421.ts:UK: Animal Planet HD
+#DESCRIPTION UK: Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1368.ts:UK: Al Jazeera News English HD
+#DESCRIPTION UK: Al Jazeera News English HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1374.ts:ABC News
+#DESCRIPTION ABC News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1351.ts:UK: 3e
+#DESCRIPTION UK: 3e
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4341.ts:UK Life Time HD
+#DESCRIPTION UK Life Time HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4339.ts:UK: TSN 5
+#DESCRIPTION UK: TSN 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4371.ts:PTV Global
+#DESCRIPTION PTV Global
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4372.ts:PTV News
+#DESCRIPTION PTV News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4374.ts:Samaa Tv
+#DESCRIPTION Samaa Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4363.ts:92 News HD
+#DESCRIPTION 92 News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4417.ts:UK: TLC
+#DESCRIPTION UK: TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4430.ts:UK: EWTN
+#DESCRIPTION UK: EWTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4429.ts:UK: God TV
+#DESCRIPTION UK: God TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4432.ts:UK: MTV
+#DESCRIPTION UK: MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4428.ts:UK: Quest
+#DESCRIPTION UK: Quest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4431.ts:UK: Capital TV
+#DESCRIPTION UK: Capital TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4427.ts:UK: Universal Channel
+#DESCRIPTION UK: Universal Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4997.ts:☆☆☆☆ België ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ België ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4603.ts:BE: La Une HD
+#DESCRIPTION BE: La Une HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4601.ts:BE: La Deux
+#DESCRIPTION BE: La Deux
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4602.ts:BE: La Trois
+#DESCRIPTION BE: La Trois
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4591.ts:BE: één  HD
+#DESCRIPTION BE: één  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4596.ts:BE: 2BE
+#DESCRIPTION BE: 2BE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4592.ts:BE: Vier HD
+#DESCRIPTION BE: Vier HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4593.ts:BE: Vijf
+#DESCRIPTION BE: Vijf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4594.ts:BE: Zes
+#DESCRIPTION BE: Zes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4595.ts:BE: Vitaya
+#DESCRIPTION BE: Vitaya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4607.ts:BE: VTM HD
+#DESCRIPTION BE: VTM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4606.ts:BE: VTM Kazoom
+#DESCRIPTION BE: VTM Kazoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4590.ts:BE: Canvas HD
+#DESCRIPTION BE: Canvas HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4610.ts:BE: Canal Zoom HD
+#DESCRIPTION BE: Canal Zoom HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4611.ts:BE: CAZ
+#DESCRIPTION BE: CAZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4613.ts:BE: Evenaar
+#DESCRIPTION BE: Evenaar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4614.ts:BE: Notele HD
+#DESCRIPTION BE: Notele HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4605.ts:BE: RTL TVI
+#DESCRIPTION BE: RTL TVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4604.ts:BE: Plug RTL
+#DESCRIPTION BE: Plug RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4598.ts:BE: Club RTL
+#DESCRIPTION BE: Club RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4608.ts:BE: Kadet
+#DESCRIPTION BE: Kadet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4599.ts:BE: Ketnet HD
+#DESCRIPTION BE: Ketnet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4600.ts:BE: KetOp12
+#DESCRIPTION BE: KetOp12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4612.ts:BE: Cinema 1 HD
+#DESCRIPTION BE: Cinema 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4609.ts:BE: ATV Antwerpen
+#DESCRIPTION BE: ATV Antwerpen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4996.ts:☆☆☆☆ Frankrijk ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ Frankrijk ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4522.ts:FR: TF1 HD+
+#DESCRIPTION FR: TF1 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4523.ts:FR: France 2 HD+
+#DESCRIPTION FR: France 2 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4524.ts:FR: France 3 HD+
+#DESCRIPTION FR: France 3 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4525.ts:FR: France 4 HD+
+#DESCRIPTION FR: France 4 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4526.ts:FR: France 5 HD+
+#DESCRIPTION FR: France 5 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4527.ts:FR: France 24 HD+
+#DESCRIPTION FR: France 24 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4528.ts:FR: France Ô HD
+#DESCRIPTION FR: France Ô HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4529.ts:FR: M6 HD+
+#DESCRIPTION FR: M6 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4530.ts:FR: W9 HD+
+#DESCRIPTION FR: W9 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4531.ts:FR: Weo HD+
+#DESCRIPTION FR: Weo HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4532.ts:FR: C8 HD+
+#DESCRIPTION FR: C8 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4533.ts:FR: Arte HD+
+#DESCRIPTION FR: Arte HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4534.ts:FR: AB1 HD+
+#DESCRIPTION FR: AB1 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4535.ts:FR: Animaux HD+
+#DESCRIPTION FR: Animaux HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4536.ts:FR: 6TER HD+
+#DESCRIPTION FR: 6TER HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4572.ts:FR: RTL 9 HD+
+#DESCRIPTION FR: RTL 9 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4573.ts:FR: Teva HD+
+#DESCRIPTION FR: Teva HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4537.ts:FR: Action HD+
+#DESCRIPTION FR: Action HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4538.ts:FR: Boing HD+
+#DESCRIPTION FR: Boing HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4557.ts:FR: Disney XD HD+
+#DESCRIPTION FR: Disney XD HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4558.ts:FR: Disney Channel HD+
+#DESCRIPTION FR: Disney Channel HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4560.ts:FR: Disney Cinema HD+
+#DESCRIPTION FR: Disney Cinema HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4559.ts:FR: Disney Junior HD+
+#DESCRIPTION FR: Disney Junior HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4571.ts:FR: Nickelodeon HD+
+#DESCRIPTION FR: Nickelodeon HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4554.ts:FR: Cartoon Network HD+
+#DESCRIPTION FR: Cartoon Network HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4545.ts:FR: Canal J HD+
+#DESCRIPTION FR: Canal J HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4540.ts:FR: Canal+ HD
+#DESCRIPTION FR: Canal+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4541.ts:FR: Canal+ Cinema HD
+#DESCRIPTION FR: Canal+ Cinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4543.ts:FR: Canal+ Family HD
+#DESCRIPTION FR: Canal+ Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4544.ts:FR: Canal+ Series HD+
+#DESCRIPTION FR: Canal+ Series HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4542.ts:FR: Canal+ Decale HD
+#DESCRIPTION FR: Canal+ Decale HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4546.ts:FR: Canal+ Sport HD+
+#DESCRIPTION FR: Canal+ Sport HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4553.ts:FR: Cine+ FX HD+
+#DESCRIPTION FR: Cine+ FX HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4552.ts:FR: Cine+ Polar HD+
+#DESCRIPTION FR: Cine+ Polar HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4547.ts:FR: Cine+ Premier HD
+#DESCRIPTION FR: Cine+ Premier HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4548.ts:FR: Cine+ Emotion HD
+#DESCRIPTION FR: Cine+ Emotion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4549.ts:FR: Cine+ Famiz HD
+#DESCRIPTION FR: Cine+ Famiz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4550.ts:FR: Cine+ Classic HD
+#DESCRIPTION FR: Cine+ Classic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4551.ts:FR: Cine+ Frisson HD
+#DESCRIPTION FR: Cine+ Frisson HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4568.ts:FR: OCH City HD
+#DESCRIPTION FR: OCH City HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4567.ts:FR: OCS Choc HD+
+#DESCRIPTION FR: OCS Choc HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4570.ts:FR: OCS Geants HD
+#DESCRIPTION FR: OCS Geants HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4569.ts:FR: OCS Max HD
+#DESCRIPTION FR: OCS Max HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4561.ts:FR: Discovery Channel HD+
+#DESCRIPTION FR: Discovery Channel HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4562.ts:FR: Discovery Science HD+
+#DESCRIPTION FR: Discovery Science HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4564.ts:FR: National Geographic HD+
+#DESCRIPTION FR: National Geographic HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4565.ts:FR: National Geographic Wild HD+
+#DESCRIPTION FR: National Geographic Wild HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4539.ts:FR: 13Eme Rue HD
+#DESCRIPTION FR: 13Eme Rue HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4556.ts:FR: E! Entertemaint HD+
+#DESCRIPTION FR: E! Entertemaint HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4574.ts:FR: SYSF HD+
+#DESCRIPTION FR: SYSF HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4555.ts:FR: Chasse &amp; Peche
+#DESCRIPTION FR: Chasse &amp; Peche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4563.ts:FR: MTV HD+
+#DESCRIPTION FR: MTV HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4566.ts:FR: Numero 23 HD+
+#DESCRIPTION FR: Numero 23 HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4477.ts:PL: Ale Kino+ HD
+#DESCRIPTION PL: Ale Kino+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4487.ts:PL: Animal Planet HD
+#DESCRIPTION PL: Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4468.ts:PL: Canal+ Family HD
+#DESCRIPTION PL: Canal+ Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4467.ts:PL: Canal+ Film HD
+#DESCRIPTION PL: Canal+ Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4466.ts:PL: Canal+ HD
+#DESCRIPTION PL: Canal+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4469.ts:PL: Canal+ Seriale HD
+#DESCRIPTION PL: Canal+ Seriale HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4471.ts:PL: Canal+ Sport 2 HD
+#DESCRIPTION PL: Canal+ Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4470.ts:PL: Canal+ Sport HD
+#DESCRIPTION PL: Canal+ Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4480.ts:PL: Discovery Channel HD
+#DESCRIPTION PL: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4481.ts:PL: Discovery Science HD
+#DESCRIPTION PL: Discovery Science HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4479.ts:PL: Disney Channel HD
+#DESCRIPTION PL: Disney Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4478.ts:PL: Disney XD HD
+#DESCRIPTION PL: Disney XD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4476.ts:PL: Filmbox Arthouse HD
+#DESCRIPTION PL: Filmbox Arthouse HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4474.ts:PL: Filmbox Action HD
+#DESCRIPTION PL: Filmbox Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4475.ts:PL: Filmbox Family HD
+#DESCRIPTION PL: Filmbox Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4472.ts:PL: Filmbox HD
+#DESCRIPTION PL: Filmbox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4473.ts:PL: Filmbox Premium HD
+#DESCRIPTION PL: Filmbox Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4484.ts:PL: History HD
+#DESCRIPTION PL: History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4482.ts:PL: Nat Geo HD
+#DESCRIPTION PL: Nat Geo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4483.ts:PL: Nat Geo Wild HD
+#DESCRIPTION PL: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4485.ts:PL: nSport + HD
+#DESCRIPTION PL: nSport + HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4488.ts:PL: Planete HD
+#DESCRIPTION PL: Planete HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4459.ts:PL: Polsat 2 HD
+#DESCRIPTION PL: Polsat 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4461.ts:PL: Polsat Café HD
+#DESCRIPTION PL: Polsat Café HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4458.ts:PL: Polsat HD
+#DESCRIPTION PL: Polsat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4460.ts:PL: Polsat News HD
+#DESCRIPTION PL: Polsat News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4462.ts:PL: Polsat Play HD
+#DESCRIPTION PL: Polsat Play HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4465.ts:PL: TV Puls 2 HD
+#DESCRIPTION PL: TV Puls 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4457.ts:PL: TV Puls HD
+#DESCRIPTION PL: TV Puls HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4456.ts:PL: TV Republika HD
+#DESCRIPTION PL: TV Republika HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4454.ts:PL: TV4 HD
+#DESCRIPTION PL: TV4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4455.ts:PL: TV6 HD
+#DESCRIPTION PL: TV6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4450.ts:PL: TVN 24 HD
+#DESCRIPTION PL: TVN 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4448.ts:PL: TVN HD+
+#DESCRIPTION PL: TVN HD+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4451.ts:PL: TVN Style HD
+#DESCRIPTION PL: TVN Style HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4452.ts:PL: TVN Turbo HD
+#DESCRIPTION PL: TVN Turbo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4441.ts:PL: TVP 1 HD
+#DESCRIPTION PL: TVP 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4442.ts:PL: TVP 2 HD
+#DESCRIPTION PL: TVP 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4443.ts:PL: TVP 3 Warszawa HD
+#DESCRIPTION PL: TVP 3 Warszawa HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4449.ts:PL: TVP 7 HD
+#DESCRIPTION PL: TVP 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4444.ts:PL: TVP ABC
+#DESCRIPTION PL: TVP ABC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4440.ts:PL: TVP HD
+#DESCRIPTION PL: TVP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4445.ts:PL: TVP Kultura HD
+#DESCRIPTION PL: TVP Kultura HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4446.ts:PL: TVP Rozrywka HD
+#DESCRIPTION PL: TVP Rozrywka HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4447.ts:PL: TVP Seriale
+#DESCRIPTION PL: TVP Seriale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4453.ts:PL: TVS HD
+#DESCRIPTION PL: TVS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4663.ts:IN:  Sony TV
+#DESCRIPTION IN:  Sony TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4661.ts:IN: &amp;TV
+#DESCRIPTION IN: &amp;TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4657.ts:IN: B4U Music
+#DESCRIPTION IN: B4U Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4654.ts:IN: Colors HD
+#DESCRIPTION IN: Colors HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4658.ts:IN: NTV
+#DESCRIPTION IN: NTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4662.ts:IN: Sony Set Max
+#DESCRIPTION IN: Sony Set Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4656.ts:IN: Zee Salam
+#DESCRIPTION IN: Zee Salam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4655.ts:IN: Zee TV
+#DESCRIPTION IN: Zee TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4659.ts:IN: Zing
+#DESCRIPTION IN: Zing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4660.ts:IN: Zoom
+#DESCRIPTION IN: Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4664.ts:NL: Sony Sab
+#DESCRIPTION NL: Sony Sab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4674.ts:PK: 92 News
+#DESCRIPTION PK: 92 News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4675.ts:PK: Aaj News
+#DESCRIPTION PK: Aaj News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4676.ts:PK: Ary Digital
+#DESCRIPTION PK: Ary Digital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4677.ts:PK: Ary News
+#DESCRIPTION PK: Ary News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4678.ts:PK: Ary QTV
+#DESCRIPTION PK: Ary QTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4679.ts:PK: ATV
+#DESCRIPTION PK: ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4680.ts:PK: Channel 24
+#DESCRIPTION PK: Channel 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4681.ts:PK: Dunya TV
+#DESCRIPTION PK: Dunya TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4682.ts:PK: EXPRESS
+#DESCRIPTION PK: EXPRESS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4683.ts:PK: Hum TV
+#DESCRIPTION PK: Hum TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4684.ts:PK: Hum World
+#DESCRIPTION PK: Hum World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4685.ts:PK: PTV World
+#DESCRIPTION PK: PTV World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4686.ts:PK: Samaa TV
+#DESCRIPTION PK: Samaa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4687.ts:PK: Zindagi TV
+#DESCRIPTION PK: Zindagi TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4782.ts:PK: A Plus
+#DESCRIPTION PK: A Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4783.ts:PK: ABBTAK
+#DESCRIPTION PK: ABBTAK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4784.ts:PK: Ary Entertainment
+#DESCRIPTION PK: Ary Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4785.ts:PK: Bol TV
+#DESCRIPTION PK: Bol TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4786.ts:PK: Dawn News
+#DESCRIPTION PK: Dawn News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4787.ts:PK: Din News
+#DESCRIPTION PK: Din News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4788.ts:PK: Dunya News
+#DESCRIPTION PK: Dunya News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4789.ts:PK: Express Entertainment
+#DESCRIPTION PK: Express Entertainment
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4790.ts:PK: Express News
+#DESCRIPTION PK: Express News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4791.ts:PK: Geo Kahani
+#DESCRIPTION PK: Geo Kahani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4792.ts:PK: Geo News
+#DESCRIPTION PK: Geo News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4793.ts:PK: Geo Tez
+#DESCRIPTION PK: Geo Tez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4796.ts:PK: Geo TV UK
+#DESCRIPTION PK: Geo TV UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4797.ts:PK: Hum Masala
+#DESCRIPTION PK: Hum Masala
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4798.ts:PK: Islam TV
+#DESCRIPTION PK: Islam TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4799.ts:PK: Kohenoor TV
+#DESCRIPTION PK: Kohenoor TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4800.ts:PK: Madani Channel
+#DESCRIPTION PK: Madani Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4802.ts:PK: News One
+#DESCRIPTION PK: News One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4803.ts:PK: PTV Global
+#DESCRIPTION PK: PTV Global
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4794.ts:PK: PTV Home
+#DESCRIPTION PK: PTV Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4804.ts:PK: PTV News
+#DESCRIPTION PK: PTV News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4795.ts:PK: Zaiqa
+#DESCRIPTION PK: Zaiqa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4801.ts:PK: Neo TV
+#DESCRIPTION PK: Neo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4993.ts:---- Dutch Movies ----
+#DESCRIPTION ---- Dutch Movies ----
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/4999.ts:☆☆☆☆ Netherlands Radio ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ Netherlands Radio ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5009.ts:NL: NPO Radio 1
+#DESCRIPTION NL: NPO Radio 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5010.ts:NL: NPO Radio 2
+#DESCRIPTION NL: NPO Radio 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5011.ts:NL: NPO Radio 4
+#DESCRIPTION NL: NPO Radio 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5012.ts:NL: NPO Radio 5
+#DESCRIPTION NL: NPO Radio 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5005.ts:NL: FunX
+#DESCRIPTION NL: FunX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5001.ts:NL: 3FM
+#DESCRIPTION NL: 3FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5021.ts:NL: Slam!FM
+#DESCRIPTION NL: Slam!FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5015.ts:NL: Q-music
+#DESCRIPTION NL: Q-music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5004.ts:NL: Fresh FM
+#DESCRIPTION NL: Fresh FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5000.ts:NL: 100% NL
+#DESCRIPTION NL: 100% NL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5017.ts:NL: Radio 538
+#DESCRIPTION NL: Radio 538
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5018.ts:NL: Radio 6
+#DESCRIPTION NL: Radio 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5016.ts:NL: Radio 10
+#DESCRIPTION NL: Radio 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5022.ts:NL: Slam!Hardstyle
+#DESCRIPTION NL: Slam!Hardstyle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5003.ts:NL: CityFM Classic Rock
+#DESCRIPTION NL: CityFM Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5002.ts:NL: Arrow Classic Rock
+#DESCRIPTION NL: Arrow Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5006.ts:NL: Indie XL
+#DESCRIPTION NL: Indie XL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5007.ts:NL: KX Radio
+#DESCRIPTION NL: KX Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5008.ts:NL: L1 Radio
+#DESCRIPTION NL: L1 Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5013.ts:NL: Omroep Flevoland
+#DESCRIPTION NL: Omroep Flevoland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5014.ts:NL: Radio Gelderland
+#DESCRIPTION NL: Radio Gelderland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5019.ts:NL: Radio Noord
+#DESCRIPTION NL: Radio Noord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5020.ts:NL: Radio Rijnmond
+#DESCRIPTION NL: Radio Rijnmond
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1708.ts:XxX Bunga Bunga XxX
+#DESCRIPTION XxX Bunga Bunga XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1699.ts:Xxx Cento X Cento XxX
+#DESCRIPTION Xxx Cento X Cento XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1701.ts:XxX Dusk! XxX
+#DESCRIPTION XxX Dusk! XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1705.ts:XxX Hot XxX
+#DESCRIPTION XxX Hot XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1706.ts:XxX Hustler  XxX
+#DESCRIPTION XxX Hustler  XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1700.ts:XxX Ice X1 XxX
+#DESCRIPTION XxX Ice X1 XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1707.ts:XxX Meiden Van Holland Hard XxX
+#DESCRIPTION XxX Meiden Van Holland Hard XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1704.ts:XxX PenthouseXxX
+#DESCRIPTION XxX PenthouseXxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1698.ts:XxX Pink Erotic 1 XxX
+#DESCRIPTION XxX Pink Erotic 1 XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1697.ts:XxX Pink Erotic 2 XxX
+#DESCRIPTION XxX Pink Erotic 2 XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1696.ts:XxX Pink Erotic 3 XxX
+#DESCRIPTION XxX Pink Erotic 3 XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1695.ts:XxX Pink Erotic 4 XxX
+#DESCRIPTION XxX Pink Erotic 4 XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1702.ts:XxX Redlight XxX
+#DESCRIPTION XxX Redlight XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1703.ts:XxX SCT XxX
+#DESCRIPTION XxX SCT XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/1709.ts:XxX X1 XxX
+#DESCRIPTION XxX X1 XxX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5024.ts:Ptc Punjabi
+#DESCRIPTION Ptc Punjabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5055.ts:TR: A News
+#DESCRIPTION TR: A News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5028.ts:TR: A2 HD
+#DESCRIPTION TR: A2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5059.ts:TR: Animal Planet HD
+#DESCRIPTION TR: Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5027.ts:TR: ATV Avrupa
+#DESCRIPTION TR: ATV Avrupa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5078.ts:TR: Bein Sports 1 HD
+#DESCRIPTION TR: Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5079.ts:TR: Bein Sports 2 HD
+#DESCRIPTION TR: Bein Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5080.ts:TR: Bein Sports 3 HD
+#DESCRIPTION TR: Bein Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5037.ts:TR: Bengü Türk
+#DESCRIPTION TR: Bengü Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5036.ts:TR: Bloomberg HT
+#DESCRIPTION TR: Bloomberg HT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5065.ts:TR: Discovery Channel HD
+#DESCRIPTION TR: Discovery Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5066.ts:TR: Discovery Science &amp; Vie HD
+#DESCRIPTION TR: Discovery Science &amp; Vie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5067.ts:TR: Discovery Showcase HD
+#DESCRIPTION TR: Discovery Showcase HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5073.ts:TR: Disney Channel HD
+#DESCRIPTION TR: Disney Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5054.ts:TR: Dost TV
+#DESCRIPTION TR: Dost TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5040.ts:TR: Dream Türk
+#DESCRIPTION TR: Dream Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5039.ts:TR: Dream TV
+#DESCRIPTION TR: Dream TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5031.ts:TR: Euro D
+#DESCRIPTION TR: Euro D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5026.ts:TR: Eurostar
+#DESCRIPTION TR: Eurostar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5047.ts:TR: Halk TV
+#DESCRIPTION TR: Halk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5068.ts:TR: History Channel HD
+#DESCRIPTION TR: History Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5032.ts:TR: Kanal 7 Avrupa
+#DESCRIPTION TR: Kanal 7 Avrupa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5053.ts:TR: Kon TV
+#DESCRIPTION TR: Kon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5038.ts:TR: Kral TV
+#DESCRIPTION TR: Kral TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5052.ts:TR: Lalegul TV
+#DESCRIPTION TR: Lalegul TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5061.ts:TR: Mavi Karadeniz
+#DESCRIPTION TR: Mavi Karadeniz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5076.ts:TR: Minika Çocuk HD
+#DESCRIPTION TR: Minika Çocuk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5077.ts:TR: Minika Go HD
+#DESCRIPTION TR: Minika Go HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5064.ts:TR: Nat Geo People HD
+#DESCRIPTION TR: Nat Geo People HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5063.ts:TR: Nat Geo Wild HD
+#DESCRIPTION TR: Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5062.ts:TR: National Geographic HD
+#DESCRIPTION TR: National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5074.ts:TR: Nick
+#DESCRIPTION TR: Nick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5043.ts:TR: NR1 Türk
+#DESCRIPTION TR: NR1 Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5075.ts:TR: Planet Çocuk HD
+#DESCRIPTION TR: Planet Çocuk HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5058.ts:TR: Planet Muftak
+#DESCRIPTION TR: Planet Muftak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5057.ts:TR: Planet Türk
+#DESCRIPTION TR: Planet Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5042.ts:TR: Power Türk
+#DESCRIPTION TR: Power Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5041.ts:TR: Power TV
+#DESCRIPTION TR: Power TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5049.ts:TR: Rumeli TV
+#DESCRIPTION TR: Rumeli TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5045.ts:TR: Semerkand TV HD
+#DESCRIPTION TR: Semerkand TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5025.ts:TR: Show Türk
+#DESCRIPTION TR: Show Türk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5072.ts:TR: Sinema TV 1001 HD
+#DESCRIPTION TR: Sinema TV 1001 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5071.ts:TR: Sinema TV Aile HD
+#DESCRIPTION TR: Sinema TV Aile HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5070.ts:TR: Sinema TV Aksion HD
+#DESCRIPTION TR: Sinema TV Aksion HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5069.ts:TR: Sinema TV HD
+#DESCRIPTION TR: Sinema TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5046.ts:TR: Sky Türk 360
+#DESCRIPTION TR: Sky Türk 360
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5050.ts:TR: Tek Rumeli
+#DESCRIPTION TR: Tek Rumeli
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5051.ts:TR: Teve 2
+#DESCRIPTION TR: Teve 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5035.ts:TR: TGRT Haber HD
+#DESCRIPTION TR: TGRT Haber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5081.ts:TR: Tivibu Spor 3 HD
+#DESCRIPTION TR: Tivibu Spor 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5082.ts:TR: Tivibu Spor 4 HD
+#DESCRIPTION TR: Tivibu Spor 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5060.ts:TR: TLC HD
+#DESCRIPTION TR: TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5034.ts:TR: TRT Avaz
+#DESCRIPTION TR: TRT Avaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5033.ts:TR: TRT Diyanet
+#DESCRIPTION TR: TRT Diyanet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5044.ts:TR: TV NET
+#DESCRIPTION TR: TV NET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5030.ts:TR: TV8 5 HD
+#DESCRIPTION TR: TV8 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5029.ts:TR: TV8 INT
+#DESCRIPTION TR: TV8 INT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5048.ts:TR: Ülke TV
+#DESCRIPTION TR: Ülke TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5092.ts:TR: Atlas TV
+#DESCRIPTION TR: Atlas TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5090.ts:TR: BJK TV
+#DESCRIPTION TR: BJK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5091.ts:TR: Bursaspor
+#DESCRIPTION TR: Bursaspor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5086.ts:TR: Eurosport 1 HD
+#DESCRIPTION TR: Eurosport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5087.ts:TR: Eurosport 2 HD
+#DESCRIPTION TR: Eurosport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5088.ts:TR: FB TV
+#DESCRIPTION TR: FB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5089.ts:TR: GS TV
+#DESCRIPTION TR: GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5094.ts:TR: Kanal 26
+#DESCRIPTION TR: Kanal 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5085.ts:TR: NTV Spor HD
+#DESCRIPTION TR: NTV Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5093.ts:TR: Rehber TV
+#DESCRIPTION TR: Rehber TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5083.ts:TR: Smart Spor 1 HD
+#DESCRIPTION TR: Smart Spor 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5095.ts:TR: Tele 1
+#DESCRIPTION TR: Tele 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5084.ts:TR: TRT Spor HD
+#DESCRIPTION TR: TRT Spor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5123.ts:BR: Fox Life Brasil
+#DESCRIPTION BR: Fox Life Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5122.ts:BR: Futura Tv
+#DESCRIPTION BR: Futura Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5121.ts:BR: Fx Brasil
+#DESCRIPTION BR: Fx Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5120.ts:BR: Globo News
+#DESCRIPTION BR: Globo News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5119.ts:BR: H2 Brasil
+#DESCRIPTION BR: H2 Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5118.ts:BR: HBO Brasil
+#DESCRIPTION BR: HBO Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5117.ts:BR: HBO Family Brazil
+#DESCRIPTION BR: HBO Family Brazil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5116.ts:BR: HBO Plus Brasil
+#DESCRIPTION BR: HBO Plus Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5115.ts:BR: History Brasil
+#DESCRIPTION BR: History Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5114.ts:BR: Multishow
+#DESCRIPTION BR: Multishow
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5113.ts:BR: Nick Jr Brasil
+#DESCRIPTION BR: Nick Jr Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5112.ts:BR: Paramount Brasil
+#DESCRIPTION BR: Paramount Brasil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5111.ts:BR: REDE GOSPEL
+#DESCRIPTION BR: REDE GOSPEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5110.ts:BR: Redecanais Family Cinema
+#DESCRIPTION BR: Redecanais Family Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5109.ts:BR: Redecanais Premium Cinema
+#DESCRIPTION BR: Redecanais Premium Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5108.ts:BR: SBT
+#DESCRIPTION BR: SBT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5107.ts:BR: Sport Tv
+#DESCRIPTION BR: Sport Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5106.ts:BR: SPORT TV 2
+#DESCRIPTION BR: SPORT TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5105.ts:BR: SPORT TV 3
+#DESCRIPTION BR: SPORT TV 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5104.ts:BR: Sport Tv2
+#DESCRIPTION BR: Sport Tv2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5103.ts:BR: Tv Brasil.
+#DESCRIPTION BR: Tv Brasil.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5102.ts:BR: TV Diario
+#DESCRIPTION BR: TV Diario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5101.ts:BR: TV Faap
+#DESCRIPTION BR: TV Faap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5100.ts:BR: TV Globo HD
+#DESCRIPTION BR: TV Globo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5099.ts:BR: TV Globo Premium HD
+#DESCRIPTION BR: TV Globo Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5098.ts:BR: TV Record
+#DESCRIPTION BR: TV Record
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5097.ts:BR: TV Series  HD
+#DESCRIPTION BR: TV Series  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5096.ts:BR: Vem e Ve TV
+#DESCRIPTION BR: Vem e Ve TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5124.ts:☆☆☆☆ Ex-Yugo ☆☆☆☆
+#DESCRIPTION ☆☆☆☆ Ex-Yugo ☆☆☆☆
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5125.ts:Ex-Yu: HRT 1
+#DESCRIPTION Ex-Yu: HRT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5126.ts:Ex-Yu: HRT 2
+#DESCRIPTION Ex-Yu: HRT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5127.ts:Ex-Yu: HRT 3
+#DESCRIPTION Ex-Yu: HRT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5128.ts:Ex-Yu: HRT 4
+#DESCRIPTION Ex-Yu: HRT 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5129.ts:Ex-Yu: HRT 5
+#DESCRIPTION Ex-Yu: HRT 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5130.ts:Ex-Yu: RTL
+#DESCRIPTION Ex-Yu: RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5131.ts:Ex-Yu: RTL 2
+#DESCRIPTION Ex-Yu: RTL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5134.ts:Ex-Yu: RTL Passion
+#DESCRIPTION Ex-Yu: RTL Passion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5132.ts:Ex-Yu: RTL Living
+#DESCRIPTION Ex-Yu: RTL Living
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5135.ts:Ex-Yu: RTL Crime
+#DESCRIPTION Ex-Yu: RTL Crime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5133.ts:Ex-Yu: RTL Kockica
+#DESCRIPTION Ex-Yu: RTL Kockica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5136.ts:Ex-Yu: Doma TV
+#DESCRIPTION Ex-Yu: Doma TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5137.ts:Ex-Yu: Nova TV
+#DESCRIPTION Ex-Yu: Nova TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5138.ts:Ex-Yu: TV Nova
+#DESCRIPTION Ex-Yu: TV Nova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5139.ts:Ex-Yu: HBO HD
+#DESCRIPTION Ex-Yu: HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5140.ts:Ex-Yu: HBO 2 HD
+#DESCRIPTION Ex-Yu: HBO 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5141.ts:Ex-Yu: HBO 3 HD
+#DESCRIPTION Ex-Yu: HBO 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5142.ts:Ex-Yu: Posavina TV
+#DESCRIPTION Ex-Yu: Posavina TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5143.ts:Ex-Yu: TK Tuzla
+#DESCRIPTION Ex-Yu: TK Tuzla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5144.ts:Ex-Yu: RTS 1
+#DESCRIPTION Ex-Yu: RTS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5145.ts:Ex-Yu: RTS 2
+#DESCRIPTION Ex-Yu: RTS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5146.ts:Ex-Yu: RTS 3
+#DESCRIPTION Ex-Yu: RTS 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5147.ts:Ex-Yu: RTRS
+#DESCRIPTION Ex-Yu: RTRS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5148.ts:Ex-Yu: RTVCG 1
+#DESCRIPTION Ex-Yu: RTVCG 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5149.ts:Ex-Yu: RTVCG 2
+#DESCRIPTION Ex-Yu: RTVCG 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5150.ts:Ex-Yu: Prva
+#DESCRIPTION Ex-Yu: Prva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5151.ts:Ex-Yu: Prva Plus
+#DESCRIPTION Ex-Yu: Prva Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5152.ts:Ex-Yu: Prva World
+#DESCRIPTION Ex-Yu: Prva World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5153.ts:Ex-Yu: Prva Max
+#DESCRIPTION Ex-Yu: Prva Max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5154.ts:Ex-Yu: Happy TV
+#DESCRIPTION Ex-Yu: Happy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5155.ts:Ex-Yu: Happy Parovi
+#DESCRIPTION Ex-Yu: Happy Parovi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5159.ts:Ex-Yu: DM SAT
+#DESCRIPTION Ex-Yu: DM SAT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5156.ts:Ex-Yu: Grand TV
+#DESCRIPTION Ex-Yu: Grand TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5157.ts:Ex-Yu: Grand TV 2
+#DESCRIPTION Ex-Yu: Grand TV 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5158.ts:Ex-Yu: Nova TV (RS)
+#DESCRIPTION Ex-Yu: Nova TV (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5161.ts:Ex-Yu: Klassik TV
+#DESCRIPTION Ex-Yu: Klassik TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5160.ts:Ex-Yu: B92
+#DESCRIPTION Ex-Yu: B92
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5166.ts:Ex-Yu: Cinemax 1 HD
+#DESCRIPTION Ex-Yu: Cinemax 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5167.ts:Ex-Yu: Cinemax 2 HD
+#DESCRIPTION Ex-Yu: Cinemax 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5162.ts:Ex-Yu: Cinestar
+#DESCRIPTION Ex-Yu: Cinestar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5163.ts:Ex-Yu: Cinestar Premiere 1 HD
+#DESCRIPTION Ex-Yu: Cinestar Premiere 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5164.ts:Ex-Yu: Cinestar Premiere 2 HD
+#DESCRIPTION Ex-Yu: Cinestar Premiere 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5165.ts:Ex-Yu: Cinestar Action HD
+#DESCRIPTION Ex-Yu: Cinestar Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5173.ts:Ex-Yu: Hayat TV HD
+#DESCRIPTION Ex-Yu: Hayat TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5174.ts:Ex-Yu: Hayat Plus
+#DESCRIPTION Ex-Yu: Hayat Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5176.ts:Ex-Yu: Hayat Music
+#DESCRIPTION Ex-Yu: Hayat Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5175.ts:Ex-Yu: Hayat Folk
+#DESCRIPTION Ex-Yu: Hayat Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5177.ts:Ex-Yu: Hayatovic
+#DESCRIPTION Ex-Yu: Hayatovic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5183.ts:Ex-Yu: OBN
+#DESCRIPTION Ex-Yu: OBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5179.ts:Ex-Yu: BN
+#DESCRIPTION Ex-Yu: BN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5180.ts:Ex-Yu: BHT 1 HD
+#DESCRIPTION Ex-Yu: BHT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5178.ts:Ex-Yu: ATV
+#DESCRIPTION Ex-Yu: ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5172.ts:Ex-Yu: Face
+#DESCRIPTION Ex-Yu: Face
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5171.ts:Ex-Yu: N1 BIH HD
+#DESCRIPTION Ex-Yu: N1 BIH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5169.ts:Ex-Yu: Novi Pazar
+#DESCRIPTION Ex-Yu: Novi Pazar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5182.ts:Ex-Yu: Federalna TV
+#DESCRIPTION Ex-Yu: Federalna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5184.ts:Ex-Yu: TV1
+#DESCRIPTION Ex-Yu: TV1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5170.ts:Ex-Yu: TV Sarajevo
+#DESCRIPTION Ex-Yu: TV Sarajevo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5168.ts:Ex-Yu: Sandzak TV
+#DESCRIPTION Ex-Yu: Sandzak TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5185.ts:Ex-Yu: RTV 1
+#DESCRIPTION Ex-Yu: RTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5181.ts:Ex-Yu: BN Music
+#DESCRIPTION Ex-Yu: BN Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5186.ts:Ex-Yu: Pink 1
+#DESCRIPTION Ex-Yu: Pink 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5187.ts:Ex-Yu: Pink 2
+#DESCRIPTION Ex-Yu: Pink 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5188.ts:Ex-Yu: Pink 3
+#DESCRIPTION Ex-Yu: Pink 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5197.ts:Ex-Yu: Pink Premium
+#DESCRIPTION Ex-Yu: Pink Premium
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5195.ts:Ex-Yu: Pink Action
+#DESCRIPTION Ex-Yu: Pink Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5196.ts:Ex-Yu: Pink Comedy
+#DESCRIPTION Ex-Yu: Pink Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5204.ts:Ex-Yu: Pink Crime &amp; Mistery
+#DESCRIPTION Ex-Yu: Pink Crime &amp; Mistery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5198.ts:Ex-Yu: Pink Romance
+#DESCRIPTION Ex-Yu: Pink Romance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5200.ts:Ex-Yu: Pink Thriller
+#DESCRIPTION Ex-Yu: Pink Thriller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5205.ts:Ex-Yu: Pink Sci-Fi &amp; Fantasy
+#DESCRIPTION Ex-Yu: Pink Sci-Fi &amp; Fantasy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5203.ts:Ex-Yu: Pink Classic
+#DESCRIPTION Ex-Yu: Pink Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5199.ts:Ex-Yu: Pink Western
+#DESCRIPTION Ex-Yu: Pink Western
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5193.ts:Ex-Yu: Pink Serije
+#DESCRIPTION Ex-Yu: Pink Serije
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5192.ts:Ex-Yu: Pink Reality
+#DESCRIPTION Ex-Yu: Pink Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5211.ts:Ex-Yu: Pink Extra
+#DESCRIPTION Ex-Yu: Pink Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5202.ts:Ex-Yu: Pink Film
+#DESCRIPTION Ex-Yu: Pink Film
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5212.ts:Ex-Yu: Pink Pedia
+#DESCRIPTION Ex-Yu: Pink Pedia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5191.ts:Ex-Yu: Pink Plus
+#DESCRIPTION Ex-Yu: Pink Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5194.ts:Ex-Yu: Pink Soap
+#DESCRIPTION Ex-Yu: Pink Soap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5189.ts:Ex-Yu: Pink M
+#DESCRIPTION Ex-Yu: Pink M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5201.ts:Ex-Yu: Pink Horror
+#DESCRIPTION Ex-Yu: Pink Horror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5190.ts:Ex-Yu: Pink BH
+#DESCRIPTION Ex-Yu: Pink BH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5213.ts:Ex-Yu: Pink Kuvar
+#DESCRIPTION Ex-Yu: Pink Kuvar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5208.ts:Ex-Yu: Pink Zabava
+#DESCRIPTION Ex-Yu: Pink Zabava
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5209.ts:Ex-Yu: Pink Folk 1
+#DESCRIPTION Ex-Yu: Pink Folk 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5210.ts:Ex-Yu: Pink Folk 2
+#DESCRIPTION Ex-Yu: Pink Folk 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5206.ts:Ex-Yu: Pink Kids
+#DESCRIPTION Ex-Yu: Pink Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5207.ts:Ex-Yu: Super Kids
+#DESCRIPTION Ex-Yu: Super Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5214.ts:Ex-Yu: Arena Sport 1 FHD (HR)
+#DESCRIPTION Ex-Yu: Arena Sport 1 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5215.ts:Ex-Yu: Arena Sport 2 FHD (HR)
+#DESCRIPTION Ex-Yu: Arena Sport 2 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5216.ts:Ex-Yu: Arena Sport 3 FHD (HR)
+#DESCRIPTION Ex-Yu: Arena Sport 3 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5217.ts:Ex-Yu: Arena Sport 4 FHD (HR)
+#DESCRIPTION Ex-Yu: Arena Sport 4 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5218.ts:Ex-Yu: Arena Sport 5 FHD (HR)
+#DESCRIPTION Ex-Yu: Arena Sport 5 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5219.ts:Ex-Yu: Arena Sport 6 FHD (HR)
+#DESCRIPTION Ex-Yu: Arena Sport 6 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5220.ts:Ex-Yu: Sport Klub Start (HR)
+#DESCRIPTION Ex-Yu: Sport Klub Start (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5221.ts:Ex-Yu: Sport Klub 1 FHD (HR)
+#DESCRIPTION Ex-Yu: Sport Klub 1 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5222.ts:Ex-Yu: Sport Klub 2 FHD (HR)
+#DESCRIPTION Ex-Yu: Sport Klub 2 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5223.ts:Ex-Yu: Sport Klub 3 FHD (HR)
+#DESCRIPTION Ex-Yu: Sport Klub 3 FHD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5224.ts:Ex-Yu: Sport Klub 4 (HR)
+#DESCRIPTION Ex-Yu: Sport Klub 4 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5225.ts:Ex-Yu: Sport Klub 5 (HR)
+#DESCRIPTION Ex-Yu: Sport Klub 5 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5226.ts:Ex-Yu: Sport Klub 6 (HR)
+#DESCRIPTION Ex-Yu: Sport Klub 6 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5227.ts:Ex-Yu: Arena Sport 1 HD (RS)
+#DESCRIPTION Ex-Yu: Arena Sport 1 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5228.ts:Ex-Yu: Arena Sport 2 HD (RS)
+#DESCRIPTION Ex-Yu: Arena Sport 2 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5229.ts:Ex-Yu: Arena Sport 3 HD (RS)
+#DESCRIPTION Ex-Yu: Arena Sport 3 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5230.ts:Ex-Yu: Arena Sport 4 HD (RS)
+#DESCRIPTION Ex-Yu: Arena Sport 4 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5231.ts:Ex-Yu: Arena Sport 5 HD (RS)
+#DESCRIPTION Ex-Yu: Arena Sport 5 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5232.ts:Ex-Yu: Sport Klub 1 HD (RS)
+#DESCRIPTION Ex-Yu: Sport Klub 1 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5233.ts:Ex-Yu: Sport Klub 2 HD (RS)
+#DESCRIPTION Ex-Yu: Sport Klub 2 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5234.ts:Ex-Yu: Sport Klub 3 HD (RS)
+#DESCRIPTION Ex-Yu: Sport Klub 3 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5235.ts:Ex-Yu: Sport Klub 4 HD (RS)
+#DESCRIPTION Ex-Yu: Sport Klub 4 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5236.ts:Ex-Yu: Sport Klub 5 HD (RS)
+#DESCRIPTION Ex-Yu: Sport Klub 5 HD (RS)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qiptv.eu%3a88/live/PBVeqCE7Cy/AnGL3qJ5gt/5237.ts:Ex-Yu: Sport Klub 6 HD (RS)
+#DESCRIPTION Ex-Yu: Sport Klub 6 HD (RS)
 #SERVICE 1:64:D1:0:0:0:0:0:0:0::##### WebCam Live #####
 #DESCRIPTION ##### WebCam Live #####
 #SERVICE 1:64:D2:0:0:0:0:0:0:0::* * * Novi Sad Live * * *
