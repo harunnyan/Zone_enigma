@@ -1887,6 +1887,1038 @@
 #DESCRIPTION Zeeland TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00i/index.m3u8:Zoom TV
 #DESCRIPTION Zoom TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/486.ts:Квартал 95
+#DESCRIPTION Квартал 95
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/295.ts:Релакс
+#DESCRIPTION Релакс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/195.ts:1+1
+#DESCRIPTION 1+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/127.ts:1 Classic
+#DESCRIPTION 1 Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/764.ts:112 HD
+#DESCRIPTION 112 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/196.ts:112
+#DESCRIPTION 112
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/191.ts:2х2
+#DESCRIPTION 2х2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/688.ts:2+2
+#DESCRIPTION 2+2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/192.ts:24 техно
+#DESCRIPTION 24 техно
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/357.ts:360
+#DESCRIPTION 360
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/475.ts:360 Новости
+#DESCRIPTION 360 Новости
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/462.ts:365 Дней
+#DESCRIPTION 365 Дней
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/476.ts:4 fun DANCE
+#DESCRIPTION 4 fun DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/381.ts:43 HD
+#DESCRIPTION 43 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/190.ts:5 канал
+#DESCRIPTION 5 канал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/689.ts:8 канал Украина
+#DESCRIPTION 8 канал Украина
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/188.ts:A1
+#DESCRIPTION A1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/187.ts:A2
+#DESCRIPTION A2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/426.ts:A HBO HD
+#DESCRIPTION A HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/189.ts:A HBO
+#DESCRIPTION A HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/460.ts:Amc
+#DESCRIPTION Amc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/691.ts:Animal Planet HD
+#DESCRIPTION Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/769.ts:Animal Planet Europe
+#DESCRIPTION Animal Planet Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/761.ts:Atr
+#DESCRIPTION Atr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/186.ts:Ani
+#DESCRIPTION Ani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/382.ts:BIM TV
+#DESCRIPTION BIM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/180.ts:Discovery
+#DESCRIPTION Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/179.ts:Discovery Science
+#DESCRIPTION Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/798.ts:Discovery Showcase HD
+#DESCRIPTION Discovery Showcase HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/800.ts:Discovery Science HD
+#DESCRIPTION Discovery Science HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/178.ts:Disney
+#DESCRIPTION Disney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/802.ts:Deluxe Music HD
+#DESCRIPTION Deluxe Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/480.ts:DJING Dance Floor HD
+#DESCRIPTION DJING Dance Floor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/478.ts:Djing Animation HD
+#DESCRIPTION Djing Animation HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/826.ts:CLASSICS HD
+#DESCRIPTION CLASSICS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/183.ts:Cartoon Network
+#DESCRIPTION Cartoon Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/540.ts:Centr Tv [lv]
+#DESCRIPTION Centr Tv [lv]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/283.ts:CBS Reality
+#DESCRIPTION CBS Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/411.ts:E
+#DESCRIPTION E
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/173.ts:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/797.ts:Euronews HD
+#DESCRIPTION Euronews HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/383.ts:CGTN русский
+#DESCRIPTION CGTN русский
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/547.ts:BackusTV HD Страшное
+#DESCRIPTION BackusTV HD Страшное
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/433.ts:EROX HD
+#DESCRIPTION EROX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/174.ts:Eurosport 1
+#DESCRIPTION Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/175.ts:EU:Music
+#DESCRIPTION EU:Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/753.ts:Fashion ID
+#DESCRIPTION Fashion ID
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/459.ts:BRIDGETV DANCE
+#DESCRIPTION BRIDGETV DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/321.ts:BOLT HD
+#DESCRIPTION BOLT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/829.ts:DANCE HD
+#DESCRIPTION DANCE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/181.ts:Da Vinc iLearning
+#DESCRIPTION Da Vinc iLearning
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/176.ts:ENGLISH CLUB TV
+#DESCRIPTION ENGLISH CLUB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/177.ts:DTX
+#DESCRIPTION DTX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/760.ts:BamBarbia Tv
+#DESCRIPTION BamBarbia Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/781.ts:Eurosport Gold HD
+#DESCRIPTION Eurosport Gold HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/792.ts:DTX HD
+#DESCRIPTION DTX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/767.ts:Discovery Central Europe
+#DESCRIPTION Discovery Central Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/777.ts:Cartoon Network HD
+#DESCRIPTION Cartoon Network HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/759.ts:BOLT
+#DESCRIPTION BOLT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/758.ts:Brain TV
+#DESCRIPTION Brain TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/322.ts:EU:Music HD
+#DESCRIPTION EU:Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/757.ts:CBN
+#DESCRIPTION CBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/414.ts:BRIDGETV
+#DESCRIPTION BRIDGETV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/421.ts:BRIDGETV Русский хит
+#DESCRIPTION BRIDGETV Русский хит
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/311.ts:Epic Drama HD
+#DESCRIPTION Epic Drama HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/454.ts:Extreme Sports
+#DESCRIPTION Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/756.ts:CNL
+#DESCRIPTION CNL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/473.ts:END
+#DESCRIPTION END
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/184.ts:BEST Films HD
+#DESCRIPTION BEST Films HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/380.ts:1 HD
+#DESCRIPTION 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/793.ts:Filmzone   HD
+#DESCRIPTION Filmzone   HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/778.ts:H2 HD
+#DESCRIPTION H2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/791.ts:Hustler
+#DESCRIPTION Hustler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/451.ts:Gulli Girl
+#DESCRIPTION Gulli Girl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/167.ts:ICTV
+#DESCRIPTION ICTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/166.ts:ID Extra
+#DESCRIPTION ID Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/466.ts:HUSTLER HD
+#DESCRIPTION HUSTLER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/384.ts:France 24
+#DESCRIPTION France 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/169.ts:Glas
+#DESCRIPTION Glas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/816.ts:Interaz
+#DESCRIPTION Interaz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/825.ts:JAZZ HD
+#DESCRIPTION JAZZ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/203.ts:Fox life
+#DESCRIPTION Fox life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/170.ts:Food Network
+#DESCRIPTION Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/246.ts:Jasmin +18
+#DESCRIPTION Jasmin +18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/168.ts:History
+#DESCRIPTION History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/371.ts:HD Media
+#DESCRIPTION HD Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/373.ts:Heart HD
+#DESCRIPTION Heart HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/171.ts:Fashion Word
+#DESCRIPTION Fashion Word
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/453.ts:Fine Living
+#DESCRIPTION Fine Living
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/452.ts:Fox
+#DESCRIPTION Fox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/752.ts:Fashion TV HD
+#DESCRIPTION Fashion TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/185.ts:Animal Planet
+#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/730.ts:Возраждение
+#DESCRIPTION Возраждение
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/731.ts:Винтаж
+#DESCRIPTION Винтаж
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/732.ts:Бутик
+#DESCRIPTION Бутик
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/733.ts:Буковина
+#DESCRIPTION Буковина
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/734.ts:Беларусь 24
+#DESCRIPTION Беларусь 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/735.ts:Zik
+#DESCRIPTION Zik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/736.ts:Xsport HD
+#DESCRIPTION Xsport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/737.ts:VH1 Classic
+#DESCRIPTION VH1 Classic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/738.ts:VH1
+#DESCRIPTION VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/739.ts:UA:Суми
+#DESCRIPTION UA:Суми
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/740.ts:UA:Культура
+#DESCRIPTION UA:Культура
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/741.ts:TV1000 Comedy
+#DESCRIPTION TV1000 Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/743.ts:RTI
+#DESCRIPTION RTI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/744.ts:Plus
+#DESCRIPTION Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/745.ts:PAI
+#DESCRIPTION PAI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/690.ts:Ol-la-la
+#DESCRIPTION Ol-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/746.ts:Oboz TV
+#DESCRIPTION Oboz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/749.ts:Mostvideo.TV
+#DESCRIPTION Mostvideo.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/729.ts:Глас
+#DESCRIPTION Глас
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/728.ts:Дача HD
+#DESCRIPTION Дача HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/474.ts:erorr
+#DESCRIPTION erorr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/727.ts:Дитинец
+#DESCRIPTION Дитинец
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/726.ts:До тебе
+#DESCRIPTION До тебе
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/724.ts:Киев тв
+#DESCRIPTION Киев тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/692.ts:Кинопоказ
+#DESCRIPTION Кинопоказ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/723.ts:Ктк
+#DESCRIPTION Ктк
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/721.ts:Лот
+#DESCRIPTION Лот
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/719.ts:Миледи
+#DESCRIPTION Миледи
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/718.ts:Мтв
+#DESCRIPTION Мтв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/717.ts:Надежда
+#DESCRIPTION Надежда
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/716.ts:Новый Христианский
+#DESCRIPTION Новый Христианский
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/714.ts:Одесса
+#DESCRIPTION Одесса
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/545.ts:Орт
+#DESCRIPTION Орт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/544.ts:Мой город
+#DESCRIPTION Мой город
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/548.ts:КИНОЗАЛ BACKUS TV
+#DESCRIPTION КИНОЗАЛ BACKUS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/715.ts:ОТБ Галичино
+#DESCRIPTION ОТБ Галичино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/537.ts:TV6
+#DESCRIPTION TV6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/538.ts:TV3 Латвия
+#DESCRIPTION TV3 Латвия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/539.ts:LTV7
+#DESCRIPTION LTV7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/536.ts:LNT
+#DESCRIPTION LNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/535.ts:Latuijas
+#DESCRIPTION Latuijas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/713.ts:Первый Деловой
+#DESCRIPTION Первый Деловой
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/499.ts:Нтв (молдова)
+#DESCRIPTION Нтв (молдова)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/501.ts:Беларусь 2
+#DESCRIPTION Беларусь 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/500.ts:Беларусь 1
+#DESCRIPTION Беларусь 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/491.ts:Наш кинороманHD
+#DESCRIPTION Наш кинороманHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/490.ts:TV1000 HD
+#DESCRIPTION TV1000 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/489.ts:Наше любимое кино HD
+#DESCRIPTION Наше любимое кино HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/488.ts:Пятый канал HD
+#DESCRIPTION Пятый канал HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/712.ts:Перший Зах!дний
+#DESCRIPTION Перший Зах!дний
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/484.ts:Синергия ТВ
+#DESCRIPTION Синергия ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/710.ts:Правда Тут
+#DESCRIPTION Правда Тут
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/483.ts:RETRO
+#DESCRIPTION RETRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/709.ts:Пульсар
+#DESCRIPTION Пульсар
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/708.ts:Рада
+#DESCRIPTION Рада
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/707.ts:С-плюс
+#DESCRIPTION С-плюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/706.ts:Сигма
+#DESCRIPTION Сигма
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/21.ts:Твц
+#DESCRIPTION Твц
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/430.ts:Setanta Sport + HD
+#DESCRIPTION Setanta Sport + HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/705.ts:Страна советов
+#DESCRIPTION Страна советов
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/704.ts:ТВ5 Запорожье
+#DESCRIPTION ТВ5 Запорожье
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/415.ts:Setanta Sport
+#DESCRIPTION Setanta Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/420.ts:Сарафан
+#DESCRIPTION Сарафан
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/401.ts:Тнв
+#DESCRIPTION Тнв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/703.ts:Тв7
+#DESCRIPTION Тв7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/398.ts:Страна FM HD
+#DESCRIPTION Страна FM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/399.ts:Смайлик тв HD
+#DESCRIPTION Смайлик тв HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/367.ts:TBN HD
+#DESCRIPTION TBN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/359.ts:Тлум HD
+#DESCRIPTION Тлум HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/270.ts:Супер
+#DESCRIPTION Супер
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/701.ts:Телесвит
+#DESCRIPTION Телесвит
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/265.ts:Телепутешествие
+#DESCRIPTION Телепутешествие
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/700.ts:Терра
+#DESCRIPTION Терра
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/699.ts:Тим Прилуки
+#DESCRIPTION Тим Прилуки
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/698.ts:Тиса
+#DESCRIPTION Тиса
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/775.ts:Museum HD
+#DESCRIPTION Museum HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/780.ts:Spike HD
+#DESCRIPTION Spike HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/774.ts:Trick HD
+#DESCRIPTION Trick HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/776.ts:TV1000 Action HD
+#DESCRIPTION TV1000 Action HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/779.ts:Диалоги о рыбалке HD
+#DESCRIPTION Диалоги о рыбалке HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/789.ts:Киношанс 2 (Индия)
+#DESCRIPTION Киношанс 2 (Индия)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/788.ts:Киношанс 3 (Зарубежная класика)
+#DESCRIPTION Киношанс 3 (Зарубежная класика)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/787.ts:Киношанс 4 (Советская класика)
+#DESCRIPTION Киношанс 4 (Советская класика)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/786.ts:Киношанс 5
+#DESCRIPTION Киношанс 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/164.ts:K2
+#DESCRIPTION K2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/161.ts:M2
+#DESCRIPTION M2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/157.ts:MTV Hits
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/448.ts:MCM Top
+#DESCRIPTION MCM Top
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/19.ts:Телеканал24
+#DESCRIPTION Телеканал24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/22.ts:Тв 3
+#DESCRIPTION Тв 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/18.ts:Телекафе
+#DESCRIPTION Телекафе
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/16.ts:Тет
+#DESCRIPTION Тет
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/15.ts:Тнт
+#DESCRIPTION Тнт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/20.ts:Телеканал Футбол
+#DESCRIPTION Телеканал Футбол
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/29.ts:Спас
+#DESCRIPTION Спас
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/28.ts:Стб
+#DESCRIPTION Стб
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/27.ts:Страх HD
+#DESCRIPTION Страх HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/30.ts:Союз
+#DESCRIPTION Союз
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/26.ts:Стс
+#DESCRIPTION Стс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/31.ts:Солнце
+#DESCRIPTION Солнце
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/256.ts:Классика Кино
+#DESCRIPTION Классика Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/146.ts:QTV
+#DESCRIPTION QTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/144.ts:RTVI
+#DESCRIPTION RTVI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/471.ts:Охотник и рыбалов
+#DESCRIPTION Охотник и рыбалов
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/470.ts:ОХ-АХ HD (18 )
+#DESCRIPTION ОХ-АХ HD (18 )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/140.ts:Sony
+#DESCRIPTION Sony
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/465.ts:НАЗАД В 90-e
+#DESCRIPTION НАЗАД В 90-e
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/472.ts:ЕРАЛАШ HD
+#DESCRIPTION ЕРАЛАШ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/468.ts:ВЕСЕЛАЯ КАРУСЕЛЬ HD
+#DESCRIPTION ВЕСЕЛАЯ КАРУСЕЛЬ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/133.ts:Travel Adventure HD
+#DESCRIPTION Travel Adventure HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/132.ts:Travel Channel
+#DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/135.ts:Sport 2
+#DESCRIPTION Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/134.ts:Star Sinema
+#DESCRIPTION Star Sinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/201.ts:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/138.ts:Sony Turbo
+#DESCRIPTION Sony Turbo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/136.ts:Sport 1
+#DESCRIPTION Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/126.ts:Viasat Explorer
+#DESCRIPTION Viasat Explorer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/122.ts:VIP Comedy HD
+#DESCRIPTION VIP Comedy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/130.ts:Ua:Перший
+#DESCRIPTION Ua:Перший
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/121.ts:VIP Megahit HD
+#DESCRIPTION VIP Megahit HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/120.ts:VIP Premiere HD
+#DESCRIPTION VIP Premiere HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/125.ts:Viasat History
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/118.ts:XXI
+#DESCRIPTION XXI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/114.ts:ZOOПАРК
+#DESCRIPTION ZOOПАРК
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/785.ts:Киношанс 6
+#DESCRIPTION Киношанс 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/123.ts:Viasat Sport
+#DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/124.ts:Viasat Nature
+#DESCRIPTION Viasat Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/117.ts:Zee TV
+#DESCRIPTION Zee TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/131.ts:UA:Крим
+#DESCRIPTION UA:Крим
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/438.ts:Русская Ночь
+#DESCRIPTION Русская Ночь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/83.ts:Кхл
+#DESCRIPTION Кхл
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/84.ts:ОЦЕ
+#DESCRIPTION ОЦЕ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/103.ts:Дотебе
+#DESCRIPTION Дотебе
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/101.ts:Еврокино
+#DESCRIPTION Еврокино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/94.ts:История
+#DESCRIPTION История
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/97.ts:Звезда
+#DESCRIPTION Звезда
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/95.ts:Интер
+#DESCRIPTION Интер
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/193.ts:Камин Релакс
+#DESCRIPTION Камин Релакс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/790.ts:Киношанс класика (Болливуда)
+#DESCRIPTION Киношанс класика (Болливуда)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/93.ts:Карусель
+#DESCRIPTION Карусель
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/96.ts:Иллюзион+
+#DESCRIPTION Иллюзион+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/99.ts:Ентер-фильм
+#DESCRIPTION Ентер-фильм
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/81.ts:Малятко ТВ
+#DESCRIPTION Малятко ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/90.ts:Кинокомедия
+#DESCRIPTION Кинокомедия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/212.ts:КиноМеню HD
+#DESCRIPTION КиноМеню HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/88.ts:Киносерия
+#DESCRIPTION Киносерия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/87.ts:Кинохит
+#DESCRIPTION Кинохит
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/86.ts:Кроха Тв
+#DESCRIPTION Кроха Тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/218.ts:Конный Мир
+#DESCRIPTION Конный Мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/89.ts:Киномикс
+#DESCRIPTION Киномикс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/91.ts:Кино ТВ
+#DESCRIPTION Кино ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/92.ts:Квартал
+#DESCRIPTION Квартал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/113.ts:Авто 24
+#DESCRIPTION Авто 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/108.ts:Детский Мир
+#DESCRIPTION Детский Мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/77.ts:Матч! Боец
+#DESCRIPTION Матч! Боец
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/80.ts:Матч!
+#DESCRIPTION Матч!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/78.ts:Матч! Арена
+#DESCRIPTION Матч! Арена
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/112.ts:Бигуди
+#DESCRIPTION Бигуди
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/76.ts:Матч! Игра
+#DESCRIPTION Матч! Игра
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/110.ts:Дача
+#DESCRIPTION Дача
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/85.ts:Крт
+#DESCRIPTION Крт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/109.ts:Детский
+#DESCRIPTION Детский
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/102.ts:Драйв
+#DESCRIPTION Драйв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/100.ts:Евроновости
+#DESCRIPTION Евроновости
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/106.ts:Дождь
+#DESCRIPTION Дождь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/105.ts:Дом Кино
+#DESCRIPTION Дом Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/104.ts:Домашний
+#DESCRIPTION Домашний
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/197.ts:Доктор
+#DESCRIPTION Доктор
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/115.ts:Zoom
+#DESCRIPTION Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/137.ts:Sony Si-Fi
+#DESCRIPTION Sony Si-Fi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/71.ts:Мир сериала
+#DESCRIPTION Мир сериала
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/209.ts:Мир 24
+#DESCRIPTION Мир 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/204.ts:Моя Планета
+#DESCRIPTION Моя Планета
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/68.ts:Мужской
+#DESCRIPTION Мужской
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/72.ts:Мир
+#DESCRIPTION Мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/69.ts:Мужское кино
+#DESCRIPTION Мужское кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/74.ts:Мега
+#DESCRIPTION Мега
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/66.ts:Мульт
+#DESCRIPTION Мульт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/60.ts:Наше Любимое Кино
+#DESCRIPTION Наше Любимое Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/213.ts:Неизвестная Планета
+#DESCRIPTION Неизвестная Планета
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/61.ts:Наш Футбол
+#DESCRIPTION Наш Футбол
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/65.ts:Мультимания
+#DESCRIPTION Мультимания
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/64.ts:НСТ
+#DESCRIPTION НСТ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/205.ts:Мульт и Музыка
+#DESCRIPTION Мульт и Музыка
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/62.ts:Наука
+#DESCRIPTION Наука
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/67.ts:Музыка Первого
+#DESCRIPTION Музыка Первого
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/215.ts:Прямий
+#DESCRIPTION Прямий
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/48.ts:ПлюсПлюс
+#DESCRIPTION ПлюсПлюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/43.ts:Радио шансон
+#DESCRIPTION Радио шансон
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/47.ts:ПравдаТут
+#DESCRIPTION ПравдаТут
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/247.ts:Первый Музыкальный HD
+#DESCRIPTION Первый Музыкальный HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/49.ts:Пиксель
+#DESCRIPTION Пиксель
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/45.ts:Пятый канал
+#DESCRIPTION Пятый канал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/53.ts:Первый
+#DESCRIPTION Первый
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/54.ts:Охота и рыбалка
+#DESCRIPTION Охота и рыбалка
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/52.ts:Первый Автомобильный
+#DESCRIPTION Первый Автомобильный
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/58.ts:Нтв
+#DESCRIPTION Нтв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/46.ts:Пятница
+#DESCRIPTION Пятница
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/55.ts:Оружие
+#DESCRIPTION Оружие
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/57.ts:Нтн
+#DESCRIPTION Нтн
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/59.ts:Новый канал
+#DESCRIPTION Новый канал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/41.ts:Ретро
+#DESCRIPTION Ретро
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/216.ts:Россия Ртр
+#DESCRIPTION Россия Ртр
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/40.ts:Россия 1
+#DESCRIPTION Россия 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/39.ts:Россия К
+#DESCRIPTION Россия К
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/42.ts:Рен тв
+#DESCRIPTION Рен тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/35.ts:Русский Иллюзион
+#DESCRIPTION Русский Иллюзион
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/217.ts:Рыжий
+#DESCRIPTION Рыжий
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/440.ts:Отр
+#DESCRIPTION Отр
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/34.ts:Русский Роман
+#DESCRIPTION Русский Роман
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/32.ts:СССР Кино
+#DESCRIPTION СССР Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/33.ts:Русский Экстрим
+#DESCRIPTION Русский Экстрим
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/143.ts:RUTV
+#DESCRIPTION RUTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/36.ts:Русский Детектив
+#DESCRIPTION Русский Детектив
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/444.ts:Нтв стиль
+#DESCRIPTION Нтв стиль
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/445.ts:Нтв сериал
+#DESCRIPTION Нтв сериал
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/37.ts:Русский Бестселлер
+#DESCRIPTION Русский Бестселлер
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/38.ts:Россия 24
+#DESCRIPTION Россия 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/446.ts:Нтв право
+#DESCRIPTION Нтв право
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/434.ts:НЛО
+#DESCRIPTION НЛО
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/443.ts:Наше новое кино
+#DESCRIPTION Наше новое кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/447.ts:Морской
+#DESCRIPTION Морской
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/436.ts:Здоровое Тв
+#DESCRIPTION Здоровое Тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/431.ts:Дом Кино Премиум HD
+#DESCRIPTION Дом Кино Премиум HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/771.ts:Матч! HD
+#DESCRIPTION Матч! HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/457.ts:Бокс тв
+#DESCRIPTION Бокс тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/435.ts:Белсат
+#DESCRIPTION Белсат
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/437.ts:Spike
+#DESCRIPTION Spike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/413.ts:Родное Кино
+#DESCRIPTION Родное Кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/405.ts:Психология 21
+#DESCRIPTION Психология 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/422.ts:Пес и ко
+#DESCRIPTION Пес и ко
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/406.ts:Перец
+#DESCRIPTION Перец
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/410.ts:Ностальгия
+#DESCRIPTION Ностальгия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/409.ts:Наука 2.0
+#DESCRIPTION Наука 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/408.ts:Муз тв
+#DESCRIPTION Муз тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/416.ts:Матч! Планета
+#DESCRIPTION Матч! Планета
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/404.ts:Индийское кино
+#DESCRIPTION Индийское кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/417.ts:Живи
+#DESCRIPTION Живи
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/75.ts:Матч! Наш Спорт
+#DESCRIPTION Матч! Наш Спорт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/70.ts:Москва 24
+#DESCRIPTION Москва 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/403.ts:Домашние Животные
+#DESCRIPTION Домашние Животные
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/260.ts:Известия
+#DESCRIPTION Известия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/418.ts:Время
+#DESCRIPTION Время
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/407.ts:В гостях у сказки
+#DESCRIPTION В гостях у сказки
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/412.ts:Бобер
+#DESCRIPTION Бобер
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/396.ts:РБК
+#DESCRIPTION РБК
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/395.ts:Первый метео
+#DESCRIPTION Первый метео
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/394.ts:ОНТ [by]
+#DESCRIPTION ОНТ [by]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/287.ts:Квн
+#DESCRIPTION Квн
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/286.ts:Еда HD
+#DESCRIPTION Еда HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/288.ts:Кухня тв
+#DESCRIPTION Кухня тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/393.ts:Мир HD
+#DESCRIPTION Мир HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/392.ts:Крым 24 HD
+#DESCRIPTION Крым 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/308.ts:TV1000 word kino
+#DESCRIPTION TV1000 word kino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/310.ts:TV1000 Action
+#DESCRIPTION TV1000 Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/309.ts:TV1000
+#DESCRIPTION TV1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/391.ts:Крым 1 HD
+#DESCRIPTION Крым 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/315.ts:Беларусь 5
+#DESCRIPTION Беларусь 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/390.ts:Краснодар
+#DESCRIPTION Краснодар
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/389.ts:Горная страна HD
+#DESCRIPTION Горная страна HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/387.ts:XITE HD
+#DESCRIPTION XITE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/325.ts:Star Sinema HD
+#DESCRIPTION Star Sinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/324.ts:Travel Channel HD
+#DESCRIPTION Travel Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/319.ts:Viasat Sport HD
+#DESCRIPTION Viasat Sport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/323.ts:Viasat Nature/History HD
+#DESCRIPTION Viasat Nature/History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/386.ts:RTД
+#DESCRIPTION RTД
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/327.ts:Россия HD
+#DESCRIPTION Россия HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/328.ts:Tv1000 Русское кино
+#DESCRIPTION Tv1000 Русское кино
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/343.ts:Русский Роман HD
+#DESCRIPTION Русский Роман HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/333.ts:Матч! Футбол 3
+#DESCRIPTION Матч! Футбол 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/335.ts:Матч! Футбол 2
+#DESCRIPTION Матч! Футбол 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/334.ts:Матч! Футбол 1
+#DESCRIPTION Матч! Футбол 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/345.ts:Первый HD
+#DESCRIPTION Первый HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/346.ts:Киносвидание
+#DESCRIPTION Киносвидание
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/376.ts:Red Bull TV HD
+#DESCRIPTION Red Bull TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/377.ts:RU TV HD
+#DESCRIPTION RU TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/363.ts:Русская Комедия
+#DESCRIPTION Русская Комедия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/358.ts:Кинопремьера HD
+#DESCRIPTION Кинопремьера HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/350.ts:Star Family HD
+#DESCRIPTION Star Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/770.ts:Матч! Футбол 2 HD
+#DESCRIPTION Матч! Футбол 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/348.ts:NIKI Junior HD
+#DESCRIPTION NIKI Junior HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/150.ts:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/152.ts:News Network
+#DESCRIPTION News Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/148.ts:Paramount Comedy
+#DESCRIPTION Paramount Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/206.ts:Nano
+#DESCRIPTION Nano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/154.ts:Nat Geo Wild
+#DESCRIPTION Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/151.ts:News One
+#DESCRIPTION News One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/153.ts:National Geograpfic
+#DESCRIPTION National Geograpfic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/374.ts:One HD
+#DESCRIPTION One HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/375.ts:One RUS
+#DESCRIPTION One RUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/439.ts:Outdoor Channel
+#DESCRIPTION Outdoor Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/442.ts:Nick.Jr
+#DESCRIPTION Nick.Jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/149.ts:Nickelodeon HD
+#DESCRIPTION Nickelodeon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/284.ts:Ocean
+#DESCRIPTION Ocean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/385.ts:NRJ
+#DESCRIPTION NRJ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/772.ts:Матч! Футбол 3 HD
+#DESCRIPTION Матч! Футбол 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/320.ts:MTV Live HD
+#DESCRIPTION MTV Live HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/155.ts:Music Box UA
+#DESCRIPTION Music Box UA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/159.ts:Maxxi-TV
+#DESCRIPTION Maxxi-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/326.ts:Music Box UA HD
+#DESCRIPTION Music Box UA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/423.ts:Mezzo HD
+#DESCRIPTION Mezzo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/773.ts:Остросюжетное HD
+#DESCRIPTION Остросюжетное HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/782.ts:Рен тв HD
+#DESCRIPTION Рен тв HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/783.ts:Страшное HD
+#DESCRIPTION Страшное HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/156.ts:MTV Rocks
+#DESCRIPTION MTV Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/804.ts:Lietuvos Rytas HD
+#DESCRIPTION Lietuvos Rytas HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/805.ts:LTL HD
+#DESCRIPTION LTL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/158.ts:MTV Dance
+#DESCRIPTION MTV Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/801.ts:MCM Top HD
+#DESCRIPTION MCM Top HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/796.ts:Sony Turbo HD
+#DESCRIPTION Sony Turbo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/806.ts:Sport 1 HD lt
+#DESCRIPTION Sport 1 HD lt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/795.ts:TV3 HD lt
+#DESCRIPTION TV3 HD lt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/794.ts:TV6 HD lt
+#DESCRIPTION TV6 HD lt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/803.ts:Viasat Explore HD
+#DESCRIPTION Viasat Explore HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/799.ts:Viasat Motor HD
+#DESCRIPTION Viasat Motor HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/809.ts:Кино 24
+#DESCRIPTION Кино 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/807.ts:Кинопоказ 1 HD
+#DESCRIPTION Кинопоказ 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/808.ts:Кинопоказ 2 HD
+#DESCRIPTION Кинопоказ 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/821.ts:Kinoonline 1
+#DESCRIPTION Kinoonline 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/820.ts:Kinoonline 2
+#DESCRIPTION Kinoonline 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/818.ts:NBA
+#DESCRIPTION NBA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/828.ts:POP HD
+#DESCRIPTION POP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/827.ts:ROCK HD
+#DESCRIPTION ROCK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/822.ts:Sky 1000 Cinema HD
+#DESCRIPTION Sky 1000 Cinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/160.ts:M1
+#DESCRIPTION M1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/162.ts:Lost HD
+#DESCRIPTION Lost HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/823.ts:Sky 1000 RUS HD
+#DESCRIPTION Sky 1000 RUS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/824.ts:THT HD
+#DESCRIPTION THT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/810.ts:TR!K HD
+#DESCRIPTION TR!K HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/819.ts:Большая азия HD
+#DESCRIPTION Большая азия HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/163.ts:Lale
+#DESCRIPTION Lale
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/165.ts:K1
+#DESCRIPTION K1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/811.ts:Дикий
+#DESCRIPTION Дикий
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/814.ts:Матч! Арена HD
+#DESCRIPTION Матч! Арена HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/813.ts:Матч! Игра HD
+#DESCRIPTION Матч! Игра HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/817.ts:Пятница HD
+#DESCRIPTION Пятница HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/449.ts:Jim Jam
+#DESCRIPTION Jim Jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/119.ts:Xsport
+#DESCRIPTION Xsport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/14.ts:Тнт Музыка
+#DESCRIPTION Тнт Музыка
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/13.ts:Тнт4
+#DESCRIPTION Тнт4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/5.ts:ЧП.info
+#DESCRIPTION ЧП.info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/7.ts:Фауна
+#DESCRIPTION Фауна
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/199.ts:Футбол 1 UA HD
+#DESCRIPTION Футбол 1 UA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/11.ts:Украина
+#DESCRIPTION Украина
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/12.ts:Трофей
+#DESCRIPTION Трофей
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/6.ts:Феникс киноплюс
+#DESCRIPTION Феникс киноплюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/198.ts:Футбол 2 UA HD
+#DESCRIPTION Футбол 2 UA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/8.ts:Фантастика HD
+#DESCRIPTION Фантастика HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/10.ts:Униан
+#DESCRIPTION Униан
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/9.ts:Усадьба
+#DESCRIPTION Усадьба
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/207.ts:Трейлер Тв
+#DESCRIPTION Трейлер Тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/3.ts:Шансон-ТВ
+#DESCRIPTION Шансон-ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/98.ts:Еспрессотв
+#DESCRIPTION Еспрессотв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/812.ts:Тнт HD
+#DESCRIPTION Тнт HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/397.ts:Точка тв
+#DESCRIPTION Точка тв
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/268.ts:Эгоист [+18]
+#DESCRIPTION Эгоист [+18]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/694.ts:Эпоха
+#DESCRIPTION Эпоха
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/696.ts:Цк
+#DESCRIPTION Цк
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/784.ts:Шалун HD
+#DESCRIPTION Шалун HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/4.ts:Че
+#DESCRIPTION Че
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/485.ts:Трофей HD
+#DESCRIPTION Трофей HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/419.ts:Тро
+#DESCRIPTION Тро
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/697.ts:Трк Черноморская
+#DESCRIPTION Трк Черноморская
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/695.ts:Эко
+#DESCRIPTION Эко
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/1.ts:Ю
+#DESCRIPTION Ю
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/693.ts:Ятб
+#DESCRIPTION Ятб
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/402.ts:Южная волна HD
+#DESCRIPTION Южная волна HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/839.ts:DE: 3 SAT HD
+#DESCRIPTION DE: 3 SAT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/840.ts:DE: ARTE HD
+#DESCRIPTION DE: ARTE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/859.ts:DE: CARTOON NETWORK
+#DESCRIPTION DE: CARTOON NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/858.ts:DE: COMEDY CENTRAL HD
+#DESCRIPTION DE: COMEDY CENTRAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/835.ts:DE: DISCOVERY HD
+#DESCRIPTION DE: DISCOVERY HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/857.ts:DE: DISCOVERY SD
+#DESCRIPTION DE: DISCOVERY SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/841.ts:DE: DISNEY CINEMAGIC HD
+#DESCRIPTION DE: DISNEY CINEMAGIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/832.ts:DE: DISNEY JUNIOR
+#DESCRIPTION DE: DISNEY JUNIOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/842.ts:DE: DISNEY XD
+#DESCRIPTION DE: DISNEY XD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/837.ts:DE: EURONEWS
+#DESCRIPTION DE: EURONEWS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/831.ts:DE: EUROSPORT 1 HD
+#DESCRIPTION DE: EUROSPORT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/856.ts:DE: EUROSPORT 2 HD
+#DESCRIPTION DE: EUROSPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/845.ts:DE: FOX  HD
+#DESCRIPTION DE: FOX  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/833.ts:DE: HEIMATKANAL HD
+#DESCRIPTION DE: HEIMATKANAL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/865.ts:DE: KABEL 1 HD
+#DESCRIPTION DE: KABEL 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/849.ts:DE: KIKA HD
+#DESCRIPTION DE: KIKA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/850.ts:DE: N-TV HD
+#DESCRIPTION DE: N-TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/836.ts:DE: N24 HD
+#DESCRIPTION DE: N24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/862.ts:DE: NAT GEO HD
+#DESCRIPTION DE: NAT GEO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/861.ts:DE: NAT GEO WILD HD
+#DESCRIPTION DE: NAT GEO WILD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/843.ts:DE: NICKELODEON
+#DESCRIPTION DE: NICKELODEON
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/851.ts:DE: ORF 1 HD
+#DESCRIPTION DE: ORF 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/852.ts:DE: ORF 2
+#DESCRIPTION DE: ORF 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/853.ts:DE: ORF 3
+#DESCRIPTION DE: ORF 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/854.ts:DE: PHOENIX HD
+#DESCRIPTION DE: PHOENIX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/855.ts:DE: PRO7 MAXX
+#DESCRIPTION DE: PRO7 MAXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/867.ts:DE: RTL NITRO HD
+#DESCRIPTION DE: RTL NITRO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/866.ts:DE: SAT 1 HD
+#DESCRIPTION DE: SAT 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/860.ts:DE: SIXX HD
+#DESCRIPTION DE: SIXX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/838.ts:DE: SKY 13TH STREET HD
+#DESCRIPTION DE: SKY 13TH STREET HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/846.ts:DE: SKY SPORT AUSTRIA HD
+#DESCRIPTION DE: SKY SPORT AUSTRIA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/834.ts:DE: SKY SPORT NEWS HD
+#DESCRIPTION DE: SKY SPORT NEWS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/847.ts:DE: SPIEGEL GESCHICHTE HD
+#DESCRIPTION DE: SPIEGEL GESCHICHTE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/864.ts:DE: SRF 1
+#DESCRIPTION DE: SRF 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/863.ts:DE: SRF 2
+#DESCRIPTION DE: SRF 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/848.ts:DE: TLC HD
+#DESCRIPTION DE: TLC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/868.ts:DE: WDR
+#DESCRIPTION DE: WDR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/869.ts:DE: ZDF HD
+#DESCRIPTION DE: ZDF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/876.ts:78 HD
+#DESCRIPTION 78 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/881.ts:Accent [md]
+#DESCRIPTION Accent [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/886.ts:BoxKidsHD
+#DESCRIPTION BoxKidsHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/880.ts:Canal 2 HD [md]
+#DESCRIPTION Canal 2 HD [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/879.ts:Canal 3 HD [md]
+#DESCRIPTION Canal 3 HD [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/888.ts:DocuBox HD
+#DESCRIPTION DocuBox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/887.ts:DoxCinema HD
+#DESCRIPTION DoxCinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/878.ts:Publica HD [md]
+#DESCRIPTION Publica HD [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/877.ts:RUTV [md]
+#DESCRIPTION RUTV [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/872.ts:Беларусь 3
+#DESCRIPTION Беларусь 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/870.ts:Мамонтенок HD
+#DESCRIPTION Мамонтенок HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/871.ts:Мультик HD
+#DESCRIPTION Мультик HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/873.ts:Нтв [by]
+#DESCRIPTION Нтв [by]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/884.ts:Нтв [md]
+#DESCRIPTION Нтв [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/874.ts:Нтв Мир
+#DESCRIPTION Нтв Мир
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/875.ts:Нтв Мир Балтика
+#DESCRIPTION Нтв Мир Балтика
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/883.ts:Ртр [md]
+#DESCRIPTION Ртр [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/882.ts:Стс [md]
+#DESCRIPTION Стс [md]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mag-aura.xyz%3a25461/live/mag250/mag250/885.ts:ТНТ exclusiv [md]
+#DESCRIPTION ТНТ exclusiv [md]
 #SERVICE 1:64:BD:0:0:0:0:0:0:0::=== ★★N1 | PAKETI★★ ====
 #DESCRIPTION === ★★N1 | PAKETI★★ ====
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1srb?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 SRB
