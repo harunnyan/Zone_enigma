@@ -1,5 +1,5 @@
 #NAME **ReMy_PREMIUM_WORLD**
-#SERVICE 1:64:B9:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY_ENIGMA|TURK_TEAM_%3a%3a%3a%3a
+#SERVICE 1:64:B9:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8:SKY SPORT NEWS HD
 #DESCRIPTION SKY SPORT NEWS HD
@@ -467,7 +467,7 @@
 #DESCRIPTION WRN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/632368443?ticket=9D599102EF84BA40B2007C024B45E73BD18115B7&amp;profile=pass:ZDF HD
 #DESCRIPTION ZDF HD
-#SERVICE 1:64:BA:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_HABER/NEWS_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:BA:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
 #DESCRIPTION London Live
@@ -535,7 +535,7 @@
 #DESCRIPTION RTE News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8:Sky TG 24
 #DESCRIPTION Sky TG 24
-#SERVICE 1:64:BB:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY| U.S.A_IPTV_%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:BB:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| U.S.A_IPTV_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY| U.S.A_IPTV_:::::::::
 #SERVICE 4097:0:1:271:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/DTVHD/playlist.m3u8:Beach TV - 30A (eng)
 #DESCRIPTION Beach TV - 30A (eng)
@@ -603,7 +603,7 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 4097:0:1:263:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
-#SERVICE 1:64:BC:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY|WORLD_IPTV_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:BC:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//coninfo.net%3a1935/13max/live/chunklist_w649322582.m3u8:13 MAX HD
 #DESCRIPTION 13 MAX HD
@@ -2123,7 +2123,7 @@
 #DESCRIPTION TV 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.137.248.21%3a1935/Ugarit/UgaritLive/playlist.m3u8:UGARIT
 #DESCRIPTION UGARIT
-#SERVICE 1:64:C2:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WEBSOCKET_LIVE_UPDATE_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:C2:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=i_C1EH6Rxxk:Kanal D HD
 #DESCRIPTION Kanal D HD
@@ -2157,7 +2157,7 @@
 #DESCRIPTION ANN7 TV
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=bQQK0iR5iBU:Real World Air Traffic-Information Zulu
 #DESCRIPTION Real World Air Traffic-Information Zulu
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs:Beautiful Relaxing Music 24/7%3a Study Music
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs:Beautiful Relaxing Music 24/7: Study Music
 #DESCRIPTION Beautiful Relaxing Music 24/7: Study Music
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=X8ncK_oXSwo:Best Shuffle Dance Music 2018
 #DESCRIPTION Best Shuffle Dance Music 2018
@@ -2219,7 +2219,7 @@
 #DESCRIPTION Number1 Tv
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=kpygqP70u60:Number1 Türk
 #DESCRIPTION Number1 Türk
-#SERVICE 1:64:C3:0:0:0:0:0:0:0::_%3a%3a%3a_FILM_BELGESEL_EGLENCE_%3a%3a%3a_
+#SERVICE 1:64:C3:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler
 #DESCRIPTION Cocuklar icin Cizgi filmler
@@ -2243,7 +2243,7 @@
 #DESCRIPTION Stephen Hawking-Universe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=g6c4xCkrvOk:Evrenin Ucuna Yolculuk
 #DESCRIPTION Evrenin Ucuna Yolculuk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ly9cmLfH_bg:NGC%3a Gizli Gerçekler - Ufolar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ly9cmLfH_bg:NGC: Gizli Gerçekler - Ufolar
 #DESCRIPTION NGC: Gizli Gerçekler - Ufolar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=a8iW_eWqcPQ:National Geographic - Marmaray Tüp Geçit Projesi
 #DESCRIPTION National Geographic - Marmaray Tüp Geçit Projesi
@@ -2315,47 +2315,47 @@
 #DESCRIPTION THAILAND 2018 Mini Nonstop VOL.2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=3IH5eod9aTA:DJTA REMIX THAILAND
 #DESCRIPTION DJTA REMIX THAILAND
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=uFbiOUy7qS0:IBIZA NEW CLUB DANCE MIX 2018
-#DESCRIPTION IBIZA NEW CLUB DANCE MIX 2018
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=w1_6lQkYTN0:Matinee Ibiza/AMNESIA
-#DESCRIPTION Matinee Ibiza/AMNESIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CJ33agDxDUQ:MiNi-NonStop VoL.14)-(bOe Remixer 130
-#DESCRIPTION MiNi-NonStop VoL.14)-(bOe Remixer 130
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=My5iNRFU1nU:Gold Bikini Sexy Dancing - 3
-#DESCRIPTION Gold Bikini Sexy Dancing - 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L_OElzCMPHc:Asok , Silom ( Taniya , Patpong , soi Cowboy )
 #DESCRIPTION Asok , Silom ( Taniya , Patpong , soi Cowboy )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qCLKG2WermU:Sukhumvit Soi21 / Asok , SoiCowboy
-#DESCRIPTION Sukhumvit Soi21 / Asok , SoiCowboy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=0fogJYmZaac:Asok - Soi Cowboy 2017 , and more Bangkok , Thaila
 #DESCRIPTION Asok - Soi Cowboy 2017 , and more Bangkok , Thaila
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iSAme4KrDYM:thaıwan2018-1
-#DESCRIPTION thaıwan2018-1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lXz9m3pT9eU:thaıwan2018-2
-#DESCRIPTION thaıwan2018-2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=8QSNv5OHl1Y:thaıwan2018-3
-#DESCRIPTION thaıwan2018-3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qCLKG2WermU:Sukhumvit Soi21 / Asok , SoiCowboy
+#DESCRIPTION Sukhumvit Soi21 / Asok , SoiCowboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lXz9m3pT9eU:thaıwan2018
+#DESCRIPTION thaıwan2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=il8BfvP0McY:Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
+#DESCRIPTION Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Q3MtNOz3P5c:Smartland-HD
+#DESCRIPTION Smartland-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=OC43oNf3NbE:IBIZA NEW CLUB DANCE MIX 2018
+#DESCRIPTION IBIZA NEW CLUB DANCE MIX 2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iSAme4KrDYM:Matinee Ibiza/AMNESIA
+#DESCRIPTION Matinee Ibiza/AMNESIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=fi7c5SHQELQ:Panamanian dans müziği hit! Tung Tuong Hip Hop 3
+#DESCRIPTION Panamanian dans müziği hit! Tung Tuong Hip Hop 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CJ33agDxDUQ:2016 (MiNi-NonStop VoL.14)
+#DESCRIPTION 2016 (MiNi-NonStop VoL.14)
 #SERVICE 1:64:C5:0:0:0:0:0:0:0::Hottest | Sports Illustrated Swimsuit
 #DESCRIPTION Hottest | Sports Illustrated Swimsuit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eBZdmQ58n0s:Ashley Graham Hottest Moments%3a Curvy Cover Model,
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eBZdmQ58n0s:Ashley Graham Hottest Moments: Curvy Cover Model,
 #DESCRIPTION Ashley Graham Hottest Moments: Curvy Cover Model,
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=DV86TY39Z0I:Best Of 2014%3a Kate Upton, Irina Shayk, Nina Agdal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=DV86TY39Z0I:Best Of 2014: Kate Upton, Irina Shayk, Nina Agdal
 #DESCRIPTION Best Of 2014: Kate Upton, Irina Shayk, Nina Agdal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=IebBbA-9Bqo:Best Of 2016%3a Gigi Hadid, Nina Agdal, Chrissy Teig
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=IebBbA-9Bqo:Best Of 2016: Gigi Hadid, Nina Agdal, Chrissy Teig
 #DESCRIPTION Best Of 2016: Gigi Hadid, Nina Agdal, Chrissy Teig
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nigUibmNSX0:Emily Ratajkowski Best Moments%3a Steamy St. Lucia,
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nigUibmNSX0:Emily Ratajkowski Best Moments: Steamy St. Lucia,
 #DESCRIPTION Emily Ratajkowski Best Moments: Steamy St. Lucia,
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5iQzny094FM:Gigi Hadid Best Moments%3a Jersey Shore Fun, Tropica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5iQzny094FM:Gigi Hadid Best Moments: Jersey Shore Fun, Tropica
 #DESCRIPTION Gigi Hadid Best Moments: Jersey Shore Fun, Tropica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=J41EMabLPSQ:Kate Upton Through The Years - The Best Of | Marat
 #DESCRIPTION Kate Upton Through The Years - The Best Of | Marat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=J41EMabLPSQ&t=31s:Kate Upton Through The Years - The Best Of | Marat
 #DESCRIPTION Kate Upton Through The Years - The Best Of | Marat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c:Irina Shayk Hottest Moments%3a Russian Homecoming, B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c:Irina Shayk Hottest Moments: Russian Homecoming, B
 #DESCRIPTION Irina Shayk Hottest Moments: Russian Homecoming, B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c&t=87s:Irina Shayk Hottest Moments%3a Russian Homecoming, B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c&t=87s:Irina Shayk Hottest Moments: Russian Homecoming, B
 #DESCRIPTION Irina Shayk Hottest Moments: Russian Homecoming, B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=b6AQ2k5s8kc:Nina Agdal's Hottest Moments%3a Nothing But Vajazzle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=b6AQ2k5s8kc:Nina Agdal's Hottest Moments: Nothing But Vajazzle
 #DESCRIPTION Nina Agdal's Hottest Moments: Nothing But Vajazzle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nK5YMW_O8zg:HOPE HIGH HEELS - Desfile
 #DESCRIPTION HOPE HIGH HEELS - Desfile
@@ -2445,7 +2445,7 @@
 #DESCRIPTION Victoria Secret 2015 swimsuit show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6nnAlNA_PTs:Victoria's Secret Swim 2013
 #DESCRIPTION Victoria's Secret Swim 2013
-#SERVICE 1:64:C6:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_KOREAN_IPTV_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:C6:0:0:0:0:0:0:0:::::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.118.21.79/etv1/phd28/playlist.m3u8:CTS
 #DESCRIPTION CTS
@@ -2783,7 +2783,7 @@
 #DESCRIPTION New York City Times Square - Street Cam
 #SERVICE 4097:0:1:391:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8:New York City Times Square - 47th &amp; Broad
 #DESCRIPTION New York City Times Square - 47th &amp; Broad
-#SERVICE 4097:0:1:393:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8:New York City%3a Times Square - 5th Ave NYC
+#SERVICE 4097:0:1:393:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8:New York City: Times Square - 5th Ave NYC
 #DESCRIPTION New York City: Times Square - 5th Ave NYC
 #SERVICE 4097:0:1:395:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8:New York City - Wall St.
 #DESCRIPTION New York City - Wall St.
@@ -3795,79 +3795,79 @@
 #DESCRIPTION Pier -California
 #SERVICE 4097:0:1:408:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream:Plougonvelin - Bretagne - France
 #DESCRIPTION Plougonvelin - Bretagne - France
-#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM%3a ALVOR
+#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM: ALVOR
 #DESCRIPTION Portugal WEBCAM: ALVOR
-#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/arrifana/chunks.m3u8:Portugal WEBCAM%3a ARRIFANA
+#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/arrifana/chunks.m3u8:Portugal WEBCAM: ARRIFANA
 #DESCRIPTION Portugal WEBCAM: ARRIFANA
-#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM%3a BARRA
+#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM: BARRA
 #DESCRIPTION Portugal WEBCAM: BARRA
-#SERVICE 4097:0:1:416:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM%3a BUARCOS
+#SERVICE 4097:0:1:416:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM: BUARCOS
 #DESCRIPTION Portugal WEBCAM: BUARCOS
-#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM%3a CAPARICA CDS
+#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM: CAPARICA CDS
 #DESCRIPTION Portugal WEBCAM: CAPARICA CDS
-#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicasaojoao/chunks.m3u8:Portugal WEBCAM%3a CAPARICA S.JOÃO
+#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicasaojoao/chunks.m3u8:Portugal WEBCAM: CAPARICA S.JOÃO
 #DESCRIPTION Portugal WEBCAM: CAPARICA S.JOÃO
-#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM%3a CARCAVELOS
+#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM: CARCAVELOS
 #DESCRIPTION Portugal WEBCAM: CARCAVELOS
-#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carvalhal/chunks.m3u8:Portugal WEBCAM%3a CARVALHAL
+#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carvalhal/chunks.m3u8:Portugal WEBCAM: CARVALHAL
 #DESCRIPTION Portugal WEBCAM: CARVALHAL
-#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM%3a ERICEIRA
+#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM: ERICEIRA
 #DESCRIPTION Portugal WEBCAM: ERICEIRA
-#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/esmoriz/chunks.m3u8:Portugal WEBCAM%3a ESMORIZ
+#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/esmoriz/chunks.m3u8:Portugal WEBCAM: ESMORIZ
 #DESCRIPTION Portugal WEBCAM: ESMORIZ
-#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM%3a ESPINHO
+#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM: ESPINHO
 #DESCRIPTION Portugal WEBCAM: ESPINHO
-#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/evaristo/chunks.m3u8:Portugal WEBCAM%3a EVARISTO
+#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/evaristo/chunks.m3u8:Portugal WEBCAM: EVARISTO
 #DESCRIPTION Portugal WEBCAM: EVARISTO
-#SERVICE 4097:0:1:434:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/fontedatelha/chunks.m3u8:Portugal WEBCAM%3a FONTE DA TELHA
+#SERVICE 4097:0:1:434:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/fontedatelha/chunks.m3u8:Portugal WEBCAM: FONTE DA TELHA
 #DESCRIPTION Portugal WEBCAM: FONTE DA TELHA
-#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM%3a FURADOURO
+#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM: FURADOURO
 #DESCRIPTION Portugal WEBCAM: FURADOURO
-#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiagrande/chunks.m3u8:Portugal WEBCAM%3a GRANDE
+#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiagrande/chunks.m3u8:Portugal WEBCAM: GRANDE
 #DESCRIPTION Portugal WEBCAM: GRANDE
-#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM%3a GUINCHO SUL
+#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM: GUINCHO SUL
 #DESCRIPTION Portugal WEBCAM: GUINCHO SUL
-#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/madeirajardimdomar/chunks.m3u8:Portugal WEBCAM%3a JARDIM DO MAR
+#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/madeirajardimdomar/chunks.m3u8:Portugal WEBCAM: JARDIM DO MAR
 #DESCRIPTION Portugal WEBCAM: JARDIM DO MAR
-#SERVICE 4097:0:1:444:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM%3a LAGIDE
+#SERVICE 4097:0:1:444:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM: LAGIDE
 #DESCRIPTION Portugal WEBCAM: LAGIDE
-#SERVICE 4097:0:1:446:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lecadapalmeira/chunks.m3u8:Portugal WEBCAM%3a LEÇA DA PALMEIRA
+#SERVICE 4097:0:1:446:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lecadapalmeira/chunks.m3u8:Portugal WEBCAM: LEÇA DA PALMEIRA
 #DESCRIPTION Portugal WEBCAM: LEÇA DA PALMEIRA
-#SERVICE 4097:0:1:448:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/matosinhos/chunks.m3u8:Portugal WEBCAM%3a MATOSINHOS
+#SERVICE 4097:0:1:448:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/matosinhos/chunks.m3u8:Portugal WEBCAM: MATOSINHOS
 #DESCRIPTION Portugal WEBCAM: MATOSINHOS
-#SERVICE 4097:0:1:450:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM%3a MEIA PRAIA
+#SERVICE 4097:0:1:450:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM: MEIA PRAIA
 #DESCRIPTION Portugal WEBCAM: MEIA PRAIA
-#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcmira/chunks.m3u8:Portugal WEBCAM%3a MIRA
+#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcmira/chunks.m3u8:Portugal WEBCAM: MIRA
 #DESCRIPTION Portugal WEBCAM: MIRA
-#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM%3a NAZARÉ
+#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM: NAZARÉ
 #DESCRIPTION Portugal WEBCAM: NAZARÉ
-#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcgale/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA GALÉ
+#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcgale/chunks.m3u8:Portugal WEBCAM: PRAIA DA GALÉ
 #DESCRIPTION Portugal WEBCAM: PRAIA DA GALÉ
-#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA LUZ
+#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM: PRAIA DA LUZ
 #DESCRIPTION Portugal WEBCAM: PRAIA DA LUZ
-#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA ROCHA
+#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM: PRAIA DA ROCHA
 #DESCRIPTION Portugal WEBCAM: PRAIA DA ROCHA
-#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//130.185.85.5%3a1935/live/matosinhos.stream/livestream.m3u8:Portugal WEBCAM%3a Praia Matosinhos
+#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//130.185.85.5%3a1935/live/matosinhos.stream/livestream.m3u8:Portugal WEBCAM: Praia Matosinhos
 #DESCRIPTION Portugal WEBCAM: Praia Matosinhos
-#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ribeiradilhas/chunks.m3u8:Portugal WEBCAM%3a RIBEIRA D´ ILHAS
+#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ribeiradilhas/chunks.m3u8:Portugal WEBCAM: RIBEIRA D´ ILHAS
 #DESCRIPTION Portugal WEBCAM: RIBEIRA D´ ILHAS
-#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM%3a S. TORPES
+#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM: S. TORPES
 #DESCRIPTION Portugal WEBCAM: S. TORPES
-#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saopedroestoria/chunks.m3u8:Portugal WEBCAM%3a S.PEDRO ESTORIL
+#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saopedroestoria/chunks.m3u8:Portugal WEBCAM: S.PEDRO ESTORIL
 #DESCRIPTION Portugal WEBCAM: S.PEDRO ESTORIL
-#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM%3a SANTA CRUZ
+#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM: SANTA CRUZ
 #DESCRIPTION Portugal WEBCAM: SANTA CRUZ
-#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM%3a SUPERTUBOS
+#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM: SUPERTUBOS
 #DESCRIPTION Portugal WEBCAM: SUPERTUBOS
-#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/index.m3u8:Portugal WEBCAM%3a Santuáriode Fátima (Capelinha d
+#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/index.m3u8:Portugal WEBCAM: Santuáriode Fátima (Capelinha d
 #DESCRIPTION Portugal WEBCAM: Santuáriode Fátima (Capelinha d
-#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/torreira/chunks.m3u8:Portugal WEBCAM%3a TORREIRA
+#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/torreira/chunks.m3u8:Portugal WEBCAM: TORREIRA
 #DESCRIPTION Portugal WEBCAM: TORREIRA
-#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vagueira/chunks.m3u8:Portugal WEBCAM%3a VAGUEIRA
+#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vagueira/chunks.m3u8:Portugal WEBCAM: VAGUEIRA
 #DESCRIPTION Portugal WEBCAM: VAGUEIRA
-#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM%3a VILAMOURA
+#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM: VILAMOURA
 #DESCRIPTION Portugal WEBCAM: VILAMOURA
-#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM%3a ZAMBUJEIRA
+#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM: ZAMBUJEIRA
 #DESCRIPTION Portugal WEBCAM: ZAMBUJEIRA
 #SERVICE 4097:0:1:484:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv110_720p.stream:Potsdam - Hotel Am Luisenplatz
 #DESCRIPTION Potsdam - Hotel Am Luisenplatz
@@ -3997,7 +3997,7 @@
 #DESCRIPTION Warnemünde - Best Western Hotel
 #SERVICE 4097:0:1:610:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv4_450p.stream:Warnemünde - Yachthafen
 #DESCRIPTION Warnemünde - Yachthafen
-#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//wowza.catve.com.br%3a1935/camera4/camera4.stream/playlist.m3u8:WebCam BR%3a PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
+#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//wowza.catve.com.br%3a1935/camera4/camera4.stream/playlist.m3u8:WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
 #DESCRIPTION WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
 #SERVICE 4097:0:1:614:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8:Wedding chapel -Nevada
 #DESCRIPTION Wedding chapel -Nevada
