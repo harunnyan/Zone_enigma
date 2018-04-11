@@ -2155,24 +2155,22 @@
 #DESCRIPTION Bloomberg Global News LIVE
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c6h18FqpWiw:ANN7 TV
 #DESCRIPTION ANN7 TV
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=JD_y5DLQvkA&feature=push-lsb&attr_tag=g3TDynWuxTLogxz_-6:Cat Music Live TV / Non Stop Music 24/7 🎧
-#DESCRIPTION Cat Music Live TV / Non Stop Music 24/7 🎧
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=X8ncK_oXSwo:Best Shuffle Dance Music 2018
-#DESCRIPTION Best Shuffle Dance Music 2018
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=bQQK0iR5iBU:Real World Air Traffic-Information Zulu
 #DESCRIPTION Real World Air Traffic-Information Zulu
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oUzEopPJBLg:Waterfall & Jungle Sounds
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs:Beautiful Relaxing Music 24/7: Study Music
+#DESCRIPTION Beautiful Relaxing Music 24/7: Study Music
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=X8ncK_oXSwo:Best Shuffle Dance Music 2018
+#DESCRIPTION Best Shuffle Dance Music 2018
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HsDa2q3nXHM:Waterfall & Jungle Sounds
 #DESCRIPTION Waterfall & Jungle Sounds
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=o35TFk-IULM:Relaxing Music 24/7 Amazing Nature
 #DESCRIPTION Relaxing Music 24/7 Amazing Nature
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c25OatSVic0:Relaxing Aquarium 24/7
 #DESCRIPTION Relaxing Aquarium 24/7
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=h5hz2vlYP7Y:The Best Relaxing Aquarium 24/7
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=X0vK_57vQ7s:The Best Relaxing Aquarium 24/7
 #DESCRIPTION The Best Relaxing Aquarium 24/7
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=y7e-GC6oGhg:Beautiful Piano Music
 #DESCRIPTION Beautiful Piano Music
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs:Beautiful Relaxing Music 24/7
-#DESCRIPTION Beautiful Relaxing Music 24/7
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=EpXTVNxUG-0:Study Music
 #DESCRIPTION Study Music
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=P9qjE1dm75A:Venice Italy Live Cam
@@ -2263,10 +2261,6 @@
 #DESCRIPTION Tomorrowland Belgium 2017
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=r0haWB1Uezk:Summer Special Super Mix
 #DESCRIPTION Summer Special Super Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=425VADcO08M:Лучшая Музыка 2018
-#DESCRIPTION Лучшая Музыка 2018
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oS8d3Dtmfps:Liquid Soul @ Ozora
-#DESCRIPTION Liquid Soul @ Ozora
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=PJJ9YK_McFU:BARCELONA deep house session 2018
 #DESCRIPTION BARCELONA deep house session 2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=FbSYT8T9YhM:Bangkok Nightlife Live Stream
@@ -2451,30 +2445,6 @@
 #DESCRIPTION Victoria Secret 2015 swimsuit show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6nnAlNA_PTs:Victoria's Secret Swim 2013
 #DESCRIPTION Victoria's Secret Swim 2013
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=wUR7HJta0Wc:Dash Berlin Live 2017 Bangkok, Thailand
-#DESCRIPTION Dash Berlin Live 2017 Bangkok, Thailand
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ugJeNMDA-WU:Dash Berlin Live Singapore 2017 (Official 4K Video
-#DESCRIPTION Dash Berlin Live Singapore 2017 (Official 4K Video
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=JRomyrXs6YI:Psychedelic Trance Mix / Neural Overcharge
-#DESCRIPTION Psychedelic Trance Mix / Neural Overcharge
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=uMUc47ZftDM:Psychedelic Trance 2017 Mix part 7
-#DESCRIPTION Psychedelic Trance 2017 Mix part 7
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=V8qksS95W7E:Psychedelic Trance 2017 Mix part1[Female Fitness M
-#DESCRIPTION Psychedelic Trance 2017 Mix part1[Female Fitness M
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=T6aFUBuIUh4:Psytrance Festivals Mix 2017
-#DESCRIPTION Psytrance Festivals Mix 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=oaYteZ8QJsc:PSYCHEDELIC TRANCE MIX - The Best Of 2017
-#DESCRIPTION PSYCHEDELIC TRANCE MIX - The Best Of 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ZaD-lIRUdGc:Heliosphere (Psytrance Progressive Mix 2017)🎆�
-#DESCRIPTION Heliosphere (Psytrance Progressive Mix 2017)🎆�
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=MMQREbQbXeY:Psychedelic Trance mix 2018 Wrecking the Dancefloo
-#DESCRIPTION Psychedelic Trance mix 2018 Wrecking the Dancefloo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=WMjLbJbDAWo:Progressive Psytrance mix August 2017
-#DESCRIPTION Progressive Psytrance mix August 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ZNihWMS6LJ4:Progressive Psytrance mix October 2017
-#DESCRIPTION Progressive Psytrance mix October 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=d2-3pCJ5jcw:Progressive Psytrance
-#DESCRIPTION Progressive Psytrance
 #SERVICE 1:64:C6:0:0:0:0:0:0:0:::::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.118.21.79/etv1/phd28/playlist.m3u8:CTS
