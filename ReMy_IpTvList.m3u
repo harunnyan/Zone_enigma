@@ -61,6 +61,74 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1, TRT ARAPCA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1,STAR
+http://94.20.74.243:4022/udp/239.254.10.148:1234
+#EXTINF:-1,EURO STAR TV
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1,FIL TV
+http://canli2.tvnet.tv.tr/live/smil:filtv.smil/chunklist.m3u8
+#EXTINF:-1,FLASH TV
+http://98.142.98.125:1935/flashtv/flashtvmob/chunklist.m3u8
+#EXTINF:-1,SKYTURK 360
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1,AKIT TV
+http://akittv-live.ercdn.net/akittv/akittv_576p.m3u8
+#EXTINF:-1,1AN TV
+http://broadcasttr.com:1935/birantv/bant1/chunklist.m3u8
+#EXTINF:-1,AKILLI TV
+http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+#EXTINF:-1,YAT TV
+http://s03.vidpanel.com/yattv/yattv.m3u8
+#EXTINF:-1,NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,NTV
+http://api.ntv.com.tr/rss/LiveStream
+#EXTINF:-1,BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8
+#EXTINF:-1,Bursaspor TV
+http://mob.dgntek.com/Bursaspor/bursaspor/chunklist.m3u8
+#EXTINF:-1,Fortuna TV
+http://1.rtmp.org/tv117/yayin.stream/playlist.m3u8
+#EXTINF:-1,TAY TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+#EXTINF:-1,24 TV
+http://mn-l.mncdn.com:1935/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1,BLOOMBERG HT
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist.m3u8
+#EXTINF:-1,CNN TURK
+http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TRT TBMM
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1,TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TRT6
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,KRAL
+http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:-1,IMEDI TV
+http://185.36.100.33/imedi/lq/tracks-v1a1/index.m3u8
+#EXTINF:-1,GEM KURDI
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:-1,RUDAW
+http://livestreaming.itworkscdn.net/rudawlive/rudawtv_240p/chunklist.m3u8
+#EXTINF:0,Altin Asir TV
+http://217.174.225.146/legacyhls/ch001_400/index.m3u8
+#EXTINF:0,Yaslik TV
+http://217.174.225.146/legacyhls/ch002_400/index.m3u8
+#EXTINF:0,Miras TV
+http://217.174.225.146/legacyhls/ch003_400/index.m3u8
+#EXTINF:0,Türkmen Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:0,Türkmen Avazi 
+http://217.174.225.146/legacyhls/ch005_400/index.m3u8
+#EXTINF:0,Asgabat TV
+http://217.174.225.146/legacyhls/ch006_400/index.m3u8
+#EXTINF:0,Türkmenistan TV
+http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
 #EXTINF:-1,Arena Sport1 
