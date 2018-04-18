@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
+#EXTINF:-1,Star TV
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/star-tv.m3u8
+#EXTINF:-1,TV 8
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/tv-8.m3u8
 #EXTINF:-1,TRT1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1, TRT HABER HD
@@ -23,8 +27,12 @@ http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
 http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/REMY.m3u8
 #EXTINF:-1,Fortuna TV
 http://1.rtmp.org/tv117/yayin.stream/iptvdelisi.m3u8
-#EXTINF:-1, CNN TURK
+#EXTINF:-1,CNN TURK
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,Haber Turk HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/haber-turk.m3u8
+#EXTINF:-1,NTV HD
+http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv-turk.m3u8
 #EXTINF:-1, BloombergHt
 http://mn-i.mncdn.com:1935/bloomberght_ios/smil:bloomberght.smil/master.m3u8
 #EXTINF:-1, Kanal24
