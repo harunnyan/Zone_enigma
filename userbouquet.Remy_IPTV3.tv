@@ -1,9 +1,9 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:F3:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
+#SERVICE 1:64:F2:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/1181684251?ticket=39E21F3ECBD0598B7E9F6F582B6882E518C97278&amp;profile=pass:Trace Urban HD
 #DESCRIPTION Trace Urban HD
@@ -139,11 +139,11 @@
 #DESCRIPTION DJING UNDERGROUND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/u-27777-04.m3u8:DİJİNG UNDERGROUND HD
 #DESCRIPTION DİJİNG UNDERGROUND HD
-#SERVICE 4097:0:0:2:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1HD
 #DESCRIPTION 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mmsh%3a//mediatv2.topix.it/24RockOne66:24 Rock One
 #DESCRIPTION 24 Rock One
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00g/index.m3u8:4Fun Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00g/index.m3u8:4Fun Dance
 #DESCRIPTION 4Fun Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//156.67.95.21%3a8000/play/a00f/index.m3u8:4Fun Gold Hits
 #DESCRIPTION 4Fun Gold Hits
@@ -389,9 +389,9 @@
 #DESCRIPTION ZMF1 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.goinfo.it/V33Live/v33ros/playlist.m3u8:Video 33 Trentino Alto Adige
 #DESCRIPTION Video 33 Trentino Alto Adige
-#SERVICE 1:64:F4:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
+#SERVICE 1:64:F3:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
-#SERVICE 1:64:F5:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
+#SERVICE 1:64:F4:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
 #DESCRIPTION :::::::::::::::::::::_KING Turkish Radios_::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -441,15 +441,15 @@
 #DESCRIPTION KRAL DIZI & FILM MUZIKLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:F6:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
+#SERVICE 1:64:F5:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
 #DESCRIPTION :::::::::::::::::::::_KING World Radios_::::::::::
-#SERVICE 4097:0:1:64:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akflashback.smil/chunklist_w2033212040_b64000.m3u8:KRAL FLASHBACK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akflashback.smil/chunklist_w2033212040_b64000.m3u8:KRAL FLASHBACK
 #DESCRIPTION KRAL FLASHBACK
-#SERVICE 4097:0:1:66:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akhomemade.smil/chunklist_w688661018_b64000.m3u8:KRAL HOME MADE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akhomemade.smil/chunklist_w688661018_b64000.m3u8:KRAL HOME MADE
 #DESCRIPTION KRAL HOME MADE
-#SERVICE 4097:0:1:68:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akdance.smil/chunklist_w451888202_b64000.m3u8:KRAL DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akdance.smil/chunklist_w451888202_b64000.m3u8:KRAL DANCE
 #DESCRIPTION KRAL DANCE
-#SERVICE 4097:0:1:70:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aklove.smil/chunklist_w2132839945_b64000.m3u8:KRAL LOVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aklove.smil/chunklist_w2132839945_b64000.m3u8:KRAL LOVE
 #DESCRIPTION KRAL LOVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akrock.smil/chunklist_w2046231160_b64000.m3u8:KRAL ROCK
 #DESCRIPTION KRAL ROCK
@@ -457,19 +457,19 @@
 #DESCRIPTION KRAL URBAN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akstar.smil/chunklist_w193197875_b64000.m3u8:KRAL THE BEATLES
 #DESCRIPTION KRAL THE BEATLES
-#SERVICE 4097:0:1:78:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aknostalgie.smil/chunklist_w212757720_b64000.m3u8:KRAL NOSTALGIE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aknostalgie.smil/chunklist_w212757720_b64000.m3u8:KRAL NOSTALGIE
 #DESCRIPTION KRAL NOSTALGIE
-#SERVICE 4097:0:1:80:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akjazz.smil/chunklist_w298454371_b64000.m3u8:KRAL JAZZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akjazz.smil/chunklist_w298454371_b64000.m3u8:KRAL JAZZ
 #DESCRIPTION KRAL JAZZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aklounge.smil/chunklist_w1244896738_b64000.m3u8:KRAL LOUNGE
 #DESCRIPTION KRAL LOUNGE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aksoundtrack.smil/chunklist_w877809271_b64000.m3u8:KRAL SOUNDTRACK
 #DESCRIPTION KRAL SOUNDTRACK
-#SERVICE 4097:0:1:88:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aketnik.smil/chunklist_w198201111_b64000.m3u8:KRAL ETHNIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aketnik.smil/chunklist_w198201111_b64000.m3u8:KRAL ETHNIC
 #DESCRIPTION KRAL ETHNIC
-#SERVICE 4097:0:1:90:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akclassic.smil/chunklist_w1171984143_b64000.m3u8:KRAL CLASSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akclassic.smil/chunklist_w1171984143_b64000.m3u8:KRAL CLASSIC
 #DESCRIPTION KRAL CLASSIC
-#SERVICE 4097:0:1:92:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akgreece.smil/chunklist_w2070827706_b64000.m3u8:KRAL GREECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akgreece.smil/chunklist_w2070827706_b64000.m3u8:KRAL GREECE
 #DESCRIPTION KRAL GREECE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3aklatin.smil/chunklist_w1281482737_b64000.m3u8:KRAL LATIN
 #DESCRIPTION KRAL LATIN
@@ -487,15 +487,15 @@
 #DESCRIPTION KRAL CLUB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akarabic.smil/chunklist_w1843873668_b64000.m3u8:KRAL ARABIC
 #DESCRIPTION KRAL ARABIC
-#SERVICE 4097:0:1:74:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akrapmicbeatz.smil/chunklist_w1419467520_b64000.m3u8:KRAL RAP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akrapmicbeatz.smil/chunklist_w1419467520_b64000.m3u8:KRAL RAP
 #DESCRIPTION KRAL RAP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akhouse.smil/chunklist_w406198735_b64000.m3u8:KRAL HOUSE MUSIC
 #DESCRIPTION KRAL HOUSE MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akfrance.smil/chunklist_w1415938154_b64000.m3u8:KRAL FRANCE
 #DESCRIPTION KRAL FRANCE
-#SERVICE 4097:0:1:76:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akopera.smil/chunklist_w2006434852_b64000.m3u8:KRAL OPERA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akopera.smil/chunklist_w2006434852_b64000.m3u8:KRAL OPERA
 #DESCRIPTION KRAL OPERA
-#SERVICE 1:64:F7:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_:::
+#SERVICE 1:64:F6:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_:::
 #DESCRIPTION :::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17773.live.streamtheworld.com/HOTTICKETS128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a1bc5789-f152-4511-a71b-330c7233db6c:HOT TICKETS !! Biletix Bileti Kazan!!
 #DESCRIPTION HOT TICKETS !! Biletix Bileti Kazan!!
@@ -517,9 +517,7 @@
 #DESCRIPTION Efkar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/SEZEN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=1f044f9e-0c7c-437b-a97e-9e70efc35400:Efsane Sezen
 #DESCRIPTION Efsane Sezen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/SC3_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=55cb3a47-f75b-469f-b4ca-a63833def139:Efuli
-#DESCRIPTION Efuli
-#SERVICE 4097:0:0:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/29/:EGE HAVALARI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/29/:EGE HAVALARI
 #DESCRIPTION EGE HAVALARI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio:Fenomen Akustik
 #DESCRIPTION Fenomen Akustik
@@ -567,11 +565,11 @@
 #DESCRIPTION Radyo Spor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radioturku.com%3a9400/;:Radyo Türkü-izmir
 #DESCRIPTION Radyo Türkü-izmir
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:RADYO VOKAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:RADYO VOKAL
 #DESCRIPTION RADYO VOKAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933:RetroTurk
 #DESCRIPTION RetroTurk
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/31/:RUMELI RADYO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/31/:RUMELI RADYO
 #DESCRIPTION RUMELI RADYO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.183%3a10108/stream:S4 Radio | TR
 #DESCRIPTION S4 Radio | TR
@@ -589,7 +587,7 @@
 #DESCRIPTION URBAN LEGENDS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/EVENT_RADIO_128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=88f283c4-8a77-4b6a-93af-41b4f2d5d45e:İLKBAHAR
 #DESCRIPTION İLKBAHAR
-#SERVICE 1:64:F8:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
+#SERVICE 1:64:F7:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_iTunes Radios_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radio.co/sd1bcd1376/listen:06am Ibiza Underground
 #DESCRIPTION 06am Ibiza Underground
@@ -737,7 +735,7 @@
 #DESCRIPTION Virgin Radio Türkiye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.63.62.145%3a8080/wide01:Wide Radio - wideradio.net
 #DESCRIPTION Wide Radio - wideradio.net
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/34/:WORLD HIT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/34/:WORLD HIT
 #DESCRIPTION WORLD HIT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.59.45%3a8361/stream:WRCF
 #DESCRIPTION WRCF

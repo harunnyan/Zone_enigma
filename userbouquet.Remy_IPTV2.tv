@@ -1,4 +1,4 @@
-#NAME **ReMy_PREMIUM_WORLD**
+#NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:B9:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
@@ -1803,6 +1803,68 @@
 #DESCRIPTION ZEELAND TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8:Zeeland TV
 #DESCRIPTION Zeeland TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/99.m3u8:Extreme Sports
+#DESCRIPTION Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10309.m3u8:Extreme Sports
+#DESCRIPTION Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/99.m3u8:Extreme Sports
+#DESCRIPTION Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10309.m3u8:Extreme Sports
+#DESCRIPTION Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10316.m3u8:Setanta Sport плюс
+#DESCRIPTION Setanta Sport плюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10313.m3u8:Setanta Sports
+#DESCRIPTION Setanta Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10249.m3u8:Viasat Sport
+#DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10249.m3u8:Viasat Sport
+#DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/310.m3u8:Боец
+#DESCRIPTION Боец
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/595.m3u8:Боец
+#DESCRIPTION Боец
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/485.m3u8:КХЛ
+#DESCRIPTION КХЛ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/604.m3u8:КХЛ
+#DESCRIPTION КХЛ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/485.m3u8:КХЛ
+#DESCRIPTION КХЛ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/604.m3u8:КХЛ
+#DESCRIPTION КХЛ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10242.m3u8:КХЛ HD
+#DESCRIPTION КХЛ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10242.m3u8:КХЛ HD
+#DESCRIPTION КХЛ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/276.m3u8:Матч!
+#DESCRIPTION Матч!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/1077.m3u8:Матч!
+#DESCRIPTION Матч!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/276.m3u8:Матч!
+#DESCRIPTION Матч!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/1077.m3u8:Матч!
+#DESCRIPTION Матч!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10315.m3u8:Сетанта Спорт
+#DESCRIPTION Сетанта Спорт
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10314.m3u8:Сетанта Спорт HD
+#DESCRIPTION Сетанта Спорт HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/270.m3u8:Спорт 1 (Украина)
+#DESCRIPTION Спорт 1 (Украина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/91.m3u8:Спорт 2 (Украина)
+#DESCRIPTION Спорт 2 (Украина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/144.m3u8:Спорт 2 (Украина)
+#DESCRIPTION Спорт 2 (Украина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/309.m3u8:Спорт 2 (Украина)
+#DESCRIPTION Спорт 2 (Украина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/440.m3u8:Футбол
+#DESCRIPTION Футбол
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10254.m3u8:Беларусь 5
+#DESCRIPTION Беларусь 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10300.m3u8:Беларусь 5
+#DESCRIPTION Беларусь 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2887/57172/10300.m3u8:Беларусь 5
+#DESCRIPTION Беларусь 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/932.m3u8:Беларусь 5
+#DESCRIPTION Беларусь 5
 #SERVICE 1:64:BD:0:0:0:0:0:0:0::=== ★★N1 | PAKETI★★ ====
 #DESCRIPTION === ★★N1 | PAKETI★★ ====
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1srb?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 SRB
