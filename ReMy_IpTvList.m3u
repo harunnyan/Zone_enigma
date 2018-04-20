@@ -2128,7 +2128,9 @@ https://www.djing.com/tv/k-27777-04.m3u8
 #EXTINF:-1,****((ReMy-Clubbin/iTunes_Radio_Stations))****
 ****((ReMy-Clubbin/iTunes_Radio_Stations))****
 #EXTINF:-1,Baba Radyo
-rtmp://37.247.100.100/best//babaradyo.stream
+http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
+#EXTINF:-1,Baba Radyo AAC
+http://37.247.100.100/best/babaradyo.stream/media_w1575182589_3361.aac
 #EXTINF:-1,Radyo Spor
 http://37.247.100.118/stream/70/
 #EXTINF:-1,181.FM UK Top 40
@@ -2173,6 +2175,8 @@ http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
 http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
 #EXTINF:-1,Virgin Radio Türkiye
 http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
+#EXTINF:-1,Radyo Voyage AAC
+http://46.20.4.42/pozitif/smil:voyage.smil/media_w1726134719_b128000_14039.aac
 #EXTINF:-1,ANKARA HAVALARI
 http://37.247.98.8/stream/30/
 #EXTINF:-1,EGE HAVALARI
@@ -2199,6 +2203,8 @@ https://19993.live.streamtheworld.com/SC3_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk
 https://17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933
 #EXTINF:-1,Radyo Arabesk
 http://37.247.101.101:5934
+#EXTINF:-1,Radyo Derman
+http://sunucu2.radyolarburada.com:3636/;stream.mp3
 #EXTINF:-1,Ankaralı
 https://19643.live.streamtheworld.com/SC6_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=ccf11eb9-8c91-4773-cab9-ff9a255e22d8
 #EXTINF:-1,Pop90
