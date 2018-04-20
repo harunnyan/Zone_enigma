@@ -7,14 +7,10 @@
 #DESCRIPTION TRT1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD
 #DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.canlitvlive.io/atv/live.m3u8?tkn=9npmbSq61OPqnLQ0SdFpzw&tms=1524225229:ATV HD
-#DESCRIPTION ATV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8:KANAL D HD
 #DESCRIPTION KANAL D HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.86.107.169/iphone/live.m3u8:EURO D
 #DESCRIPTION EURO D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.canlitvlive.io/showtv/live.m3u8?tkn=8dFjclR_dN7hyGedNbmqSQ&tms=1524225345:Show TV
-#DESCRIPTION Show TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8:STAR HD
 #DESCRIPTION STAR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.canlitvlive.io/foxtv/live.m3u8?tkn=a6X4X4D82-pFIYDQ2aVf2Q&tms=1524225427:FOX TV
@@ -23,16 +19,10 @@
 #DESCRIPTION Beyaz TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3afiltv.smil/playlist.m3u8:FIL TV
 #DESCRIPTION FIL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.canlitvlive.io/planetpembe/live.m3u8?tkn=VdPrzoCcUXX9NOqR4K7aXQ&tms=1524226625:Sony Channel
-#DESCRIPTION Sony Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.canlitvlive.io/planetturk/live.m3u8?tkn=lhlBaARdpMNyBaBFok0pxw&tms=1524226733:Planet Türk
-#DESCRIPTION Planet Türk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/360tv_live/smil%3a360tv.smil/REMY.m3u8:360 TV
 #DESCRIPTION 360 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/denizhaber/denizhaber.m3u8:NAT GEO
 #DESCRIPTION NAT GEO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:DMAX
-#DESCRIPTION DMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live3.canlitv.info%3a1935/live1/yabantv/chunklist_w601872677.m3u8:YABAN TV
 #DESCRIPTION YABAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.142%3a1234:YABAN TV
@@ -47,8 +37,6 @@
 #DESCRIPTION Bengu Turk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8:Mekkah HD
 #DESCRIPTION Mekkah HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.canlitvlive.io/otomotiv-dunyasi-tv/live.m3u8?tkn=Kt7_G6jug23YoThrEo3Exg&tms=1524226950:Otomotiv Dünyası TV
-#DESCRIPTION Otomotiv Dünyası TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.77.2.236%3a1935/ucak/ucak.stream/playlist.m3u8:UCAN KUS
 #DESCRIPTION UCAN KUS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.imajnetwork.com%3a80/makinetv/makinetv:MAKINE TV
