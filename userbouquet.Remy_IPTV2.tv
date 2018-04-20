@@ -1,6 +1,10 @@
 #NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:B9:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin.canlitvlive.io/bein-sports-haber/live.m3u8?tkn=kLqPl8uIkTlYP6iAzKZEKw&tms=1524225857:Bein Sports Haber
+#DESCRIPTION Bein Sports Haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kanal.canlitvlive.io/fbtv/live.m3u8?tkn=0kVPPKya9d-zLPjrZMlcdA&tms=1524226513:FB TV
+#DESCRIPTION FB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8:Bursaspor TV
@@ -2101,6 +2105,690 @@
 #DESCRIPTION TV 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.137.248.21%3a1935/Ugarit/UgaritLive/playlist.m3u8:UGARIT
 #DESCRIPTION UGARIT
+#SERVICE 1:64:BF:0:0:0:0:0:0:0::=== ★★LATINO | PAKETI★★ ====
+#DESCRIPTION === ★★LATINO | PAKETI★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net%3a80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8:34 Antena ESPAÑA
+#DESCRIPTION 34 Antena ESPAÑA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8:8 TV ESP
+#DESCRIPTION 8 TV ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8:A+
+#DESCRIPTION A+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/ACS-NETWORK/acs.myStream/chunks.m3u8:ACS Network
+#DESCRIPTION ACS Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8:ADN 40
+#DESCRIPTION ADN 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8:ADN 40
+#DESCRIPTION ADN 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_1_av-p.m3u8?sd=10&amp;rebase=on:ADN 40
+#DESCRIPTION ADN 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&amp;rebase=on:ADN 40
+#DESCRIPTION ADN 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//domiradio.srfms.com%3a1935/domiradio/livestream/playlist.m3u8:AME 47
+#DESCRIPTION AME 47
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8:ANTENA 3 ESP
+#DESCRIPTION ANTENA 3 ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8:ANTENA3 ESPAÑA
+#DESCRIPTION ANTENA3 ESPAÑA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//coninfo.net%3a1935/13max/live/chunklist.m3u8:ARGENTINA:13 Max Digital
+#DESCRIPTION ARGENTINA:13 Max Digital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.telpin.com.ar%3a1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8:ARGENTINA:Canal 2 Telpin Tv
+#DESCRIPTION ARGENTINA:Canal 2 Telpin Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8:ARGENTINA:Canal 26 1
+#DESCRIPTION ARGENTINA:Canal 26 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/smil%3ac26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8:ARGENTINA:Canal 26 2
+#DESCRIPTION ARGENTINA:Canal 26 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/smil%3ac26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8:ARGENTINA:Canal 26 3
+#DESCRIPTION ARGENTINA:Canal 26 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.wirenetserver.com.ar%3a1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8:ARGENTINA:Canal 4 Jujuy
+#DESCRIPTION ARGENTINA:Canal 4 Jujuy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//panel.dattalive.com%3a1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8:ARGENTINA:Canal 9 Salta
+#DESCRIPTION ARGENTINA:Canal 9 Salta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.trimi.com.ar/provincial/streaming/mystream.m3u8:ARGENTINA:Canal Provincial
+#DESCRIPTION ARGENTINA:Canal Provincial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//192.99.38.174%3a1935/litustv/ngrp%3alitustv_all/playlist.m3u8:ARGENTINA:Litus Tv
+#DESCRIPTION ARGENTINA:Litus Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/smil%3atlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8:ARGENTINA:TLX
+#DESCRIPTION ARGENTINA:TLX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8:Atreseries ESPAÑA
+#DESCRIPTION Atreseries ESPAÑA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&amp;rebase=on:ATRESERIES HD ESP
+#DESCRIPTION ATRESERIES HD ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&amp;rebase=on:Azteca+ Plus
+#DESCRIPTION Azteca+ Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8:CableOnda Sports FC
+#DESCRIPTION CableOnda Sports FC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8:CANA U
+#DESCRIPTION CANA U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.dynalias.com%3a1935/live/tvlive1/playlist.m3u8:CANAL 10 CHETUMAL
+#DESCRIPTION CANAL 10 CHETUMAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8:CANAL 10 CHIAPAS
+#DESCRIPTION CANAL 10 CHIAPAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.canaloncelive.tv%3a1935/livepkgr2/smil%3ainternacional.smil/master.m3u8:CANAL 11
+#DESCRIPTION CANAL 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.canaloncelive.tv%3a1935/livepkgr2/smil%3ainternacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8:CANAL 11
+#DESCRIPTION CANAL 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.canaloncelive.tv%3a1935/livepkgr2/smil%3ainternacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8:CANAL 11 MEXICO
+#DESCRIPTION CANAL 11 MEXICO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil%3av2.smil/chunklist_b1098304_sles.m3u8:Canal 11 Repretel
+#DESCRIPTION Canal 11 Repretel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//181.143.238.252/live/livestream/index.m3u8:CANAL 14 CALI
+#DESCRIPTION CANAL 14 CALI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2f1bbn9v49he.cloudfront.net/cr/canal2/smil%3av2.smil/chunklist_b1098304_sles.m3u8:Canal 2 Repretel
+#DESCRIPTION Canal 2 Repretel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8:Canal 5
+#DESCRIPTION Canal 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3ha0sloduwpku.cloudfront.net/cr/canal6/smil%3av2.smil/chunklist_b1098304_sles.m3u8:Canal 6 Repretel
+#DESCRIPTION Canal 6 Repretel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.canaloncelive.tv%3a1935/livepkgr2/smil%3ainternacional.smil/chunklist_w88942915_b1300000_slesp.m3u8:CANAL ONCE
+#DESCRIPTION CANAL ONCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.canaloncelive.tv%3a1935/livepkgr2/smil%3ainternacional.smil/playlist.m3u8:Canal ONCE
+#DESCRIPTION Canal ONCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8:CANAL RPP
+#DESCRIPTION CANAL RPP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8:CANAL VASCO ESP
+#DESCRIPTION CANAL VASCO ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.elsalvadordigital.com%3a1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8:CANAL WOW
+#DESCRIPTION CANAL WOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.140.99.41/hls/1080.m3u8:CANCIONERO TV
+#DESCRIPTION CANCIONERO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8:CDO DEPORTES
+#DESCRIPTION CDO DEPORTES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3no10dikm8m8e.cloudfront.net/gt/smil%3acanal_3.smil/playlist.m3u8:ChapinTv 3
+#DESCRIPTION ChapinTv 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//3.sendvid.com/y00xutjl.mp4/:CHAVO ANIMADO 24/7
+#DESCRIPTION CHAVO ANIMADO 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8:CHELSEA TV
+#DESCRIPTION CHELSEA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8:CHELSEA TV
+#DESCRIPTION CHELSEA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss6.domint.net%3a2078/ctv_str/cibervision/chunklist_w1913971982.m3u8:CIBER VISION 3 NAGUA
+#DESCRIPTION CIBER VISION 3 NAGUA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swow1.blogtimedia.com%3a1935/cielotv/myStream.sdp/chunklist_w146683974.m3u8:CIELO TV
+#DESCRIPTION CIELO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.236.85.100%3a8081/sipTV/live/playlist.m3u8?www.tecnotv.info:CILENCE TV
+#DESCRIPTION CILENCE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8:CINE + FILMS
+#DESCRIPTION CINE + FILMS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8:CNC COLOMBIA QINDO
+#DESCRIPTION CNC COLOMBIA QINDO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cnmedia.eastus2.cloudapp.azure.com%3a1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Cable Noticias
+#DESCRIPTION COLOMBIA:Cable Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.cehis.net/live-calitv/calitv1/playlist.m3u8:COLOMBIA:Cali Tv
+#DESCRIPTION COLOMBIA:Cali Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Canal Antiestres
+#DESCRIPTION COLOMBIA:Canal Antiestres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8:COLOMBIA:Canal Capital HD
+#DESCRIPTION COLOMBIA:Canal Capital HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?dl=1:COLOMBIA:Caracol
+#DESCRIPTION COLOMBIA:Caracol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Cosmovision
+#DESCRIPTION COLOMBIA:Cosmovision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?iptvgratis?chile.m3u8:COLOMBIA:El Tiempo
+#DESCRIPTION COLOMBIA:El Tiempo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Lifedesing
+#DESCRIPTION COLOMBIA:Lifedesing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8:COLOMBIA:RCN
+#DESCRIPTION COLOMBIA:RCN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Teleantioquia HD
+#DESCRIPTION COLOMBIA:Teleantioquia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Telecafe
+#DESCRIPTION COLOMBIA:Telecafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Telemedellin
+#DESCRIPTION COLOMBIA:Telemedellin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8:COLOMBIA:Yes
+#DESCRIPTION COLOMBIA:Yes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/colosaltv1/colosaltv1/live.m3u8:COLOSAL TV
+#DESCRIPTION COLOSAL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/colosaltv1/colosaltv1/playlist.m3u8:COLOSAL TV Ciudad Neily
+#DESCRIPTION COLOSAL TV Ciudad Neily
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ar.solumedia.com.ar%3a1935/cool/hd/playlist.m3u8:Cool 103.7
+#DESCRIPTION Cool 103.7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8:COS CABLEONDA SPORT
+#DESCRIPTION COS CABLEONDA SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8:CULTURA:NASA Space Station 1
+#DESCRIPTION CULTURA:NASA Space Station 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8:CULTURA:NASA Space Station 2
+#DESCRIPTION CULTURA:NASA Space Station 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.236.85.100%3a8081/sipTV/live/playlist.m3u8:CULTURA:Silence TV
+#DESCRIPTION CULTURA:Silence TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:DEPORTES:AD Sports 1 HD
+#DESCRIPTION DEPORTES:AD Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1:DEPORTES:AD Sports 1 HD
+#DESCRIPTION DEPORTES:AD Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:DEPORTES:AD Sports 2 HD
+#DESCRIPTION DEPORTES:AD Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:DEPORTES:AD Sports 2 HD
+#DESCRIPTION DEPORTES:AD Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8:DEPORTES:BFM Sport
+#DESCRIPTION DEPORTES:BFM Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//564e2be0304b6.streamlock.net/DXTV/smil%3aDXTV/chunklist_w579935025_b542000_slesp.m3u8:DEPORTES:Deport Tv
+#DESCRIPTION DEPORTES:Deport Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmi.mangomolo.com%3a1935/dubaisports/smil%3adubaisports.smil/master.m3u8:DEPORTES:Dubai Sports
+#DESCRIPTION DEPORTES:Dubai Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8:DEPORTES:MLB Network
+#DESCRIPTION DEPORTES:MLB Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8:DEPORTES:Pac 12 Arizona
+#DESCRIPTION DEPORTES:Pac 12 Arizona
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8:DEPORTES:Pac 12 Bay Area
+#DESCRIPTION DEPORTES:Pac 12 Bay Area
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8:DEPORTES:Pac 12 Los Angeles
+#DESCRIPTION DEPORTES:Pac 12 Los Angeles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8:DEPORTES:Pac 12 Moutain
+#DESCRIPTION DEPORTES:Pac 12 Moutain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8:DEPORTES:Pac 12 Oregon
+#DESCRIPTION DEPORTES:Pac 12 Oregon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8:DEPORTES:Pac 12 Washington
+#DESCRIPTION DEPORTES:Pac 12 Washington
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8:DEPORTES:Sevilla FC
+#DESCRIPTION DEPORTES:Sevilla FC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8:DEPORTES:SKY News
+#DESCRIPTION DEPORTES:SKY News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8:DEPORTES:Sporting Tv HD
+#DESCRIPTION DEPORTES:Sporting Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8:DEPORTES:Sporting Tv SD
+#DESCRIPTION DEPORTES:Sporting Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8:DEPORTES:Sporting Tv SD
+#DESCRIPTION DEPORTES:Sporting Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sportstv.com.tr%3a1935/sportstv/SportsTV3/playlist.m3u8:DEPORTES:Sports Tv
+#DESCRIPTION DEPORTES:Sports Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-usa1-streaming.ani-box.com%3a1935/live/cs08.stream/playlist.m3u8:DEPORTES:UFC Japones
+#DESCRIPTION DEPORTES:UFC Japones
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.djing.com/tv/ibiza.m3u8:DJING
+#DESCRIPTION DJING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4:DJPanduroThe80sVideomixVolume1
+#DESCRIPTION DJPanduroThe80sVideomixVolume1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream3-lh.akamaihd.net%3a80/i/dwstream3_live@124409/index_5_av-p.m3u8:DW ESP
+#DESCRIPTION DW ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8:DW LATINOAMERICA
+#DESCRIPTION DW LATINOAMERICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.33.227.198/DXTV/smil%3aDXTV.smil/playlist.m3u8:DXTV DEPORTES
+#DESCRIPTION DXTV DEPORTES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.33.227.198/DXTV/smil%3aDXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8:DXTV DEPORTES
+#DESCRIPTION DXTV DEPORTES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8:ECUADOR:Television Nacional
+#DESCRIPTION ECUADOR:Television Nacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//181.198.10.23%3a1935/live2/smil%3ateradek.smil/chunklist_w151492058_b1024000_sleng.m3u8:ECUADOR:TVS
+#DESCRIPTION ECUADOR:TVS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ecuastream.net%3a1935/UCSGHQ/UCSGHQ/playlist.m3u8:ECUADOR:UCSG
+#DESCRIPTION ECUADOR:UCSG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8:EFEKTO TV
+#DESCRIPTION EFEKTO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:EL GARAGE TV AUTOS
+#DESCRIPTION EL GARAGE TV AUTOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bajolamascara.universomarvel.com/images/2013/07/Spiderman%20TAS%20R.jpg":EL HOMBRE ARAÑA
+#DESCRIPTION EL HOMBRE ARAÑA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.56.17.92%3a1935/8404/8404/master.m3u8:ENTRETENIMIENTO:Arab Tv
+#DESCRIPTION ENTRETENIMIENTO:Arab Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?iptvgratis?chile.m3u8:ENTRETENIMIENTO:Atreseries
+#DESCRIPTION ENTRETENIMIENTO:Atreseries
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cast.streamingconnect.com%3a1935/cscocina/cscocina/playlist.m3u8:ENTRETENIMIENTO:Canal Sur Cocina
+#DESCRIPTION ENTRETENIMIENTO:Canal Sur Cocina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.107.176.55%3a1935/live/maxima-fm/playlist.m3u8:ENTRETENIMIENTO:Maxima Tv HD
+#DESCRIPTION ENTRETENIMIENTO:Maxima Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8:ENTRETENIMIENTO:MEGA
+#DESCRIPTION ENTRETENIMIENTO:MEGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8:ENTRETENIMIENTO:NEOX
+#DESCRIPTION ENTRETENIMIENTO:NEOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8:ENTRETENIMIENTO:NOVA
+#DESCRIPTION ENTRETENIMIENTO:NOVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evo.eltelon.com%3a1935/trailertv/smil%3atrailertv.smil/playlist.m3u8:ENTRETENIMIENTO:Trailer Tv
+#DESCRIPTION ENTRETENIMIENTO:Trailer Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.tustreaming.cl%3a80/tvpop/live1/index.m3u8:ENTRETENIMIENTO:Tv Pop
+#DESCRIPTION ENTRETENIMIENTO:Tv Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&amp;rebase=on:ESPAÑA
+#DESCRIPTION ESPAÑA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/ESTV/estv.myStream/playlist.m3u8:ESTETV
+#DESCRIPTION ESTETV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:EXTREMA TV
+#DESCRIPTION EXTREMA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8:FORO TV
+#DESCRIPTION FORO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8:FORO TV
+#DESCRIPTION FORO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?tecnotv.info?iptv.m3u8:FORO TV
+#DESCRIPTION FORO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8:FORO TV2 720
+#DESCRIPTION FORO TV2 720
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/smil%3agarage.smil/playlist.m3u8:GARAGE TV AUTOS
+#DESCRIPTION GARAGE TV AUTOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8:GOLDEN PLUS
+#DESCRIPTION GOLDEN PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.imagenesmedicas.cr/web/wp-content/uploads/2015/05/Teletica-1.jpg":group-title="Canales COSTA RICA"
+#DESCRIPTION group-title="Canales COSTA RICA"
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8:HEARTY TV MUSIC
+#DESCRIPTION HEARTY TV MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//locomotiontv.com/envivo/test/animextv_alpha_131017.m3u8:INFANTILES:AnimeXtv
+#DESCRIPTION INFANTILES:AnimeXtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8:INFANTILES:Tacho Pistacho
+#DESCRIPTION INFANTILES:Tacho Pistacho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evo.eltelon.com%3a1935/trailertvkids/smil%3atrailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8:INFANTILES:Trailer Tv Kids
+#DESCRIPTION INFANTILES:Trailer Tv Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4:Kurt Cobain: Montage of Heck
+#DESCRIPTION Kurt Cobain: Montage of Heck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8:LA SEXTA
+#DESCRIPTION LA SEXTA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?JoCaRoIPTV.m3u8:Las Estrellas -2hrs
+#DESCRIPTION Las Estrellas -2hrs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cialivetec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8&amp;ip=190.237.110.62&amp;hash=0d04fddca63552542d7ce&amp;width=700&amp;height=395&amp;hide=0&amp;credentials=1&amp;timestamp=1522721627&amp;ttl=172800&amp;cache=55773.054290047825:LATINA
+#DESCRIPTION LATINA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss8.domint.net%3a2106/nct_str/latinos/playlist.m3u8:Latinos NC TV | HD
+#DESCRIPTION Latinos NC TV | HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&amp;rebase=on:LATINOS:Azteca Honduras
+#DESCRIPTION LATINOS:Azteca Honduras
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live247tv.com%3a1935/worodtcanal13/worodtcanal13/playlist.m3u8:LATINOS:Canal Trece
+#DESCRIPTION LATINOS:Canal Trece
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8:LATINOS:Oye Tv HD
+#DESCRIPTION LATINOS:Oye Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.213.123.181%3a1935/sertv/live/playlist.m3u8:LATINOS:Ser Tv
+#DESCRIPTION LATINOS:Ser Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?chile.m3u8?:LATINOS:Sun Channel
+#DESCRIPTION LATINOS:Sun Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8:LATINOS:Super 5
+#DESCRIPTION LATINOS:Super 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8:LATINOS:Telemundo 51
+#DESCRIPTION LATINOS:Telemundo 51
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8:LATINOS:Telemundo 62
+#DESCRIPTION LATINOS:Telemundo 62
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.grupoabchn.com%3a1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8:LATINOS:Ten HD
+#DESCRIPTION LATINOS:Ten HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.grupoabchn.com%3a1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8:LATINOS:Ten SD
+#DESCRIPTION LATINOS:Ten SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&amp;rebase=on:LATINOS:Tv Marti
+#DESCRIPTION LATINOS:Tv Marti
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.elsalvadordigital.com%3a1935/wowtv/wowtv/playlist.m3u8:LATINOS:WoW Tv
+#DESCRIPTION LATINOS:WoW Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//locomotiontv.com/envivo/loco_channel/stream.m3u8:LOCOMOTION
+#DESCRIPTION LOCOMOTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer1.streamhost.org%3a1935/salive/GMIalfah/livestream.m3u8:LOGOS TV
+#DESCRIPTION LOGOS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on:M2OTV
+#DESCRIPTION M2OTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8:MEGA HD ESP
+#DESCRIPTION MEGA HD ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8:MEGA HD ESP
+#DESCRIPTION MEGA HD ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8:MEJOR LIGE BASSE BALL
+#DESCRIPTION MEJOR LIGE BASSE BALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net%3a80/i/004rss0k8_1@301782/index_1_av-p.m3u8?iptvgratis?chile.m3u8:MEXICO:Efekto Tv HD
+#DESCRIPTION MEXICO:Efekto Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net%3a80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8:MEXICO:Efekto Tv SD
+#DESCRIPTION MEXICO:Efekto Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8:MEXICO:Multimedios
+#DESCRIPTION MEXICO:Multimedios
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?chile.m3u8:MEXICO:Multimedios
+#DESCRIPTION MEXICO:Multimedios
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8:MEXICO:Multimedios Monterrey
+#DESCRIPTION MEXICO:Multimedios Monterrey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//coracyt.mega00.com%3a1935/live/coracyt/coracyt/playlist.m3u8:MEXICO:Tlaxcala Television
+#DESCRIPTION MEXICO:Tlaxcala Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8:MEXICO:TV Mas
+#DESCRIPTION MEXICO:TV Mas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8:MI MUSICA
+#DESCRIPTION MI MUSICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/chunklist_w324994460_b1896000.m3u8?CeceGeek.m3u8:MIAMI TV
+#DESCRIPTION MIAMI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8:MILENIO TV
+#DESCRIPTION MILENIO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8:MLB TV
+#DESCRIPTION MLB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:MODA:HD Fashion
+#DESCRIPTION MODA:HD Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.8.22/hls/idfashion/index.m3u8:MODA:ID Fashion
+#DESCRIPTION MODA:ID Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8:MODA:Public Tv Fashion
+#DESCRIPTION MODA:Public Tv Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8:MTV LIVE
+#DESCRIPTION MTV LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8:MULTIMEDIOS
+#DESCRIPTION MULTIMEDIOS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8:Multimedios Monterrey
+#DESCRIPTION Multimedios Monterrey
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?:MULTIMEDIOS MONTERREY
+#DESCRIPTION MULTIMEDIOS MONTERREY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:MUNDO +
+#DESCRIPTION MUNDO +
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:MUSICA:California Music Channel
+#DESCRIPTION MUSICA:California Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?iptvgratis?chile.m3u8:MUSICA:Capital Tv
+#DESCRIPTION MUSICA:Capital Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:MUSICA:CHAU Tv
+#DESCRIPTION MUSICA:CHAU Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8:MUSICA:Dream Tv
+#DESCRIPTION MUSICA:Dream Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.fs1.tv%3a8080/hls/webstream.m3u8:MUSICA:FS1
+#DESCRIPTION MUSICA:FS1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?iptvgratis?chile.m3u8:MUSICA:Heart TV
+#DESCRIPTION MUSICA:Heart TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-usa1-streaming.ani-box.com%3a1935/live/cs17.stream/playlist.m3u8:MUSICA:K-Pop
+#DESCRIPTION MUSICA:K-Pop
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8:MUSICA:M2o Tv
+#DESCRIPTION MUSICA:M2o Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8:MUSICA:MC Music Choice
+#DESCRIPTION MUSICA:MC Music Choice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8:MUSICA:Mi Musica
+#DESCRIPTION MUSICA:Mi Musica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b36642.cdn.telefonica.com/36642/ch08/3.m3u8:MUSICA:Movistar Musica
+#DESCRIPTION MUSICA:Movistar Musica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/smil%3amusictop.smil/playlist.m3u8?iptvgratis?chile.m3u8:MUSICA:Music Top Argentina
+#DESCRIPTION MUSICA:Music Top Argentina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.smcdn.pl/vox-t/vox_720p/chunklist.m3u8:MUSICA:Music Vox TV Old School
+#DESCRIPTION MUSICA:Music Vox TV Old School
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evo.eltelon.com%3a1935/panderotop/smil%3apanderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8:MUSICA:Pandero Music
+#DESCRIPTION MUSICA:Pandero Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evo.eltelon.com%3a1935/panderocl/smil%3apanderocl.smil/chunklist_w229718808_b1936705.m3u8:MUSICA:Pandero Music Chile
+#DESCRIPTION MUSICA:Pandero Music Chile
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.56.17.92%3a1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8:MUSICA:PortalFoxMix Tv
+#DESCRIPTION MUSICA:PortalFoxMix Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/105Test1/playlist.m3u8:MUSICA:Radio 105 Tv
+#DESCRIPTION MUSICA:Radio 105 Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/lifestyle/live/playlist.m3u8:MUSICA:Radio Italia Vision
+#DESCRIPTION MUSICA:Radio Italia Vision
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8:MUSICA:Retro Tv
+#DESCRIPTION MUSICA:Retro Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8?iptvgratis?chile.m3u8:MUSICA:Slam! TV Live
+#DESCRIPTION MUSICA:Slam! TV Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.155.200.118%3a1935/live/telemusica/chunklist_w1713664263.m3u8?iptvgratis?chile.m3u8:MUSICA:Telemusica HD
+#DESCRIPTION MUSICA:Telemusica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8:MUSICA:Teleritmo
+#DESCRIPTION MUSICA:Teleritmo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?iptvgratis?chile.m3u8:MUSICA:Tigo Music
+#DESCRIPTION MUSICA:Tigo Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8:MUSICA:Top Latino
+#DESCRIPTION MUSICA:Top Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8?iptvgratis?chile.m3u8:MUSICA:TV 538 Live
+#DESCRIPTION MUSICA:TV 538 Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.101.21.42%3a8081/live/live2/playlist.m3u8:MUSICA:Vibee TV
+#DESCRIPTION MUSICA:Vibee TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8:MUSICA:Virgin Radio
+#DESCRIPTION MUSICA:Virgin Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.105.net%3a1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8:MUSICA:Virgin TV Live
+#DESCRIPTION MUSICA:Virgin TV Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.streamingmedia.cl%3a1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8:MUSICA:VTV HD
+#DESCRIPTION MUSICA:VTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8:MUSICA:Xite
+#DESCRIPTION MUSICA:Xite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wos1.smartcast.com.mx%3a1935/mvs/mvs_radio/mvs_radio.m3u8:MVS Noticias
+#DESCRIPTION MVS Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123.30.134.108%3a1935/live/nctlive/playlist.m3u8:NC+ MUSICA
+#DESCRIPTION NC+ MUSICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?sd=10&amp;:NEOX HD ESP
+#DESCRIPTION NEOX HD ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.1.117.5%3a1935/live/livestream/chunklist_w1290911642.m3u8:NEX TV
+#DESCRIPTION NEX TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//198.1.117.5%3a1935/live/livestream/master.m3u8:Nextv | SD
+#DESCRIPTION Nextv | SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8:NFL
+#DESCRIPTION NFL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8:NFL NOW
+#DESCRIPTION NFL NOW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8:NOTICIAS:Cable NOTICIAS
+#DESCRIPTION NOTICIAS:Cable NOTICIAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.ztreaming.com/t13vivo3/mobile.m3u8?iptvgratis?chile.m3u8:NOTICIAS:Canal 13 Movil
+#DESCRIPTION NOTICIAS:Canal 13 Movil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livees.cgtn.com/1000e/prog_index.m3u8:NOTICIAS:CGTN 1
+#DESCRIPTION NOTICIAS:CGTN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cgtn.com/cctv-e.m3u8:NOTICIAS:CGTN 2
+#DESCRIPTION NOTICIAS:CGTN 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8:NOTICIAS:CNN Chile
+#DESCRIPTION NOTICIAS:CNN Chile
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:NOTICIAS:CNN Turkia
+#DESCRIPTION NOTICIAS:CNN Turkia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&amp;rebase=on:NOTICIAS:DW Latino
+#DESCRIPTION NOTICIAS:DW Latino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net%3a80/i/004rss0k8_1@301782/index_3_av-p.m3u8:NOTICIAS:Efekto TV
+#DESCRIPTION NOTICIAS:Efekto TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8:NOTICIAS:Milenio TV
+#DESCRIPTION NOTICIAS:Milenio TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3no10dikm8m8e.cloudfront.net/gt/smil%3acanal_23.smil/playlist.m3u8:NOTICIAS:TN23
+#DESCRIPTION NOTICIAS:TN23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8:NOVA
+#DESCRIPTION NOVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&amp;rebase=on:NOVA TV ESP
+#DESCRIPTION NOVA TV ESP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8:Olimpic Channel SD
+#DESCRIPTION Olimpic Channel SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8:OLYMPIC CHANNEL
+#DESCRIPTION OLYMPIC CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss6.domint.net%3a2082/202_str/orbittv/chunklist_w29206476.m3u8:ORBIT TV
+#DESCRIPTION ORBIT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8:OROMAR TV
+#DESCRIPTION OROMAR TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-360p/chunks.m3u8:OYE TV
+#DESCRIPTION OYE TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8:PARAGUAY:Telefuturo
+#DESCRIPTION PARAGUAY:Telefuturo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.192.105.252%3a1935/iptvantares/liveantarestv/playlist.m3u8:PERU:Antares TV
+#DESCRIPTION PERU:Antares TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dqsz3cincv704.cloudfront.net/pe/smil%3acanal_atv.smil/chunklist_b1155072.m3u8:PERU:ATV
+#DESCRIPTION PERU:ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8:PERU:Canal Capital
+#DESCRIPTION PERU:Canal Capital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8:PERU:Canal RPP
+#DESCRIPTION PERU:Canal RPP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn2.ujjina.com%3a1935/iptvcentraltv/livecentraltvtv/playlist.m3u8:PERU:Central TV Perú
+#DESCRIPTION PERU:Central TV Perú
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&amp;rebase=on:PERU:Digital Peru
+#DESCRIPTION PERU:Digital Peru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8:PERU:Monterrico TV
+#DESCRIPTION PERU:Monterrico TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn2.ujjina.com%3a1935/iptvovacion1/liveovacion1tv/playlist.m3u8:PERU:Ovacion
+#DESCRIPTION PERU:Ovacion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tmcreativos.com%3a1935/visiontv/visiontv.smil/master.m3u8:PERU:Vision Tv
+#DESCRIPTION PERU:Vision Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?iptvgratis?chile.m3u8:PERU:Willax
+#DESCRIPTION PERU:Willax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.elpinguino.com%3a1935/live/pinguinotv_720p/playlist.m3u8:PIGUINO TV HD
+#DESCRIPTION PIGUINO TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.usatelk.com%3a1935/canal15/canal15/playlist.m3u8:PYC TELEVISIÓN
+#DESCRIPTION PYC TELEVISIÓN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza.telpin.com.ar%3a1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8:RADIOTV:Power HD Argentina
+#DESCRIPTION RADIOTV:Power HD Argentina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/colosaltv1/colosaltv1/live.m3u8?iptvgratis?chile.m3u8:RADIOTV:Radio Colosal Tv
+#DESCRIPTION RADIOTV:Radio Colosal Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.107.176.55%3a1935/live/archi-congreso/chunklist_w810766943.m3u8:RADIOTV:Radio Congreso Tv
+#DESCRIPTION RADIOTV:Radio Congreso Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8:RADIOTV:Radio Futuro Tv
+#DESCRIPTION RADIOTV:Radio Futuro Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evo.eltelon.com%3a1935/live/archi-polar/playlist.m3u8?iptvgratis?chile.m3u8:RADIOTV:Radio Polar Tv
+#DESCRIPTION RADIOTV:Radio Polar Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8:RADIOTV:Radio Zero Tv
+#DESCRIPTION RADIOTV:Radio Zero Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.ztreaming.com/t13radio/mobile.m3u8?iptvgratis?chile.m3u8:RADIOTV:Tele13 Radio Tv
+#DESCRIPTION RADIOTV:Tele13 Radio Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8:RAI News 24 | SD
+#DESCRIPTION RAI News 24 | SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1200_av-p.m3u8?sd=10&amp;rebase=on:RAITALIA
+#DESCRIPTION RAITALIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?www.tecnotv.info:RCN HD
+#DESCRIPTION RCN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&amp;rebase=on:REAL MADRID TV
+#DESCRIPTION REAL MADRID TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8:REAL MADRID TV HD
+#DESCRIPTION REAL MADRID TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_camila_031215_1000k.m3u8:Recitales:Camila
+#DESCRIPTION Recitales:Camila
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_bunkers_031215_2200k.m3u8:Recitales:Los Bunkers
+#DESCRIPTION Recitales:Los Bunkers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_jaivas_031215_2200k.m3u8:Recitales:Los Jaivas
+#DESCRIPTION Recitales:Los Jaivas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_manuel_garcia_031215_2200k.m3u8:Recitales:Manuel Garcia
+#DESCRIPTION Recitales:Manuel Garcia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_nano_stern_120215_2200k.m3u8:Recitales:Nano Stern
+#DESCRIPTION Recitales:Nano Stern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_noche_de_brujas_120215_2200k.m3u8:Recitales:Noche de Brujas
+#DESCRIPTION Recitales:Noche de Brujas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_villa_carino_y_viking_031215_2200k.m3u8:Recitales:Villa Cariño/Los Vikings
+#DESCRIPTION Recitales:Villa Cariño/Los Vikings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8:REDBULL INGLES
+#DESCRIPTION REDBULL INGLES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO MUCIC TV
+#DESCRIPTION RETRO MUCIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8:RETRO MUSIC TV
+#DESCRIPTION RETRO MUSIC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8:RPC
+#DESCRIPTION RPC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8:RPC TV
+#DESCRIPTION RPC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/5936soyguerrero/guerrerovideo/playlist.m3u8:RTG ACAPULCO
+#DESCRIPTION RTG ACAPULCO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d36zvzlneynve1.cloudfront.net/liverts/smil%3aliverts.smil/chunklist_b899152.m3u8:RTS
+#DESCRIPTION RTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-usa1-streaming.ani-box.com%3a1935/live/bs11.stream/playlist.m3u8:SATAR CHANEL
+#DESCRIPTION SATAR CHANEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&amp;rebase=on:SEVILLA FC
+#DESCRIPTION SEVILLA FC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8:SEVILLA TV
+#DESCRIPTION SEVILLA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyianywhere2-i.akamaihd.net%3a80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8:Sky TG24 | SD
+#DESCRIPTION Sky TG24 | SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8:SON POPULAR
+#DESCRIPTION SON POPULAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8:SPORTS
+#DESCRIPTION SPORTS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?:SUN CHANNEL
+#DESCRIPTION SUN CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8:SUN CHANNEL
+#DESCRIPTION SUN CHANNEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8:SUN CHANNEL OP 2
+#DESCRIPTION SUN CHANNEL OP 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/superC/superC_1/playlist.m3u8:SUPER 5 TV COSTA RICA
+#DESCRIPTION SUPER 5 TV COSTA RICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8:TBN
+#DESCRIPTION TBN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8:TC HD
+#DESCRIPTION TC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8:TC HD COLOMBIA
+#DESCRIPTION TC HD COLOMBIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8:Tele Red Television
+#DESCRIPTION Tele Red Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8:TELE RITMO
+#DESCRIPTION TELE RITMO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8:TELE UNO
+#DESCRIPTION TELE UNO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?:TELECAFE COL
+#DESCRIPTION TELECAFE COL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/736348/events/5567040/live.m3u8:TELECENTRO
+#DESCRIPTION TELECENTRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.tecnoxia.com%3a1935/8006/8006/playlist.m3u:TELEMAR CAMPECHE
+#DESCRIPTION TELEMAR CAMPECHE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-edge01.telecentro.net.ar/live/smil%3atlx.smil/master.m3u8:TELEMAX ARG
+#DESCRIPTION TELEMAX ARG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8:Telemetro
+#DESCRIPTION Telemetro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cm.hostlagarto.com%3a8081/Telemilenio/Telemilenio.myStream/playlist.m3u8:TELEMILENIO SANTIAGO CHILE
+#DESCRIPTION TELEMILENIO SANTIAGO CHILE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&amp;rebase=on:TELEMUNDO
+#DESCRIPTION TELEMUNDO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.155.200.118%3a1935/live/telemusica/playlist.m3u8:TELEMUSICA
+#DESCRIPTION TELEMUSICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//201.219.100.30%3a1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?iptv.m3u8:TELEPIN HD
+#DESCRIPTION TELEPIN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8:Teletrack
+#DESCRIPTION Teletrack
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge1.cl.grupoz.cl/teletrak/smil%3alive.smil/playlist.m3u8:TELETRAK TV
+#DESCRIPTION TELETRAK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tengomusica.ddns.net%3a1935/telever/telever.sdp/playlist.m3u8:TELEVER
+#DESCRIPTION TELEVER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8:Todo Deportes
+#DESCRIPTION Todo Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deportes
+#DESCRIPTION Todo Deportes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8:TOP LATINO
+#DESCRIPTION TOP LATINO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
+#DESCRIPTION TOP LATINO MUSICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowzacontrol.com%3a1935/stream34/stream34/playlist.m3u8:TOREON MEXICO
+#DESCRIPTION TOREON MEXICO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.104%3a1935/travel/community.stream/playlist.m3u8:TRAVEL HD
+#DESCRIPTION TRAVEL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.104%3a1935/travel/community.stream/chunklist_w511463959.m3u8:TravelHD
+#DESCRIPTION TravelHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?tecnotv.info?iptv.m3u8:TRENDY CHANEL
+#DESCRIPTION TRENDY CHANEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8:Trendy Tv
+#DESCRIPTION Trendy Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlscdn.538.nl/content/538tv/538tv_0.m3u8:TV 538:
+#DESCRIPTION TV 538:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.tecnoxia.com%3a1935/8006/8006/playlist.m3u8:TV CAMPECHE
+#DESCRIPTION TV CAMPECHE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowzaserver.net%3a1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8:TV COSMOS PERU
+#DESCRIPTION TV COSMOS PERU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?:TV MEXIQUENSE 34
+#DESCRIPTION TV MEXIQUENSE 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8:TV MEXIQUENSE 34
+#DESCRIPTION TV MEXIQUENSE 34
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/playlist.m3u:TV Más
+#DESCRIPTION TV Más
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8:TV Más
+#DESCRIPTION TV Más
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh15.iblups.com/hls/irtp.m3u8:TV PERU
+#DESCRIPTION TV PERU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnh15.iblups.com/hls/R9WtilpKKB.m3u8:TV PERÚ HD (Lima
+#DESCRIPTION TV PERÚ HD (Lima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8:TV UNAM
+#DESCRIPTION TV UNAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8?tecnotv.info?iptv.m3u8:TV UNO
+#DESCRIPTION TV UNO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8?www.tecnotv.info:TV UNO
+#DESCRIPTION TV UNO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss1.domint.net%3a2204/tvc_str/tvcotui/playlist.m3u8:TVCOTUI
+#DESCRIPTION TVCOTUI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.unicanal.com.py/live/unicanal_src.m3u8?www.tecnotv.info:UNICANAL
+#DESCRIPTION UNICANAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//strm.unicanal.com.py/live/unicanal.m3u8:unicanal
+#DESCRIPTION unicanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8:URUGUAY:Canal U
+#DESCRIPTION URUGUAY:Canal U
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8:URUGUAY:Tele Doce
+#DESCRIPTION URUGUAY:Tele Doce
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8?:Ve plus TV
+#DESCRIPTION Ve plus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8:VENEZUELA:Canal 11
+#DESCRIPTION VENEZUELA:Canal 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8?iptvgratis?chile.m3u8:VENEZUELA:Canal Once Venezuela
+#DESCRIPTION VENEZUELA:Canal Once Venezuela
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//enc-fwt.lorini.net/telet/telet/index.m3u8:VENEZUELA:La Tele Tuya
+#DESCRIPTION VENEZUELA:La Tele Tuya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8:VENEZUELA:La Tele Tuya
+#DESCRIPTION VENEZUELA:La Tele Tuya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8:VENEZUELA:TVO
+#DESCRIPTION VENEZUELA:TVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4:Videomix:SheepMix
+#DESCRIPTION Videomix:SheepMix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4:Videomix:The 90s EurodanceVideomix
+#DESCRIPTION Videomix:The 90s EurodanceVideomix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4:Videomix:Yearmix2009
+#DESCRIPTION Videomix:Yearmix2009
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4:Videomix:Yearmix2010
+#DESCRIPTION Videomix:Yearmix2010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4:Videomix:Yearmix2011
+#DESCRIPTION Videomix:Yearmix2011
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4:Videomix:Yearmix2012
+#DESCRIPTION Videomix:Yearmix2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4:Videomix:Yearmix2013
+#DESCRIPTION Videomix:Yearmix2013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4:Videomix:Yearmix2014
+#DESCRIPTION Videomix:Yearmix2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4:Videomix:Yearmix2015
+#DESCRIPTION Videomix:Yearmix2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wow01.105.net/live/virgin1/chunklist_w25732073.m3u8:VIRGIN MUSIC
+#DESCRIPTION VIRGIN MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8:WILLAX TV PERU
+#DESCRIPTION WILLAX TV PERU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//movil.mediastream.pe/vv_willax/livestream/playlist.m3u8:WILLAX TV PERU
+#DESCRIPTION WILLAX TV PERU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.mediastream.pe/vv_willax/livestream/.m3u8:WILLAX TV PERU
+#DESCRIPTION WILLAX TV PERU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8:world fashion fhd
+#DESCRIPTION world fashion fhd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.elsalvadordigital.com%3a1935/wowtv/wowtv/chunklist_w84588335.m3u8:WOW TV
+#DESCRIPTION WOW TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8:xtelefuturohdx
+#DESCRIPTION xtelefuturohdx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//extremo01.streamprolive.com/hls/live.m3u8:XTREMOVISION
+#DESCRIPTION XTREMOVISION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//184.173.179.163%3a1935/8022/8022/chunklist_w205828107.m3u8:Zoom TV
+#DESCRIPTION Zoom TV
 #SERVICE 1:64:C2:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=i_C1EH6Rxxk:Kanal D HD
