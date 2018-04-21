@@ -2,6 +2,8 @@
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
 #EXTINF:-1,ATV HD
+https://plus.tvizlehd.com/atv.m3u8?tkn=szbGSx6TriKE51wPyNM_TA&tms=1524307673
+#EXTINF:-1,ATV HD az
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1,KANAL D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
@@ -2185,27 +2187,3 @@ http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/854/inde
 http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8
 #EXTINF:-1 parent-code="1234",EROX HD 
 http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/597.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/1191.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/3386.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/4147.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/5028.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/5858.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/7991.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/8426.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/9443.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/11738.mp4
-#EXTINF:-1 parent-code="1234",VOD xxx
-http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/13088.mp4
