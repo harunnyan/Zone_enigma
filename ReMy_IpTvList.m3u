@@ -2183,7 +2183,149 @@ http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/853/inde
 http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/854/index.m3u8
 #EXTINF:-1 parent-code="1234",Zest TV 
 http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8
-#EXTINF:-1 parent-code="1234",Barely Legal TV 
-http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/862/index.m3u8
 #EXTINF:-1 parent-code="1234",EROX HD 
 http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8
+#EXTINF:-1 parent-code="1234",Vids HD  1
+http://5.135.139.78/vidshd2/1.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  3
+http://5.135.139.78/vidshd2/2.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  5
+http://5.135.139.78/vidshd2/3.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  7
+http://5.135.139.78/vidshd2/4.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  9
+http://5.135.139.78/vidshd2/5.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  11
+http://5.135.139.78/vidshd2/6.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  13
+http://5.135.139.78/vidshd2/7.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  15
+http://5.135.139.78/vidshd2/8.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  17
+http://5.135.139.78/vidshd2/9.mp4  
+#EXTINF:-1 parent-code="1234",Vids HD  19
+http://5.135.139.78/vidshd2/10.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  21
+http://5.135.139.78/vidshd2/11.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  23
+http://5.135.139.78/vidshd2/12.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  25
+http://5.135.139.78/vidshd2/13.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  27
+http://5.135.139.78/vidshd2/14.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  29
+http://5.135.139.78/vidshd2/15.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  31
+http://5.135.139.78/vidshd2/16.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  33
+http://5.135.139.78/vidshd2/17.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  35
+http://5.135.139.78/vidshd2/18.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  37
+http://5.135.139.78/vidshd2/19.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  39
+http://5.135.139.78/vidshd2/20.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  41
+http://5.135.139.78/vidshd2/21.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  43
+http://5.135.139.78/vidshd2/22.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  45
+http://5.135.139.78/vidshd2/23.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  47
+http://5.135.139.78/vidshd2/24.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  49
+http://5.135.139.78/vidshd2/25.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  51
+http://5.135.139.78/vidshd2/26.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  53
+http://5.135.139.78/vidshd2/27.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  55
+http://5.135.139.78/vidshd2/28.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  57
+http://5.135.139.78/vidshd2/29.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  59
+http://5.135.139.78/vidshd2/30.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  61
+http://5.135.139.78/vidshd2/31.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  63
+http://5.135.139.78/vidshd2/32.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  65
+http://5.135.139.78/vidshd2/33.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  67
+http://5.135.139.78/vidshd2/34.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  69
+http://5.135.139.78/vidshd2/35.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  71
+http://5.135.139.78/vidshd2/36.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  73
+http://5.135.139.78/vidshd2/37.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  75
+http://5.135.139.78/vidshd2/38.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  77
+http://5.135.139.78/vidshd2/39.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  79
+http://5.135.139.78/vidshd2/40.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  81
+http://5.135.139.78/vidshd2/41.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  83
+http://5.135.139.78/vidshd2/42.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  85
+http://5.135.139.78/vidshd2/43.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  87
+http://5.135.139.78/vidshd2/44.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  89
+http://5.135.139.78/vidshd2/45.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  91
+http://5.135.139.78/vidshd2/46.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  93
+http://5.135.139.78/vidshd2/47.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  95
+http://5.135.139.78/vidshd2/48.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  97
+http://5.135.139.78/vidshd2/49.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  99
+http://5.135.139.78/vidshd2/50.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  101
+http://5.135.139.78/vidshd2/51.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  103
+http://5.135.139.78/vidshd2/52.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  105
+http://5.135.139.78/vidshd2/53.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  107
+http://5.135.139.78/vidshd2/54.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  109
+http://5.135.139.78/vidshd2/55.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  111
+http://5.135.139.78/vidshd2/56.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  113
+http://5.135.139.78/vidshd2/57.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  115
+http://5.135.139.78/vidshd2/58.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  117
+http://5.135.139.78/vidshd2/59.mp4 
+#EXTINF:-1 parent-code="1234",Vids HD  119
+http://5.135.139.78/vidshd2/60.mp4 
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/597.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/1191.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/3386.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/4147.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/5028.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/5858.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/7991.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/8426.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/9443.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/11738.mp4
+#EXTINF:-1 parent-code="1234",VOD xxx
+http://87.98.183.251/vidshd/56ea912c4df934c216c352fa8d623af3/13088.mp4
