@@ -15,6 +15,10 @@ http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/sta
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1,TV 8
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/tv-8.m3u8
+#EXTINF:-1,TV 8.5
+https://zahir.tvizlehd.com/tv85.m3u8?tkn=KayL4PPzhf9E0l8FPHUDMw&tms=1524308331
+#EXTINF:-1,Show Tv
+https://zahir.tvizlehd.com/showtv.m3u8?tkn=-jITANsl0pPIQAEi2_YKmA&tms=1524308391
 #EXTINF:-1,FOX TV
 http://yayin.canlitvlive.io/foxtv/live.m3u8?tkn=a6X4X4D82-pFIYDQ2aVf2Q&tms=1524225427
 #EXTINF:-1,Fil TV
