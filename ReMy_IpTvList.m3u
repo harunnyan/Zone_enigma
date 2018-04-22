@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
-#EXTINF:-1,ATV HD
-https://plus.tvizlehd.com/atv.m3u8?tkn=szbGSx6TriKE51wPyNM_TA&tms=1524307673
 #EXTINF:-1,ATV HD az
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1,KANAL D
@@ -17,10 +15,6 @@ http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/tv-8.m3u8
 #EXTINF:-1,TV 8.5
 https://zahir.tvizlehd.com/tv85.m3u8?tkn=KayL4PPzhf9E0l8FPHUDMw&tms=1524308331
-#EXTINF:-1,Show Tv
-https://zahir.tvizlehd.com/showtv.m3u8?tkn=-jITANsl0pPIQAEi2_YKmA&tms=1524308391
-#EXTINF:-1,Show Tv
-https://life.tvizlehd.com/showtv.m3u8?tkn=7W5utGJJyAQtUeMF6tqyFA&tms=1524308679
 #EXTINF:-1,FOX TV
 http://yayin.canlitvlive.io/foxtv/live.m3u8?tkn=a6X4X4D82-pFIYDQ2aVf2Q&tms=1524225427
 #EXTINF:-1,Fil TV
@@ -128,7 +122,13 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
 #EXTINF:-1,Bein Sports Hd
-http://46.105.233.106:8080/hls/sport1/playlist.m3u8 
+http://46.105.233.106:8080/hls/sport1/playlist.m3u8
+#EXTINF:-1,Bein Sports Hd
+http://2d06.janjuaplayer.com:8088/live/livin1bein1/playlist.m3u8?id=79585&wowzasessionid=412628322&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
+#EXTINF:-1,Bein Sports Hd
+http://2202.janjuaplayer.com:8088/live/livin1bein1/playlist.m3u8?id=79585&wowzasessionid=3787866000&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
+#EXTINF:-1,Bein Sports Hd
+http://103.liveflashplayer.org:8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
 #EXTINF:-1,SKY Sport 1 UK
 http://cdnv.cli.tn/iptv/ch922?code=610116485444847
 #EXTINF:-1,Sky Sport 2 UK
