@@ -50,7 +50,13 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1,EURO STAR TV
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1,TV 8
+https://ecanlitvizle1.tvizlehd.com/live_hd/TV8/chunks.m3u8
+#EXTINF:-1,TV 8
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/tv-8.m3u8
+#EXTINF:-1,TV 8
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1524565930&st=mfvD3rhKAR9pUkRAGeT-eg
+#EXTINF:-1,TV 8
+https://ecanlitvizle2.tvizlehd.com/live_hd/TV8/chunks.m3u8?nimblesessionid=179037575&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDE4IDg6MzU6NDIgUE0maGFzaF92YWx1ZT1sbkFJTmNyWm5RQUpUNjlQUCtpRk9BPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,TV 8.5
 https://ecanlitvizle1.tvizlehd.com/live_sd/tv85/chunks.m3u8
 #EXTINF:-1,FOX TV
