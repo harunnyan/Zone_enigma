@@ -37,10 +37,16 @@ http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1,KANAL D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1,STAR TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1,KANAL D
+http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,KANAL D
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,Star TV
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/star-tv.m3u8
+#EXTINF:-1,Star TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1,EURO STAR TV
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1,TV 8
