@@ -1,6 +1,32 @@
 #EXTM3U
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
+#EXTINF:-1,ATV HD
+https://ecanlitvizle1.tvizlehd.com/live_hd/atv/chunks.m3u8
+#EXTINF:-1,SHOW TV HD
+https://ecanlitvizle1.tvizlehd.com/live_sd/showtv/chunks.m3u8
+#EXTINF:-1,BEIN HABER HD
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+#EXTINF:-1,A HABER HD
+https://ecanlitvizle1.tvizlehd.com/live_hd/a_haber/chunks.m3u8
+#EXTINF:-1,DMAX
+http://canli2.tvnet.tv.tr/live/smil:ntvspor.smil/master.m3u8
+#EXTINF:-1,TLC TV HD
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,TLC TV HD
+https://ecanlitvizle1.tvizlehd.com/live_sd/tlc/chunks.m3u8
+#EXTINF:-1,SONY CHANNEL TV
+https://ecanlitvizle1.tvizlehd.com/live_sd/sonychannel/chunks.m3u8
+#EXTINF:-1,CIFTCI TV
+rtmp://151.80.102.86/ciftcitv/bant1
+#EXTINF:-1,CIFTCI TV
+rtmp://stream.taksimbilisim.com/ciftcitv/bant1
+#EXTINF:-1,KOY TV
+http://5.44.154.210/cdn/540ea58191866/playlist.m3u8?wowzasessionid=1804484551?sd=0&rebase=on
+#EXTINF:-1,YAT TV
+http://s03.vidpanel.com/yattv/yattv.m3u8
+#EXTINF:-1,YABAN TV
+http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
 #EXTINF:-1,ATV HD az
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1,KANAL D
@@ -14,7 +40,7 @@ http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1,TV 8
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/tv-8.m3u8
 #EXTINF:-1,TV 8.5
-https://zahir.tvizlehd.com/tv85.m3u8?tkn=KayL4PPzhf9E0l8FPHUDMw&tms=1524308331
+https://ecanlitvizle1.tvizlehd.com/live_sd/tv85/chunks.m3u8
 #EXTINF:-1,FOX TV
 http://yayin.canlitvlive.io/foxtv/live.m3u8?tkn=a6X4X4D82-pFIYDQ2aVf2Q&tms=1524225427
 #EXTINF:-1,Fil TV
