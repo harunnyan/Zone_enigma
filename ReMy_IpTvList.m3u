@@ -27,6 +27,12 @@ http://5.44.154.210/cdn/540ea58191866/playlist.m3u8?wowzasessionid=1804484551?sd
 http://s03.vidpanel.com/yattv/yattv.m3u8
 #EXTINF:-1,YABAN TV
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
+#EXTINF:-1,Aile TV
+http://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2/playlist.m3u8
+#EXTINF:-1,BRT1
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1,BRT2
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:-1,ATV HD az
 http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1,KANAL D
@@ -564,6 +570,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0,Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,Evenaar
+https://urtmpkal-f.akamaihd.net/i/12qekz6vu_1@180481/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,FashionID
 http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:0,Francophonie
@@ -910,6 +918,8 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
 #EXTINF:-1,News9
 http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m3u8
+#EXTINF:-1,CNN NEWS18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 #EXTINF:-1,****((ARABIC CHANNELS))****
 ****((ARABIC CHANNELS))****
 #EXTINF:-1,BBC Arabic
