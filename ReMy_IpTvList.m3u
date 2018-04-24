@@ -5,8 +5,6 @@
 https://ecanlitvizle1.tvizlehd.com/live_hd/atv/chunks.m3u8
 #EXTINF:-1,SHOW TV HD
 https://ecanlitvizle1.tvizlehd.com/live_sd/showtv/chunks.m3u8
-#EXTINF:-1,BEIN HABER HD
-http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
 #EXTINF:-1,A HABER HD
 https://ecanlitvizle1.tvizlehd.com/live_hd/a_haber/chunks.m3u8
 #EXTINF:-1,DMAX
@@ -173,6 +171,8 @@ http://217.174.225.146/legacyhls/ch006_400/index.m3u8
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
+#EXTINF:-1,BEIN HABER HD
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
 #EXTINF:-1,Bein Sports Hd
 http://46.105.233.106:8080/hls/sport1/playlist.m3u8
 #EXTINF:-1,Bein Sports Hd
