@@ -31,6 +31,14 @@
 #DESCRIPTION IDMAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.olympicchannel.com/ocs/channel01b/master.m3u8:Olympic Channel HD
 #DESCRIPTION Olympic Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8:Olympic Channel 1 (1080p)
+#DESCRIPTION Olympic Channel 1 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8:Olympic Channel 1 (720p)
+#DESCRIPTION Olympic Channel 1 (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_7_6064000.m3u8:Olympic Channel 2 (1080p)
+#DESCRIPTION Olympic Channel 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_6_3514000.m3u8:Olympic Channel 2 (720p)
+#DESCRIPTION Olympic Channel 2 (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8:Sporting Tv HD
 #DESCRIPTION Sporting Tv HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:SPORT 1 HD
@@ -167,20 +175,24 @@
 #DESCRIPTION BT Sport Extra 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
 #DESCRIPTION LIVE MOTOR SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/566/index.m3u8:beIN Sports HD
-#DESCRIPTION beIN Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/574/index.m3u8:beIN LaLiga HD
-#DESCRIPTION beIN LaLiga HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/581/index.m3u8:LaLiga TV Bar HD
-#DESCRIPTION LaLiga TV Bar HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/569/index.m3u8:Movistar+ Golf HD
-#DESCRIPTION Movistar+ Golf HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/575/index.m3u8:Movistar+ Futbol
-#DESCRIPTION Movistar+ Futbol
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/612/index.m3u8:Movistar+ F1
-#DESCRIPTION Movistar+ F1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/613/index.m3u8:Movistar+ Moto GP
-#DESCRIPTION Movistar+ Moto GP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/2/chunks.m3u8:Jogos Ao Vivo 1
+#DESCRIPTION Jogos Ao Vivo 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/4/chunks.m3u8:ESPN PLUS
+#DESCRIPTION ESPN PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/8/chunks.m3u8:Jogos Ao Vivo 4
+#DESCRIPTION Jogos Ao Vivo 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/15/chunks.m3u8:Jogos Ao Vivo 5
+#DESCRIPTION Jogos Ao Vivo 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/16/chunks.m3u8:Jogos Ao Vivo 6
+#DESCRIPTION Jogos Ao Vivo 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/17/chunks.m3u8:Jogos Ao Vivo 7
+#DESCRIPTION Jogos Ao Vivo 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/18/chunks.m3u8:Jogos Ao Vivo 8
+#DESCRIPTION Jogos Ao Vivo 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/19/chunks.m3u8:Jogos Ao Vivo 9
+#DESCRIPTION Jogos Ao Vivo 9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/20/chunks.m3u8:Jogos Ao Vivo 10
+#DESCRIPTION Jogos Ao Vivo 10
 #SERVICE 1:64:9C:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
