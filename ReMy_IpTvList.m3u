@@ -347,6 +347,22 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1,Sportklub HD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,WWE
+https://robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8
+#EXTINF:-1,NHL Network
+https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
+#EXTINF:-1,BT SPORT 1
+http://31.220.0.196:8081/live/ctvb1/playlist.m3u8
+#EXTINF:-1,BT SPORT 2
+http://31.220.0.196:8081/live/ctvb2/playlist.m3u8
+#EXTINF:-1,BT SPORT 3
+http://31.220.0.196:8081/live/ctvb3/playlist.m3u8
+#EXTINF:-1,ESPN
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
+#EXTINF:-1,FS 1
+http://31.220.0.196:8081/live/fx11sx/playlist.m3u8
+#EXTINF:-1,FS 2
+http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
 #EXTINF:-1,Jogos Ao Vivo 1
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 #EXTINF:-1,ESPN PLUS
@@ -3136,6 +3152,10 @@ rtmp://streaming.fundorado.com:80/fundoradotv//live.stream
 rtmp://stream.visit-x.tv/vxtv//live_720p
 #EXTINF:-1 parent-code="1234",BS 24 LIVE
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:-1 parent-code="1234",Private TV HD
+http://185.53.73.2:8000/play/mezzo
+#EXTINF:-1 parent-code="1234",private
+http://185.53.73.2:8000/play/private
 #EXTINF:-1 parent-code="1234",Playboy 
 http://playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/142/index.m3u8
 #EXTINF:-1 parent-code="1234",Nuart TV 
