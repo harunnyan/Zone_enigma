@@ -175,6 +175,22 @@
 #DESCRIPTION BT Sport Extra 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
 #DESCRIPTION LIVE MOTOR SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8:WWE
+#DESCRIPTION WWE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8:NHL Network
+#DESCRIPTION NHL Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb1/playlist.m3u8:BT SPORT 1
+#DESCRIPTION BT SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb2/playlist.m3u8:BT SPORT 2
+#DESCRIPTION BT SPORT 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb3/playlist.m3u8:BT SPORT 3
+#DESCRIPTION BT SPORT 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb4/playlist.m3u8:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/fx11sx/playlist.m3u8:FS 1
+#DESCRIPTION FS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/fx2sx/playlist.m3u8:FS 2
+#DESCRIPTION FS 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/2/chunks.m3u8:Jogos Ao Vivo 1
 #DESCRIPTION Jogos Ao Vivo 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aovivo.futeboltv.com%3a8081/live/4/chunks.m3u8:ESPN PLUS
