@@ -109,10 +109,6 @@ http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
 http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,CNN TURK
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1,Haber Turk HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/haber-turk.m3u8
-#EXTINF:-1,NTV HD
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv-turk.m3u8
 #EXTINF:-1,NTV HD
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,NTV HD
@@ -351,6 +347,24 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1,Sportklub HD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Jogos Ao Vivo 1
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
+#EXTINF:-1,ESPN PLUS
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
+#EXTINF:-1,Jogos Ao Vivo 4
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
+#EXTINF:-1,Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
+#EXTINF:-1,Jogos Ao Vivo 6
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
+#EXTINF:-1,Jogos Ao Vivo 7
+http://aovivo.futeboltv.com:8081/live/17/chunks.m3u8
+#EXTINF:-1,Jogos Ao Vivo 8
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
+#EXTINF:-1,Jogos Ao Vivo 9
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
+#EXTINF:-1,Jogos Ao Vivo 10
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 #EXTINF:-1,Extreme Sports
 http://persik.by/stream/3903/293564/99.m3u8
 #EXTINF:-1,Extreme Sports
