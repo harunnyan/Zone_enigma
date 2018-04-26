@@ -3,7 +3,7 @@
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:F3:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
+#SERVICE 1:64:D5:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/1181684251?ticket=39E21F3ECBD0598B7E9F6F582B6882E518C97278&amp;profile=pass:Trace Urban HD
 #DESCRIPTION Trace Urban HD
@@ -389,9 +389,9 @@
 #DESCRIPTION ZMF1 Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.goinfo.it/V33Live/v33ros/playlist.m3u8:Video 33 Trentino Alto Adige
 #DESCRIPTION Video 33 Trentino Alto Adige
-#SERVICE 1:64:F4:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
+#SERVICE 1:64:D6:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
-#SERVICE 1:64:F5:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
+#SERVICE 1:64:D7:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
 #DESCRIPTION :::::::::::::::::::::_KING Turkish Radios_::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -441,7 +441,7 @@
 #DESCRIPTION KRAL DIZI & FILM MUZIKLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:F6:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
+#SERVICE 1:64:D8:0:0:0:0:0:0:0:::::::::::::::::::::::_KING World Radios_::::::::::
 #DESCRIPTION :::::::::::::::::::::_KING World Radios_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akflashback.smil/chunklist_w2033212040_b64000.m3u8:KRAL FLASHBACK
 #DESCRIPTION KRAL FLASHBACK
@@ -495,7 +495,7 @@
 #DESCRIPTION KRAL FRANCE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akopera.smil/chunklist_w2006434852_b64000.m3u8:KRAL OPERA
 #DESCRIPTION KRAL OPERA
-#SERVICE 1:64:F7:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_:::
+#SERVICE 1:64:D9:0:0:0:0:0:0:0:::::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_:::
 #DESCRIPTION :::::::::::::_ReMy-Clubbin/Tunein/iTunes_Radio_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17773.live.streamtheworld.com/HOTTICKETS128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a1bc5789-f152-4511-a71b-330c7233db6c:HOT TICKETS !! Biletix Bileti Kazan!!
 #DESCRIPTION HOT TICKETS !! Biletix Bileti Kazan!!
@@ -593,7 +593,7 @@
 #DESCRIPTION URBAN LEGENDS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17733.live.streamtheworld.com/EVENT_RADIO_128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=88f283c4-8a77-4b6a-93af-41b4f2d5d45e:İLKBAHAR
 #DESCRIPTION İLKBAHAR
-#SERVICE 1:64:F8:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
+#SERVICE 1:64:DA:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_iTunes Radios_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streams.radio.co/sd1bcd1376/listen:06am Ibiza Underground
 #DESCRIPTION 06am Ibiza Underground
