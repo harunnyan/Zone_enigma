@@ -170,31 +170,9 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,BEIN HABER HD
 http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
 #EXTINF:-1,Bein Sports Hd
-http://46.105.233.106:8080/hls/sport1/playlist.m3u8
-#EXTINF:-1,Bein Sports Hd
-http://2d06.janjuaplayer.com:8088/live/livin1bein1/playlist.m3u8?id=79585&wowzasessionid=412628322&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
-#EXTINF:-1,Bein Sports Hd
-http://2202.janjuaplayer.com:8088/live/livin1bein1/playlist.m3u8?id=79585&wowzasessionid=3787866000&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
-#EXTINF:-1,Bein Sports Hd
 http://103.liveflashplayer.org:8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
-#EXTINF:-1,SKY Sport 1 UK
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1,Sky Sport 2 UK
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1,SKY Sport 3 UK
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1,SKY Sport 4 UK
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1,SKY Sport 5 UK
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1,Sport Mix UK
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1,BT Sport 1
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
-#EXTINF:-1,BT Sport 2
-http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1,BT Sport Extra
-http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+#EXTINF:-1,Bein Sports Hd
+http://101.liveflashplayer.org:8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3300616798&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
 #EXTINF:-1,Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1,Arena Sport2
@@ -203,6 +181,16 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1,Arena Sport4
 http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,Arena Sport 1 HD
+rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA1
+#EXTINF:-1,Arena Sport 2 HD
+rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA2
+#EXTINF:-1,Arena Sport 3 HD
+rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA3
+#EXTINF:-1,Arena Sport 4 HD
+rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA4
+#EXTINF:-1,Arena Sport 5 HD
+rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA5
 #EXTINF:-1,TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1,FB TV
@@ -347,22 +335,14 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1,Sportklub HD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,SPORT1_USA
+http://51.15.230.97:8000/play/a002
+#EXTINF:-1,DOG TV
+http://51.15.230.97:8000/play/a003
 #EXTINF:-1,WWE
 https://robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8
 #EXTINF:-1,NHL Network
 https://live119.elrobacanales.com/budtv/nhl.network.usa/playlist.m3u8
-#EXTINF:-1,BT SPORT 1
-http://31.220.0.196:8081/live/ctvb1/playlist.m3u8
-#EXTINF:-1,BT SPORT 2
-http://31.220.0.196:8081/live/ctvb2/playlist.m3u8
-#EXTINF:-1,BT SPORT 3
-http://31.220.0.196:8081/live/ctvb3/playlist.m3u8
-#EXTINF:-1,ESPN
-http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
-#EXTINF:-1,FS 1
-http://31.220.0.196:8081/live/fx11sx/playlist.m3u8
-#EXTINF:-1,FS 2
-http://31.220.0.196:8081/live/fx2sx/playlist.m3u8
 #EXTINF:-1,Jogos Ao Vivo 1
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
 #EXTINF:-1,ESPN PLUS
