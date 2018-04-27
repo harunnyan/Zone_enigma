@@ -5,24 +5,22 @@
 #DESCRIPTION DiYANET KURAN RADiO
 #SERVICE 1:64:D5:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.62.183.163%3a9981/stream/channelid/1181684251?ticket=39E21F3ECBD0598B7E9F6F582B6882E518C97278&amp;profile=pass:Trace Urban HD
-#DESCRIPTION Trace Urban HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8:ROMAN TV Tr
 #DESCRIPTION ROMAN TV Tr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.126%3a1234:DREAM TV
+#SERVICE 1:0:1:519:3:42:1A40000:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.135%3a1234:Dream Turk
-#DESCRIPTION Dream Turk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL
-#DESCRIPTION KRAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.136%3a1234:KRAL TV
+#SERVICE 1:0:1:519:3:42:1A40000:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
+#DESCRIPTION DREAM TV
+#SERVICE 1:0:1:51B:3:42:1A40000:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8:DREAM TÜRK
+#DESCRIPTION DREAM TÜRK
+#SERVICE 1:0:1:2A41:9E99:42E:1A40000:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
 #DESCRIPTION KRAL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.137%3a1234:KRAL POP
-#DESCRIPTION KRAL POP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.131%3a1234:NUMBER ONE TURK
-#DESCRIPTION NUMBER ONE TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.132%3a1234:NR1
-#DESCRIPTION NR1
+#SERVICE 1:0:1:2A41:9E99:42E:1A40000:0:0:0:http%3a//mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8:KRAL TV
+#DESCRIPTION KRAL TV
+#SERVICE 1:0:1:2A40:9E99:42E:1A40000:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
+#DESCRIPTION KRAL POP TV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
+#DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV
 #DESCRIPTION KRAL POP TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8:KRAL POP TV

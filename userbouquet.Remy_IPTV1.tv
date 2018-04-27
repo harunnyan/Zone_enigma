@@ -35,8 +35,6 @@
 #DESCRIPTION KOY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/yattv/yattv.m3u8:YAT TV
 #DESCRIPTION YAT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.sanaltv.com%3a1935/live1/yabantv/playlist.m3u8:YABAN TV
-#DESCRIPTION YABAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD
@@ -59,7 +57,7 @@
 #DESCRIPTION NAT GEO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live3.canlitv.info%3a1935/live1/yabantv/chunklist_w601872677.m3u8:YABAN TV
 #DESCRIPTION YABAN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.142%3a1234:YABAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.sanaltv.com%3a1935/live1/yabantv/playlist.m3u8:YABAN TV
 #DESCRIPTION YABAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8:TRT BELGESEL HD
 #DESCRIPTION TRT BELGESEL HD
@@ -107,12 +105,6 @@
 #DESCRIPTION TGRT HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8:kanal24
 #DESCRIPTION kanal24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.canlitvlive.io/tvnet/live.m3u8?tkn=nw06yUvRpKzfIPaDl9Av1w&tms=1524226071:Kanal24
-#DESCRIPTION Kanal24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kanal.canlitvlive.io/ahaber/live.m3u8?tkn=axm3ofBWOyKkIi68ju5soQ&tms=1524225512:A HABER
-#DESCRIPTION A HABER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.canlitvlive.io/tvnet/live.m3u8?tkn=nw06yUvRpKzfIPaDl9Av1w&tms=1524226071:TV Net
-#DESCRIPTION TV Net
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//semerkandglb.mediatriple.net%3a1935/semerkandliveedge/semerkand1/ratus42.m3u8:SEMERKAND TV
 #DESCRIPTION SEMERKAND TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sr1.netmedya.org%3a1935/yasintv/live.sdp/playlist.m3u8:YASİN TV
@@ -125,17 +117,11 @@
 #DESCRIPTION TRT ARAPÇA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
 #DESCRIPTION TRT Kurdi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.170%3a1234:DİSNEY TV
-#DESCRIPTION DİSNEY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3akidztv.smil/yetmis6.m3u8??:Kidz/Animez
 #DESCRIPTION Kidz/Animez
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.120%3a1234:PLANET COCUK
-#DESCRIPTION PLANET COCUK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/karamel/karamel/chunklist.m3u8:TV4 KARAMEL
 #DESCRIPTION TV4 KARAMEL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8:TRT COCUK
-#DESCRIPTION TRT COCUK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.174%3a1234:TRT COCUK
 #DESCRIPTION TRT COCUK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8:TRT OKUL
 #DESCRIPTION TRT OKUL
@@ -171,8 +157,6 @@
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8:STAR TV
 #DESCRIPTION STAR TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.20.74.243%3a4022/udp/239.254.10.148%3a1234:STAR
-#DESCRIPTION STAR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8:EURO STAR TV
 #DESCRIPTION EURO STAR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3afiltv.smil/chunklist.m3u8:FIL TV
