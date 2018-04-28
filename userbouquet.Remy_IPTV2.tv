@@ -261,6 +261,48 @@
 #DESCRIPTION Беларусь 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/932.m3u8:Беларусь 5
 #DESCRIPTION Беларусь 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/fx11sx/chunks.m3u8:FS 1
+#DESCRIPTION FS 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/fx2sx/chunks.m3u8:FS 2
+#DESCRIPTION FS 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/tlc:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/discovery:Discovery Channel
+#DESCRIPTION Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/tvpaprika:TV Paprika
+#DESCRIPTION TV Paprika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/hbo:HBO
+#DESCRIPTION HBO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/cinemax2:Cinemax2
+#DESCRIPTION Cinemax2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/a00q:Sport5
+#DESCRIPTION Sport5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/supertv2:SuperTV2
+#DESCRIPTION SuperTV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/dunatv:Duna TV
+#DESCRIPTION Duna TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/fem3:Fem3 HU
+#DESCRIPTION Fem3 HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/a00a:Sport1
+#DESCRIPTION Sport1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/cbsreality:CBS Reality
+#DESCRIPTION CBS Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/digisport1:DIGI Sport 1 HU
+#DESCRIPTION DIGI Sport 1 HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/spektrum:Spektrum
+#DESCRIPTION Spektrum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/digisport3:DIGI Sport 3 HU
+#DESCRIPTION DIGI Sport 3 HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/digiworld:DIGI World HU
+#DESCRIPTION DIGI World HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/digisport2:DIGI Sport 2 HU
+#DESCRIPTION DIGI Sport 2 HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/eurosport1:Eurosport
+#DESCRIPTION Eurosport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/mezzo:Mezzo
+#DESCRIPTION Mezzo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.182.152.24%3a9001/play/digifilm:DIGI Film HU
+#DESCRIPTION DIGI Film HU
 #SERVICE 1:64:9C:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
