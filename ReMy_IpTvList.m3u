@@ -167,8 +167,6 @@ http://217.174.225.146/legacyhls/ch006_400/index.m3u8
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
-#EXTINF:-1,BEIN HABER HD
-http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
 #EXTINF:-1,Bein Sports Hd
 http://103.liveflashplayer.org:8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
 #EXTINF:-1,Bein Sports Hd
@@ -273,6 +271,12 @@ https://live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_6_3514000.m3u8
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1,CBC SPORT
 http://85.132.71.6/turk/cbc_sport/index.m3u8
+#EXTINF:-1,KTO
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1,Blizz
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1,Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 #EXTINF:-1,Sevilla TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8
 #EXTINF:-1,Automoto
@@ -335,10 +339,6 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1,Sportklub HD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,SPORT1_USA
-http://51.15.230.97:8000/play/a002
-#EXTINF:-1,DOG TV
-http://51.15.230.97:8000/play/a003
 #EXTINF:-1,WWE
 https://robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8
 #EXTINF:-1,NHL Network
