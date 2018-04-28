@@ -441,6 +441,22 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 1:64:9E:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8:Alsat M
+#DESCRIPTION Alsat M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8:21
+#DESCRIPTION 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8:Shenja
+#DESCRIPTION Shenja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8:Sutel
+#DESCRIPTION Sutel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8:Alfa
+#DESCRIPTION Alfa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel_3)/index.m3u8:Sitel 3
+#DESCRIPTION Sitel 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8:Nasa
+#DESCRIPTION Nasa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8:Mrt 3
+#DESCRIPTION Mrt 3
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//coninfo.net%3a1935/13max/live/chunklist_w649322582.m3u8:13 MAX HD
 #DESCRIPTION 13 MAX HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8:13 TV
