@@ -3,13 +3,11 @@
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/atv/chunks.m3u8:ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=948024&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTc6MzAgUE0maGFzaF92YWx1ZT1Zenc2RHZMQ0x4NUEzRmJSV3Zad3d3PT0mdmFsaWRtaW51dGVzPTEw:ATV HD
 #DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_sd/showtv/chunks.m3u8:SHOW TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_sd/showtv/chunks.m3u8?nimblesessionid=947745&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTY6NTYgUE0maGFzaF92YWx1ZT1WM21MSkZVemFKRUg1NGU2RytmK2hBPT0mdmFsaWRtaW51dGVzPTEw:SHOW TV HD
 #DESCRIPTION SHOW TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/beinhaber/chunks.m3u8:BEIN HABER HD
-#DESCRIPTION BEIN HABER HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/a_haber/chunks.m3u8:A HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_hd/a_haber/chunks.m3u8?nimblesessionid=948411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTg6MjAgUE0maGFzaF92YWx1ZT0wR0hjWkNoMmptSTdtVjlqbFIxSFJnPT0mdmFsaWRtaW51dGVzPTEw:A HABER HD
 #DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:DMAX
 #DESCRIPTION DMAX
@@ -21,7 +19,7 @@
 #DESCRIPTION SONY CHANNEL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/TV8/chunks.m3u8:TV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/TV8/chunks.m3u8?nimblesessionid=5830221&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTQ6MjEgUE0maGFzaF92YWx1ZT05KzBkYXZqYXJRejdXL2lYRlFmSTlBPT0mdmFsaWRtaW51dGVzPTEw:TV 8
 #DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1524565930&st=mfvD3rhKAR9pUkRAGeT-eg:TV 8
 #DESCRIPTION TV 8
