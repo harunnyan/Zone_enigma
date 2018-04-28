@@ -337,6 +337,10 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1,Sportklub HD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,FS 1
+http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
+#EXTINF:-1,FS 2
+http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
 #EXTINF:-1,WWE
 https://robos2.elrobacanales.com/budtv/eventos_wwe_directv_147/playlist.m3u8
 #EXTINF:-1,NHL Network
@@ -3216,3 +3220,7 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/501/inde
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/502/index.m3u8
 #EXTINF:-1 parent-code="1234", Playboy TV
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/142/index.m3u8
+#EXTINF:-1 parent-code="1234", Private
+http://81.182.152.24:9001/play/private
+#EXTINF:-1 parent-code="1234", Hustler
+http://81.182.152.24:9001/play/hustler
