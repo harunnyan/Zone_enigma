@@ -2,11 +2,11 @@
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
 #EXTINF:-1,ATV HD
-https://ecanlitvizle1.tvizlehd.com/live_hd/atv/chunks.m3u8
+https://ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=948024&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTc6MzAgUE0maGFzaF92YWx1ZT1Zenc2RHZMQ0x4NUEzRmJSV3Zad3d3PT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,SHOW TV HD
-https://ecanlitvizle1.tvizlehd.com/live_sd/showtv/chunks.m3u8
+https://ecanlitvizle2.tvizlehd.com/live_sd/showtv/chunks.m3u8?nimblesessionid=947745&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTY6NTYgUE0maGFzaF92YWx1ZT1WM21MSkZVemFKRUg1NGU2RytmK2hBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,A HABER HD
-https://ecanlitvizle1.tvizlehd.com/live_hd/a_haber/chunks.m3u8
+https://ecanlitvizle2.tvizlehd.com/live_hd/a_haber/chunks.m3u8?nimblesessionid=948411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTg6MjAgUE0maGFzaF92YWx1ZT0wR0hjWkNoMmptSTdtVjlqbFIxSFJnPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,DMAX
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv-spor.m3u8
 #EXTINF:-1,DMAX
@@ -15,8 +15,6 @@ http://canli2.tvnet.tv.tr/live/smil:ntvspor.smil/master.m3u8
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,TLC TV HD
 https://ecanlitvizle1.tvizlehd.com/live_sd/tlc/chunks.m3u8
-#EXTINF:-1,SONY CHANNEL TV
-https://ecanlitvizle1.tvizlehd.com/live_sd/sonychannel/chunks.m3u8
 #EXTINF:-1,CIFTCI TV
 rtmp://151.80.102.86/ciftcitv/bant1
 #EXTINF:-1,CIFTCI TV
