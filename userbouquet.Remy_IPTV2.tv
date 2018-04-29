@@ -1849,6 +1849,166 @@
 #DESCRIPTION TV 5
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0c9/index.m3u8:Abu Dhabi TV HD
+#DESCRIPTION Abu Dhabi TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bw/index.m3u8:AD DRAMA
+#DESCRIPTION AD DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cc/index.m3u8:AD DRAMA HD
+#DESCRIPTION AD DRAMA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bu/index.m3u8:AD Nat Geo
+#DESCRIPTION AD Nat Geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cg/index.m3u8:AD Nat Geo HD
+#DESCRIPTION AD Nat Geo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bv/index.m3u8:AD SPORT 1
+#DESCRIPTION AD SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cd/index.m3u8:AD Sport 1 HD
+#DESCRIPTION AD Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bt/index.m3u8:AD Sport 2
+#DESCRIPTION AD Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ce/index.m3u8:AD Sport 2 HD
+#DESCRIPTION AD Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0at/index.m3u8:Aflam 1
+#DESCRIPTION Aflam 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0au/index.m3u8:Aflam 2
+#DESCRIPTION Aflam 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bd/index.m3u8:Ajial
+#DESCRIPTION Ajial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bn/index.m3u8:AJMAN TV
+#DESCRIPTION AJMAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bs/index.m3u8:AL EMARAT TV
+#DESCRIPTION AL EMARAT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ca/index.m3u8:Al Emarat TV HD
+#DESCRIPTION Al Emarat TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a09s/index.m3u8:AL Hurra Iraq
+#DESCRIPTION AL Hurra Iraq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0dk/index.m3u8:AL JADEED
+#DESCRIPTION AL JADEED
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a09r/index.m3u8:Al Kahera Wal Nas
+#DESCRIPTION Al Kahera Wal Nas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a09v/index.m3u8:AL masriya
+#DESCRIPTION AL masriya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a09t/index.m3u8:AL oula
+#DESCRIPTION AL oula
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0db/index.m3u8:AL-Aghani
+#DESCRIPTION AL-Aghani
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bc/index.m3u8:Al-EKhbaria
+#DESCRIPTION Al-EKhbaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bm/index.m3u8:Aleqtisadiah
+#DESCRIPTION Aleqtisadiah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0b1/index.m3u8:Almasalah
+#DESCRIPTION Almasalah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bl/index.m3u8:Althaqafiah
+#DESCRIPTION Althaqafiah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ci/index.m3u8:B4U Plus
+#DESCRIPTION B4U Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0aj/index.m3u8:BBC (A)
+#DESCRIPTION BBC (A)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ak/index.m3u8:BBC (E)
+#DESCRIPTION BBC (E)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0d1/index.m3u8:BBCW
+#DESCRIPTION BBCW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0c0/index.m3u8:CATV
+#DESCRIPTION CATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0aq/index.m3u8:Cima
+#DESCRIPTION Cima
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0av/index.m3u8:Cinema
+#DESCRIPTION Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cl/index.m3u8:CN Arabia
+#DESCRIPTION CN Arabia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ck/index.m3u8:CNN
+#DESCRIPTION CNN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0b6/index.m3u8:Dijlah TV
+#DESCRIPTION Dijlah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0a9/index.m3u8:Direct
+#DESCRIPTION Direct
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0al/index.m3u8:Dream2
+#DESCRIPTION Dream2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0co/index.m3u8:Dubai One
+#DESCRIPTION Dubai One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cr/index.m3u8:Dubai Racing 2
+#DESCRIPTION Dubai Racing 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cs/index.m3u8:Dubai Racing 3
+#DESCRIPTION Dubai Racing 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cp/index.m3u8:Dubai Sports 1
+#DESCRIPTION Dubai Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cq/index.m3u8:Dubai Sports 2
+#DESCRIPTION Dubai Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cm/index.m3u8:Dubai TV
+#DESCRIPTION Dubai TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cu/index.m3u8:Dubai Zaman
+#DESCRIPTION Dubai Zaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0b5/index.m3u8:Dzair 24
+#DESCRIPTION Dzair 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0b7/index.m3u8:EL HOGGAR
+#DESCRIPTION EL HOGGAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0by/index.m3u8:FUJAIRAH TV
+#DESCRIPTION FUJAIRAH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ai/index.m3u8:FUNoon
+#DESCRIPTION FUNoon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0dm/index.m3u8:Hawacom
+#DESCRIPTION Hawacom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ar/index.m3u8:Hekayat
+#DESCRIPTION Hekayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0as/index.m3u8:Hekayat2
+#DESCRIPTION Hekayat2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0be/index.m3u8:Holy Quran
+#DESCRIPTION Holy Quran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ap/index.m3u8:Iqraa
+#DESCRIPTION Iqraa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0az/index.m3u8:Iraq medical
+#DESCRIPTION Iraq medical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0b3/index.m3u8:Iraq Now
+#DESCRIPTION Iraq Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0aw/index.m3u8:Jordan
+#DESCRIPTION Jordan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bq/index.m3u8:KANA TV
+#DESCRIPTION KANA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0dl/index.m3u8:Lebanon TV
+#DESCRIPTION Lebanon TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0br/index.m3u8:Majid Kids TV
+#DESCRIPTION Majid Kids TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cb/index.m3u8:Majid Kids TV HD
+#DESCRIPTION Majid Kids TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ah/index.m3u8:Maspero Zaman
+#DESCRIPTION Maspero Zaman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bi/index.m3u8:Nedaa El Islam
+#DESCRIPTION Nedaa El Islam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ag/index.m3u8:Nile Cinema
+#DESCRIPTION Nile Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ab/index.m3u8:Nile Comedy
+#DESCRIPTION Nile Comedy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0af/index.m3u8:Nile Culture
+#DESCRIPTION Nile Culture
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ad/index.m3u8:Nile Drama
+#DESCRIPTION Nile Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cy/index.m3u8:Nile Family
+#DESCRIPTION Nile Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a09u/index.m3u8:Nile Family
+#DESCRIPTION Nile Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ac/index.m3u8:Nile Life
+#DESCRIPTION Nile Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0aa/index.m3u8:Nile News
+#DESCRIPTION Nile News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ae/index.m3u8:Nile Sport
+#DESCRIPTION Nile Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ct/index.m3u8:Noor Dubai
+#DESCRIPTION Noor Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cn/index.m3u8:Sama Dubai
+#DESCRIPTION Sama Dubai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bj/index.m3u8:Saudi Ch. For Quran
+#DESCRIPTION Saudi Ch. For Quran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bk/index.m3u8:Saudi Ch. For Sunnah
+#DESCRIPTION Saudi Ch. For Sunnah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bb/index.m3u8:Saudi Sport
+#DESCRIPTION Saudi Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0b9/index.m3u8:Saudi-1
+#DESCRIPTION Saudi-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0ba/index.m3u8:Saudi-2
+#DESCRIPTION Saudi-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0cf/index.m3u8:YAS Sports HD
+#DESCRIPTION YAS Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.93.238.197%3a8000/play/a0bp/index.m3u8:ZAD TV
+#DESCRIPTION ZAD TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.27.116.54%3a1935/live/anb.stream_360p/chunklist_w163760174.m3u8:AL Ahd
 #DESCRIPTION AL Ahd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hqstream.net%3a1935/alfadytvlive/alfadytvlive/playlist.m3u8:Al Fady TV
