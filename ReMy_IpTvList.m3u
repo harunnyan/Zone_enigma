@@ -4,7 +4,7 @@
 #EXTINF:-1,ATV HD
 https://ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=948024&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTc6MzAgUE0maGFzaF92YWx1ZT1Zenc2RHZMQ0x4NUEzRmJSV3Zad3d3PT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,SHOW TV HD
-https://ecanlitvizle2.tvizlehd.com/live_sd/showtv/chunks.m3u8?nimblesessionid=947745&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTY6NTYgUE0maGFzaF92YWx1ZT1WM21MSkZVemFKRUg1NGU2RytmK2hBPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitvizle1.tvizlehd.com/live_sd/showtv/l_3374629_1970221_213.ts?nimblesessionid=5869485&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjM6NTIgUE0maGFzaF92YWx1ZT0ycDlhcFliTG9sKzBvOHZXV0hsYzNBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,A HABER HD
 https://ecanlitvizle2.tvizlehd.com/live_hd/a_haber/chunks.m3u8?nimblesessionid=948411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTg6MjAgUE0maGFzaF92YWx1ZT0wR0hjWkNoMmptSTdtVjlqbFIxSFJnPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,DMAX
@@ -48,7 +48,7 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1,EURO STAR TV
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1,TV 8
-https://ecanlitvizle1.tvizlehd.com/live_hd/TV8/chunks.m3u8
+https://ecanlitvizle1.tvizlehd.com/live_hd/TV8/l_3374620_2017703_213.ts?nimblesessionid=5870151&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjQ6NDggUE0maGFzaF92YWx1ZT0wMUV1YXh2VlNveXBUNE5tbDNqWUhnPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,TV 8
 https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1524565930&st=mfvD3rhKAR9pUkRAGeT-eg
 #EXTINF:-1,TV 8.5
@@ -2812,6 +2812,12 @@ http://46.101.21.42:8081/live/live2/playlist.m3u8
 http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,Virgin TV Live
 http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,SKY DE Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1,SKY DE Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1,SKY DE JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
 #EXTINF:0,VTV HD
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,Xite
