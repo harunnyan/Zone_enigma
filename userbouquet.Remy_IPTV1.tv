@@ -3,11 +3,11 @@
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=948024&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTc6MzAgUE0maGFzaF92YWx1ZT1Zenc2RHZMQ0x4NUEzRmJSV3Zad3d3PT0mdmFsaWRtaW51dGVzPTEw:ATV HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=948024&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTc6MzAgUE0maGFzaF92YWx1ZT1Zenc2RHZMQ0x4NUEzRmJSV3Zad3d3PT0mdmFsaWRtaW51dGVzPTEw:ATV HD
 #DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_sd/showtv/chunks.m3u8?nimblesessionid=947745&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTY6NTYgUE0maGFzaF92YWx1ZT1WM21MSkZVemFKRUg1NGU2RytmK2hBPT0mdmFsaWRtaW51dGVzPTEw:SHOW TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_sd/showtv/l_3374629_1970221_213.ts?nimblesessionid=5869485&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjM6NTIgUE0maGFzaF92YWx1ZT0ycDlhcFliTG9sKzBvOHZXV0hsYzNBPT0mdmFsaWRtaW51dGVzPTEw:SHOW TV HD
 #DESCRIPTION SHOW TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_hd/a_haber/chunks.m3u8?nimblesessionid=948411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTg6MjAgUE0maGFzaF92YWx1ZT0wR0hjWkNoMmptSTdtVjlqbFIxSFJnPT0mdmFsaWRtaW51dGVzPTEw:A HABER HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_hd/a_haber/chunks.m3u8?nimblesessionid=948411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTg6MjAgUE0maGFzaF92YWx1ZT0wR0hjWkNoMmptSTdtVjlqbFIxSFJnPT0mdmFsaWRtaW51dGVzPTEw:A HABER HD
 #DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:DMAX
 #DESCRIPTION DMAX
@@ -15,11 +15,9 @@
 #DESCRIPTION TLC TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_sd/tlc/chunks.m3u8:TLC TV HD
 #DESCRIPTION TLC TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_sd/sonychannel/chunks.m3u8:SONY CHANNEL TV
-#DESCRIPTION SONY CHANNEL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/TV8/chunks.m3u8?nimblesessionid=5830221&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTQ6MjEgUE0maGFzaF92YWx1ZT05KzBkYXZqYXJRejdXL2lYRlFmSTlBPT0mdmFsaWRtaW51dGVzPTEw:TV 8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/TV8/l_3374620_2017703_213.ts?nimblesessionid=5870151&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjQ6NDggUE0maGFzaF92YWx1ZT0wMUV1YXh2VlNveXBUNE5tbDNqWUhnPT0mdmFsaWRtaW51dGVzPTEw:TV 8
 #DESCRIPTION TV 8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1524565930&st=mfvD3rhKAR9pUkRAGeT-eg:TV 8
 #DESCRIPTION TV 8
@@ -383,6 +381,820 @@
 #DESCRIPTION VUSLAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8:ZIRAAT TV
 #DESCRIPTION ZIRAAT TV
+#SERVICE 1:64:94:0:0:0:0:0:0:0::==== ★★STAN_IPTV_VOD★★ ====
+#DESCRIPTION ==== ★★STAN_IPTV_VOD★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601504.us.archive.org/32/items/luaAmor/luaAmor.mp4?STANIPTV: luAMOR
+#DESCRIPTION  luAMOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?STANIPTV:Os Seus -  os Meus e os Nossos
+#DESCRIPTION Os Seus -  os Meus e os Nossos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?STANIPTV:12 Horas
+#DESCRIPTION 12 Horas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4?STANIPTV:12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (2016)
+#DESCRIPTION 12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4?STANIPTV:1984
+#DESCRIPTION 1984
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/16/vaylf_480p.mp4?STANIPTV:O Guardiao - 2 Retorno As Minas do Rei Salomao
+#DESCRIPTION O Guardiao - 2 Retorno As Minas do Rei Salomao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?STANIPTV:A Beira do Abismo
+#DESCRIPTION A Beira do Abismo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2017/ACABANA2017DUB-BAIXO.mp4?STANIPTV:A Cabana
+#DESCRIPTION A Cabana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/kqGJMEhPAxcgsqrrlfBXpXbqUyCWxM_6pLsyFdf2IRaA6qwki104zu-1X9MV7OF781MWnZMUy2Y5jURmug=m37:A Casa Caiu
+#DESCRIPTION A Casa Caiu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4?STANIPTV:A festa nunca termina
+#DESCRIPTION A festa nunca termina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4?STANIPTV:A Grande Jogada
+#DESCRIPTION A Grande Jogada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?STANIPTV:A Guerra de Hart
+#DESCRIPTION A Guerra de Hart
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4?STANIPTV:A Heranca de Mr. Deeds
+#DESCRIPTION A Heranca de Mr. Deeds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AHRDIRA.mp4?STANIPTV:A HERDEIRA (2016)
+#DESCRIPTION A HERDEIRA (2016)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/reGFLma3eiddRIbFad3mom-KE2aIoNdLJL_-MdiADtOSsHdukPrpf0iRpEb9zMLJaOF5vZqC3wRePHrizVhYqNhUdBKXs0rPykpcq-pJ_rkWAx43ftOQrEQVoWYGKOdOVwB8CoIg3w=m22:A História Real de um Assassino Falso
+#DESCRIPTION A História Real de um Assassino Falso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4?STANIPTV:A Hora do Rango
+#DESCRIPTION A Hora do Rango
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4?STANIPTV:A Informante
+#DESCRIPTION A Informante
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4?STANIPTV:Skyline - A Invasao
+#DESCRIPTION Skyline - A Invasao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4?STANIPTV:A Inveja Mata
+#DESCRIPTION A Inveja Mata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4?STANIPTV:A Janela Secreta
+#DESCRIPTION A Janela Secreta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4?STANIPTV:A Jovem Rainha Victoria
+#DESCRIPTION A Jovem Rainha Victoria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4?STANIPTV:O Guardiao 3 - A Maldicao do Calice de Judas
+#DESCRIPTION O Guardiao 3 - A Maldicao do Calice de Judas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4?STANIPTV:Evil Dead - A Morte do Demonio
+#DESCRIPTION Evil Dead - A Morte do Demonio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4?STANIPTV:A Outra
+#DESCRIPTION A Outra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?STANIPTV:A Pantera Cor de Rosa
+#DESCRIPTION A Pantera Cor de Rosa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/k/om/wffyb_480p.mp4?STANIPTV:Anjos da Noite 3 - A Rebeliao
+#DESCRIPTION Anjos da Noite 3 - A Rebeliao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4?STANIPTV:A Rosa Purpura do Cairo
+#DESCRIPTION A Rosa Purpura do Cairo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4?STANIPTV:Laurel Canyon - A Rua das Tentacoes
+#DESCRIPTION Laurel Canyon - A Rua das Tentacoes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/IowBzaMgUtzmHtUe0VP2JeOPOYRAKoqnzAts8zxKV5R10BmvvZLX-hYN63snf1NwoqAMQGXOlnLkxiPzwg=m37:A Síndrome de Berlin
+#DESCRIPTION A Síndrome de Berlin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?STANIPTV:Ricky Bobby - A Toda Velocidade
+#DESCRIPTION Ricky Bobby - A Toda Velocidade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11337/1520026975/file.mp4?X-Plex-Session-Identifier=tgmhwzwl8p9t1wzwh6p8sj6u&amp;X-Plex-Product=Plex%20Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662%2C1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:A Torre Negra
+#DESCRIPTION A Torre Negra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4?STANIPTV:A Ultima Missao
+#DESCRIPTION A Ultima Missao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4?STANIPTV:A Ultima Profecia
+#DESCRIPTION A Ultima Profecia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/A%20Vil%C3%A3%202018%20720p%20DUBLADO.mp4:A Vilã
+#DESCRIPTION A Vilã
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?STANIPTV:Lenda Urbana 3 - A Vinganca de Mary
+#DESCRIPTION Lenda Urbana 3 - A Vinganca de Mary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4?STANIPTV:A Volta dos Mortos Vivos
+#DESCRIPTION A Volta dos Mortos Vivos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/106cm_B1GWy6b8NQQE1-fNkXPSxuQijaU?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:Abril Despedaçado
+#DESCRIPTION Abril Despedaçado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?STANIPTV:Adeus; Amor
+#DESCRIPTION Adeus; Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?STANIPTV:Adoraveis Mulheres
+#DESCRIPTION Adoraveis Mulheres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?STANIPTV:Africa dos Meus Sonhos
+#DESCRIPTION Africa dos Meus Sonhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?STANIPTV:Agente Indomavel
+#DESCRIPTION Agente Indomavel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/0B4A9bu3aIM0fTUhaVDByVlJoRUE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:Alien: Covenan
+#DESCRIPTION Alien: Covenan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4?STANIPTV:Amar; Trair e Roubar
+#DESCRIPTION Amar; Trair e Roubar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4?STANIPTV:Amigas com Dinheiro
+#DESCRIPTION Amigas com Dinheiro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4?STANIPTV:Amigo de Caca
+#DESCRIPTION Amigo de Caca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.vstreaming.net/movies/badbatch-dub-1080p.mp4?STANIPTV:Amores Canibais
+#DESCRIPTION Amores Canibais
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?STANIPTV:Anjos da Noite: A Evolucao
+#DESCRIPTION Anjos da Noite: A Evolucao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/96/z01lf_480p.mp4?STANIPTV:Annie
+#DESCRIPTION Annie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?STANIPTV:Apenas Uma Vez
+#DESCRIPTION Apenas Uma Vez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4?STANIPTV:Resident Evil - Apocalipse
+#DESCRIPTION Resident Evil - Apocalipse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4?STANIPTV:Red - Aposentados e Perigosos
+#DESCRIPTION Red - Aposentados e Perigosos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4?STANIPTV:Aprendendo A Viver
+#DESCRIPTION Aprendendo A Viver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4?STANIPTV:Aprendiz
+#DESCRIPTION Aprendiz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1RDNn7qZ7TwqwdohqGkbnN16yNYI8oB7j?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:As Apimentadas: Tudo ou Nada
+#DESCRIPTION As Apimentadas: Tudo ou Nada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/96/931lf_480p.mp4?STANIPTV:As Branquelas
+#DESCRIPTION As Branquelas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4?STANIPTV:As coisas impossiveis do amor
+#DESCRIPTION As coisas impossiveis do amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4?STANIPTV:As Duas Faces Da Lei
+#DESCRIPTION As Duas Faces Da Lei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4?STANIPTV:As Faces de Helen
+#DESCRIPTION As Faces de Helen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4?STANIPTV:Honra e Coragem - As Quatro Plumas
+#DESCRIPTION Honra e Coragem - As Quatro Plumas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4?STANIPTV:Assalto Sobre Trilhos
+#DESCRIPTION Assalto Sobre Trilhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/atomica:ATOMICA
+#DESCRIPTION ATOMICA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?STANIPTV:Atraidos Pelo Destino
+#DESCRIPTION Atraidos Pelo Destino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/estadocoisas:ESTADO DAS COISAS - BAIXAR | BLUDV.COM
+#DESCRIPTION ESTADO DAS COISAS - BAIXAR | BLUDV.COM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4?STANIPTV:Balconista
+#DESCRIPTION Balconista
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/O_Barao_Aventureiro_1950_Leg/O_Barao_Aventureiro_1950_Leg.mp4?STANIPTV:Barão Aventureiro (1950)
+#DESCRIPTION Barão Aventureiro (1950)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?STANIPTV:Bastidores de um Casamento
+#DESCRIPTION Bastidores de um Casamento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1ggVVBAs5A0TjpvQl9l5kWvLX9ZYhU_Jx?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:Bater ou Correr em Londres
+#DESCRIPTION Bater ou Correr em Londres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4?STANIPTV:Bolas em Panico
+#DESCRIPTION Bolas em Panico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/O_Bom_Pastor_1944_Leg/O_Bom_Pastor_1944_Leg.mp4?STANIPTV:Bom Pastor (1944)
+#DESCRIPTION Bom Pastor (1944)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/96/d41lf_480p.mp4?STANIPTV:Bons Costumes
+#DESCRIPTION Bons Costumes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/am/uddyb_480p.mp4?STANIPTV:Brinquedo Assassino
+#DESCRIPTION Brinquedo Assassino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/96/731lf_480p.mp4?STANIPTV:Bruno
+#DESCRIPTION Bruno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/brutamontes2:BRUTAMONTES 2
+#DESCRIPTION BRUTAMONTES 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/oy9OGHUmZzm9xRE8eeOWaOIDCjJGMp3xD4WjHXcFkQZ3Nl0hd_-SyPT_10Mzh5Mrn5y0ryV4L1g-qU0xyw=m22:Bullet Head
+#DESCRIPTION Bullet Head
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/hU20nCHWKCqB8tKNi1oYO7UikwnOan0O8IG_A3mXPwe7BvOs6ij1SYTo5MCgaXuTB16gzsWE4Fsd5wxJxQ=m22:Bunyan e Babe
+#DESCRIPTION Bunyan e Babe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d1qj99blfffwbv.cloudfront.net/mmhd/movies/bunyanbabe-leg-720p.mp4?STANIPTV:BUNYAN E BABE
+#DESCRIPTION BUNYAN E BABE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4?STANIPTV:Cacada sem Treguas
+#DESCRIPTION Cacada sem Treguas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4?STANIPTV:Cada um Vive Como Quer
+#DESCRIPTION Cada um Vive Como Quer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4?STANIPTV:Caes de Guerra
+#DESCRIPTION Caes de Guerra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4?STANIPTV:Caminho Sem Volta
+#DESCRIPTION Caminho Sem Volta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4?STANIPTV:Caminhos Opostos
+#DESCRIPTION Caminhos Opostos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4?STANIPTV:Cantor
+#DESCRIPTION Cantor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?STANIPTV:Casamento as Avessas
+#DESCRIPTION Casamento as Avessas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4?STANIPTV:Casamento de Rachel
+#DESCRIPTION Casamento de Rachel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4?STANIPTV:Cativeiro
+#DESCRIPTION Cativeiro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?STANIPTV:Chamado de Xangai
+#DESCRIPTION Chamado de Xangai
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OCisneNegro1942Dubl/O%20Cisne%20Negro%201942%20Dubl.mp4?STANIPTV:Cisne Negro (1942)
+#DESCRIPTION Cisne Negro (1942)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4?STANIPTV:clube de Leitura de Jane Austen
+#DESCRIPTION clube de Leitura de Jane Austen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4?STANIPTV:Codigo Da Vinci
+#DESCRIPTION Codigo Da Vinci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4?STANIPTV:Codigo de Honra
+#DESCRIPTION Codigo de Honra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4?STANIPTV:Coisas Belas E Sujas
+#DESCRIPTION Coisas Belas E Sujas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4?STANIPTV:Colecionador de Ossos
+#DESCRIPTION Colecionador de Ossos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4?STANIPTV:S.W.A.T. - Comando Especial
+#DESCRIPTION S.W.A.T. - Comando Especial
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4?STANIPTV:Como conquistar uma mulher
+#DESCRIPTION Como conquistar uma mulher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4?STANIPTV:Como Se Fosse a Primeira Vez
+#DESCRIPTION Como Se Fosse a Primeira Vez
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?STANIPTV:Comportamento Suspeito
+#DESCRIPTION Comportamento Suspeito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?STANIPTV:Conquista Sangrenta
+#DESCRIPTION Conquista Sangrenta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4?STANIPTV:Contatos Imediatos de Terceiro Grau
+#DESCRIPTION Contatos Imediatos de Terceiro Grau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4?STANIPTV:Contrato
+#DESCRIPTION Contrato
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/16/97wlf_480p.mp4?STANIPTV:Corpo em Evidencia
+#DESCRIPTION Corpo em Evidencia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/BOCm7lUhwe2gECbOhdQFv09YqQrmtB86Un-zkpdEKpZtDflx685DwGVeOpeQp7h8Fd702zdIVY4t71Ez=m22:Corpo.Eletric
+#DESCRIPTION Corpo.Eletric
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4?STANIPTV:Crash: No Limite
+#DESCRIPTION Crash: No Limite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4?STANIPTV:Swingers - Curtindo a Noite
+#DESCRIPTION Swingers - Curtindo a Noite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4:Círculo
+#DESCRIPTION Círculo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/96/y01lf_480p.mp4?STANIPTV:De Repente 30
+#DESCRIPTION De Repente 30
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/voltacasa:DE VOLTA PARA CASA
+#DESCRIPTION DE VOLTA PARA CASA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/1c89O2SDPUsGjDSXw-iOlY4Th47KWaR2FOTxCbfdw3ZCFYVU4hNH4dNHsG9XTDlGCgtq3ycq2OxyWJ-kXA=m22:De Volta para Casa
+#DESCRIPTION De Volta para Casa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/60-19qm9LAKiaTkypM46ET1i9Ipml-XOPfDkdRRnZmnl5aIb6OPXX0LJGQnepqXSVQALX7sS_A=m22:Decisão de Risco
+#DESCRIPTION Decisão de Risco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/OCODSMP90h6VsxnjlFiWnn5a4w27d3TJH_duMrbQt_anirF7JqEoM5dxvPCwytWIX4Y0YH5TYqEpyEUu=m18:Desafiando Gigantes
+#DESCRIPTION Desafiando Gigantes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4?STANIPTV:Desafio Radical
+#DESCRIPTION Desafio Radical
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4?STANIPTV:Desaparecidas
+#DESCRIPTION Desaparecidas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?STANIPTV:Desejo a Tres
+#DESCRIPTION Desejo a Tres
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Desencanto1945Leg/Desencanto%201945%20Leg.mp4?STANIPTV:Desencanto (1945)
+#DESCRIPTION Desencanto (1945)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/deusguerra:DEUS DA GUERRA
+#DESCRIPTION DEUS DA GUERRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/6SQ7OaHnhOwKmH2fHBWczRBn0EX4EJTu5uMaGOH-qklqR_v3A8H7HRWqgdPUTVdTy_ocUbKWwbK8IyqPbQ=m22:Deus Não Está Morto 1
+#DESCRIPTION Deus Não Está Morto 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/nkqwP3IQ5_AXLXHL3MbdDwC3MwS-Nuc0fo7e8Kesn6q-Ac3iZI1_yTTjr-psEI7ywbIpbgFHQN6RpQc8=m18:Dinheiro Não é Tudo
+#DESCRIPTION Dinheiro Não é Tudo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4?STANIPTV:Divisao de Homicidios
+#DESCRIPTION Divisao de Homicidios
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4?STANIPTV:Dr. Fantastico
+#DESCRIPTION Dr. Fantastico
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/20nWlaWJsvQG_JczbVAfko5CEYBx9bDEKUtczfobbS32bLMPEGpzesSSfLm8ac9WcESuZ-0b0E36ThD0=m22:Duas de Mim
+#DESCRIPTION Duas de Mim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?STANIPTV:Superbad - E Hoje
+#DESCRIPTION Superbad - E Hoje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?STANIPTV:Superbad - E Hoje
+#DESCRIPTION Superbad - E Hoje
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/TMNAxgtMp8HHliRUgHvBfGtvijord4-yKZKztgO8JZmFmrRs9VRtEKMNHFWKIiajEwcY6RLi0JQjNvMSkA=m37:Em Busca de Vingança
+#DESCRIPTION Em Busca de Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4?STANIPTV:Encontros ao Acaso
+#DESCRIPTION Encontros ao Acaso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4?STANIPTV:Enquanto Ela Estiver Fora
+#DESCRIPTION Enquanto Ela Estiver Fora
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4?STANIPTV:Equilibrio
+#DESCRIPTION Equilibrio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/dkwcaU2Dhn7UFZXeFKD9jDkxcWBn87M1hE2awbVIeM5RE9PqTZoEGd5GQ-56Tur0otzcCoVbtaGRvvbklw=m22:Escola De Rock
+#DESCRIPTION Escola De Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCLDRCK.mp4?STANIPTV:Escola de Rock (2004)
+#DESCRIPTION Escola de Rock (2004)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCNDS.mp4?STANIPTV:Escondidos (2015)
+#DESCRIPTION Escondidos (2015)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ESPDDVNGLEG.mp4?STANIPTV:Espada da Vingança
+#DESCRIPTION Espada da Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4?STANIPTV:Espiao Por Acidente
+#DESCRIPTION Espiao Por Acidente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?STANIPTV:XXX2 - Estado de Emergencia
+#DESCRIPTION XXX2 - Estado de Emergencia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?STANIPTV:Estrada Maldita
+#DESCRIPTION Estrada Maldita
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?STANIPTV:Estranha Obsessao
+#DESCRIPTION Estranha Obsessao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/JZo2qZU0jbiz80Ffw7ptmKjUCvYFmSiJDV4n9qgCxbQrLAsSlXIpbprBlSqH7z3kdDVLzBOCKmiaBgzP=m22:Eu Compartilho Eu Gosto Eu Sigo
+#DESCRIPTION Eu Compartilho Eu Gosto Eu Sigo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4?STANIPTV:Eu Minha Mulher e Minhas Copias
+#DESCRIPTION Eu Minha Mulher e Minhas Copias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4?STANIPTV:Eu Sei Quem Me Matou
+#DESCRIPTION Eu Sei Quem Me Matou
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/al/519wb_480p.mp4?STANIPTV:Excesso de Bagagem
+#DESCRIPTION Excesso de Bagagem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4?STANIPTV:eXistenZ
+#DESCRIPTION eXistenZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/3Mf5nEop4u8NpuTOP6XBirzVeBw0of7D-12Yy1eRHmZjYyYg-pyVE1820cbsOB_nV23PomGc0-L2HNGq=m22:Fala Comigo
+#DESCRIPTION Fala Comigo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?STANIPTV:Fantasmas de Marte
+#DESCRIPTION Fantasmas de Marte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?STANIPTV:Feitico da Lua
+#DESCRIPTION Feitico da Lua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4?STANIPTV:Feitico do Tempo
+#DESCRIPTION Feitico do Tempo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4?STANIPTV:FEMME FATAL
+#DESCRIPTION FEMME FATAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4?STANIPTV:Almondegas 4 - Ferias de Verao
+#DESCRIPTION Almondegas 4 - Ferias de Verao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/zWunhuvrzL9VRDr1o2EFemtrqzulhp1MDg8wboS6SYPY_qp7BGadkUWvCdyukMg1alDs5RfjurYBjiIv=m22:Filme da Minha Vida
+#DESCRIPTION Filme da Minha Vida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/56/av1lf_480p.mp4?STANIPTV:Forasteiro 2
+#DESCRIPTION Forasteiro 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/ndElT-obKDIHYjekqbPhdK0K1Z8EMQ_MRUrxUrLgnnHNjBFEBg5XeQa-d5hRECWRFPMer1SCoogeU_5C=m22:Frankenweenie
+#DESCRIPTION Frankenweenie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?STANIPTV:Fuga de Absolom
+#DESCRIPTION Fuga de Absolom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?STANIPTV:Funcionario do Mes
+#DESCRIPTION Funcionario do Mes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4?STANIPTV:Funny Lady
+#DESCRIPTION Funny Lady
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?STANIPTV:Garotas Selvagens 4
+#DESCRIPTION Garotas Selvagens 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4?STANIPTV:Godzilla (1998)
+#DESCRIPTION Godzilla (1998)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/invlf_480p.mp4?STANIPTV:Grande Anjo Negro
+#DESCRIPTION Grande Anjo Negro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4?STANIPTV:Grande Hotel
+#DESCRIPTION Grande Hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4?STANIPTV:Greta
+#DESCRIPTION Greta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?STANIPTV:Grito 2
+#DESCRIPTION Grito 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/am/pddyb_480p.mp4?STANIPTV:Guardiao
+#DESCRIPTION Guardiao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4?STANIPTV:Guerra ao Terror
+#DESCRIPTION Guerra ao Terror
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4?STANIPTV:Ong-Bak - Guerreiro Sagrado
+#DESCRIPTION Ong-Bak - Guerreiro Sagrado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/aHHLQRplEnDOCO_S_RhSfw3rAZ0oMWtTW7InvtJxnYJDsHmQrwpuEMMH2rgflznVHEigfxIsvEnM1Z6nbA=m22:Gângster
+#DESCRIPTION Gângster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/96/631lf_480p.mp4?STANIPTV:Hancock
+#DESCRIPTION Hancock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4?STANIPTV:Haven
+#DESCRIPTION Haven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/12-03/AssassinatoNoExpressoOriente.mp4?STANIPTV:ASSASSINATO NO EXPRESSO DO ORIENTE - HD (2017)
+#DESCRIPTION ASSASSINATO NO EXPRESSO DO ORIENTE - HD (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/96/w01lf_480p.mp4?STANIPTV:Herois
+#DESCRIPTION Herois
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4?STANIPTV:HIT AND RUN
+#DESCRIPTION HIT AND RUN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4?STANIPTV:Homen Sombra
+#DESCRIPTION Homen Sombra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?STANIPTV:Homens Perigosos
+#DESCRIPTION Homens Perigosos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/11-03/Honra%20ao%20M%C3%A9rito%202018%20720p%20DUBLADO.mp4:Honra ao Mérito
+#DESCRIPTION Honra ao Mérito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Honra_De_Ladrao_1957_Leg/Honra_De_Ladrao_1957_Leg.mp4?STANIPTV:Honra de Ladrão (1957)
+#DESCRIPTION Honra de Ladrão (1957)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4?STANIPTV:Hooligans: Furia nos campos
+#DESCRIPTION Hooligans: Furia nos campos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4?STANIPTV:Horas de Desespero
+#DESCRIPTION Horas de Desespero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4?STANIPTV:Horas de Desespero
+#DESCRIPTION Horas de Desespero
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4?STANIPTV:Hotel Ruanda
+#DESCRIPTION Hotel Ruanda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601504.us.archive.org/32/items/luaAmor/luaAmor.mp4?STANIPTV:luaAmor - https://archive.org/details/luaAmor
+#DESCRIPTION luaAmor - https://archive.org/details/luaAmor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?STANIPTV:Identidade
+#DESCRIPTION Identidade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4?STANIPTV:Ilusionista
+#DESCRIPTION Ilusionista
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4?STANIPTV:Impacto Mortal
+#DESCRIPTION Impacto Mortal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Imperio_Do_Crime_1955_Leg/Imperio_Do_Crime_1955_Leg.mp4?STANIPTV:Império do Crime (1955)
+#DESCRIPTION Império do Crime (1955)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/ou1OWl_kz13A8D7f5W5PyhF4Bj-4Q1t47sKsaOU-EMNAhTU1kxnmZH0bLSmXLU-W-UmLlw5fMboidQrbIQ=m22:Incrível Hulk
+#DESCRIPTION Incrível Hulk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSINFTRDS.mp4?STANIPTV:INFILTRADOS (2006)
+#DESCRIPTION INFILTRADOS (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/12EPrpU6pGmlrbcSzgAkfZHct__B9zC91?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:Infratores
+#DESCRIPTION Infratores
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4?STANIPTV:Inocente Ou Culpado
+#DESCRIPTION Inocente Ou Culpado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4?STANIPTV:Inquilino
+#DESCRIPTION Inquilino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?STANIPTV:Ironias do Amor
+#DESCRIPTION Ironias do Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4?STANIPTV:JCVD
+#DESCRIPTION JCVD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4?STANIPTV:Jogando com Prazer
+#DESCRIPTION Jogando com Prazer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4?STANIPTV:Jogos Trapacas E Dois Canos Fumegantes
+#DESCRIPTION Jogos Trapacas E Dois Canos Fumegantes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?STANIPTV:Jogue a Mamae do Trem
+#DESCRIPTION Jogue a Mamae do Trem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?STANIPTV:Jovens Bruxas
+#DESCRIPTION Jovens Bruxas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/im/ordyb_480p.mp4?STANIPTV:Julgamento de Paris
+#DESCRIPTION Julgamento de Paris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4?STANIPTV:Julie &amp; Julia
+#DESCRIPTION Julie &amp; Julia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?STANIPTV:Juno
+#DESCRIPTION Juno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?STANIPTV:KUNG FU HUSTLE
+#DESCRIPTION KUNG FU HUSTLE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4?STANIPTV:Kung-Fu Futebol Clube
+#DESCRIPTION Kung-Fu Futebol Clube
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?STANIPTV:Lawrence da Arabia (iNGiLiZ Pici)
+#DESCRIPTION Lawrence da Arabia (iNGiLiZ Pici)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4?STANIPTV:Legionario
+#DESCRIPTION Legionario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?STANIPTV:Lembrancas de Hollywood
+#DESCRIPTION Lembrancas de Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4?STANIPTV:Lenda Urbana 2
+#DESCRIPTION Lenda Urbana 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4?STANIPTV:Lendas da Paixao
+#DESCRIPTION Lendas da Paixao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4?STANIPTV:Lua de Mel em Las Vegas
+#DESCRIPTION Lua de Mel em Las Vegas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4?STANIPTV:Luta Pela Liberdade
+#DESCRIPTION Luta Pela Liberdade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/96/a41lf_480p.mp4?STANIPTV:Mal Posso Esperar
+#DESCRIPTION Mal Posso Esperar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/jEXKpf62Hy4mVRfXksDsCTGuN7RodFc1tsNISPDejGCZpmgvT5OeS9dYWrWNr9vYUssODCjjTHYVOrvz6xGXWP3EVd2Rra0YiS4aOG2sUQQo6cIGIGMB0RIhNoqTvjJge-A6NM56Esg=m22:Marcados Pela Guerra
+#DESCRIPTION Marcados Pela Guerra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4?STANIPTV:Marcas do passado
+#DESCRIPTION Marcas do passado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/83f_zd98YIzs2Xo5Yb4Fwg54cYXu152uEZakRuB-DQKhAoT59jpojXoSzsWut280jCjyyRpzp8PzlJRU=m22:Matador
+#DESCRIPTION Matador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?STANIPTV:Matador De Aluguel
+#DESCRIPTION Matador De Aluguel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/96/001lf_480p.mp4?STANIPTV:Melhor Amigo da Noiva
+#DESCRIPTION Melhor Amigo da Noiva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4?STANIPTV:Menina Ma.com
+#DESCRIPTION Menina Ma.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4?STANIPTV:Mensageiros
+#DESCRIPTION Mensageiros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4?STANIPTV:Mergulho Radical 2: Os Recifes
+#DESCRIPTION Mergulho Radical 2: Os Recifes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?STANIPTV:Meu Primeiro Amor Parte 2
+#DESCRIPTION Meu Primeiro Amor Parte 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?STANIPTV:Meus Quinze Anos
+#DESCRIPTION Meus Quinze Anos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/8fe7jORyC7OTe3XIOxSa-PDZKyFUYgT4rIUbSE2vcXzgQsU42j6dX0KWMO6aO-BDwM91aY94XGWevjd0=m37:MIB: 2
+#DESCRIPTION MIB: 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4?STANIPTV:Miseraveis
+#DESCRIPTION Miseraveis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/4HBOWj5KP7lCyUft99-gZddN-a_7FgWaxuqrHxlrOSRnfJ2GbzVF1ggJ9TvNFBYbOKeqBwgkFfdkwF02iA=m22:Mississippi Murder
+#DESCRIPTION Mississippi Murder
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/cegonha:MISSÃO CEGONHA
+#DESCRIPTION MISSÃO CEGONHA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4?STANIPTV:Mixed Nuts
+#DESCRIPTION Mixed Nuts
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/O_Monstro_Do_Mar_Revolto_1955_Leg/O_Monstro_Do_Mar_Revolto_1955_Leg.mp4?STANIPTV:Monstro Do Mar Revolto (1955)
+#DESCRIPTION Monstro Do Mar Revolto (1955)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4?STANIPTV:Mulher Solteira Procura
+#DESCRIPTION Mulher Solteira Procura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4?STANIPTV:A Era da Escuridao - Mutant Chronicles
+#DESCRIPTION A Era da Escuridao - Mutant Chronicles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11702/1520074592/file.mp4?X-Plex-Session-Identifier=ue445dzxrd0s1klkneq77ebx&amp;X-Plex-Product=Plex%20Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662%2C1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:Mute
+#DESCRIPTION Mute
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4?STANIPTV:Na Companhia Do Medo
+#DESCRIPTION Na Companhia Do Medo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4?STANIPTV:Nao Adianta Fugir
+#DESCRIPTION Nao Adianta Fugir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4?STANIPTV:Nao e Mais um Besteirol Americano
+#DESCRIPTION Nao e Mais um Besteirol Americano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4?STANIPTV:Nao Sem a Minha Filha
+#DESCRIPTION Nao Sem a Minha Filha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4?STANIPTV:Nas Profundezas Do Mar Sem Fim
+#DESCRIPTION Nas Profundezas Do Mar Sem Fim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4?STANIPTV:Nem Por Cima do Meu Cadaver
+#DESCRIPTION Nem Por Cima do Meu Cadaver
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4?STANIPTV:Nicholas Nickleby
+#DESCRIPTION Nicholas Nickleby
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4?STANIPTV:Nome do Jogo
+#DESCRIPTION Nome do Jogo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?STANIPTV:O ABC do Amor
+#DESCRIPTION O ABC do Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11771/1520060558/file.mp4?X-Plex-Session-Identifier=tgmhwzwl8p9t1wzwh6p8sj6u&amp;X-Plex-Product=Plex%20Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662%2C1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:O Abismo
+#DESCRIPTION O Abismo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4?STANIPTV:O Albergue
+#DESCRIPTION O Albergue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/16/68wlf_480p.mp4?STANIPTV:O Albergue 2
+#DESCRIPTION O Albergue 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c64.vidlox.tv/oudvhpmppbtpyaqxv4zogdbmiltoo4cqscl6q5psxuoxnjmkfx7gyxd356oq/index-v1-a1.m3u8:2019 - O Ano da Extinção
+#DESCRIPTION 2019 - O Ano da Extinção
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4?STANIPTV:Christine - O Carro Assassino
+#DESCRIPTION Christine - O Carro Assassino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4?STANIPTV:Karate Kid 3 - O Desafio Final Filme
+#DESCRIPTION Karate Kid 3 - O Desafio Final Filme
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4?STANIPTV:O Despertar de uma Paixao
+#DESCRIPTION O Despertar de uma Paixao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/-9cfqPA218vf6KPvKLqpEXHkbDRGCM98UK7ugP2BepH4GL9TUUi4a-z_W_B0IajBqSGAr3oBceStj5Uq=m18:O Diabo no banco dos Réus
+#DESCRIPTION O Diabo no banco dos Réus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OFilhoDeFrankenstein1939Leg/O%20Filho%20De%20Frankenstein%201939%20Leg.mp4?STANIPTV:O Filho De Frankenstein (1939)
+#DESCRIPTION O Filho De Frankenstein (1939)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/26-02/Emoji.O.Filme.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?STANIPTV:EMOJI - O FILME (2017)
+#DESCRIPTION EMOJI - O FILME (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4?STANIPTV:Starman - O Homem das Estrelas
+#DESCRIPTION Starman - O Homem das Estrelas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4?STANIPTV:Resident Evil - O Hospede Maldito
+#DESCRIPTION Resident Evil - O Hospede Maldito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4?STANIPTV:Fido - O Mascote
+#DESCRIPTION Fido - O Mascote
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4?STANIPTV:Robocop - O Policial do Futuro
+#DESCRIPTION Robocop - O Policial do Futuro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4?STANIPTV:All That Jazz - O Show Deve Continuar
+#DESCRIPTION All That Jazz - O Show Deve Continuar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Odio_que_Mata_1944_Leg/Odio_que_Mata_1944_Leg.mp4?STANIPTV:Odio que Mata (1944)
+#DESCRIPTION Odio que Mata (1944)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?STANIPTV:8mm - Oito Milimetros
+#DESCRIPTION 8mm - Oito Milimetros
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4?STANIPTV:8mm - Oito Milimetros 2
+#DESCRIPTION 8mm - Oito Milimetros 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?STANIPTV:Oliver!
+#DESCRIPTION Oliver!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?STANIPTV:Oposto do Sexo
+#DESCRIPTION Oposto do Sexo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSNRMASOFLM.mp4?STANIPTV:Os Normais: O Filme (2003)
+#DESCRIPTION Os Normais: O Filme (2003)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSPNTRS.mp4?STANIPTV:Os Penetras (2012)
+#DESCRIPTION Os Penetras (2012)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?STANIPTV:Os Produtores
+#DESCRIPTION Os Produtores
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4?STANIPTV:Os Reis de Dogtown
+#DESCRIPTION Os Reis de Dogtown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/a/16/96wlf_480p.mp4?STANIPTV:Os Safados
+#DESCRIPTION Os Safados
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4?STANIPTV:Otario
+#DESCRIPTION Otario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/ouija2:Ouija: Origem Do Mal (2017)
+#DESCRIPTION Ouija: Origem Do Mal (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4?STANIPTV:Ouro Branco
+#DESCRIPTION Ouro Branco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?STANIPTV:Paizao
+#DESCRIPTION Paizao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4?STANIPTV:Paraiso
+#DESCRIPTION Paraiso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?STANIPTV:Paraiso e Logo Aqui
+#DESCRIPTION Paraiso e Logo Aqui
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4?STANIPTV:Pegar e Largar
+#DESCRIPTION Pegar e Largar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4?STANIPTV:Penelope
+#DESCRIPTION Penelope
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2018/PEQUENALIFEDUB-ALTO.mp4?STANIPTV:Pequena Grande Vida
+#DESCRIPTION Pequena Grande Vida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/perfeitamae:Perfeita é a Mãe 2
+#DESCRIPTION Perfeita é a Mãe 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4?STANIPTV:Persuasao
+#DESCRIPTION Persuasao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Pigmalio1938Leg/Pigmali%C3%A3o%201938%20Leg.mp4?STANIPTV:Pigmalião (1938)
+#DESCRIPTION Pigmalião (1938)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?STANIPTV:Hackers - Piratas de Computador
+#DESCRIPTION Hackers - Piratas de Computador
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4?STANIPTV:Poder e Corrupcao (Dirty)
+#DESCRIPTION Poder e Corrupcao (Dirty)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/13-03/O%20Poder%20e%20o%20Imposs%C3%ADvel%202017%20720p%20DUBLADO.mp4:Poder e o Impossível
+#DESCRIPTION Poder e o Impossível
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4?STANIPTV:Por Amor
+#DESCRIPTION Por Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?STANIPTV:Povo Contra Larry Flynt
+#DESCRIPTION Povo Contra Larry Flynt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4?STANIPTV:Premonicoes
+#DESCRIPTION Premonicoes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4?STANIPTV:Primeira Descida
+#DESCRIPTION Primeira Descida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4?STANIPTV:Principal Suspeito
+#DESCRIPTION Principal Suspeito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4?STANIPTV:Procurando Encrenca
+#DESCRIPTION Procurando Encrenca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR.mp4?STANIPTV:Professor Aloprado (1996)
+#DESCRIPTION Professor Aloprado (1996)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR2.mp4?STANIPTV:Professor Aloprado 2: A Família Klump  (200)
+#DESCRIPTION Professor Aloprado 2: A Família Klump  (200)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www46.uptostream.com/4nvqt28b9d1/720/0/video.mp4:Projeto X
+#DESCRIPTION Projeto X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4?STANIPTV:Provas E Trapacas
+#DESCRIPTION Provas E Trapacas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Perfida_1941_Leg/Perfida_1941_Leg.mp4?STANIPTV:Pérfida (1941)
+#DESCRIPTION Pérfida (1941)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?STANIPTV:Quando um Estranho Chama
+#DESCRIPTION Quando um Estranho Chama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?STANIPTV:Quarentena
+#DESCRIPTION Quarentena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/apfr7iH5EhSqNJIXFUV339gKgxsALx-3KT3J3A8TP2qR5QZPsgOEmSh7uOPrLGqVy6-suEK7kh6R-ksnHB-T3kB-ibB8xEXi11l71zYnA_w_ZJCpvj7ykGYqcCaChTalYUFvd4uc9jJpeLvwAI-sZqQweVFVMIGCwCwaJGe3fDHVdACOZHn16xqKLx7K9uzNxPqNLMNvWTqkWozsKroeiy-yWVzrOp50Utrt3X2Baw2muyTp-nmHeLlbjIooOtpRWQRvdVAfmi2wQuJx9IhUe0Tf_mobhbEI7AYsuJMlwRFBOL4lBD79xAX5yQR4BRV4JGTsf6dHztBOOcvpYhDBUf33Z0bXb_zpkmen83Ilhv3vO0E_kVrouVntgFqNlnGjediS_YMKjjgPHSbYYpizEbp7qIFs3oUXroAIf5eBRXmJNko-hYviWgR8uPbLBpf0McqXYhP70Tsb4J0GhLykUD92uRoacrGoniB-wEsYwMLB9HlXtlOWXLanqRa5thRM2UPrGmg36G3wM_LYTiLBoF_zgwIh4-pS9LzV7e_GIqnc3JgjnF-kolYow7uGVhLJO4fQKHq7XEQdayVCgscuV2yNqxwag5xq4witcrADrXmjjl74uARKT57JDVwbW_Lx9_lZzsemXURnXL0-bofRSZqoJtAl76hUaw_6sOydHhKOBA=m22:QUARTO DE GUERRA
+#DESCRIPTION QUARTO DE GUERRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4?STANIPTV:Quase Ilegal
+#DESCRIPTION Quase Ilegal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4?STANIPTV:QUATRO VIDAS CACHORRO
+#DESCRIPTION QUATRO VIDAS CACHORRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4:QUATRO VIDAS DE UM CACHORRO
+#DESCRIPTION QUATRO VIDAS DE UM CACHORRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4?STANIPTV:QUE SERÁ DE NOZES? (2014)
+#DESCRIPTION QUE SERÁ DE NOZES? (2014)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4?STANIPTV:Rain Man
+#DESCRIPTION Rain Man
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4?STANIPTV:Rancho do Amor
+#DESCRIPTION Rancho do Amor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/3IaNFU8ucJ57oUbdqR8JwQoPs7emjb6xEgB0rDVFKe9rHKsUFFqJ5GaL3jXhoKpcyQwLL4Syg0jG2y0u=m22:Rastro
+#DESCRIPTION Rastro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/xxx:REATIVADO
+#DESCRIPTION REATIVADO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4?STANIPTV:REC
+#DESCRIPTION REC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4?STANIPTV:Red Corner
+#DESCRIPTION Red Corner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4?STANIPTV:Rede de Intrigas
+#DESCRIPTION Rede de Intrigas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4?STANIPTV:Redline: Velocidade sem Limites
+#DESCRIPTION Redline: Velocidade sem Limites
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4?STANIPTV:Soldado Universal 3 - Regeneracao
+#DESCRIPTION Soldado Universal 3 - Regeneracao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORGRSOLEG.mp4?STANIPTV:Regresso
+#DESCRIPTION Regresso
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO01.mp4?STANIPTV:REI LEÃO (1994)
+#DESCRIPTION REI LEÃO (1994)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO02.mp4?STANIPTV:REI LEÃO 2: O REINO DE SIMBA (1998)
+#DESCRIPTION REI LEÃO 2: O REINO DE SIMBA (1998)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO03.mp4?STANIPTV:REI LEÃO 3: HAKUNA MATATA (2004)
+#DESCRIPTION REI LEÃO 3: HAKUNA MATATA (2004)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4?STANIPTV:Replicante
+#DESCRIPTION Replicante
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4?STANIPTV:Resgate de um Campeao
+#DESCRIPTION Resgate de um Campeao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4?STANIPTV:Resident Evil 3: A Extincao
+#DESCRIPTION Resident Evil 3: A Extincao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/REESILEG-BAIXO.mp4?STANIPTV:Resident Evil 6:O Capítulo Final LEG
+#DESCRIPTION Resident Evil 6:O Capítulo Final LEG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2017/EVILDUB2017-BAIXO.mp4?STANIPTV:Resident Evil Vendetta DUB
+#DESCRIPTION Resident Evil Vendetta DUB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2017/321123-BAIXO.mp4?STANIPTV:Resident Evil Vendetta LEG
+#DESCRIPTION Resident Evil Vendetta LEG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/XJkC1xawf4qra9yBAXGEOn6G7RS5e38mbIb6aa0n6enrszyHFm-l7UPL0sCs6febsQtojvgS1wAzQ41sYA=m22:Resident Evil: A Vingança
+#DESCRIPTION Resident Evil: A Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4?STANIPTV:Rios Vermelhos
+#DESCRIPTION Rios Vermelhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4?STANIPTV:Risco Absoluto
+#DESCRIPTION Risco Absoluto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RTMDUMSNHO.mp4?STANIPTV:RITMO DE UM SONHO (2005)
+#DESCRIPTION RITMO DE UM SONHO (2005)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/RTMTOTL.mp4?STANIPTV:Ritmo Total (2002)
+#DESCRIPTION Ritmo Total (2002)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4?STANIPTV:Ritual
+#DESCRIPTION Ritual
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4?STANIPTV:RoboCop 2
+#DESCRIPTION RoboCop 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4?STANIPTV:Robocop 3
+#DESCRIPTION Robocop 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/qV8dn6_guOoxNqCcf1mHqYBaTcUDzrz1OqunIeIMjVErPUOoM4XL0yUtW3lWAjDh-AHW-PZnxc36gjvIxw=m22:Rock Star
+#DESCRIPTION Rock Star
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4?STANIPTV:Rocky Balboa
+#DESCRIPTION Rocky Balboa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/OMQZxAQrbytTPFOIYmIsSd2hv4tW5fnOOFRgx0-2l4jAkvfsjjbaEXyil4h6zs8kJA2wGUNINTxE5m9l=m22:Rudy
+#DESCRIPTION Rudy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4?STANIPTV:Sacrifício
+#DESCRIPTION Sacrifício
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4:Sacrifício (2017)
+#DESCRIPTION Sacrifício (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601500.us.archive.org/35/items/luaSaara/luaSaara.mp4:Sahara
+#DESCRIPTION Sahara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4?STANIPTV:Sangue de Romeo
+#DESCRIPTION Sangue de Romeo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSapatinhoDeCristal1955Dubl/O%20Sapatinho%20De%20Cristal%201955%20Dubl.mp4?STANIPTV:Sapatinho De Cristal (1955)
+#DESCRIPTION Sapatinho De Cristal (1955)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSargentoImortal1943Leg/O%20Sargento%20Imortal%201943%20Leg.mp4?STANIPTV:Sargento Imortal (1943)
+#DESCRIPTION Sargento Imortal (1943)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4?STANIPTV:Secretaria
+#DESCRIPTION Secretaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4?STANIPTV:Secretaria
+#DESCRIPTION Secretaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4?STANIPTV:Seducao Fatal
+#DESCRIPTION Seducao Fatal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?STANIPTV:Sedutora e diabolica
+#DESCRIPTION Sedutora e diabolica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4?STANIPTV:Segredo de Brokeback Mountain
+#DESCRIPTION Segredo de Brokeback Mountain
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSegredoDoCapitaoOHara1968Leg/O%20Segredo%20do%20Capit%C3%A3o%20O%20Hara%201968%20Leg.mp4?STANIPTV:Segredo Do Capitão OHara (1968)
+#DESCRIPTION Segredo Do Capitão OHara (1968)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?STANIPTV:Segundas Intencoes 3
+#DESCRIPTION Segundas Intencoes 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4?STANIPTV:Segurando As Pontas
+#DESCRIPTION Segurando As Pontas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4?STANIPTV:Seis Graus de Separacao
+#DESCRIPTION Seis Graus de Separacao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4?STANIPTV:Sem Saida
+#DESCRIPTION Sem Saida
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?STANIPTV:Sem Vestigios
+#DESCRIPTION Sem Vestigios
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?STANIPTV:Sem Vestigios
+#DESCRIPTION Sem Vestigios
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4?STANIPTV:Senhor das Armas
+#DESCRIPTION Senhor das Armas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4?STANIPTV:Sequestro do Metro 123
+#DESCRIPTION Sequestro do Metro 123
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4?STANIPTV:Sete Vidas
+#DESCRIPTION Sete Vidas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4?STANIPTV:Sexo Mentiras e Videotape
+#DESCRIPTION Sexo Mentiras e Videotape
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/ZGZdK5okbuDK0Df-hdsz2MmGdoq2V2SViwnv7532N1o92vwDr38NO6GTmrykdD2ZGq3t4ih2WVyr1hXwxA=m22:Shrek
+#DESCRIPTION Shrek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/oYrJbsAg9HFVQNilaUZdxjhxnRXXzeLxhd27itcKcv0s53WkRukMGR7ciYT8167bjmOKct9ayhR9dq3Saw=m22:Shrek 2
+#DESCRIPTION Shrek 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/h2i6QcsiPTyTULyXhf5YoRdBtmllfSnDl3vcgPvXrpw5yQm0oUR2Gd6-0qHsm0qzAgNj0EUjhBvbxoF0UA=m22:Shrek Para Sempre
+#DESCRIPTION Shrek Para Sempre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/Pqkx8Hzjpo7x7Hltk1NiaM4hYi1bB1IoTGkhEpHXnYo1yCNL8jKZTClX-gCO5nZnmFOsvS11h4DmXKp6Aw=m22:Shrek Terceiro
+#DESCRIPTION Shrek Terceiro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4?STANIPTV:Silent Hill: Revelacao
+#DESCRIPTION Silent Hill: Revelacao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4?STANIPTV:Simplesmente Alice
+#DESCRIPTION Simplesmente Alice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4?STANIPTV:Sob Suspeita (2006)
+#DESCRIPTION Sob Suspeita (2006)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4?STANIPTV:Sociedade Feroz
+#DESCRIPTION Sociedade Feroz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4?STANIPTV:Solteira Procura 2
+#DESCRIPTION Solteira Procura 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4?STANIPTV:Sou Espiao
+#DESCRIPTION Sou Espiao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?STANIPTV:Stigmata
+#DESCRIPTION Stigmata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?STANIPTV:Stigmata
+#DESCRIPTION Stigmata
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4?STANIPTV:Studio 54
+#DESCRIPTION Studio 54
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4?STANIPTV:Supernova
+#DESCRIPTION Supernova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4?STANIPTV:Tango e o Assassino
+#DESCRIPTION Tango e o Assassino
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4?STANIPTV:TEARS OF SUN
+#DESCRIPTION TEARS OF SUN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4?STANIPTV:Tempos de Violencia
+#DESCRIPTION Tempos de Violencia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4?STANIPTV:Tentaculos
+#DESCRIPTION Tentaculos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/Tomb%20Raider.A%20Origem.2018.HDTS.720p.Dublado.mp4:Tomb Raider: A Origem
+#DESCRIPTION Tomb Raider: A Origem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4?STANIPTV:Torturado
+#DESCRIPTION Torturado
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?STANIPTV:Trabalho Sujo
+#DESCRIPTION Trabalho Sujo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4?STANIPTV:Tres Amigos!
+#DESCRIPTION Tres Amigos!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?STANIPTV:Tres Mulheres Tres Amores
+#DESCRIPTION Tres Mulheres Tres Amores
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/96/831lf_480p.mp4?STANIPTV:Triplo X
+#DESCRIPTION Triplo X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/trolls:TROLLS VAMOS FESTEJAR
+#DESCRIPTION TROLLS VAMOS FESTEJAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4?STANIPTV:Turistas
+#DESCRIPTION Turistas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?STANIPTV:Ultimo Grande Heroi
+#DESCRIPTION Ultimo Grande Heroi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?STANIPTV:Um Amor de Verao
+#DESCRIPTION Um Amor de Verao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4?STANIPTV:Um Ato de '
+#DESCRIPTION Um Ato de '
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/96/p01lf_480p.mp4?STANIPTV:Um Criminoso Decente
+#DESCRIPTION Um Criminoso Decente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4?STANIPTV:Um Homem Bom
+#DESCRIPTION Um Homem Bom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4?STANIPTV:Um homem fora de serie
+#DESCRIPTION Um homem fora de serie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4?STANIPTV:Um Peixe Chamado Wanda
+#DESCRIPTION Um Peixe Chamado Wanda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/umreino:UM REINO UNIDO
+#DESCRIPTION UM REINO UNIDO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV:Um Salao do Barulho
+#DESCRIPTION Um Salao do Barulho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4?STANIPTV:Um Segredo Entre Nos
+#DESCRIPTION Um Segredo Entre Nos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/umaagente:UMA AGENTE MUITO LOUCA
+#DESCRIPTION UMA AGENTE MUITO LOUCA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV:Uma Beleza de Salao
+#DESCRIPTION Uma Beleza de Salao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV:Uma Beleza de Salao
+#DESCRIPTION Uma Beleza de Salao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?STANIPTV:Uma Festa no Ar
+#DESCRIPTION Uma Festa no Ar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/12-03/Uma%20Floresta%20Muito%20Louca%20%C2%ABPlayer%20TheVid%C2%BB.mp4:Uma Floresta Muito Louca
+#DESCRIPTION Uma Floresta Muito Louca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4?STANIPTV:Uma Garota Encantada
+#DESCRIPTION Uma Garota Encantada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?STANIPTV:Erin Brockovich - Uma Mulher de Talento
+#DESCRIPTION Erin Brockovich - Uma Mulher de Talento
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/ZPuG_NNUpYUdTdtYiWe5J51gW4o_nuRByL8lSfgokiEKAE-NV67UxJFB0GcIEGWTGAcww5dV0LI45Tuo_A=m22:Uma Noite no Museu 2
+#DESCRIPTION Uma Noite no Museu 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4?STANIPTV:Uma Noiva e Tanto
+#DESCRIPTION Uma Noiva e Tanto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?STANIPTV:Uma Turma Do Barulho
+#DESCRIPTION Uma Turma Do Barulho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?STANIPTV:Uma Turma Do Barulho
+#DESCRIPTION Uma Turma Do Barulho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4?STANIPTV:Kalifornia - Uma Viagem ao Inferno
+#DESCRIPTION Kalifornia - Uma Viagem ao Inferno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4?STANIPTV:Vamos Nessa
+#DESCRIPTION Vamos Nessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2017/VENDEDORSONHOS-BAIXO.mp4:Vendedor de Sonhos
+#DESCRIPTION Vendedor de Sonhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4?STANIPTV:Vestida Para Matar
+#DESCRIPTION Vestida Para Matar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/96/b41lf_480p.mp4?STANIPTV:Vestigios do Dia
+#DESCRIPTION Vestigios do Dia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4?STANIPTV:Viciado em Sexo
+#DESCRIPTION Viciado em Sexo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4?STANIPTV:Vidas Que Se Cruzam
+#DESCRIPTION Vidas Que Se Cruzam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4?STANIPTV:Vigarista do ano
+#DESCRIPTION Vigarista do ano
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/O_Vingador_Invisivel_1945_Leg/O_Vingador_Invisivel_1945_Leg.mp4?STANIPTV:Vingador Invisível (1945)
+#DESCRIPTION Vingador Invisível (1945)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4?STANIPTV:Vinganca
+#DESCRIPTION Vinganca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4?STANIPTV:Ruslan - Vinganca Explosiva
+#DESCRIPTION Ruslan - Vinganca Explosiva
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4?STANIPTV:Violacao de Privacidade
+#DESCRIPTION Violacao de Privacidade
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/RVxj49GnEgmBql0ctwVOA9p2uigwx4K9ce20xDakrBuPgiBvrjzdf09xKBsZKj7GG6ajETKXQ1V2pEoU=m22:Vizinhos 2
+#DESCRIPTION Vizinhos 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/vizinhosnada:Vizinhos Nada Secretos (2017)
+#DESCRIPTION Vizinhos Nada Secretos (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4?STANIPTV:Vou Te Pegar Otario
+#DESCRIPTION Vou Te Pegar Otario
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OVooDoFenix1965Leg/O%20V%C3%B4o%20do%20F%C3%AAnix%201965%20Leg.mp4?STANIPTV:Vôo Do Fênix (1965)
+#DESCRIPTION Vôo Do Fênix (1965)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4?STANIPTV:Wasabi
+#DESCRIPTION Wasabi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/zonafria:ZONA FRIA
+#DESCRIPTION ZONA FRIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/eJV9eI1dMOgjPLQG2LpTqKlyukzBXheG6cveqGwDYOhe-KPfACaXdmuhdE75EDDplmMvGASRbaBNVeJCGg=m18:Último Presente
+#DESCRIPTION Último Presente
 #SERVICE 1:64:98:0:0:0:0:0:0:0::Chıness_VOD
 #DESCRIPTION Chıness_VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ws4.streamhls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-1516540856-1_1200/playlist.m3u8:LinZhengYing
