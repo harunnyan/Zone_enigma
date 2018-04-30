@@ -337,6 +337,16 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1,Sportklub HD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,BT Sport 1
+http://185.53.163.205:2700
+#EXTINF:-1,BT Sport 2
+http://185.53.163.205:2506
+#EXTINF:-1,BT Sport 3
+http://185.53.163.205:2701
+#EXTINF:-1,BT Sport ESPN
+http://185.53.163.205:2507
+#EXTINF:-1,LIVE MOTOR SPORT
+http://45.58.62.92:8084
 #EXTINF:-1,FS 1
 http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
 #EXTINF:-1,FS 2
@@ -2526,12 +2536,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?tecnotv.info?iptv.
 http://184.173.179.163:1935/8022/8022/chunklist_w205828107.m3u8
 #EXTINF:-1,****((ReMy_MUSIC_CHANNELS))****
 ****((ReMy_MUSIC_CHANNELS))****
-#EXTINF:-1 tvg-id="1b126fc6115faa889e809b4971416ea4",Trace Urban HD
-http://188.62.183.163:9981/stream/channelid/1181684251?ticket=39E21F3ECBD0598B7E9F6F582B6882E518C97278&profile=pass
-#EXTINF:-1 tvg-id="7a9d62cf0e5493e1c3daad8fa75a7370",MTV Hits France HD
-http://188.62.183.163:9981/stream/channelid/1331862906?ticket=E5E0B96ABCA61CDA7680248F3EFEFF9E87823D6B&profile=pass
-#EXTINF:-1 tvg-id="26137298f20cd9525269f94d7e69e33a",Magic Radio
-http://188.62.183.163:9981/stream/channelid/410129190?ticket=2C6117762BE7983B1923E42E1835D30133A4A4B6&profile=pass
 #EXTINF:-1,TRT MUZIK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1,DREAM TV
@@ -2574,8 +2578,6 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
 #EXTINF:-1,Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:-1,Utv
-http://edge126.rcs-rds.ro/utvedge/utvlivehls/chunklist_w686431265.m3u8
 #EXTINF:-1,Mooz HD 
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Mooz Hits
@@ -2592,44 +2594,16 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:-1,NRJ HITS TV
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,Utv
+http://edge126.rcs-rds.ro/utvedge/utvlivehls/chunklist_w686431265.m3u8
 #EXTINF:-1,U TV
 http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8 
-#EXTINF:-1,538 TV
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8
 #EXTINF:-1,1MUSIC.HU
 http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,1MUSIC.HU
+http://stream.1music.hu/stream/1music.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Hit Music
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,TOP_Music
-http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/428.ts
-#EXTINF:-1,The Voice
-http://stream.1music.hu/stream/1music.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,R&B Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Dance/EDM
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Hip-Hop And R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,MIMUSICA HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Virgin
@@ -2640,8 +2614,6 @@ http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
 http://fms.105.net:1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,PortalFoxMix Tv
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,TV 538 Live
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1,Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1,M2O Music
@@ -2730,10 +2702,6 @@ http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1,Radio Tivu
 http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
-#EXTINF:-1,Slam! TV
-http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1,SLAM
-http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8
 #EXTINF:-1,one by 
 http://rtmp.one.by:1200
 #EXTINF:-1,one by HD
