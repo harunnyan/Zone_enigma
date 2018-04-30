@@ -3085,8 +3085,32 @@
 #DESCRIPTION Viet My TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//live.vietchristian.com/tv:Viet Christian
 #DESCRIPTION Viet Christian
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::##### WebCam Live #####
-#DESCRIPTION ##### WebCam Live #####
+#SERVICE 1:64:AB:0:0:0:0:0:0:0:::::::::::::_WebCam_Live_Turkey_::::::::::
+#DESCRIPTION :::::::::::_WebCam_Live_Turkey_::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/297.stream/chunklist_w1890125726.m3u8:Taksim Canlı Mobesa Kamera
+#DESCRIPTION Taksim Canlı Mobesa Kamera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/297.stream/chunklist_w465599730.m3u8:Gezi Parkı Canlı Mobesa Kamera
+#DESCRIPTION Gezi Parkı Canlı Mobesa Kamera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/174.stream/chunklist_w1933901234.m3u8:Dolmabahçe Taksim İnişi
+#DESCRIPTION Dolmabahçe Taksim İnişi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/263.stream/chunklist_w1316614603.m3u8:Dragos Sahil Yolu
+#DESCRIPTION Dragos Sahil Yolu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/511.stream/chunklist_w1865802364.m3u8:Eyüp Sultan Zalpaşa
+#DESCRIPTION Eyüp Sultan Zalpaşa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/341.stream/chunklist_w805774042.m3u8:Fatih Sultan Mehmet Köprüsü Mobese Kamera
+#DESCRIPTION Fatih Sultan Mehmet Köprüsü Mobese Kamera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/269.stream/chunklist_w118518728.m3u8:Yenikapı Meydanı
+#DESCRIPTION Yenikapı Meydanı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/181.stream/chunklist_w805192527.m3u8:İstanbul Eminönü Canlı Mobese
+#DESCRIPTION İstanbul Eminönü Canlı Mobese
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//erciyeskayak.net%3a1935/live/2.stream/chunklist_w1273461581.m3u8:Kayseri Erciyes Canlı Mobese
+#DESCRIPTION Kayseri Erciyes Canlı Mobese
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.175.207.19%3a1935/canliyayin/Teleferikcam.stream/chunklist_w146153202.m3u8:Denizli Teleferik Mobese
+#DESCRIPTION Denizli Teleferik Mobese
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//konya.sehirkameralari.com/live/52f8ad56da5f9/playlist.m3u8?wowzasessionid=1267090667&token=:Konya Mevlana Meydanı Canlı Mobese
+#DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-i.mncdn.com/sivasbel_tv_live/sivasbel_medrese/chunklist_w1270909238.m3u8:Sivas Kent Meydanı Canlı Mobese
+#DESCRIPTION Sivas Kent Meydanı Canlı Mobese
 #SERVICE 1:64:AC:0:0:0:0:0:0:0::* * * Novi Sad Live * * *
 #DESCRIPTION * * * Novi Sad Live * * *
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
