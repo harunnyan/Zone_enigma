@@ -5,8 +5,6 @@
 #DESCRIPTION BEIN SPORT HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.2.149%3a8081/live/smt11fxo/chunks.m3u8:BEINN
 #DESCRIPTION BEINN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p24.quest123.top%3a8088/live/livin1bein1net/playlist.m3u8?id=98344&wowzasessionid=3001611117&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:bein sports hd
-#DESCRIPTION bein sports hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//103.liveflashplayer.org%3a8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:Bein Sports Hd
 #DESCRIPTION Bein Sports Hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//101.liveflashplayer.org%3a8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3300616798&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:Bein Sports Hd
