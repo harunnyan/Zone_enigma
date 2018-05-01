@@ -7,15 +7,17 @@ https://ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=94802
 #EXTINF:-1,SHOW TV HD
 https://ecanlitvizle1.tvizlehd.com/live_sd/showtv/l_3374629_1970221_213.ts?nimblesessionid=5869485&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjM6NTIgUE0maGFzaF92YWx1ZT0ycDlhcFliTG9sKzBvOHZXV0hsYzNBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,A HABER HD
-https://ecanlitvizle2.tvizlehd.com/live_hd/a_haber/chunks.m3u8?nimblesessionid=948411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTg6MjAgUE0maGFzaF92YWx1ZT0wR0hjWkNoMmptSTdtVjlqbFIxSFJnPT0mdmFsaWRtaW51dGVzPTEw
+https://streaming.kovalchuk.me/turk/ahaber_sd/index.m3u8
+#EXTINF:-0,HABERTÜRK
+https://streaming.kovalchuk.me/turk/haber_turk/index.m3u8
 #EXTINF:-1,DMAX
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/ntv-spor.m3u8
 #EXTINF:-1,DMAX
 http://canli2.tvnet.tv.tr/live/smil:ntvspor.smil/master.m3u8
 #EXTINF:-1,TLC TV HD
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1,TLC TV HD
-https://ecanlitvizle1.tvizlehd.com/live_sd/tlc/chunks.m3u8
+#EXTINF:-1,SONY CHANNEL TV
+http://ams.tvizlehd.com/live/sonychannel/playlist.m3u8
 #EXTINF:-1,CIFTCI TV
 rtmp://151.80.102.86/ciftcitv/bant1
 #EXTINF:-1,CIFTCI TV
@@ -166,6 +168,8 @@ http://217.174.225.146/legacyhls/ch006_400/index.m3u8
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
+#EXTINF:-0,BEIN SPORT HABER
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
 #EXTINF:-1,Bein Sports Hd
 http://103.liveflashplayer.org:8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
 #EXTINF:-1,Bein Sports Hd
@@ -444,6 +448,8 @@ MiniKA COCUK HD
 https://ecanlitvizle1.tvizlehd.com/live_sd/minika_cocuk/chunks.m3u8
 MiniKA GO HD
 https://ecanlitvizle1.tvizlehd.com/live_sd/minika_go/chunks.m3u8
+#EXTINF:-0,DISNEY CHANNEL
+http://ams.tvizlehd.com/live/disneychannel/chunks.m3u8
 #EXTINF:-1, Kidz/Animez
 http://canli2.tvnet.tv.tr/live/smil:kidztv.smil/yetmis6.m3u8
 #EXTINF:-1,Neox Kids ESP
