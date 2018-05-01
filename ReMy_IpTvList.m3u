@@ -2,10 +2,6 @@
 hellastv FASHION GREEK
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
-#EXTINF:-1,ATV HD
-https://ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=948024&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTc6MzAgUE0maGFzaF92YWx1ZT1Zenc2RHZMQ0x4NUEzRmJSV3Zad3d3PT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1,SHOW TV HD
-https://ecanlitvizle1.tvizlehd.com/live_sd/showtv/l_3374629_1970221_213.ts?nimblesessionid=5869485&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjM6NTIgUE0maGFzaF92YWx1ZT0ycDlhcFliTG9sKzBvOHZXV0hsYzNBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1,A HABER HD
 https://streaming.kovalchuk.me/turk/ahaber_sd/index.m3u8
 #EXTINF:-0,HABERTÜRK
@@ -50,28 +46,14 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1,EURO STAR TV
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1,TV 8
-https://ecanlitvizle1.tvizlehd.com/live_hd/TV8/l_3374620_2017703_213.ts?nimblesessionid=5870151&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjQ6NDggUE0maGFzaF92YWx1ZT0wMUV1YXh2VlNveXBUNE5tbDNqWUhnPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1,TV 8
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1524565930&st=mfvD3rhKAR9pUkRAGeT-eg
-#EXTINF:-1,TV 8.5
-https://ecanlitvizle1.tvizlehd.com/live_sd/tv85/chunks.m3u8
-#EXTINF:-1,FOX TV
-https://ecanlitvizle1.tvizlehd.com/live_hd/foxtv/chunks.m3u8
 #EXTINF:-1,Fil TV
 http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
 #EXTINF:-1,FIL TV
 http://canli2.tvnet.tv.tr/live/smil:filtv.smil/chunklist.m3u8
 #EXTINF:-1,NAT GEOGRAPHIC TR
 http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
-#EXTINF:-1,Beyaz Tv
-http://stream-04.dc3.dailymotion.com/53/dm/3/x4kopfq/live-1.m3u8
-#EXTINF:-1,Beyaz Tv HD
-http://stream-04.dc3.dailymotion.com/53/dm/3/x4kopfq/live-3.m3u8
 #EXTINF:-1,teve2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,KANAL 7 HD
-http://yetmis6tv.com/live/kanal7.php/playlist.m3u8
 #EXTINF:-1,TV4
 http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
 #EXTINF:-1,Fortuna TV
