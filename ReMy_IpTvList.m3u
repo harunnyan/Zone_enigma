@@ -1,5 +1,4 @@
 #EXTM3U
-hellastv FASHION GREEK
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
 #EXTINF:-1,A HABER HD
@@ -150,8 +149,12 @@ http://217.174.225.146/legacyhls/ch006_400/index.m3u8
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
+#EXTINF:-0,BEIN
+http://31.220.2.149:8081/live/smt11fxo/chunks.m3u8
 #EXTINF:-0,BEIN SPORT HABER
 http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+#EXTINF:-1,Bein Sports Hd
+http://p24.quest123.top:8088/live/livin1bein1net/playlist.m3u8?id=98344&wowzasessionid=3001611117&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
 #EXTINF:-1,Bein Sports Hd
 http://103.liveflashplayer.org:8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467
 #EXTINF:-1,Bein Sports Hd

@@ -3,6 +3,10 @@
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/beinhaber/chunks.m3u8:BEIN SPORT HABER
 #DESCRIPTION BEIN SPORT HABER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.2.149%3a8081/live/smt11fxo/chunks.m3u8:BEINN
+#DESCRIPTION BEINN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//p24.quest123.top%3a8088/live/livin1bein1net/playlist.m3u8?id=98344&wowzasessionid=3001611117&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:bein sports hd
+#DESCRIPTION bein sports hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//103.liveflashplayer.org%3a8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:Bein Sports Hd
 #DESCRIPTION Bein Sports Hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//101.liveflashplayer.org%3a8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3300616798&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:Bein Sports Hd
@@ -2643,26 +2647,12 @@
 #DESCRIPTION TELETRAK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tengomusica.ddns.net%3a1935/telever/telever.sdp/playlist.m3u8:TELEVER
 #DESCRIPTION TELEVER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8:Todo Deportes
-#DESCRIPTION Todo Deportes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deportes
-#DESCRIPTION Todo Deportes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8:TOP LATINO
 #DESCRIPTION TOP LATINO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
 #DESCRIPTION TOP LATINO MUSICA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowzacontrol.com%3a1935/stream34/stream34/playlist.m3u8:TOREON MEXICO
 #DESCRIPTION TOREON MEXICO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.104%3a1935/travel/community.stream/playlist.m3u8:TRAVEL HD
-#DESCRIPTION TRAVEL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.104%3a1935/travel/community.stream/chunklist_w511463959.m3u8:TravelHD
-#DESCRIPTION TravelHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?tecnotv.info?iptv.m3u8:TRENDY CHANEL
-#DESCRIPTION TRENDY CHANEL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?iptvgratis?chile.m3u8:Trendy Tv
-#DESCRIPTION Trendy Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hlscdn.538.nl/content/538tv/538tv_0.m3u8:TV 538:
-#DESCRIPTION TV 538:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.tecnoxia.com%3a1935/8006/8006/playlist.m3u8:TV CAMPECHE
 #DESCRIPTION TV CAMPECHE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowzaserver.net%3a1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8:TV COSMOS PERU
