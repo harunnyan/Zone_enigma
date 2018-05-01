@@ -1,6 +1,8 @@
 #NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/beinhaber/chunks.m3u8:BEIN SPORT HABER
+#DESCRIPTION BEIN SPORT HABER
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//103.liveflashplayer.org%3a8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3321915548&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:Bein Sports Hd
 #DESCRIPTION Bein Sports Hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//101.liveflashplayer.org%3a8088/zenex/livinbein1net1/playlist.m3u8?id=27838&wowzasessionid=3300616798&pk=90cb77209db91893f44232502ee3aa6a82923a39aa250fde5b2b8a00444cb467:Bein Sports Hd
@@ -19,7 +21,9 @@
 #DESCRIPTION TRT Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
 #DESCRIPTION TJK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8?t=1524729896&h=F4Z7fodN5TzgFXOGrVCEHA%3D%3D:CBC SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/azeri/idman/index.m3u8:IDMAN TV
+#DESCRIPTION IDMAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8?t=1524729896&h=F4Z7fodN5TzgFXOGrVCEHA==:CBC SPORT
 #DESCRIPTION CBC SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.olympicchannel.com/ocs/channel01b/master.m3u8:Olympic Channel HD
 #DESCRIPTION Olympic Channel HD
@@ -2245,7 +2249,7 @@
 #DESCRIPTION DEPORTES:UFC Japones
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.djing.com/tv/ibiza.m3u8:DJING
 #DESCRIPTION DJING
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4:DJPanduroThe80sVideomixVolume1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ Panduro - The 80's Videomix (Volume 1).mp4:DJPanduroThe80sVideomixVolume1
 #DESCRIPTION DJPanduroThe80sVideomixVolume1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream3-lh.akamaihd.net%3a80/i/dwstream3_live@124409/index_5_av-p.m3u8:DW ESP
 #DESCRIPTION DW ESP
@@ -2265,7 +2269,7 @@
 #DESCRIPTION EFEKTO TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:EL GARAGE TV AUTOS
 #DESCRIPTION EL GARAGE TV AUTOS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bajolamascara.universomarvel.com/images/2013/07/Spiderman%20TAS%20R.jpg":EL HOMBRE ARAÑA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bajolamascara.universomarvel.com/images/2013/07/Spiderman TAS R.jpg":EL HOMBRE ARAÑA
 #DESCRIPTION EL HOMBRE ARAÑA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.56.17.92%3a1935/8404/8404/master.m3u8:ENTRETENIMIENTO:Arab Tv
 #DESCRIPTION ENTRETENIMIENTO:Arab Tv
@@ -2703,23 +2707,23 @@
 #DESCRIPTION VENEZUELA:La Tele Tuya
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8:VENEZUELA:TVO
 #DESCRIPTION VENEZUELA:TVO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4:Videomix:SheepMix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ Panduro - SheepMix.mp4:Videomix:SheepMix
 #DESCRIPTION Videomix:SheepMix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4:Videomix:The 90s EurodanceVideomix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ Panduro - The 90's Eurodance Videomix.mp4:Videomix:The 90s EurodanceVideomix
 #DESCRIPTION Videomix:The 90s EurodanceVideomix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4:Videomix:Yearmix2009
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ Panduro - Video Yearmix 2009.mp4:Videomix:Yearmix2009
 #DESCRIPTION Videomix:Yearmix2009
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4:Videomix:Yearmix2010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ Panduro - Video Yearmix 2010.mp4:Videomix:Yearmix2010
 #DESCRIPTION Videomix:Yearmix2010
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4:Videomix:Yearmix2011
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ Panduro & DJ Cool - Video Yearmix 2011 (HD 720).mp4:Videomix:Yearmix2011
 #DESCRIPTION Videomix:Yearmix2011
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4:Videomix:Yearmix2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ Panduro - Video Yearmix 2012.mp4:Videomix:Yearmix2012
 #DESCRIPTION Videomix:Yearmix2012
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4:Videomix:Yearmix2013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ Panduro - Video Yearmix 2013.mp4:Videomix:Yearmix2013
 #DESCRIPTION Videomix:Yearmix2013
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4:Videomix:Yearmix2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ Panduro - Video Yearmix 2014 (HD).mp4:Videomix:Yearmix2014
 #DESCRIPTION Videomix:Yearmix2014
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4:Videomix:Yearmix2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ Panduro - Video Yearmix 2015.mp4:Videomix:Yearmix2015
 #DESCRIPTION Videomix:Yearmix2015
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wow01.105.net/live/virgin1/chunklist_w25732073.m3u8:VIRGIN MUSIC
 #DESCRIPTION VIRGIN MUSIC

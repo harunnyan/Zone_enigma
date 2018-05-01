@@ -3,6 +3,14 @@
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
+#DESCRIPTION TRT1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8:KANAL D HD
+#DESCRIPTION KANAL D HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.86.107.169/iphone/live.m3u8:EURO D
+#DESCRIPTION EURO D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8:STAR HD
+#DESCRIPTION STAR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/disneychannel/chunks.m3u8:DISNEY CHANNEL
 #DESCRIPTION DISNEY CHANNEL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/sonychannel/playlist.m3u8:SONY CHANNEL TV
@@ -11,26 +19,16 @@
 #DESCRIPTION BEIN SPORT HABER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/haber_turk/index.m3u8:HABERTÜRK
 #DESCRIPTION HABERTÜRK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//ecanlitvizle2.tvizlehd.com/live_hd/atv/chunks.m3u8?nimblesessionid=948024&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MTc6MzAgUE0maGFzaF92YWx1ZT1Zenc2RHZMQ0x4NUEzRmJSV3Zad3d3PT0mdmFsaWRtaW51dGVzPTEw:ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD
 #DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_sd/showtv/l_3374629_1970221_213.ts?nimblesessionid=5869485&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjM6NTIgUE0maGFzaF92YWx1ZT0ycDlhcFliTG9sKzBvOHZXV0hsYzNBPT0mdmFsaWRtaW51dGVzPTEw:SHOW TV HD
-#DESCRIPTION SHOW TV HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/ahaber_sd/index.m3u8:A HABER HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/ahaber_sd/index.m3u8:A HABER HD
 #DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:DMAX
 #DESCRIPTION DMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8:TLC TV HD
 #DESCRIPTION TLC TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_sd/tlc/chunks.m3u8:TLC TV HD
-#DESCRIPTION TLC TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
 #DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/TV8/l_3374620_2017703_213.ts?nimblesessionid=5870151&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6MjQ6NDggUE0maGFzaF92YWx1ZT0wMUV1YXh2VlNveXBUNE5tbDNqWUhnPT0mdmFsaWRtaW51dGVzPTEw:TV 8
-#DESCRIPTION TV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1524565930&st=mfvD3rhKAR9pUkRAGeT-eg:TV 8
-#DESCRIPTION TV 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_sd/tv85/chunks.m3u8:TV 8.5
-#DESCRIPTION TV 8.5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//151.80.102.86/ciftcitv/bant1:CIFTCI TV
 #DESCRIPTION CIFTCI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/ciftcitv/bant1:CIFTCI TV
@@ -39,28 +37,12 @@
 #DESCRIPTION KOY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/yattv/yattv.m3u8:YAT TV
 #DESCRIPTION YAT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
-#DESCRIPTION TRT1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD
-#DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8:KANAL D HD
-#DESCRIPTION KANAL D HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.86.107.169/iphone/live.m3u8:EURO D
-#DESCRIPTION EURO D
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8:STAR HD
-#DESCRIPTION STAR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ecanlitvizle1.tvizlehd.com/live_hd/foxtv/chunks.m3u8:FOX TV
-#DESCRIPTION FOX TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-04.dc3.dailymotion.com/53/dm/3/x4kopfq/live-3.m3u8:Beyaz TV HD
-#DESCRIPTION Beyaz TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3afiltv.smil/playlist.m3u8:FIL TV
 #DESCRIPTION FIL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/360tv_live/smil%3a360tv.smil/REMY.m3u8:360 TV
 #DESCRIPTION 360 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/denizhaber/denizhaber.m3u8:NAT GEO
 #DESCRIPTION NAT GEO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live3.canlitv.info%3a1935/live1/yabantv/chunklist_w601872677.m3u8:YABAN TV
-#DESCRIPTION YABAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.sanaltv.com%3a1935/live1/yabantv/playlist.m3u8:YABAN TV
 #DESCRIPTION YABAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8:TRT BELGESEL HD
@@ -451,13 +433,13 @@
 #DESCRIPTION A Síndrome de Berlin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?STANIPTV:Ricky Bobby - A Toda Velocidade
 #DESCRIPTION Ricky Bobby - A Toda Velocidade
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11337/1520026975/file.mp4?X-Plex-Session-Identifier=tgmhwzwl8p9t1wzwh6p8sj6u&amp;X-Plex-Product=Plex%20Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662%2C1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:A Torre Negra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11337/1520026975/file.mp4?X-Plex-Session-Identifier=tgmhwzwl8p9t1wzwh6p8sj6u&amp;X-Plex-Product=Plex Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662,1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:A Torre Negra
 #DESCRIPTION A Torre Negra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4?STANIPTV:A Ultima Missao
 #DESCRIPTION A Ultima Missao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4?STANIPTV:A Ultima Profecia
 #DESCRIPTION A Ultima Profecia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/A%20Vil%C3%A3%202018%20720p%20DUBLADO.mp4:A Vilã
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/A Vilã 2018 720p DUBLADO.mp4:A Vilã
 #DESCRIPTION A Vilã
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?STANIPTV:Lenda Urbana 3 - A Vinganca de Mary
 #DESCRIPTION Lenda Urbana 3 - A Vinganca de Mary
@@ -563,7 +545,7 @@
 #DESCRIPTION Cativeiro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?STANIPTV:Chamado de Xangai
 #DESCRIPTION Chamado de Xangai
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OCisneNegro1942Dubl/O%20Cisne%20Negro%201942%20Dubl.mp4?STANIPTV:Cisne Negro (1942)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OCisneNegro1942Dubl/O Cisne Negro 1942 Dubl.mp4?STANIPTV:Cisne Negro (1942)
 #DESCRIPTION Cisne Negro (1942)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4?STANIPTV:clube de Leitura de Jane Austen
 #DESCRIPTION clube de Leitura de Jane Austen
@@ -615,7 +597,7 @@
 #DESCRIPTION Desaparecidas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?STANIPTV:Desejo a Tres
 #DESCRIPTION Desejo a Tres
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Desencanto1945Leg/Desencanto%201945%20Leg.mp4?STANIPTV:Desencanto (1945)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Desencanto1945Leg/Desencanto 1945 Leg.mp4?STANIPTV:Desencanto (1945)
 #DESCRIPTION Desencanto (1945)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/deusguerra:DEUS DA GUERRA
 #DESCRIPTION DEUS DA GUERRA
@@ -725,7 +707,7 @@
 #DESCRIPTION Homen Sombra
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?STANIPTV:Homens Perigosos
 #DESCRIPTION Homens Perigosos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/11-03/Honra%20ao%20M%C3%A9rito%202018%20720p%20DUBLADO.mp4:Honra ao Mérito
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/11-03/Honra ao Mérito 2018 720p DUBLADO.mp4:Honra ao Mérito
 #DESCRIPTION Honra ao Mérito
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Honra_De_Ladrao_1957_Leg/Honra_De_Ladrao_1957_Leg.mp4?STANIPTV:Honra de Ladrão (1957)
 #DESCRIPTION Honra de Ladrão (1957)
@@ -831,7 +813,7 @@
 #DESCRIPTION Mulher Solteira Procura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4?STANIPTV:A Era da Escuridao - Mutant Chronicles
 #DESCRIPTION A Era da Escuridao - Mutant Chronicles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11702/1520074592/file.mp4?X-Plex-Session-Identifier=ue445dzxrd0s1klkneq77ebx&amp;X-Plex-Product=Plex%20Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662%2C1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:Mute
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11702/1520074592/file.mp4?X-Plex-Session-Identifier=ue445dzxrd0s1klkneq77ebx&amp;X-Plex-Product=Plex Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662,1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:Mute
 #DESCRIPTION Mute
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4?STANIPTV:Na Companhia Do Medo
 #DESCRIPTION Na Companhia Do Medo
@@ -851,7 +833,7 @@
 #DESCRIPTION Nome do Jogo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?STANIPTV:O ABC do Amor
 #DESCRIPTION O ABC do Amor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11771/1520060558/file.mp4?X-Plex-Session-Identifier=tgmhwzwl8p9t1wzwh6p8sj6u&amp;X-Plex-Product=Plex%20Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662%2C1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:O Abismo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//79-137-64-82.45c91ac8fb874b8e931994c95220f8e4.plex.direct%3a32400/library/parts/11771/1520060558/file.mp4?X-Plex-Session-Identifier=tgmhwzwl8p9t1wzwh6p8sj6u&amp;X-Plex-Product=Plex Web&amp;X-Plex-Version=3.39.3&amp;X-Plex-Client-Identifier=3nf3861kil971tcxtec11fg5&amp;X-Plex-Platform=Chrome&amp;X-Plex-Platform-Version=64.0&amp;X-Plex-Sync-Version=2&amp;X-Plex-Device=Windows&amp;X-Plex-Device-Name=Chrome&amp;X-Plex-Device-Screen-Resolution=1280x662,1280x768&amp;X-Plex-Token=5Gt12JNiePVEyRaDuHbj&amp;X-Plex-Provider-Version=1.1&amp;Accept-Language=pt:O Abismo
 #DESCRIPTION O Abismo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4?STANIPTV:O Albergue
 #DESCRIPTION O Albergue
@@ -867,7 +849,7 @@
 #DESCRIPTION O Despertar de uma Paixao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/-9cfqPA218vf6KPvKLqpEXHkbDRGCM98UK7ugP2BepH4GL9TUUi4a-z_W_B0IajBqSGAr3oBceStj5Uq=m18:O Diabo no banco dos Réus
 #DESCRIPTION O Diabo no banco dos Réus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OFilhoDeFrankenstein1939Leg/O%20Filho%20De%20Frankenstein%201939%20Leg.mp4?STANIPTV:O Filho De Frankenstein (1939)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OFilhoDeFrankenstein1939Leg/O Filho De Frankenstein 1939 Leg.mp4?STANIPTV:O Filho De Frankenstein (1939)
 #DESCRIPTION O Filho De Frankenstein (1939)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/26-02/Emoji.O.Filme.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4?STANIPTV:EMOJI - O FILME (2017)
 #DESCRIPTION EMOJI - O FILME (2017)
@@ -923,13 +905,13 @@
 #DESCRIPTION Perfeita é a Mãe 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4?STANIPTV:Persuasao
 #DESCRIPTION Persuasao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Pigmalio1938Leg/Pigmali%C3%A3o%201938%20Leg.mp4?STANIPTV:Pigmalião (1938)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Pigmalio1938Leg/Pigmalião 1938 Leg.mp4?STANIPTV:Pigmalião (1938)
 #DESCRIPTION Pigmalião (1938)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?STANIPTV:Hackers - Piratas de Computador
 #DESCRIPTION Hackers - Piratas de Computador
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4?STANIPTV:Poder e Corrupcao (Dirty)
 #DESCRIPTION Poder e Corrupcao (Dirty)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/13-03/O%20Poder%20e%20o%20Imposs%C3%ADvel%202017%20720p%20DUBLADO.mp4:Poder e o Impossível
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/13-03/O Poder e o Impossível 2017 720p DUBLADO.mp4:Poder e o Impossível
 #DESCRIPTION Poder e o Impossível
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4?STANIPTV:Por Amor
 #DESCRIPTION Por Amor
@@ -1035,9 +1017,9 @@
 #DESCRIPTION Sahara
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4?STANIPTV:Sangue de Romeo
 #DESCRIPTION Sangue de Romeo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSapatinhoDeCristal1955Dubl/O%20Sapatinho%20De%20Cristal%201955%20Dubl.mp4?STANIPTV:Sapatinho De Cristal (1955)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSapatinhoDeCristal1955Dubl/O Sapatinho De Cristal 1955 Dubl.mp4?STANIPTV:Sapatinho De Cristal (1955)
 #DESCRIPTION Sapatinho De Cristal (1955)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSargentoImortal1943Leg/O%20Sargento%20Imortal%201943%20Leg.mp4?STANIPTV:Sargento Imortal (1943)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSargentoImortal1943Leg/O Sargento Imortal 1943 Leg.mp4?STANIPTV:Sargento Imortal (1943)
 #DESCRIPTION Sargento Imortal (1943)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4?STANIPTV:Secretaria
 #DESCRIPTION Secretaria
@@ -1049,7 +1031,7 @@
 #DESCRIPTION Sedutora e diabolica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4?STANIPTV:Segredo de Brokeback Mountain
 #DESCRIPTION Segredo de Brokeback Mountain
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSegredoDoCapitaoOHara1968Leg/O%20Segredo%20do%20Capit%C3%A3o%20O%20Hara%201968%20Leg.mp4?STANIPTV:Segredo Do Capitão OHara (1968)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OSegredoDoCapitaoOHara1968Leg/O Segredo do Capitão O Hara 1968 Leg.mp4?STANIPTV:Segredo Do Capitão OHara (1968)
 #DESCRIPTION Segredo Do Capitão OHara (1968)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?STANIPTV:Segundas Intencoes 3
 #DESCRIPTION Segundas Intencoes 3
@@ -1107,7 +1089,7 @@
 #DESCRIPTION Tempos de Violencia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4?STANIPTV:Tentaculos
 #DESCRIPTION Tentaculos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/Tomb%20Raider.A%20Origem.2018.HDTS.720p.Dublado.mp4:Tomb Raider: A Origem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/Tomb Raider.A Origem.2018.HDTS.720p.Dublado.mp4:Tomb Raider: A Origem
 #DESCRIPTION Tomb Raider: A Origem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4?STANIPTV:Torturado
 #DESCRIPTION Torturado
@@ -1151,7 +1133,7 @@
 #DESCRIPTION Uma Beleza de Salao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?STANIPTV:Uma Festa no Ar
 #DESCRIPTION Uma Festa no Ar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/12-03/Uma%20Floresta%20Muito%20Louca%20%C2%ABPlayer%20TheVid%C2%BB.mp4:Uma Floresta Muito Louca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/12-03/Uma Floresta Muito Louca «Player TheVid».mp4:Uma Floresta Muito Louca
 #DESCRIPTION Uma Floresta Muito Louca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4?STANIPTV:Uma Garota Encantada
 #DESCRIPTION Uma Garota Encantada
@@ -1195,7 +1177,7 @@
 #DESCRIPTION Vizinhos Nada Secretos (2017)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4?STANIPTV:Vou Te Pegar Otario
 #DESCRIPTION Vou Te Pegar Otario
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OVooDoFenix1965Leg/O%20V%C3%B4o%20do%20F%C3%AAnix%201965%20Leg.mp4?STANIPTV:Vôo Do Fênix (1965)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/OVooDoFenix1965Leg/O Vôo do Fênix 1965 Leg.mp4?STANIPTV:Vôo Do Fênix (1965)
 #DESCRIPTION Vôo Do Fênix (1965)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4?STANIPTV:Wasabi
 #DESCRIPTION Wasabi
