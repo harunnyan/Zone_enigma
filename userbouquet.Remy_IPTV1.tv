@@ -719,8 +719,8 @@
 #DESCRIPTION Horas de Desespero
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4?STANIPTV:Hotel Ruanda
 #DESCRIPTION Hotel Ruanda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601504.us.archive.org/32/items/luaAmor/luaAmor.mp4?STANIPTV:luaAmor - https://archive.org/details/luaAmor
-#DESCRIPTION luaAmor - https://archive.org/details/luaAmor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601504.us.archive.org/32/items/luaAmor/luaAmor.mp4?STANIPTV:luaAmor
+#DESCRIPTION luaAmor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?STANIPTV:Identidade
 #DESCRIPTION Identidade
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4?STANIPTV:Ilusionista
