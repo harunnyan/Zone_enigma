@@ -407,12 +407,6 @@ rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA4
 rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA5
 #EXTINF:-1,****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
-#EXTINF:-1,CARTOON NETWORK HD
-https://ecanlitvizle1.tvizlehd.com/live_sd/cartoonnetwork/chunks.m3u8
-MiniKA COCUK HD
-https://ecanlitvizle1.tvizlehd.com/live_sd/minika_cocuk/chunks.m3u8
-MiniKA GO HD
-https://ecanlitvizle1.tvizlehd.com/live_sd/minika_go/chunks.m3u8
 #EXTINF:-0,DISNEY CHANNEL
 http://ams.tvizlehd.com/live/disneychannel/chunks.m3u8
 #EXTINF:-1, Kidz/Animez
@@ -2025,7 +2019,8 @@ http://89.140.99.41/hls/1080.m3u8
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?dl=1
 #EXTINF:0,CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
-#EXTINF:0,Central TV Per򍊨ttp://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0,Central TV Peru
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:0,CGTN 1
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0,CGTN 2
@@ -2465,24 +2460,6 @@ http://api.new.livestream.com/accounts/13567583/events/6415731/live.m3u8
 #EXTINF:0,Ve plus TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8?
 #EXTINF:0,Videomix:SheepMix
-https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
-#EXTINF:0,Videomix:The 90s EurodanceVideomix
-https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
-#EXTINF:0,Videomix:Yearmix2009
-https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
-#EXTINF:0,Videomix:Yearmix2010
-https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
-#EXTINF:0,Videomix:Yearmix2011
-https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
-#EXTINF:0,Videomix:Yearmix2012
-https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
-#EXTINF:0,Videomix:Yearmix2013
-https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
-#EXTINF:0,Videomix:Yearmix2014
-https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
-#EXTINF:0,Videomix:Yearmix2015
-https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
-#EXTINF:0,Villa Cari񯯌os Vikings
 https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_villa_carino_y_viking_031215_2200k.m3u8
 #EXTINF:0,VIRGIN MUSIC
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
