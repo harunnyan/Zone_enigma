@@ -21,7 +21,7 @@
 #DESCRIPTION TRT Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
 #DESCRIPTION TJK TV
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/azeri/idman/index.m3u8:IDMAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/azeri/idman/index.m3u8:IDMAN TV
 #DESCRIPTION IDMAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8?t=1524729896&h=F4Z7fodN5TzgFXOGrVCEHA==:CBC SPORT
 #DESCRIPTION CBC SPORT
@@ -41,12 +41,6 @@
 #DESCRIPTION SPORT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:SPORT 2 HD
 #DESCRIPTION SPORT 2 HD
-#SERVICE 4097:0:0:1:0:0:0:0:0:0:http%3a//31.220.0.134%3a8081/live/sk1/playlist.m3u8:SK 1 HD
-#DESCRIPTION SK 1 HD
-#SERVICE 4097:0:0:3:0:0:0:0:0:0:http%3a//31.220.0.134%3a8081/live/sk2/playlist.m3u8:SK2 HD
-#DESCRIPTION SK2 HD
-#SERVICE 4097:0:0:5:0:0:0:0:0:0:http%3a//31.220.0.134%3a8081/live/sk1/playlist.m3u8:SK3 HD
-#DESCRIPTION SK3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_1_high:Arena Sport1
 #DESCRIPTION Arena Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_2_high:Arena Sport2
@@ -159,10 +153,6 @@
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deporte TV
 #DESCRIPTION Todo Deporte TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/fx11sx/chunks.m3u8:FS 1
-#DESCRIPTION FS 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/fx2sx/chunks.m3u8:FS 2
-#DESCRIPTION FS 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.53.163.205%3a2700:BT Sport 1
 #DESCRIPTION BT Sport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.53.163.205%3a2506:BT Sport 2
@@ -257,6 +247,12 @@
 #DESCRIPTION ARENA4
 #SERVICE 4097:0:0:15:0:0:0:0:0:0:rtmp%3a//178.noips.org%3a53/UfkFxz7pWY3N6jVJ/ARENA5:ARENA5
 #DESCRIPTION ARENA5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.182.228.25%3a8000/udp/230.50.0.13%3a8208:TSN1
+#DESCRIPTION TSN1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.182.228.25%3a8000/udp/230.50.0.14%3a8208:TSN2
+#DESCRIPTION TSN2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.182.228.25%3a8000/udp/230.50.0.15%3a8208:TSN3
+#DESCRIPTION TSN3
 #SERVICE 1:64:9D:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
