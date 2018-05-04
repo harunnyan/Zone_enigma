@@ -313,12 +313,6 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
 #EXTINF:-1,Sportklub HD
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1,SK 1 HD
-http://31.220.0.134:8081/live/sk1/playlist.m3u8
-#EXTINF:-1,SK2 HD
-http://31.220.0.134:8081/live/sk2/playlist.m3u8
-#EXTINF:-1,SK3 HD
-http://31.220.0.134:8081/live/sk1/playlist.m3u8
 #EXTINF:-1,BT Sport 1
 http://185.53.163.205:2700
 #EXTINF:-1,BT Sport 2
@@ -329,10 +323,6 @@ http://185.53.163.205:2701
 http://185.53.163.205:2507
 #EXTINF:-1,LIVE MOTOR SPORT
 http://45.58.62.92:8084
-#EXTINF:-1,FS 1
-http://31.220.0.196:8081/live/fx11sx/chunks.m3u8
-#EXTINF:-1,FS 2
-http://31.220.0.196:8081/live/fx2sx/chunks.m3u8
 #EXTINF:-1,Extreme Sports
 http://persik.by/stream/3903/293564/99.m3u8
 #EXTINF:-1,Extreme Sports
@@ -405,6 +395,12 @@ rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA3
 rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA4
 #EXTINF:0,ARENA5
 rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA5
+#EXTINF:-1,TSN2
+http://209.182.228.25:8000/udp/230.50.0.14:8208
+#EXTINF:-1,TSN1
+http://209.182.228.25:8000/udp/230.50.0.13:8208
+#EXTINF:-1,TSN3
+http://209.182.228.25:8000/udp/230.50.0.15:8208
 #EXTINF:-1,****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:-0,DISNEY CHANNEL
