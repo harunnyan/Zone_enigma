@@ -419,6 +419,14 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 #EXTINF:-1,****((ReMy_WORLD))****
 ****((ReMy_WORLD))****
+#EXTINF:-1,BBC
+http://185.59.221.136:9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&profile=pass
+#EXTINF:-1 ,BBC2 HD
+http://185.59.221.136:9981/stream/channelid/382198530?ticket=b886e552fd3a08b70ed405147fb3d35b1a810e0f&profile=pass
+#EXTINF:-1 ,ITV1 HD
+http://185.59.221.136:9981/stream/channelid/1998784340?ticket=0b47b025e7dfcfa70ee686f65356823b4696e9e2&profile=pass
+#EXTINF:-1,ITV2 HD
+http://185.59.221.136:9981/stream/channelid/2139720971?ticket=5c8bd2021f95cb20b3a9fb025a136b06cfaaec7f&profile=pass
 #EXTINF:-1,Alsat M
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
 #EXTINF:-1,21

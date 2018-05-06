@@ -253,6 +253,14 @@
 #DESCRIPTION TSN2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//209.182.228.25%3a8000/udp/230.50.0.15%3a8208:TSN3
 #DESCRIPTION TSN3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&amp;profile=pass:BBCsport
+#DESCRIPTION BBCsport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/382198530?ticket=b886e552fd3a08b70ed405147fb3d35b1a810e0f&amp;profile=pass:BBC2 HD
+#DESCRIPTION BBC2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/1998784340?ticket=0b47b025e7dfcfa70ee686f65356823b4696e9e2&amp;profile=pass:ITV1 HD
+#DESCRIPTION ITV1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/2139720971?ticket=5c8bd2021f95cb20b3a9fb025a136b06cfaaec7f&amp;profile=pass:ITV2 HD
+#DESCRIPTION ITV2 HD
 #SERVICE 1:64:9C:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
