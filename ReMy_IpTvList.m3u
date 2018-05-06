@@ -399,6 +399,38 @@ http://209.182.228.25:8000/udp/230.50.0.14:8208
 http://209.182.228.25:8000/udp/230.50.0.13:8208
 #EXTINF:-1,TSN3
 http://209.182.228.25:8000/udp/230.50.0.15:8208
+#EXTINF:-1,BeIn Sports
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1,BeIn Sports
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,BeIn Sports
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,BeIn Sports 1
+http://163.172.220.115:8080/bein/beinsp1/index.m3u8
+#EXTINF:-1,BeIn Sports 2
+http://163.172.220.115:8080/bein/beinsp2/index.m3u8
+#EXTINF:-1,BeIn Sports 3
+http://163.172.220.115:8080/bein/beinsp3/index.m3u8
+#EXTINF:-1,Bein Sports 4
+http://163.172.220.115:8080/bein/beinsp4/index.m3u8
+#EXTINF:-1,Bein Sports 5
+http://163.172.220.115:8080/bein/beinsp5/index.m3u8
+#EXTINF:-1,Bein Sports 6
+http://163.172.220.115:8080/bein/beinsp6/index.m3u8
+#EXTINF:-1,Bein Sports 7
+http://163.172.220.115:8080/bein/beinsp7/index.m3u8
+#EXTINF:-1,Bein Sports 8
+http://163.172.220.115:8080/bein/beinsp8/index.m3u8
+#EXTINF:-1,Bein Sports 9
+http://163.172.220.115:8080/bein/beinsp9/index.m3u8
+#EXTINF:-1,Bein Sports 10
+http://163.172.220.115:8080/bein/beinsp10/index.m3u8
+#EXTINF:-1,Bein Sports fr 1
+http://163.172.220.115:8080/bein/beinspfr1/index.m3u8
+#EXTINF:-1,Bein Sports fr 2
+http://163.172.220.115:8080/bein/beinspfr2/index.m3u8
+#EXTINF:-1,Bein Sports fr 3
+http://163.172.220.115:8080/bein/beinspfr3/index.m3u8
 #EXTINF:-1,****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:-0,DISNEY CHANNEL
