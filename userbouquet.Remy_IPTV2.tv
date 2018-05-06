@@ -259,32 +259,6 @@
 #DESCRIPTION Bein Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8:Bein Sports
 #DESCRIPTION Bein Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp1/index.m3u8:BeIn Sports 1
-#DESCRIPTION BeIn Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp2/index.m3u8:BeIn Sports 2
-#DESCRIPTION BeIn Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp3/index.m3u8:BeIn Sports 3
-#DESCRIPTION BeIn Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp4/index.m3u8:Bein Sports 4
-#DESCRIPTION Bein Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp5/index.m3u8:Bein Sports 5
-#DESCRIPTION Bein Sports 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp6/index.m3u8:Bein Sports 6
-#DESCRIPTION Bein Sports 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp7/index.m3u8:Bein Sports 7
-#DESCRIPTION Bein Sports 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp8/index.m3u8:Bein Sports 8
-#DESCRIPTION Bein Sports 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp9/index.m3u8:Bein Sports 9
-#DESCRIPTION Bein Sports 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinsp10/index.m3u8:Bein Sports 10
-#DESCRIPTION Bein Sports 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinspfr1/index.m3u8:Bein Sports fr 1
-#DESCRIPTION Bein Sports fr 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinspfr2/index.m3u8:Bein Sports fr 2
-#DESCRIPTION Bein Sports fr 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//163.172.220.115%3a8080/bein/beinspfr3/index.m3u8:Bein Sports fr 3
-#DESCRIPTION Bein Sports fr 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&amp;profile=pass:BBCsport
 #DESCRIPTION BBCsport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/382198530?ticket=b886e552fd3a08b70ed405147fb3d35b1a810e0f&amp;profile=pass:BBC2 HD
