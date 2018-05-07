@@ -393,10 +393,10 @@ rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA3
 rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA4
 #EXTINF:0,ARENA5
 rtmp://178.noips.org:53/UfkFxz7pWY3N6jVJ/ARENA5
-#EXTINF:-1,TSN2
-http://209.182.228.25:8000/udp/230.50.0.14:8208
 #EXTINF:-1,TSN1
 http://209.182.228.25:8000/udp/230.50.0.13:8208
+#EXTINF:-1,TSN2
+http://209.182.228.25:8000/udp/230.50.0.14:8208
 #EXTINF:-1,TSN3
 http://209.182.228.25:8000/udp/230.50.0.15:8208
 #EXTINF:-1,BeIn Sports
@@ -647,8 +647,6 @@ http://80.91.115.211:1935/live/livestream/playlist.m3u8
 rtmp://str81.creacast.com:80/iltv/high
 #EXTINF:0,Inedit TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$IneditTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,Insight UHD
-http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
 #EXTINF:0,Israel 2
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:0,ITV Patagonia 
