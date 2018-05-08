@@ -2887,8 +2887,8 @@
 #DESCRIPTION Dolmabahçe Taksim İnişi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/263.stream/chunklist_w1316614603.m3u8:Dragos Sahil Yolu
 #DESCRIPTION Dragos Sahil Yolu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/511.stream/chunklist_w1865802364.m3u8:Eyüp Sultan Zalpaşa
-#DESCRIPTION Eyüp Sultan Zalpaşa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media2.ibb.gov.tr%3a1935/live/664.stream/chunklist_w146936849.m3u8:Yavuz Sultan Selim Reşadiye Kavşağı
+#DESCRIPTION Yavuz Sultan Selim Reşadiye Kavşağı
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/341.stream/chunklist_w805774042.m3u8:Fatih Sultan Mehmet Köprüsü Mobese Kamera
 #DESCRIPTION Fatih Sultan Mehmet Köprüsü Mobese Kamera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/269.stream/chunklist_w118518728.m3u8:Yenikapı Meydanı

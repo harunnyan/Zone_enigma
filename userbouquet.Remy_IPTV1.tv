@@ -373,6 +373,8 @@
 #DESCRIPTION ZIRAAT TV
 #SERVICE 1:64:97:0:0:0:0:0:0:0::==== ★★STAN_IPTV_VOD★★ ====
 #DESCRIPTION ==== ★★STAN_IPTV_VOD★★ ====
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3A//www2711.playercdn.net/85/1/s88J_P7QL1lQ7FkI8Rc3bw/1525962518/180329/367FPTQJFDAYDNN912ZPC.mp4:Suicide-Squad--Cehennemin-Bedeli2018
+#DESCRIPTION Suicide-Squad--Cehennemin-Bedeli2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601504.us.archive.org/32/items/luaAmor/luaAmor.mp4?STANIPTV:luAMOR
 #DESCRIPTION luAMOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?STANIPTV:Os Seus -  os Meus e os Nossos
