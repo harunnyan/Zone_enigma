@@ -373,6 +373,18 @@
 #DESCRIPTION ZIRAAT TV
 #SERVICE 1:64:97:0:0:0:0:0:0:0::==== ★★STAN_IPTV_VOD★★ ====
 #DESCRIPTION ==== ★★STAN_IPTV_VOD★★ ====
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www2765.playercdn.net/85/1/3EjAayX2p60PBSwOJF-nSw/1526116170/180318/969FPHPSNL655NWNTDGRN.mp4:Oldurme-Arzusu---Death-Wish-2018
+#DESCRIPTION Oldurme-Arzusu---Death-Wish-2018
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www3009.playercdn.net/85/1/iUXr5yG1eP_VTHRNAekR-g/1526116202/180319/269FPI2AOG9GY4TNUZ2GW.mp4:Sevgili-Diktator---Dear-Dictator-2018
+#DESCRIPTION Sevgili-Diktator---Dear-Dictator-2018
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www2666.playercdn.net/85/1/5jLf5XGQvG2icMnL8-EVOw/1526116220/180318/217FPGUHAI5ZDJHQVBY0Y.mp4:Scooby-Doo---Batman--Cesur-ve-Obur-2018
+#DESCRIPTION Scooby-Doo---Batman--Cesur-ve-Obur-2018
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www3015.playercdn.net/85/0/zg6uqy_ah4ywTNtO26aSLw/1526116232/180318/232FPGV46KG42YKZO0GFJ.mp4:Batman--Gotham-in-Gaz-Lambalari-2018
+#DESCRIPTION Batman--Gotham-in-Gaz-Lambalari-2018
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www3015.playercdn.net/85/0/q_lTUvzUZcnfQf0CqYpbfg/1526116243/180318/232FPGV46KG42YKZO0GFJ.mp4:Stretch-Armstrong--Firar-2018
+#DESCRIPTION Stretch-Armstrong--Firar-2018
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//vod.tsvipsmart.eu/dublaj/Kusursuz.Sevgili.2018.TR.WEBRip.XviD.www.filmindirgen.com.avi:Kusursuz-Sevgili-2018
+#DESCRIPTION Kusursuz-Sevgili-2018
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3A//www2711.playercdn.net/85/1/s88J_P7QL1lQ7FkI8Rc3bw/1525962518/180329/367FPTQJFDAYDNN912ZPC.mp4:Suicide-Squad--Cehennemin-Bedeli2018
 #DESCRIPTION Suicide-Squad--Cehennemin-Bedeli2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601504.us.archive.org/32/items/luaAmor/luaAmor.mp4?STANIPTV:luAMOR
