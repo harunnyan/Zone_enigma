@@ -1,8 +1,6 @@
 #NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/beinhaber/chunks.m3u8:BEIN SPORT HABER
-#DESCRIPTION BEIN SPORT HABER
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2202.janjuaplayer.com%3a8088/live/livin3bein1/playlist.m3u8?id=80193&wowzasessionid=3788829928&pk=85c857db4c92f9f2190783de15bfaa42c0a6b7cc1a3bb5e421e28fdadff32663:Bein Sports Hd
 #DESCRIPTION Bein Sports Hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//105.liveflashplayer.org%3a8088/zenex/livin3bein1com/playlist.m3u8?id=28005&wowzasessionid=44114666&pk=85c857db4c92f9f2190783de15bfaa42c0a6b7cc1a3bb5e421e28fdadff32663:Bein Sports Hd
@@ -403,7 +401,7 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 4097:0:1:263:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
-#SERVICE 1:64:9E:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
+#SERVICE 1:64:9E:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY|WORLD_IPTV_:::::::::: DXTV
 #DESCRIPTION :::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8:Alsat M
 #DESCRIPTION Alsat M
@@ -1367,16 +1365,6 @@
 #DESCRIPTION tnt music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-10.bonus-tv.ru%3a80/tnv/playlist.m3u8:tnv
 #DESCRIPTION tnv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.tvtopsound.com%3a1935/live/ngrp%3ampegts.stream_all/chunklist_w1960175513_b1248000.m3u8:Top Sound
-#DESCRIPTION Top Sound
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.tvtopsound.com%3a1935/live/ngrp%3ampegts.stream_all/playlist.m3u8:TOP Sound
-#DESCRIPTION TOP Sound
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topchantv.net%3a3456/live/topchantv.net/DlyaSaytaSrteam/277.ts:TOP_80'
-#DESCRIPTION TOP_80'
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topchantv.net%3a3456/live/topchantv.net/DlyaSaytaSrteam/1611.ts:TOP_CinemaHD
-#DESCRIPTION TOP_CinemaHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//topchantv.net%3a3456/live/topchantv.net/DlyaSaytaSrteam/6.ts:TOP_VOSTOK
-#DESCRIPTION TOP_VOSTOK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.104%3a1935/travel/travel.stream/playlist.m3u8:Travel
 #DESCRIPTION Travel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.13.223.104%3a1935/travel/community.stream/playlist.m3u8:Travel HD
@@ -2059,10 +2047,6 @@
 #DESCRIPTION DW ESP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8:DW LATINOAMERICA
 #DESCRIPTION DW LATINOAMERICA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.33.227.198/DXTV/smil%3aDXTV.smil/playlist.m3u8:DXTV DEPORTES
-#DESCRIPTION DXTV DEPORTES
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.33.227.198/DXTV/smil%3aDXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8:DXTV DEPORTES
-#DESCRIPTION DXTV DEPORTES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8:ECUADOR:Television Nacional
 #DESCRIPTION ECUADOR:Television Nacional
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//181.198.10.23%3a1935/live2/smil%3ateradek.smil/chunklist_w151492058_b1024000_sleng.m3u8:ECUADOR:TVS
