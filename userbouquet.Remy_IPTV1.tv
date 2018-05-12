@@ -1,7 +1,7 @@
 #NAME **ReMy_TURKEY & SPECIAL_IPTV**
 #SERVICE 1:64:93:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
-#SERVICE 1:64:94:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_U L U S A L_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -139,7 +139,7 @@
 #DESCRIPTION CIZGI FILM 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8:CIZGI FILM 10
 #DESCRIPTION CIZGI FILM 10
-#SERVICE 1:64:95:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WEB TV / TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8:STAR TV
 #DESCRIPTION STAR TV
@@ -207,7 +207,7 @@
 #DESCRIPTION Asgabat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch007_400/index.m3u8:Türkmenistan TV
 #DESCRIPTION Türkmenistan TV
-#SERVICE 1:64:96:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_YEREL_/_TURKEY_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/55c4522e6c990/playlist.m3u8?wowzasessionid=959095225:ANKARA TV
 #DESCRIPTION ANKARA TV
@@ -397,7 +397,7 @@
 #DESCRIPTION Os Seus -  os Meus e os Nossos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?STANIPTV:12 Horas
 #DESCRIPTION 12 Horas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4?STANIPTV:12 Horas para Sobreviver%3a O Ano Da Eleição / Uma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4?STANIPTV:12 Horas para Sobreviver: O Ano Da Eleição / Uma
 #DESCRIPTION 12 Horas para Sobreviver: O Ano Da Eleição / Uma
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4?STANIPTV:1984
 #DESCRIPTION 1984
@@ -473,7 +473,7 @@
 #DESCRIPTION Africa dos Meus Sonhos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?STANIPTV:Agente Indomavel
 #DESCRIPTION Agente Indomavel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/0B4A9bu3aIM0fTUhaVDByVlJoRUE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:Alien%3a Covenan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/0B4A9bu3aIM0fTUhaVDByVlJoRUE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:Alien: Covenan
 #DESCRIPTION Alien: Covenan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4?STANIPTV:Amar; Trair e Roubar
 #DESCRIPTION Amar; Trair e Roubar
@@ -483,7 +483,7 @@
 #DESCRIPTION Amigo de Caca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.vstreaming.net/movies/badbatch-dub-1080p.mp4?STANIPTV:Amores Canibais
 #DESCRIPTION Amores Canibais
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?STANIPTV:Anjos da Noite%3a A Evolucao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?STANIPTV:Anjos da Noite: A Evolucao
 #DESCRIPTION Anjos da Noite: A Evolucao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/96/z01lf_480p.mp4?STANIPTV:Annie
 #DESCRIPTION Annie
@@ -497,7 +497,7 @@
 #DESCRIPTION Aprendendo A Viver
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4?STANIPTV:Aprendiz
 #DESCRIPTION Aprendiz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1RDNn7qZ7TwqwdohqGkbnN16yNYI8oB7j?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:As Apimentadas%3a Tudo ou Nada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.googleapis.com/drive/v3/files/1RDNn7qZ7TwqwdohqGkbnN16yNYI8oB7j?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&amp;alt=media:As Apimentadas: Tudo ou Nada
 #DESCRIPTION As Apimentadas: Tudo ou Nada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/v/96/931lf_480p.mp4?STANIPTV:As Branquelas
 #DESCRIPTION As Branquelas
@@ -593,7 +593,7 @@
 #DESCRIPTION Corpo em Evidencia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/BOCm7lUhwe2gECbOhdQFv09YqQrmtB86Un-zkpdEKpZtDflx685DwGVeOpeQp7h8Fd702zdIVY4t71Ez=m22:Corpo.Eletric
 #DESCRIPTION Corpo.Eletric
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4?STANIPTV:Crash%3a No Limite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4?STANIPTV:Crash: No Limite
 #DESCRIPTION Crash: No Limite
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4?STANIPTV:Swingers - Curtindo a Noite
 #DESCRIPTION Swingers - Curtindo a Noite
@@ -625,6 +625,8 @@
 #DESCRIPTION Dinheiro Não é Tudo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4?STANIPTV:Divisao de Homicidios
 #DESCRIPTION Divisao de Homicidios
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ Panduro - The 80's Videomix (Volume 1).mp4:DJPanduroThe80sVideomixVolume1
+#DESCRIPTION DJPanduroThe80sVideomixVolume1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4?STANIPTV:Dr. Fantastico
 #DESCRIPTION Dr. Fantastico
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/20nWlaWJsvQG_JczbVAfko5CEYBx9bDEKUtczfobbS32bLMPEGpzesSSfLm8ac9WcESuZ-0b0E36ThD0=m22:Duas de Mim
@@ -729,7 +731,7 @@
 #DESCRIPTION Honra ao Mérito
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//archive.org/download/Honra_De_Ladrao_1957_Leg/Honra_De_Ladrao_1957_Leg.mp4?STANIPTV:Honra de Ladrão (1957)
 #DESCRIPTION Honra de Ladrão (1957)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4?STANIPTV:Hooligans%3a Furia nos campos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4?STANIPTV:Hooligans: Furia nos campos
 #DESCRIPTION Hooligans: Furia nos campos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4?STANIPTV:Horas de Desespero
 #DESCRIPTION Horas de Desespero
@@ -809,13 +811,13 @@
 #DESCRIPTION Menina Ma.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4?STANIPTV:Mensageiros
 #DESCRIPTION Mensageiros
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4?STANIPTV:Mergulho Radical 2%3a Os Recifes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4?STANIPTV:Mergulho Radical 2: Os Recifes
 #DESCRIPTION Mergulho Radical 2: Os Recifes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?STANIPTV:Meu Primeiro Amor Parte 2
 #DESCRIPTION Meu Primeiro Amor Parte 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?STANIPTV:Meus Quinze Anos
 #DESCRIPTION Meus Quinze Anos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/8fe7jORyC7OTe3XIOxSa-PDZKyFUYgT4rIUbSE2vcXzgQsU42j6dX0KWMO6aO-BDwM91aY94XGWevjd0=m37:MIB%3a 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/8fe7jORyC7OTe3XIOxSa-PDZKyFUYgT4rIUbSE2vcXzgQsU42j6dX0KWMO6aO-BDwM91aY94XGWevjd0=m37:MIB: 2
 #DESCRIPTION MIB: 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4?STANIPTV:Miseraveis
 #DESCRIPTION Miseraveis
@@ -891,7 +893,7 @@
 #DESCRIPTION Oliver!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?STANIPTV:Oposto do Sexo
 #DESCRIPTION Oposto do Sexo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSNRMASOFLM.mp4?STANIPTV:Os Normais%3a O Filme (2003)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSNRMASOFLM.mp4?STANIPTV:Os Normais: O Filme (2003)
 #DESCRIPTION Os Normais: O Filme (2003)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSPNTRS.mp4?STANIPTV:Os Penetras (2012)
 #DESCRIPTION Os Penetras (2012)
@@ -903,7 +905,7 @@
 #DESCRIPTION Os Safados
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4?STANIPTV:Otario
 #DESCRIPTION Otario
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/ouija2:Ouija%3a Origem Do Mal (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/ouija2:Ouija: Origem Do Mal (2017)
 #DESCRIPTION Ouija: Origem Do Mal (2017)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4?STANIPTV:Ouro Branco
 #DESCRIPTION Ouro Branco
@@ -945,7 +947,7 @@
 #DESCRIPTION Procurando Encrenca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR.mp4?STANIPTV:Professor Aloprado (1996)
 #DESCRIPTION Professor Aloprado (1996)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR2.mp4?STANIPTV:Professor Aloprado 2%3a A Família Klump  (200)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSRAPR2.mp4?STANIPTV:Professor Aloprado 2: A Família Klump  (200)
 #DESCRIPTION Professor Aloprado 2: A Família Klump  (200)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www46.uptostream.com/4nvqt28b9d1/720/0/video.mp4:Projeto X
 #DESCRIPTION Projeto X
@@ -981,7 +983,7 @@
 #DESCRIPTION Red Corner
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4?STANIPTV:Rede de Intrigas
 #DESCRIPTION Rede de Intrigas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4?STANIPTV:Redline%3a Velocidade sem Limites
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4?STANIPTV:Redline: Velocidade sem Limites
 #DESCRIPTION Redline: Velocidade sem Limites
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4?STANIPTV:Soldado Universal 3 - Regeneracao
 #DESCRIPTION Soldado Universal 3 - Regeneracao
@@ -989,23 +991,23 @@
 #DESCRIPTION Regresso
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO01.mp4?STANIPTV:REI LEÃO (1994)
 #DESCRIPTION REI LEÃO (1994)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO02.mp4?STANIPTV:REI LEÃO 2%3a O REINO DE SIMBA (1998)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO02.mp4?STANIPTV:REI LEÃO 2: O REINO DE SIMBA (1998)
 #DESCRIPTION REI LEÃO 2: O REINO DE SIMBA (1998)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO03.mp4?STANIPTV:REI LEÃO 3%3a HAKUNA MATATA (2004)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO03.mp4?STANIPTV:REI LEÃO 3: HAKUNA MATATA (2004)
 #DESCRIPTION REI LEÃO 3: HAKUNA MATATA (2004)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4?STANIPTV:Replicante
 #DESCRIPTION Replicante
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4?STANIPTV:Resgate de um Campeao
 #DESCRIPTION Resgate de um Campeao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4?STANIPTV:Resident Evil 3%3a A Extincao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4?STANIPTV:Resident Evil 3: A Extincao
 #DESCRIPTION Resident Evil 3: A Extincao
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/REESILEG-BAIXO.mp4?STANIPTV:Resident Evil 6%3aO Capítulo Final LEG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn622.micetop.us/content/sobdemanda/netcine-bucket/filmes2016/REESILEG-BAIXO.mp4?STANIPTV:Resident Evil 6:O Capítulo Final LEG
 #DESCRIPTION Resident Evil 6:O Capítulo Final LEG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2017/EVILDUB2017-BAIXO.mp4?STANIPTV:Resident Evil Vendetta DUB
 #DESCRIPTION Resident Evil Vendetta DUB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn422.micetop.us/content/httpdelivery/filmes2017/321123-BAIXO.mp4?STANIPTV:Resident Evil Vendetta LEG
 #DESCRIPTION Resident Evil Vendetta LEG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/XJkC1xawf4qra9yBAXGEOn6G7RS5e38mbIb6aa0n6enrszyHFm-l7UPL0sCs6febsQtojvgS1wAzQ41sYA=m22:Resident Evil%3a A Vingança
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/XJkC1xawf4qra9yBAXGEOn6G7RS5e38mbIb6aa0n6enrszyHFm-l7UPL0sCs6febsQtojvgS1wAzQ41sYA=m22:Resident Evil: A Vingança
 #DESCRIPTION Resident Evil: A Vingança
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4?STANIPTV:Rios Vermelhos
 #DESCRIPTION Rios Vermelhos
@@ -1079,7 +1081,7 @@
 #DESCRIPTION Shrek Para Sempre
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/Pqkx8Hzjpo7x7Hltk1NiaM4hYi1bB1IoTGkhEpHXnYo1yCNL8jKZTClX-gCO5nZnmFOsvS11h4DmXKp6Aw=m22:Shrek Terceiro
 #DESCRIPTION Shrek Terceiro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4?STANIPTV:Silent Hill%3a Revelacao
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4?STANIPTV:Silent Hill: Revelacao
 #DESCRIPTION Silent Hill: Revelacao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4?STANIPTV:Simplesmente Alice
 #DESCRIPTION Simplesmente Alice
@@ -1107,7 +1109,7 @@
 #DESCRIPTION Tempos de Violencia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4?STANIPTV:Tentaculos
 #DESCRIPTION Tentaculos
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/Tomb Raider.A Origem.2018.HDTS.720p.Dublado.mp4:Tomb Raider%3a A Origem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//player2.aovivohd.site/Filme-Dublado/16-03/Tomb Raider.A Origem.2018.HDTS.720p.Dublado.mp4:Tomb Raider: A Origem
 #DESCRIPTION Tomb Raider: A Origem
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4?STANIPTV:Torturado
 #DESCRIPTION Torturado
@@ -1203,6 +1205,22 @@
 #DESCRIPTION ZONA FRIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lh3.googleusercontent.com/eJV9eI1dMOgjPLQG2LpTqKlyukzBXheG6cveqGwDYOhe-KPfACaXdmuhdE75EDDplmMvGASRbaBNVeJCGg=m18:Último Presente
 #DESCRIPTION Último Presente
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ Panduro - The 90's Eurodance Videomix.mp4:The 90s EurodanceVideomix
+#DESCRIPTION The 90s EurodanceVideomix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ Panduro - Video Yearmix 2009.mp4:Yearmix2009
+#DESCRIPTION Yearmix2009
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ Panduro - Video Yearmix 2010.mp4:Yearmix2010
+#DESCRIPTION Yearmix2010
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ Panduro & DJ Cool - Video Yearmix 2011 (HD 720).mp4:Yearmix2011
+#DESCRIPTION Yearmix2011
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ Panduro - Video Yearmix 2012.mp4:Yearmix2012
+#DESCRIPTION Yearmix2012
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ Panduro - Video Yearmix 2013.mp4:Yearmix2013
+#DESCRIPTION Yearmix2013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ Panduro - Video Yearmix 2014 (HD).mp4:Yearmix2014
+#DESCRIPTION Yearmix2014
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ Panduro - Video Yearmix 2015.mp4:Yearmix2015
+#DESCRIPTION Yearmix2015
 #SERVICE 1:64:98:0:0:0:0:0:0:0::Chıness_VOD
 #DESCRIPTION Chıness_VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ws4.streamhls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-1516540856-1_1200/playlist.m3u8:LinZhengYing
@@ -1289,65 +1307,65 @@
 #DESCRIPTION Bölüm 27 Becerikli Mandarin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/fKrYVZOn/index.m3u8:Bölüm 28 Becerikli Mandarin
 #DESCRIPTION Bölüm 28 Becerikli Mandarin
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180313/e0BVC7v1/index.m3u8:Phim TQ%3a Kişinev Sangshan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180313/e0BVC7v1/index.m3u8:Phim TQ: Kişinev Sangshan
 #DESCRIPTION Phim TQ: Kişinev Sangshan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/TbN2mv8S/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 01
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/TbN2mv8S/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 01
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/JJkjWgPn/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 02
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/JJkjWgPn/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 02
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/a598Tl5L/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 03
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/a598Tl5L/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 03
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/YK7d0zGM/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 04
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/YK7d0zGM/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 04
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/kV4JeIoc/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 05
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/kV4JeIoc/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 05
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/B77usKAb/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 06
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/B77usKAb/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 06
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/jcDqnWjL/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 07
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/jcDqnWjL/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 07
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/5Zfk5Vro/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 08
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kbzy.zxziyuan-yun.com/20180119/5Zfk5Vro/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 08
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/Wi1ymeWU/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 09
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/Wi1ymeWU/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 09
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/U8pRpLk4/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/U8pRpLk4/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 10
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/LlHJgW5L/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/LlHJgW5L/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 11
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/5vbKB5cz/index.m3u8:Phim TQ%3a Xinxu Qinqin - 12 Tập
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/5vbKB5cz/index.m3u8:Phim TQ: Xinxu Qinqin - 12 Tập
 #DESCRIPTION Phim TQ: Xinxu Qinqin - 12 Tập
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/zbG0eeXV/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/zbG0eeXV/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 13
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/3Gap0GGk/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 14
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/3Gap0GGk/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 14
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/aV2Y71G5/index.m3u8:Phim TQ%3a Xinxu Qinqin - Hafta 15
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/aV2Y71G5/index.m3u8:Phim TQ: Xinxu Qinqin - Hafta 15
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Hafta 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/CR9JjuIt/index.m3u8:Phim TQ%3a Xinxu Qinqin - Sayı 16
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180125/CR9JjuIt/index.m3u8:Phim TQ: Xinxu Qinqin - Sayı 16
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Sayı 16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/WjfckRs0/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 17
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/WjfckRs0/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 17
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/1gHJxqES/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 18
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/1gHJxqES/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 18
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/ODiTARJ5/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 19
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/ODiTARJ5/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 19
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/DSnLTFwr/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/DSnLTFwr/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 20
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/HqyIucSr/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/HqyIucSr/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 21
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/IqRsudXu/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 22
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/IqRsudXu/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 22
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/HXOOO2iE/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 23
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/HXOOO2iE/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 23
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/wOWyffyn/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/wOWyffyn/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 24
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/RDNwFwly/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 25
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/RDNwFwly/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 25
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/7VJi4q44/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 26
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/7VJi4q44/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 26
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/pnkzugZs/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 27
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/pnkzugZs/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 27
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/EeOm6afC/index.m3u8:Phim TQ%3a Xinxu Qinqin - Tập 28
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zy.zxziyuan-yun.com/20180215/EeOm6afC/index.m3u8:Phim TQ: Xinxu Qinqin - Tập 28
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a //zy.zxziyuan-yu:Phim TQ%3a Xinxu Qinqin - TİM 29
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a //zy.zxziyuan-yu:Phim TQ: Xinxu Qinqin - TİM 29
 #DESCRIPTION Phim TQ: Xinxu Qinqin - TİM 29
 #SERVICE 1:64:99:0:0:0:0:0:0:0::FILM_A-SALON-VOD
 #DESCRIPTION FILM_A-SALON-VOD
@@ -1391,9 +1409,9 @@
 #DESCRIPTION Alien (1979) 720p BrRip_AVADL.BiZ.mp4
 #SERVICE 4097:0:1:193:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/250/Aliens (1986) 720p BrRip_AVADL.BiZ.mp4:Aliens (1986) 720p BrRip_AVADL.BiZ.mp4
 #DESCRIPTION Aliens (1986) 720p BrRip_AVADL.BiZ.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/31.mp4:Alvin e os Esquilos%3a A Grande Aventura
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/31.mp4:Alvin e os Esquilos: A Grande Aventura
 #DESCRIPTION Alvin e os Esquilos: A Grande Aventura
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/44.mp4:Alvin e os Esquilos%3a A Grande Aventura PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/44.mp4:Alvin e os Esquilos: A Grande Aventura PT
 #DESCRIPTION Alvin e os Esquilos: A Grande Aventura PT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/14.mp4:American Hero
 #DESCRIPTION American Hero
@@ -1429,9 +1447,9 @@
 #DESCRIPTION Avanture gospodina Peabodya i Shermana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/136.mp4:Avioes Equipa de Resgate PT
 #DESCRIPTION Avioes Equipa de Resgate PT
-#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/04.avi:Avioni 2%3a Nebeski vatrogasci SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/04.avi:Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
 #DESCRIPTION Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
-#SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/04.avi:Avioni 2%3a Nebeski vatrogasci SINKRONIZIRANO (2014)
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/04.avi:Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
 #DESCRIPTION Avioni 2: Nebeski vatrogasci SINKRONIZIRANO (2014)
 #SERVICE 4097:0:1:195:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/250/Back to the Future (1985) 720p BrRip_AVADL.BiZ.mkv:Back to the Future (1985) 720p
 #DESCRIPTION Back to the Future (1985) 720p
@@ -1443,7 +1461,7 @@
 #DESCRIPTION Barbie e As Agentes Secretas PT-PT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/156.mp4:Batman v Super Homem O Despertar da Justica
 #DESCRIPTION Batman v Super Homem O Despertar da Justica
-#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/51.mp4:Batman%3a The Killing Joke SA PRIJEVODOM (2016)
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/51.mp4:Batman: The Killing Joke SA PRIJEVODOM (2016)
 #DESCRIPTION Batman: The Killing Joke SA PRIJEVODOM (2016)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/157.mp4:Before I Wake
 #DESCRIPTION Before I Wake
@@ -1469,11 +1487,11 @@
 #DESCRIPTION Brothers
 #SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Brzi.Ozi.2016.HRSink.BDRip.XviD.avi:Brzi Ozzy SINKRONIZIRANO (2016)
 #DESCRIPTION Brzi Ozzy SINKRONIZIRANO (2016)
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Burning Sands (2017) HDRip x264_AVADL.BiZ.mp4:Burning Sands%25 2017 HDRip x264_AVADL.BiZ.mp4
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Burning Sands (2017) HDRip x264_AVADL.BiZ.mp4:Burning Sands% 2017 HDRip x264_AVADL.BiZ.mp4
 #DESCRIPTION Burning Sands% 2017 HDRip x264_AVADL.BiZ.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/81.mp4:Cabin Fever
 #DESCRIPTION Cabin Fever
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/98.mp4:Capitão América%3a Guerra Civil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/98.mp4:Capitão América: Guerra Civil
 #DESCRIPTION Capitão América: Guerra Civil
 #SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/08/Captain America 3 (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:Captain America 3 (2016) 1080p BrRip
 #DESCRIPTION Captain America 3 (2016) 1080p BrRip
@@ -1535,9 +1553,9 @@
 #DESCRIPTION Deepwater Horizon (2016) 720p WEB-DL x265_AVADL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/162.mp4:Demolicao
 #DESCRIPTION Demolicao
-#SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/10.mkv:Despicable Me 2%3a Gru na supertajnom zadatku SINKRO
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//movie.bossna-caffe.com/movies/crtani/10.mkv:Despicable Me 2: Gru na supertajnom zadatku SINKRO
 #DESCRIPTION Despicable Me 2: Gru na supertajnom zadatku SINKRO
-#SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/10.mkv:Despicable Me 2%3a Gru na supertajnom zadatku SINKRO
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/10.mkv:Despicable Me 2: Gru na supertajnom zadatku SINKRO
 #DESCRIPTION Despicable Me 2: Gru na supertajnom zadatku SINKRO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/99.mp4:Devdas
 #DESCRIPTION Devdas
@@ -1605,7 +1623,7 @@
 #DESCRIPTION Hands of Stone (2016) 720p BrRip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/142.mp4:Hardcore Henry
 #DESCRIPTION Hardcore Henry
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8:Hellraiser%3a Judgment (2018)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8:Hellraiser: Judgment (2018)
 #DESCRIPTION Hellraiser: Judgment (2018)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/56.mp4:Heropanti
 #DESCRIPTION Heropanti
@@ -1649,7 +1667,7 @@
 #DESCRIPTION Jack.Reacher.Never.Go.Back.2016.1080p.WEB-DL.AVADL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/63.mp4:James White
 #DESCRIPTION James White
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/87.mp4:Jarhead 3%3a The Siege
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/87.mp4:Jarhead 3: The Siege
 #DESCRIPTION Jarhead 3: The Siege
 #SERVICE 4097:0:1:149:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Jason Bourne (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:Jason Bourne (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv
 #DESCRIPTION Jason Bourne (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv
@@ -1661,7 +1679,7 @@
 #DESCRIPTION Jazbaa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/6.mp4:Jeruzalem
 #DESCRIPTION Jeruzalem
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/35.mp4:Jogos da Fome %3a A Revolta 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/35.mp4:Jogos da Fome : A Revolta 2
 #DESCRIPTION Jogos da Fome : A Revolta 2
 #SERVICE 4097:0:1:43:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Johnny.Frank.Garretts.Last.Word.2016.720p.WEB-DL_AVADL.BiZ.mkv:Johnny.Frank.Garretts.Last.Word.2016.720p.WEB-DL_A
 #DESCRIPTION Johnny.Frank.Garretts.Last.Word.2016.720p.WEB-DL_A
@@ -1699,9 +1717,9 @@
 #DESCRIPTION Larceny 2017 HDRip_AVADL.BiZ.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/131.mp4:Leao da Estrela
 #DESCRIPTION Leao da Estrela
-#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/74.mp4:Ledeno doba%3a The Great Egg-Scapade SA PRIJEVODOM (
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/74.mp4:Ledeno doba: The Great Egg-Scapade SA PRIJEVODOM (
 #DESCRIPTION Ledeno doba: The Great Egg-Scapade SA PRIJEVODOM (
-#SERVICE 4097:0:1:35:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/73.mp4:Ledeno doba%3a Veliki udar SA PRIJEVODOM (2016)
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/73.mp4:Ledeno doba: Veliki udar SA PRIJEVODOM (2016)
 #DESCRIPTION Ledeno doba: Veliki udar SA PRIJEVODOM (2016)
 #SERVICE 4097:0:1:136:0:0:0:0:0:0:http%3a//movies%3at7VNGNRrYFr34PSk@filmmediahouse.ddns.net/vod3/Lego.Batman.Film.2017.Hrsink..avi:Lego Batman (2017)
 #DESCRIPTION Lego Batman (2017)
@@ -1709,7 +1727,7 @@
 #DESCRIPTION Lego Batman Film SINKRONIZIRANO (2017)
 #SERVICE 4097:0:1:152:0:0:0:0:0:0:http%3a//bidzo-iptv.zapto.org%3a9999/10934.mp4:Lego Batman Movie (2017)
 #DESCRIPTION Lego Batman Movie (2017)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/102.mkv:Lego Scooby-Doo!%3a Haunted Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/102.mkv:Lego Scooby-Doo!: Haunted Hollywood
 #DESCRIPTION Lego Scooby-Doo!: Haunted Hollywood
 #SERVICE 4097:0:1:49:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Lion.2016.BrRip.720p.HEVC.x265.AVADL.BiZ.mkv:Lion.2016.BrRip.720p.HEVC.x265.AVADL.BiZ.mkv
 #DESCRIPTION Lion.2016.BrRip.720p.HEVC.x265.AVADL.BiZ.mkv
@@ -1747,7 +1765,7 @@
 #DESCRIPTION Minimos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/105.mp4:Misconduct
 #DESCRIPTION Misconduct
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/9.mp4:Monster High%3a Boo York, Boo York PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/9.mp4:Monster High: Boo York, Boo York PT
 #DESCRIPTION Monster High: Boo York, Boo York PT
 #SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Moonlight.2016.1080p.BrRip.6CH.AVADL.BiZ.mkv:Moonlight.2016.1080p.BrRip.6CH.AVADL.BiZ.mkv
 #DESCRIPTION Moonlight.2016.1080p.BrRip.6CH.AVADL.BiZ.mkv
@@ -1769,7 +1787,7 @@
 #DESCRIPTION Night of Something Strange (2016)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/129.mp4:Norm Heroi do Artico PT
 #DESCRIPTION Norm Heroi do Artico PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/107.mp4:Nowhere Boys%3a The Book of Shadows
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/107.mp4:Nowhere Boys: The Book of Shadows
 #DESCRIPTION Nowhere Boys: The Book of Shadows
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/122.mp4:O Caçador e a Rainha do Gelo
 #DESCRIPTION O Caçador e a Rainha do Gelo
@@ -1791,7 +1809,7 @@
 #DESCRIPTION Os Coopers São o Máximo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/100.mp4:Os Deuses do Egipto
 #DESCRIPTION Os Deuses do Egipto
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Oto.Istrazivac.Dubina.2017.HRSink.avi:Oto%3a Istrazivac dubina SINKRONIZIRANO (2017)
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Oto.Istrazivac.Dubina.2017.HRSink.avi:Oto: Istrazivac dubina SINKRONIZIRANO (2017)
 #DESCRIPTION Oto: Istrazivac dubina SINKRONIZIRANO (2017)
 #SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Ouija Origin of Evil (2016) 1080p BrRip 6CH_AVADL.BiZ.mkv:Ouija Origin of Evil (2016) 1080p BrRip 6CH_
 #DESCRIPTION Ouija Origin of Evil (2016) 1080p BrRip 6CH_
@@ -1803,7 +1821,7 @@
 #DESCRIPTION Ovako je sve pocelo SINKRONIZIRANO (2014)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/36.mp4:Pai Há Só Um!
 #DESCRIPTION Pai Há Só Um!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/10.mp4:Pan%3a Viagem à Terra do Nunca  PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/10.mp4:Pan: Viagem à Terra do Nunca  PT
 #DESCRIPTION Pan: Viagem à Terra do Nunca  PT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/75.mkv:Pandemic
 #DESCRIPTION Pandemic
@@ -1845,7 +1863,7 @@
 #DESCRIPTION Ressurreição
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/111.mp4:Reza Lenda
 #DESCRIPTION Reza Lenda
-#SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Robi_uzbuna_na_Orlovu_vrhu/Robi.Uzbuna.na.Orlovu.Vrhu.mp4:Robi%3a Uzbuna na orlovu vrhu SINKRONIZIRANO (2013)
+#SERVICE 4097:0:1:115:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Robi_uzbuna_na_Orlovu_vrhu/Robi.Uzbuna.na.Orlovu.Vrhu.mp4:Robi: Uzbuna na orlovu vrhu SINKRONIZIRANO (2013)
 #DESCRIPTION Robi: Uzbuna na orlovu vrhu SINKRONIZIRANO (2013)
 #SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Robinson_Crusoe_2016/Robinson.Crusoe.2016.avi:Robinson Crusoe SINKRONIZIRANO (2016)
 #DESCRIPTION Robinson Crusoe SINKRONIZIRANO (2016)
@@ -1855,13 +1873,13 @@
 #DESCRIPTION Rogue.One.2016.1080p.BrRip.6CH.x265.HEVC.
 #SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Rogue.One.2016.720p.BrRip.x264.AVADL.BiZ.mkv:Rogue.One.2016.720p.BrRip.x264.AVADL.BiZ.mkv
 #DESCRIPTION Rogue.One.2016.720p.BrRip.x264.AVADL.BiZ.mkv
-#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Saba_Mali_ratnik_velikoga_srca/Saba.Mali.ratnik.velikoga.srca.avi:Saba%3a Mali ratnik velikog srca SINKRONIZIRANO (201
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Saba_Mali_ratnik_velikoga_srca/Saba.Mali.ratnik.velikoga.srca.avi:Saba: Mali ratnik velikog srca SINKRONIZIRANO (201
 #DESCRIPTION Saba: Mali ratnik velikog srca SINKRONIZIRANO (201
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/113.mp4:Sacrifice
 #DESCRIPTION Sacrifice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/91.mp4:Salve, César!
 #DESCRIPTION Salve, César!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/39.mp4:Samurai Cop 2%3a Deadly Vengeance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/39.mp4:Samurai Cop 2: Deadly Vengeance
 #DESCRIPTION Samurai Cop 2: Deadly Vengeance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/19.mp4:Sem Compromissos
 #DESCRIPTION Sem Compromissos
@@ -1875,9 +1893,9 @@
 #DESCRIPTION Shrek SINKRONIZIRANO (2001)
 #SERVICE 4097:0:1:133:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/18.avi:Shrek SINKRONIZIRANO (2001) Link 2
 #DESCRIPTION Shrek SINKRONIZIRANO (2001) Link 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/114.mp4:Sniper%3a Special Ops
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/114.mp4:Sniper: Special Ops
 #DESCRIPTION Sniper: Special Ops
-#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Snezna.Kraljica.3.HRSink.720p.WEB-DL.x264-BD4YU.avi:Snjezna kraljica 3%3a Vatra i led SINKRONIZIRANO (20
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Snezna.Kraljica.3.HRSink.720p.WEB-DL.x264-BD4YU.avi:Snjezna kraljica 3: Vatra i led SINKRONIZIRANO (20
 #DESCRIPTION Snjezna kraljica 3: Vatra i led SINKRONIZIRANO (20
 #SERVICE 4097:0:1:103:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Snjezno.Kraljevstvo.2013.Hrsink.DVDRip.XviD.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013)
 #DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013)
@@ -1885,7 +1903,7 @@
 #DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 2
 #SERVICE 4097:0:1:107:0:0:0:0:0:0:http%3a//vod.kafic.info/movies/crtani/20.avi:Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 3
 #DESCRIPTION Snjezno kraljevstvo SINKRONIZIRANO (2013) Link 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/50.mp4:Snoopy e Charlie Brown%3a Peanuts PT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/50.mp4:Snoopy e Charlie Brown: Peanuts PT
 #DESCRIPTION Snoopy e Charlie Brown: Peanuts PT
 #SERVICE 4097:0:1:159:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Snowden (2016) 1080p BrRip 5.1CH_AVADL.BiZ.mkv:Snowden (2016) 1080p BrRip 5.1CH_AVADL.BiZ.mkv
 #DESCRIPTION Snowden (2016) 1080p BrRip 5.1CH_AVADL.BiZ.mkv
@@ -1905,13 +1923,13 @@
 #DESCRIPTION Standoff
 #SERVICE 4097:0:1:165:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2016/11/Star Trek Beyond (2016) 1080p BrRip x265 6CH_AVADL.BiZ.mkv:Star Trek Beyond (2016) 1080p BrRip x265
 #DESCRIPTION Star Trek Beyond (2016) 1080p BrRip x265
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/51.mp4:Star Wars%3a O Despertar da Força
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/51.mp4:Star Wars: O Despertar da Força
 #DESCRIPTION Star Wars: O Despertar da Força
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/116.mp4:Stealing Cars
 #DESCRIPTION Stealing Cars
 #SERVICE 4097:0:1:89:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Strumpfovi2/Strumpfovi.2.avi:Strumpfovi 2 SINKRONIZIRANO (2013)
 #DESCRIPTION Strumpfovi 2 SINKRONIZIRANO (2013)
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Strumpfovi.skriveno.selo.2017.HRSink.720p.BRRip.avi:Strumpfovi%3a Skriveno selo SINKRONIZIRANO (2017)
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Strumpfovi.skriveno.selo.2017.HRSink.720p.BRRip.avi:Strumpfovi: Skriveno selo SINKRONIZIRANO (2017)
 #DESCRIPTION Strumpfovi: Skriveno selo SINKRONIZIRANO (2017)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/38.mp4:Só Podiam Ser Irmãs
 #DESCRIPTION Só Podiam Ser Irmãs
@@ -1993,7 +2011,7 @@
 #DESCRIPTION The.Great.Wall.2016.720p.HC.HDRip.HEVC.x265.AVADL.
 #SERVICE 4097:0:1:93:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/The.Hollow.Point.2016.720p.BrRip.AVADL.BiZ.mkv:The.Hollow.Point.2016.720p.BrRip.AVADL.BiZ.mkv
 #DESCRIPTION The.Hollow.Point.2016.720p.BrRip.AVADL.BiZ.mkv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8:Thor%3a Ragnarok (2017)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bobmovies.net/hl/Thor.Ragnarok.2017.web.m3u8:Thor: Ragnarok (2017)
 #DESCRIPTION Thor: Ragnarok (2017)
 #SERVICE 4097:0:1:95:0:0:0:0:0:0:http%3a//avadl.uploadet.ir/Movie/2017/Time Toys (2016) HDRip_AVADL.BiZ.mp4:Time Toys (2016) HDRip_AVADL.BiZ.mp4
 #DESCRIPTION Time Toys (2016) HDRip_AVADL.BiZ.mp4
@@ -2019,7 +2037,7 @@
 #DESCRIPTION Uma Escolha Por Amor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/61.mp4:Umrao Jaan
 #DESCRIPTION Umrao Jaan
-#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Moana.2016.HRSink.BDRip.XviD.Cam.Audio.avi:Vaiana%3a Potraga za mitskim otokom SINKRONIZIRANO
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Moana.2016.HRSink.BDRip.XviD.Cam.Audio.avi:Vaiana: Potraga za mitskim otokom SINKRONIZIRANO
 #DESCRIPTION Vaiana: Potraga za mitskim otokom SINKRONIZIRANO
 #SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Vau.Vau.Zvijezda.2016.avi:Vau Vau zvijezda SINKRONIZIRANO (2016)
 #DESCRIPTION Vau Vau zvijezda SINKRONIZIRANO (2016)
@@ -2055,7 +2073,7 @@
 #DESCRIPTION Zootropolis PT
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Zvoncica_i_gusarska_vila_2014/Zvoncica.i.gusarska.vila.2014.avi:Zvoncica i gusarska vila SINKRONIZIRANO (2014)
 #DESCRIPTION Zvoncica i gusarska vila SINKRONIZIRANO (2014)
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_YABANCI DIZI_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:9A:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
