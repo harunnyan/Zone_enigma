@@ -35,10 +35,10 @@
 #DESCRIPTION Olympic Channel 2 (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8:Sporting Tv HD
 #DESCRIPTION Sporting Tv HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8:DEPORTES:Sporting Tv SD
-#DESCRIPTION DEPORTES:Sporting Tv SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8:DEPORTES:Sporting Tv SD
-#DESCRIPTION DEPORTES:Sporting Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8:Sporting Tv SD
+#DESCRIPTION Sporting Tv SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8:Sporting Tv SD
+#DESCRIPTION Sporting Tv SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:SPORT 1 HD
 #DESCRIPTION SPORT 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:SPORT 2 HD
@@ -195,10 +195,14 @@
 #DESCRIPTION Extreme Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10309.m3u8:Extreme Sports
 #DESCRIPTION Extreme Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10316.m3u8:Setanta Sport плюс
-#DESCRIPTION Setanta Sport плюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10314.m3u8:Setanta Sports HD
+#DESCRIPTION Setanta Sports HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10315.m3u8:Setanta Sports
+#DESCRIPTION Setanta Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10313.m3u8:Setanta Sports
 #DESCRIPTION Setanta Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10316.m3u8:Setanta Sport плюс
+#DESCRIPTION Setanta Sport плюс
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10249.m3u8:Viasat Sport
 #DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10249.m3u8:Viasat Sport
@@ -207,10 +211,6 @@
 #DESCRIPTION The fighter
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/595.m3u8:The fighter
 #DESCRIPTION The fighter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/485.m3u8:KHL
-#DESCRIPTION KHL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/604.m3u8:KHL
-#DESCRIPTION KHL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/485.m3u8:KHL
 #DESCRIPTION KHL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/604.m3u8:KHL
@@ -227,10 +227,6 @@
 #DESCRIPTION Match!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/1077.m3u8:Match!
 #DESCRIPTION Match!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10315.m3u8:Setanta Sports
-#DESCRIPTION Setanta Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10314.m3u8:Setanta Sports HD
-#DESCRIPTION Setanta Sports HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/270.m3u8:Sports 1 (Украина)
 #DESCRIPTION Sports 1 (Украина)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/91.m3u8:Sports 2 (Украина)
@@ -279,6 +275,8 @@
 #DESCRIPTION Sky News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8:SKY News
 #DESCRIPTION SKY News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8:MSNBC
+#DESCRIPTION MSNBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&amp;rebase=on:MSNBC
 #DESCRIPTION MSNBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8:BBC Arabia
@@ -343,71 +341,49 @@
 #DESCRIPTION Sky TG 24
 #SERVICE 1:64:9D:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| U.S.A_IPTV_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY| U.S.A_IPTV_:::::::::
-#SERVICE 4097:0:1:271:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/DTVHD/playlist.m3u8:Beach TV - 30A (eng)
-#DESCRIPTION Beach TV - 30A (eng)
-#SERVICE 4097:0:1:231:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/BTVHD/chucklist.m3u8:Beach TV - Panama City (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/BTVHD/chucklist.m3u8:Beach TV - Panama City (eng)
 #DESCRIPTION Beach TV - Panama City (eng)
-#SERVICE 4097:0:1:233:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/MTVHD/playlist.m3u8:Beach TV - Pawleys Island (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/MTVHD/playlist.m3u8:Beach TV - Pawleys Island (eng)
 #DESCRIPTION Beach TV - Pawleys Island (eng)
-#SERVICE 4097:0:1:235:0:0:0:0:0:0:http%3a//oflash.dfw.swagit.com/live/daytonabeachfl/smil%3astd-4x3-1-a/chucklist.m3u8:Daytona Beach TV (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oflash.dfw.swagit.com/live/daytonabeachfl/smil%3astd-4x3-1-a/chucklist.m3u8:Daytona Beach TV (eng)
 #DESCRIPTION Daytona Beach TV (eng)
-#SERVICE 4097:0:1:257:0:0:0:0:0:0:http%3a//ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8:CBS 2 (Salt Lake City)
-#DESCRIPTION CBS 2 (Salt Lake City)
-#SERVICE 4097:0:1:269:0:0:0:0:0:0:http%3a//pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8:Destination America (eng)
-#DESCRIPTION Destination America (eng)
-#SERVICE 4097:0:1:239:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/96_4.m3u8:District Knowledge Network (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/96_4.m3u8:District Knowledge Network (eng)
 #DESCRIPTION District Knowledge Network (eng)
-#SERVICE 4097:0:1:277:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8:History Lab (itl)
-#DESCRIPTION History Lab (itl)
-#SERVICE 4097:0:1:279:0:0:0:0:0:0:rtmp%3a//wma10.fluidstream.net%3a1935/HistoryLab/livestream:History Lab (itl)
-#DESCRIPTION History Lab (itl)
-#SERVICE 4097:0:1:287:0:0:0:0:0:0:http%3a//infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8:InfoWars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8:InfoWars
 #DESCRIPTION InfoWars
-#SERVICE 4097:0:1:273:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/KTVHD/chunklist_w363623166.m3u8:Key TV (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/KTVHD/chunklist_w363623166.m3u8:Key TV (eng)
 #DESCRIPTION Key TV (eng)
-#SERVICE 4097:0:1:237:0:0:0:0:0:0:http%3a//173.199.158.79%3a1935/roku/myStream/playlist.m3u8:Kool TV (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.199.158.79%3a1935/roku/myStream/playlist.m3u8:Kool TV (eng)
 #DESCRIPTION Kool TV (eng)
-#SERVICE 4097:0:1:285:0:0:0:0:0:0:http%3a//tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8:MSNBC
-#DESCRIPTION MSNBC
-#SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8:NBC 10 News (Philadelphia)
-#DESCRIPTION NBC 10 News (Philadelphia)
-#SERVICE 4097:0:1:331:0:0:0:0:0:0:http%3a//wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8:NBC 10 News (Philadelphia)
-#DESCRIPTION NBC 10 News (Philadelphia)
-#SERVICE 4097:0:1:303:0:0:0:0:0:0:http%3a//kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8:NBC 11 News (Bay Area)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8:NBC 11 News (Bay Area)
 #DESCRIPTION NBC 11 News (Bay Area)
-#SERVICE 4097:0:1:309:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN:News 12 (Brooklyn)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN:News 12 (Brooklyn)
 #DESCRIPTION News 12 (Brooklyn)
-#SERVICE 4097:0:1:307:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX:News 12 (The Bronx)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX:News 12 (The Bronx)
 #DESCRIPTION News 12 (The Bronx)
-#SERVICE 4097:0:1:267:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST:News 12 (Long Island)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST:News 12 (Long Island)
 #DESCRIPTION News 12 (Long Island)
-#SERVICE 4097:0:1:317:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST:News 12 (Long Island)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST:News 12 (Long Island)
 #DESCRIPTION News 12 (Long Island)
-#SERVICE 4097:0:1:341:0:0:0:0:0:0:http%3a//otv3.ocfl.net%3a1936/OrangeTV/smil%3aOrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8:Orange TV (Orlando)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//otv3.ocfl.net%3a1936/OrangeTV/smil%3aOrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8:Orange TV (Orlando)
 #DESCRIPTION Orange TV (Orlando)
-#SERVICE 4097:0:1:289:0:0:0:0:0:0:http%3a//qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8:QVC
-#DESCRIPTION QVC
-#SERVICE 4097:0:1:229:0:0:0:0:0:0:https%3a//secure-streams.akamaized.net/rt-usa/index.m3u8:RT America (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//secure-streams.akamaized.net/rt-usa/index.m3u8:RT America (eng)
 #DESCRIPTION RT America (eng)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8:Three
 #DESCRIPTION Three
-#SERVICE 4097:0:1:243:0:0:0:0:0:0:https%3a//theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8:The Blaze
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8:The Blaze
 #DESCRIPTION The Blaze
-#SERVICE 4097:0:1:293:0:0:0:0:0:0:http%3a//tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8:TSTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8:TSTV
 #DESCRIPTION TSTV
-#SERVICE 4097:0:1:295:0:0:0:0:0:0:http%3a//d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp%3aTVWAIR_all/chucklist.m3u8:TVW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp%3aTVWAIR_all/chucklist.m3u8:TVW
 #DESCRIPTION TVW
-#SERVICE 4097:0:1:297:0:0:0:0:0:0:http%3a//d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp%3aTVW2_all/master.m3u8:TVW-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp%3aTVW2_all/master.m3u8:TVW-2
 #DESCRIPTION TVW-2
-#SERVICE 4097:0:1:223:0:0:0:0:0:0:http%3a//weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8:Weather Channel (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8:Weather Channel (eng)
 #DESCRIPTION Weather Channel (eng)
-#SERVICE 4097:0:1:225:0:0:0:0:0:0:http%3a//cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8:Weather Nation (eng)
-#DESCRIPTION Weather Nation (eng)
-#SERVICE 4097:0:1:301:0:0:0:0:0:0:http%3a//oflash.dfw.swagit.com/live/hastingsonhudsonny/smil%3astd-4x3-1-a/playlist.m3u8:WHOH TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oflash.dfw.swagit.com/live/hastingsonhudsonny/smil%3astd-4x3-1-a/playlist.m3u8:WHOH TV
 #DESCRIPTION WHOH TV
-#SERVICE 4097:0:1:313:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
-#DESCRIPTION WVIT 30 News (Hartford)
-#SERVICE 4097:0:1:263:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 1:64:9E:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
@@ -741,6 +717,10 @@
 #DESCRIPTION History Lab
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wma10.fluidstream.net%3a1935/HistoryLab/livestream:History labs
 #DESCRIPTION History labs
+#SERVICE 4097:0:1:277:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8:History Lab (itl)
+#DESCRIPTION History Lab (itl)
+#SERVICE 4097:0:1:279:0:0:0:0:0:0:rtmp%3a//wma10.fluidstream.net%3a1935/HistoryLab/livestream:History Lab (itl)
+#DESCRIPTION History Lab (itl)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8:hr
 #DESCRIPTION hr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.253.194.75%3a1935/live/hram.stream/.m3u8:Hram Ortodox Tv
@@ -1247,6 +1227,8 @@
 #DESCRIPTION Tsn 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a1935/tsn2/tsn2/live.m3u8:TSN LIVIGNO HD
 #DESCRIPTION TSN LIVIGNO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1.m3u8:TV+
+#DESCRIPTION TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cdn-kanal10.crossnet.net/kanal10//mpegts.stream:TV 10 Sweden
 #DESCRIPTION TV 10 Sweden
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mi1.wz.tv2000.it/tv2000_alfa.m3u8:TV 2000 IT
@@ -1273,6 +1255,8 @@
 #DESCRIPTION TV CULTURA PR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowzaserver.net%3a1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8:TV COSMOS PERU
 #DESCRIPTION TV COSMOS PERU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss1.domint.net%3a2204/tvc_str/tvcotui/playlist.m3u8:TVCOTUI
+#DESCRIPTION TVCOTUI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming01.zas.media%3a1935/gideoes/smil%3atvgideoes.smil/playlist.m3u8:TV GIDEOES
 #DESCRIPTION TV GIDEOES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8:TV Lux
@@ -1283,14 +1267,10 @@
 #DESCRIPTION TV Marche
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8:TV Mas
 #DESCRIPTION TV Mas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?:TV MEXIQUENSE 34
-#DESCRIPTION TV MEXIQUENSE 34
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8?www.tecnotv.info:TV UNO
-#DESCRIPTION TV UNO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss1.domint.net%3a2204/tvc_str/tvcotui/playlist.m3u8:TVCOTUI
-#DESCRIPTION TVCOTUI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/live.m3u8:TV MAS HD
 #DESCRIPTION TV MAS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?:TV MEXIQUENSE 34
+#DESCRIPTION TV MEXIQUENSE 34
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//tv-mix.ru/live/Stream1:TV MIX
 #DESCRIPTION TV MIX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//196.28.226.121%3a1935/live/smil%3aChannel1.smil/playlist.m3u8:TV MOCAMBIQUE 1
@@ -1327,12 +1307,12 @@
 #DESCRIPTION TV UFG HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ynv2127uts35.nethorizontes.tv%3a1935/ynv2127uts35/tvunivates/live.m3u8:TV UNIVATES HD
 #DESCRIPTION TV UNIVATES HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8?www.tecnotv.info:TV UNO
+#DESCRIPTION TV UNO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8:Tv UNO
 #DESCRIPTION Tv UNO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocatv.mcgi.me%3a1935/public/247_es/live.m3u8:TV VERDADE
 #DESCRIPTION TV VERDADE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//141.136.14.18/kanal1/kanal1.m3u8:TV+
-#DESCRIPTION TV+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.62.176.153/hls/tv100/index.m3u8:tv100
 #DESCRIPTION tv100
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tv2bornholm.dk/stream/live/playlist.m3u8:TV2 BORNHOLM
