@@ -706,20 +706,20 @@ http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/ReMy.m3u8?bitrate=800
 #EXTINF:0,Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:0,MBC 2
+http://63.237.48.28/ios/MBC2/MBC2.m3u8
+#EXTINF:0,MBC 4
+http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0,MBC ACTION
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0,MBC MAX
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/remy.m3u8
 #EXTINF:0,Media TV
 http://mediatv.novanet.ro/mediatv/mediatv.m3u8
 #EXTINF:0,Mediaset
 http://se-mi2-8.se.hlslive.msf.ticdn.it/hls/CH14/live_Layer3.m3u8
-#EXTINF:0,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
-#EXTINF:0,Mega
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,MEGA HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?www.tecnotv.info?sd=10&amp;rebase=on
 #EXTINF:0,Mega Kids
 https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
 #EXTINF:0,MEGA KIDS 24/7

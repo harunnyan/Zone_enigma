@@ -199,8 +199,14 @@
 #DESCRIPTION Tetova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8:Klipkar TV
 #DESCRIPTION Klipkar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.16.66.101%3a1935/livecast/_definst_/tvm3/playlist.m3u8:M3
+#DESCRIPTION M3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:M2O TV
+#DESCRIPTION M2O TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on:M2O Music
 #DESCRIPTION M2O Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/messinia/messinia/master.m3u8:messinia
+#DESCRIPTION messinia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.155.200.118%3a1935/live/MelodyChannel/playlist.m3u8:Melody Channel
 #DESCRIPTION Melody Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/MelodyChannel:Melody Channel
