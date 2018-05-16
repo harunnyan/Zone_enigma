@@ -5,8 +5,6 @@
 #DESCRIPTION Bein Sports Hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//105.liveflashplayer.org%3a8088/zenex/livin3bein1com/playlist.m3u8?id=28005&wowzasessionid=44114666&pk=85c857db4c92f9f2190783de15bfaa42c0a6b7cc1a3bb5e421e28fdadff32663:Bein Sports Hd
 #DESCRIPTION Bein Sports Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//prod-video-us-east-1.pscp.tv/vChy3uzQBxTA9m10gPGkUAA8FyTCOC-3KuW_nboRxrLRMMjh6z0qMA3JXipMi4kshsZPrLjKpCBmQqThQu0BrA/live/us-east-1/highlatency.m3u8:TAMAMBET-MAC
-#DESCRIPTION TAMAMBET-MAC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8:Bursaspor TV
@@ -1563,28 +1561,6 @@
 #DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-weaver.cdg02.hls.ttvnw.net/v1/playlist/Cr4DcEZ5KwTnobNeWFXX4d9boDOLma0pZGeoy0ybh2bw9P7VzocYIuxJZ502GzHHS9y_Q7Upk6b3FgKOMcjnre40ZgA5iz6WmNZ3xzDUhd3X0dLy8OeELDihnQ2vByOG_mLVZYkslrOOsHhS97s06fnuZ1Dap_VcX9wSZpwAEtmYTTXjZtfB_h2VRwciJ0i39t1ddWqZ39l0pI_ohDTRoDIQg5JwBucDB0iw8dZ2-eNVX0FzofKxK9Zdi89-ZmtN8yJim3dvJI_9h4QOzZUKACX3hk-1_hSjRW_u95W48_PkZIjJ4Gk8SdZIS8OFjg3rgRiLhjZ2Yweggp0RVwQIzrXtKbRiVBkkWuzzfVyDN5ruV9wmO5Ue8GpVwTksdGXbyL-Mmmr2ks02Si7omRrBN_l_0yRdCUrVs3SAh28qv5bTJiGCbxoYMlC6vuTckdrUOeoR5plONIhDeYHmYXfesFWakBU5txkCFnswBBttpfT5LM1p1ssGjeNLi0xQzcJFo36BIgnIAub3cU_q0vGHxaGoFWoSqf_hQvLNbTsAZ1zqma46Adl2xcqXQcsGJXisfdFm9ZUyCUMx_29hnqj7fAsSEFA88hIbhiClClH6GZo1r3caDC4yWzPQrGAoWfGnkw.m3u8:Amouranth
 #DESCRIPTION Amouranth
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1gqxvporXekGB:PERISKOP-@AFRODIT_BANU
-#DESCRIPTION PERISKOP-@AFRODIT_BANU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1yNGakWbERbxj:PERISKOP👑Derya
-#DESCRIPTION PERISKOP👑Derya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1mnxeXaABXRJX:PERISKOP-Kate
-#DESCRIPTION PERISKOP-Kate
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1BdxYRYZDPzKX:PERISKOP-Карина❤️
-#DESCRIPTION PERISKOP-Карина❤️
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1yoKMkAPnONJQ:PERISKOP-Ingrid
-#DESCRIPTION PERISKOP-Ingrid
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1mnGeXaNjVAKX:PERISKOP-Jill
-#DESCRIPTION PERISKOP-Jill
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1gqxvporbWpGB:🍓BEGÜM🍓 👑SТΛŁК KRΛŁİÇESİ🇹�
-#DESCRIPTION 🍓BEGÜM🍓 👑SТΛŁК KRΛŁİÇESİ🇹�
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1vOxwAEdOgVGB:PERISKOP-ESRAⒺⓈⓇⒶ
-#DESCRIPTION PERISKOP-ESRAⒺⓈⓇⒶ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1BRJjrBgWLWJw:PERISKOP-ünzile@unzilebaskaya
-#DESCRIPTION PERISKOP-ünzile@unzilebaskaya
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.pscp.tv/w/1MnxnelPmwYJO:PERISKOP-Serpilfaruk
-#DESCRIPTION PERISKOP-Serpilfaruk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.bilibili.com/445?visit_id=3szl25tone2o:ilk Zhang Liang: 40 Yıldız Robotu
-#DESCRIPTION ilk Zhang Liang: 40 Yıldız Robotu
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=i_C1EH6Rxxk:Kanal D HD
 #DESCRIPTION Kanal D HD
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
