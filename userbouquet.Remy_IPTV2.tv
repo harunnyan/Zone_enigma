@@ -5,6 +5,18 @@
 #DESCRIPTION Bein Sports Hd
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//105.liveflashplayer.org%3a8088/zenex/livin3bein1com/playlist.m3u8?id=28005&wowzasessionid=44114666&pk=85c857db4c92f9f2190783de15bfaa42c0a6b7cc1a3bb5e421e28fdadff32663:Bein Sports Hd
 #DESCRIPTION Bein Sports Hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/red2500kur/1710.edr/895.ts:BEiN SPORT-1 HD
+#DESCRIPTION BEiN SPORT-1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/5209/1610.buR/895.ts:BEiN SPORT-1 HD
+#DESCRIPTION BEiN SPORT-1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/EREn2/fgRELX9Nyd/895.ts:BEiN SPORT-1 HD
+#DESCRIPTION BEiN SPORT-1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/eren1/1510.tM/895.ts:BEiN SPORT-1 HD
+#DESCRIPTION BEiN SPORT-1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/4435/1510.Ba/895.ts:BEiN SPORT-1 HD
+#DESCRIPTION BEiN SPORT-1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/bil5ne/110118/895.ts:BEiN SPORT-1 HD
+#DESCRIPTION BEiN SPORT-1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8:Bursaspor TV
@@ -13,7 +25,7 @@
 #DESCRIPTION Fanatik TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sportstv.com.tr/sportstv/smil%3asportstv.smil/chunklist_w708638919_b800000.m3u8:SPORTS TV
 #DESCRIPTION SPORTS TV
-#SERVICE 4097:0:1:24:0:0:0:0:0:0:http%3a//stream.sportstv.com.tr%3a1935/sportstv/SportsTV3/playlist.m3u8:Sports TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sportstv.com.tr%3a1935/sportstv/SportsTV3/playlist.m3u8:Sports TV
 #DESCRIPTION Sports TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
 #DESCRIPTION TRT Spor HD
@@ -71,10 +83,10 @@
 #DESCRIPTION Eurosport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.22.187.253%3a1935/streaming-tv/mp4%3amyStream3/playlist.m3u8:Automoto
 #DESCRIPTION Automoto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//564e2be0304b6.streamlock.net/DXTV/smil%3aDXTV/chunklist_w579935025_b542000_slesp.m3u8:Deport Tv
-#DESCRIPTION Deport Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.33.227.200%3a1935/DXTV/DXTV.smil/stream.m3u8:DXTV
-#DESCRIPTION DXTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//564e2be0304b6.streamlock.net/DXTV/smil%3aDXTV/chunklist_w579935025_b542000_slesp.m3u8:DeporTv
+#DESCRIPTION DeporTv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.33.227.200%3a1935/DXTV/DXTV.smil/stream.m3u8:DeporTv
+#DESCRIPTION DeporTv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaisports/smil%3adubaisports.smil/playlist.m3u8:DUBAI SPORTS
 #DESCRIPTION DUBAI SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmi.mangomolo.com%3a1935/dubaisports/smil%3adubaisports.smil/master.m3u8:Dubai Sports
@@ -121,17 +133,19 @@
 #DESCRIPTION PAC Washington
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b36642.cdn.telefonica.com/36642/ch08/3.m3u8:Movistar Deportes
 #DESCRIPTION Movistar Deportes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8:Foro TV
-#DESCRIPTION Foro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
+#DESCRIPTION LIVE MOTOR SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8080:FOX SPORT 506
+#DESCRIPTION FOX SPORT 506
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.142.232.246%3a1935/live/efir_live720p/playlist.m3u8:Xsport UA
 #DESCRIPTION Xsport UA
-#SERVICE 4097:0:1:212:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/udp/239.99.99.99%3a23999:Partizan Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/udp/239.99.99.99%3a23999:Partizan Tv
 #DESCRIPTION Partizan Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/udp/239.99.99.99%3a23999:TV Partizan
-#DESCRIPTION TV Partizan
-#SERVICE 4097:0:1:208:0:0:0:0:0:0:http%3a//rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8:Betis TV
-#DESCRIPTION Betis TV
-#SERVICE 4097:0:1:216:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on:Real.M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/udp/239.99.99.99%3a23999:Partizan Tv
+#DESCRIPTION Partizan Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8:R.Betis TV
+#DESCRIPTION R.Betis TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on:Real.M
 #DESCRIPTION Real.M
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8:R.Madrid TV
 #DESCRIPTION R.Madrid TV
@@ -145,16 +159,14 @@
 #DESCRIPTION Sevilla FC TV
 #SERVICE 4097:0:1:210:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8:Sevilla FC TV
 #DESCRIPTION Sevilla FC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//173.236.10.10%3a1935/dgrau/dgrau/live.m3u8?IPTVONLINE:TV ALL SPORTS
-#DESCRIPTION TV ALL SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms1.tacitus.com.br%3a1935/tvgeral/tvgeral/live.m3u8:TVGeral
 #DESCRIPTION TVGeral
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
 #DESCRIPTION Garage TV
-#SERVICE 4097:0:1:214:0:0:0:0:0:0:http%3a//edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8:Sos Kanal Tv
-#DESCRIPTION Sos Kanal Tv
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8:Sos Kanal TV
-#DESCRIPTION Sos Kanal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8:SoS Kanal PLUS
+#DESCRIPTION SoS Kanal PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8:SoS Kanal PLUS
+#DESCRIPTION SoS Kanal PLUS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/sport/live/playlist.m3u8:Tele Romagna SPORT
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deporte TV
@@ -179,8 +191,6 @@
 #DESCRIPTION BT Sport Extra 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.53.163.205%3a2504:BT Sport Extra 6
 #DESCRIPTION BT Sport Extra 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8084:LIVE MOTOR SPORT
-#DESCRIPTION LIVE MOTOR SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/99.m3u8:Extreme Sports
 #DESCRIPTION Extreme Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10309.m3u8:Extreme Sports
@@ -261,6 +271,74 @@
 #DESCRIPTION Bein Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8:Bein Sports
 #DESCRIPTION Bein Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=23&uid=498&deviceUser=amiri&devicePass=shpi:Super Sport 1 - Super Sport 1
+#DESCRIPTION Super Sport 1 - Super Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=4&uid=498&deviceUser=amiri&devicePass=shpi:Super Sport 2 - Super Sport 2
+#DESCRIPTION Super Sport 2 - Super Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=19&uid=498&deviceUser=amiri&devicePass=shpi:Super Sport 3 - Super Sport 3
+#DESCRIPTION Super Sport 3 - Super Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=50&uid=498&deviceUser=amiri&devicePass=shpi:Super Sport 4 - Super Sport 4
+#DESCRIPTION Super Sport 4 - Super Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=47&uid=498&deviceUser=amiri&devicePass=shpi:SS Kosova 1 - SS Kosova 1
+#DESCRIPTION SS Kosova 1 - SS Kosova 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=48&uid=498&deviceUser=amiri&devicePass=shpi:SS Kosova 2 - SS Kosova 2
+#DESCRIPTION SS Kosova 2 - SS Kosova 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=89&uid=498&deviceUser=amiri&devicePass=shpi:Tring Sport-1 - Tring Sport-1
+#DESCRIPTION Tring Sport-1 - Tring Sport-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=106&uid=498&deviceUser=amiri&devicePass=shpi:K Sport 1 - K Sport 1
+#DESCRIPTION K Sport 1 - K Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=125&uid=498&deviceUser=amiri&devicePass=shpi:K Sport 2 - K Sport 2
+#DESCRIPTION K Sport 2 - K Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=138&uid=498&deviceUser=amiri&devicePass=shpi:K Sport 3 - K Sport 3
+#DESCRIPTION K Sport 3 - K Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=139&uid=498&deviceUser=amiri&devicePass=shpi:K Sport 4 - K Sport 4
+#DESCRIPTION K Sport 4 - K Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=56&uid=498&deviceUser=amiri&devicePass=shpi:Fox Sport 1 - Fox Sport 1
+#DESCRIPTION Fox Sport 1 - Fox Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=57&uid=498&deviceUser=amiri&devicePass=shpi:Fox Sport 2 - Fox Sport 2
+#DESCRIPTION Fox Sport 2 - Fox Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=38&uid=498&deviceUser=amiri&devicePass=shpi:Fox Sport 3 - Fox Sport 3
+#DESCRIPTION Fox Sport 3 - Fox Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=11&uid=498&deviceUser=amiri&devicePass=shpi:SKYSPORT 1HD - SKYSPORT 1HD
+#DESCRIPTION SKYSPORT 1HD - SKYSPORT 1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=12&uid=498&deviceUser=amiri&devicePass=shpi:SKYSPORT 2HD - SKYSPORT 2HD
+#DESCRIPTION SKYSPORT 2HD - SKYSPORT 2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=73&uid=498&deviceUser=amiri&devicePass=shpi:BUNDESLIGA 1 - BUNDESLIGA 1
+#DESCRIPTION BUNDESLIGA 1 - BUNDESLIGA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=51&uid=498&deviceUser=amiri&devicePass=shpi:ARENA SPORT 1HD - ARENA SPORT 1HD
+#DESCRIPTION ARENA SPORT 1HD - ARENA SPORT 1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=53&uid=498&deviceUser=amiri&devicePass=shpi:ARENASPORT 2HD - ARENASPORT 2HD
+#DESCRIPTION ARENASPORT 2HD - ARENASPORT 2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=59&uid=498&deviceUser=amiri&devicePass=shpi:ARENASPORT 3HD - ARENASPORT 3HD
+#DESCRIPTION ARENASPORT 3HD - ARENASPORT 3HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=63&uid=498&deviceUser=amiri&devicePass=shpi:ARENASPORT 4HD - ARENASPORT 4HD
+#DESCRIPTION ARENASPORT 4HD - ARENASPORT 4HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=69&uid=498&deviceUser=amiri&devicePass=shpi:SPORT KLUB 1 - SPORT KLUB 1
+#DESCRIPTION SPORT KLUB 1 - SPORT KLUB 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=75&uid=498&deviceUser=amiri&devicePass=shpi:SPORT KLUB 2 - SPORT KLUB 2
+#DESCRIPTION SPORT KLUB 2 - SPORT KLUB 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=76&uid=498&deviceUser=amiri&devicePass=shpi:SPORT KLUB 3 - SPORT KLUB 3
+#DESCRIPTION SPORT KLUB 3 - SPORT KLUB 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=17&uid=498&deviceUser=amiri&devicePass=shpi:SPORT KLUB 4 - SPORT KLUB 4
+#DESCRIPTION SPORT KLUB 4 - SPORT KLUB 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=78&uid=498&deviceUser=amiri&devicePass=shpi:Eurosport 1 - Eurosport 1
+#DESCRIPTION Eurosport 1 - Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=79&uid=498&deviceUser=amiri&devicePass=shpi:Eurosport 2 - Eurosport 2
+#DESCRIPTION Eurosport 2 - Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=93&uid=498&deviceUser=amiri&devicePass=shpi:SKY SPORTS 1 UK - SKY SPORTS 1 UK
+#DESCRIPTION SKY SPORTS 1 UK - SKY SPORTS 1 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=94&uid=498&deviceUser=amiri&devicePass=shpi:SKY SPORTS 2 UK - SKY SPORTS 2 UK
+#DESCRIPTION SKY SPORTS 2 UK - SKY SPORTS 2 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=95&uid=498&deviceUser=amiri&devicePass=shpi:SKY SPORTS 3 UK - SKY SPORTS 3 UK
+#DESCRIPTION SKY SPORTS 3 UK - SKY SPORTS 3 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=96&uid=498&deviceUser=amiri&devicePass=shpi:SKY SPORTS 4 UK - SKY SPORTS 4 UK
+#DESCRIPTION SKY SPORTS 4 UK - SKY SPORTS 4 UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=101&uid=498&deviceUser=amiri&devicePass=shpi:Bein Sport 1 HD - Bein Sport 1 HD
+#DESCRIPTION Bein Sport 1 HD - Bein Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=65&uid=498&deviceUser=amiri&devicePass=shpi:Bein Sport 2HD - Bein Sport 2HD
+#DESCRIPTION Bein Sport 2HD - Bein Sport 2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.219.102%3a80/live?channelId=132&uid=498&deviceUser=amiri&devicePass=shpi:Bein Sport 3HD - Bein Sport 3HD
+#DESCRIPTION Bein Sport 3HD - Bein Sport 3HD
 #SERVICE 1:64:9C:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
@@ -397,6 +475,12 @@
 #DESCRIPTION SOMINE KEYFI HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8:SOMINE KEYFI MUSIC
 #DESCRIPTION SOMINE KEYFI MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/1.ts:h1:Прилеп
+#DESCRIPTION h1:Прилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/2.ts:h2:Прилеп
+#DESCRIPTION h2:Прилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/3.ts:h3:Прилеп
+#DESCRIPTION h3:Прилеп
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&amp;profile=pass:BBC
 #DESCRIPTION BBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/382198530?ticket=b886e552fd3a08b70ed405147fb3d35b1a810e0f&amp;profile=pass:BBC2 HD
@@ -673,6 +757,8 @@
 #DESCRIPTION FM ТВ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.cdn.smcloud.net/fokustv-p/stream1/playlist.m3u8:Fokus TV
 #DESCRIPTION Fokus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8:Foro TV
+#DESCRIPTION Foro TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?:Foro Tv
 #DESCRIPTION Foro Tv
 #SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/foxtv/foxtv/playlist.m3u8:Fox TV
@@ -1553,56 +1639,20 @@
 #DESCRIPTION TRT Kurdi
 #SERVICE 1:64:A4:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-weaver.cdg02.hls.ttvnw.net/v1/playlist/Cr4DcEZ5KwTnobNeWFXX4d9boDOLma0pZGeoy0ybh2bw9P7VzocYIuxJZ502GzHHS9y_Q7Upk6b3FgKOMcjnre40ZgA5iz6WmNZ3xzDUhd3X0dLy8OeELDihnQ2vByOG_mLVZYkslrOOsHhS97s06fnuZ1Dap_VcX9wSZpwAEtmYTTXjZtfB_h2VRwciJ0i39t1ddWqZ39l0pI_ohDTRoDIQg5JwBucDB0iw8dZ2-eNVX0FzofKxK9Zdi89-ZmtN8yJim3dvJI_9h4QOzZUKACX3hk-1_hSjRW_u95W48_PkZIjJ4Gk8SdZIS8OFjg3rgRiLhjZ2Yweggp0RVwQIzrXtKbRiVBkkWuzzfVyDN5ruV9wmO5Ue8GpVwTksdGXbyL-Mmmr2ks02Si7omRrBN_l_0yRdCUrVs3SAh28qv5bTJiGCbxoYMlC6vuTckdrUOeoR5plONIhDeYHmYXfesFWakBU5txkCFnswBBttpfT5LM1p1ssGjeNLi0xQzcJFo36BIgnIAub3cU_q0vGHxaGoFWoSqf_hQvLNbTsAZ1zqma46Adl2xcqXQcsGJXisfdFm9ZUyCUMx_29hnqj7fAsSEFA88hIbhiClClH6GZo1r3caDC4yWzPQrGAoWfGnkw.m3u8:Amouranth
-#DESCRIPTION Amouranth
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=i_C1EH6Rxxk:Kanal D HD
-#DESCRIPTION Kanal D HD
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
 #DESCRIPTION Star TV HD
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=KHZrh-ABTTo:Tivibu Spor HD
-#DESCRIPTION Tivibu Spor HD
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT
 #DESCRIPTION BloombergHT
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=pFbWliNsk2M:CNN TÜRK
-#DESCRIPTION CNN TÜRK
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iYY4F4EbWLc:Habertürk TV
 #DESCRIPTION Habertürk TV
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=W-y4JcDTJiQ:NTV HD
-#DESCRIPTION NTV HD
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Zz2qohZZc5o:NTV Spor HD
-#DESCRIPTION NTV Spor HD
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=J-NTgUBcp0Q:TGRT Haber HD
-#DESCRIPTION TGRT Haber HD
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=sYDtNKiUsqg:24 TV HD
-#DESCRIPTION 24 TV HD
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=uzKq_AxCEqU:TRT HABER HD
-#DESCRIPTION TRT HABER HD
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=kZd6W6avS1c:FM TV
-#DESCRIPTION FM TV
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NdgdjsJcvtA:Semerkand TV
-#DESCRIPTION Semerkand TV
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Ga3maNZ0x0w:Bloomberg Global News LIVE
 #DESCRIPTION Bloomberg Global News LIVE
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c6h18FqpWiw:ANN7 TV
-#DESCRIPTION ANN7 TV
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=bQQK0iR5iBU:Real World Air Traffic-Information Zulu
 #DESCRIPTION Real World Air Traffic-Information Zulu
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NuIAYHVeFYs:Beautiful Relaxing Music 24/7: Study Music
-#DESCRIPTION Beautiful Relaxing Music 24/7: Study Music
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=X8ncK_oXSwo:Best Shuffle Dance Music 2018
-#DESCRIPTION Best Shuffle Dance Music 2018
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HsDa2q3nXHM:Waterfall & Jungle Sounds
-#DESCRIPTION Waterfall & Jungle Sounds
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=o35TFk-IULM:Relaxing Music 24/7 Amazing Nature
 #DESCRIPTION Relaxing Music 24/7 Amazing Nature
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c25OatSVic0:Relaxing Aquarium 24/7
-#DESCRIPTION Relaxing Aquarium 24/7
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=X0vK_57vQ7s:The Best Relaxing Aquarium 24/7
 #DESCRIPTION The Best Relaxing Aquarium 24/7
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=y7e-GC6oGhg:Beautiful Piano Music
-#DESCRIPTION Beautiful Piano Music
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=EpXTVNxUG-0:Study Music
-#DESCRIPTION Study Music
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=P9qjE1dm75A:Venice Italy Live Cam
 #DESCRIPTION Venice Italy Live Cam
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=vPbQcM4k1Ys:Venice Italy
@@ -1625,40 +1675,24 @@
 #DESCRIPTION Old Faithful Geyser in Yellowstone National Park
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live09@420891/index_1200_av-p.m3u8?sd=10&amp;rebase=on:NYC skyline from the Empire State
 #DESCRIPTION NYC skyline from the Empire State
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=JYBpu1OyP0c:Tokyo Live Camera ch1
-#DESCRIPTION Tokyo Live Camera ch1
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ot3wAWjCVsM:SKT T1 Faker Live Stream LOL
 #DESCRIPTION SKT T1 Faker Live Stream LOL
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&amp;rebase=on:ABC News-Yahoo!
 #DESCRIPTION ABC News-Yahoo!
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=PHX3E3TQ_Zo:The National
-#DESCRIPTION The National
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=fhY1z6P7NcI:Net TV Live Maret
-#DESCRIPTION Net TV Live Maret
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ND2NJMSJZ4Q:Kral Pop TV HD
 #DESCRIPTION Kral Pop TV HD
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Z8o1mz4_6Vg:Kral TV HD
-#DESCRIPTION Kral TV HD
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lxihjZS-fyA:Kral FM
 #DESCRIPTION Kral FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=cMgrsG7LWik:Kral Pop Radyo
 #DESCRIPTION Kral Pop Radyo
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HXZlvafC14Y:Power Türk Fm
 #DESCRIPTION Power Türk Fm
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6z2yIYMej8k:Number1 Tv
-#DESCRIPTION Number1 Tv
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=kpygqP70u60:Number1 Türk
-#DESCRIPTION Number1 Türk
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Cocuklar icin Cizgi filmler
-#DESCRIPTION Cocuklar icin Cizgi filmler
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=SgDqSFJpNbA:PJ Masks Full Episodes
 #DESCRIPTION PJ Masks Full Episodes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=EY0WWNoS2xo:Talking Tom Shorts FULL Episodes
 #DESCRIPTION Talking Tom Shorts FULL Episodes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dTPLgjxzlM8:Devriye Aracı araba şehrinde 🚓 🚒
-#DESCRIPTION Devriye Aracı araba şehrinde 🚓 🚒
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=zcJMU7um-uk:Bizans Oyunları
 #DESCRIPTION Bizans Oyunları
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=GNxEEyOMce4:Sevimli Tehlikeli
@@ -1687,12 +1721,12 @@
 #DESCRIPTION +18 | FUNY CLIP_ VIDEOS _ MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=3U2BRcw8bKE:Tomorrowland Belgium 2017
 #DESCRIPTION Tomorrowland Belgium 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=8VMgekhlOQ8:AMSTERDAM ADE 2017 Deep House Session
-#DESCRIPTION AMSTERDAM ADE 2017 Deep House Session
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=r0haWB1Uezk:Summer Special Super Mix
-#DESCRIPTION Summer Special Super Mix
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=PJJ9YK_McFU:BARCELONA deep house session 2018
-#DESCRIPTION BARCELONA deep house session 2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L_OElzCMPHc:Asok , Silom ( Taniya , Patpong , soi Cowboy )
+#DESCRIPTION Asok , Silom ( Taniya , Patpong , soi Cowboy )
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=0fogJYmZaac:Asok - Soi Cowboy 2017 , and more Bangkok , Thaila
+#DESCRIPTION Asok - Soi Cowboy 2017 , and more Bangkok , Thaila
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qCLKG2WermU:Sukhumvit Soi21 / Asok , SoiCowboy
+#DESCRIPTION Sukhumvit Soi21 / Asok , SoiCowboy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jNMLAvXb3pc:Bangkok Red Light Districts 2017
 #DESCRIPTION Bangkok Red Light Districts 2017
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jNMLAvXb3pc&t=89s:Bangkok Red Light Districts 2017 (Soi Cowboy, Patp
@@ -1731,40 +1765,22 @@
 #DESCRIPTION Walking Street Saturday 11.02.2018 Thailand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=coAFiA69eao:JAPAIN Sexy Dance Breakbeat Spesial Ladies Night P
 #DESCRIPTION JAPAIN Sexy Dance Breakbeat Spesial Ladies Night P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=WYpHHvgg82U:JAPAIN Nonstop Vol 2 - Are You Ready
-#DESCRIPTION JAPAIN Nonstop Vol 2 - Are You Ready
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=UiH9pPOSFLs&t=1675s:JAPAIN Nonstop Vol 1 - Party All Night
 #DESCRIPTION JAPAIN Nonstop Vol 1 - Party All Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=WYpHHvgg82U:JAPAIN Nonstop Vol 2 - Are You Ready
+#DESCRIPTION JAPAIN Nonstop Vol 2 - Are You Ready
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dhb8N1cNgQ4:THAILAND Mixtape Breakbeat Remix Bassnya Asli Biki
 #DESCRIPTION THAILAND Mixtape Breakbeat Remix Bassnya Asli Biki
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AX9V0wMH6ac:THAIWAN Dugem BreakBeat Remix Best of Party Club
-#DESCRIPTION THAIWAN Dugem BreakBeat Remix Best of Party Club
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=bSyj5LdXyN8:THAIWAN Breakbeat Remix Terbaru 2018
 #DESCRIPTION THAIWAN Breakbeat Remix Terbaru 2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=mX5OkquMFg4:THAILAND 2018 Mini Nonstop VOL.2
 #DESCRIPTION THAILAND 2018 Mini Nonstop VOL.2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=3IH5eod9aTA:DJTA REMIX THAILAND
 #DESCRIPTION DJTA REMIX THAILAND
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L_OElzCMPHc:Asok , Silom ( Taniya , Patpong , soi Cowboy )
-#DESCRIPTION Asok , Silom ( Taniya , Patpong , soi Cowboy )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=0fogJYmZaac:Asok - Soi Cowboy 2017 , and more Bangkok , Thaila
-#DESCRIPTION Asok - Soi Cowboy 2017 , and more Bangkok , Thaila
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qCLKG2WermU:Sukhumvit Soi21 / Asok , SoiCowboy
-#DESCRIPTION Sukhumvit Soi21 / Asok , SoiCowboy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lXz9m3pT9eU:thaıwan2018
 #DESCRIPTION thaıwan2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=il8BfvP0McY:Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
 #DESCRIPTION Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Q3MtNOz3P5c:Smartland-HD
-#DESCRIPTION Smartland-HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=OC43oNf3NbE:IBIZA NEW CLUB DANCE MIX 2018
-#DESCRIPTION IBIZA NEW CLUB DANCE MIX 2018
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iSAme4KrDYM:Matinee Ibiza/AMNESIA
-#DESCRIPTION Matinee Ibiza/AMNESIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=fi7c5SHQELQ:Panamanian dans müziği hit! Tung Tuong Hip Hop 3
-#DESCRIPTION Panamanian dans müziği hit! Tung Tuong Hip Hop 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CJ33agDxDUQ:2016 (MiNi-NonStop VoL.14)
-#DESCRIPTION 2016 (MiNi-NonStop VoL.14)
 #SERVICE 1:64:A7:0:0:0:0:0:0:0::Hottest | Sports Illustrated Swimsuit
 #DESCRIPTION Hottest | Sports Illustrated Swimsuit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eBZdmQ58n0s:Ashley Graham Hottest Moments: Curvy Cover Model,
