@@ -1,7 +1,7 @@
 #NAME **ReMy_IPTV_18+ADULT**
-#SERVICE 1:64:DA:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
+#SERVICE 1:64:DB:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
 #DESCRIPTION ::::::_E N I G M A__T U R K__T E A M_::::::
-#SERVICE 1:64:DB:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
+#SERVICE 1:64:DC:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
@@ -129,7 +129,125 @@
 #DESCRIPTION Playboy: 20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/SCT5:SCT5: 21
 #DESCRIPTION SCT5: 21
-#SERVICE 1:64:DC:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.38%3a15285:-Ночной Клуб
+#DESCRIPTION -Ночной Клуб
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.13%3a15285:-Русская Ночь
+#DESCRIPTION -Русская Ночь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.114%3a15285:-Candyman
+#DESCRIPTION -Candyman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.161%3a15285:-O-la-la
+#DESCRIPTION -O-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.173%3a15285:-Candy HD
+#DESCRIPTION -Candy HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.249%3a15285:-Egoist TV
+#DESCRIPTION -Egoist TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.250%3a15285:-NUART TV HD
+#DESCRIPTION -NUART TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.251%3a15285:-FrenchLover TV
+#DESCRIPTION -FrenchLover TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.254.170%3a15285:-Brazzers TV Europe
+#DESCRIPTION -Brazzers TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.233.189.202%3a81/udp/239.191.255.6%3a15285:-EROX
+#DESCRIPTION -EROX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/DorcelHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Dorcel HD VK.COM/XXX_Playlist
+#DESCRIPTION Dorcel HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/DorcelXXXHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Dorcel XXX HD VK.COM/XXX_Playlist
+#DESCRIPTION Dorcel XXX HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/EroXXXHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Ero XXX HD VK.COM/XXX_Playlist
+#DESCRIPTION Ero XXX HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/EroxHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Erox HD VK.COM/XXX_Playlist
+#DESCRIPTION Erox HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/EvilAngelHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Evil Angel HD VK.COM/XXX_Playlist
+#DESCRIPTION Evil Angel HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/HustlerHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Hustler HD VK.COM/XXX_Playlist
+#DESCRIPTION Hustler HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/Penthouse1HD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Penthouse 1 HD VK.COM/XXX_Playlist
+#DESCRIPTION Penthouse 1 HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/Penthouse2HD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Penthouse 2 HD VK.COM/XXX_Playlist
+#DESCRIPTION Penthouse 2 HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PrivateTVHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Private TV HD VK.COM/XXX_Playlist
+#DESCRIPTION Private TV HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/RedlightHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Redlight HD VK.COM/XXX_Playlist
+#DESCRIPTION Redlight HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/SuperOneHD%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:SuperOne HD VK.COM/XXX_Playlist
+#DESCRIPTION SuperOne HD VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/BrazzersTVEurope%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Brazzers TV Europe VK.COM/XXX_Playlist
+#DESCRIPTION Brazzers TV Europe VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/CentoXCentoTV%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Cento X Cento TV VK.COM/XXX_Playlist
+#DESCRIPTION Cento X Cento TV VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/DorcelTV%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Dorcel VK.COM/XXX_Playlist
+#DESCRIPTION Dorcel VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/DUSK%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:DUSK VK.COM/XXX_Playlist
+#DESCRIPTION DUSK VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/ExoticaPlus%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Exotica Plus VK.COM/XXX_Playlist
+#DESCRIPTION Exotica Plus VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/EvilAngel%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Evil Angel TV VK.COM/XXX_Playlist
+#DESCRIPTION Evil Angel TV VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTV2%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV 2 VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV 2 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTV3%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV 3 VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV 3 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTV4%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV 4 VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV 4 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVAmateur%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV Amateur VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV Amateur VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVAnal%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV Anal VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV Anal VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVCompilation%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV Compilation VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV Compilation VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVLesbian%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV Lesbian VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV Lesbian VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVParody%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV Parody VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV Parody VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVTeens%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV Teens VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV Teens VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVUHD4K%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV UHD 4K VK.COM/XXX_Playlist
+#DESCRIPTION FAP TV UHD 4K VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/Frenchlover%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Frenchlover TV VK.COM/XXX_Playlist
+#DESCRIPTION Frenchlover TV VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/HOT%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:HOT VK.COM/XXX_Playlist
+#DESCRIPTION HOT VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/HustlerTV%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Hustler TV VK.COM/XXX_Playlist
+#DESCRIPTION Hustler TV VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PassionXXX%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Passion XXX VK.COM/XXX_Playlist
+#DESCRIPTION Passion XXX VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkoTV%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pinko TV VK.COM/XXX_Playlist
+#DESCRIPTION Pinko TV VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic1%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 1 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 1 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic2%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 2 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 2 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic3%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 3 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 3 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic4%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 4 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 4 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic5%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 5 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 5 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic6%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 6 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 6 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic7%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 7 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 7 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PinkErotic8%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Pink Erotic 8 VK.COM/XXX_Playlist
+#DESCRIPTION Pink Erotic 8 VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/PrivateTV%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Private TV VK.COM/XXX_Playlist
+#DESCRIPTION Private TV VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/RealityKings%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Reality Kings VK.COM/XXX_Playlist
+#DESCRIPTION Reality Kings VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/SCT%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:SCT VK.COM/XXX_Playlist
+#DESCRIPTION SCT VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/SuperOne%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:SuperOne VK.COM/XXX_Playlist
+#DESCRIPTION SuperOne VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/Venus%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:Venus VK.COM/XXX_Playlist
+#DESCRIPTION Venus VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/XBizarre%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:X Bizarre VK.COM/XXX_Playlist
+#DESCRIPTION X Bizarre VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/XBungaBunga%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:X Bunga Bunga VK.COM/XXX_Playlist
+#DESCRIPTION X Bunga Bunga VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/XDesire%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:X Desire VK.COM/XXX_Playlist
+#DESCRIPTION X Desire VK.COM/XXX_Playlist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/XMuvi%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:X Muvi VK.COM/XXX_Playlist
+#DESCRIPTION X Muvi VK.COM/XXX_Playlist
+#SERVICE 1:64:DD:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -223,7 +341,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:DD:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
+#SERVICE 1:64:DE:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
 #DESCRIPTION 2017 Victoria’s Secret Fashion Show
@@ -629,7 +747,7 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:DE:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
+#SERVICE 1:64:DF:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.75.107/files/videos/140747456300c03.flv:Asian XXX - VOD 01
 #DESCRIPTION Asian XXX - VOD 01
@@ -2087,7 +2205,7 @@
 #DESCRIPTION wild-city-girl-shower-masturbation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.155.129.196/flashfiles/flash/young-couples-private-tape-leaked.flv:young-couples-private-tape-leaked
 #DESCRIPTION young-couples-private-tape-leaked
-#SERVICE 1:64:DF:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
+#SERVICE 1:64:E0:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #DESCRIPTION OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
 #DESCRIPTION Adult 4K: VOD 1
