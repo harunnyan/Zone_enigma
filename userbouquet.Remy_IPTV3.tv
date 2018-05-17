@@ -1,8 +1,4 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
-#DESCRIPTION KURAN MEAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
-#DESCRIPTION DiYANET KURAN RADiO
 #SERVICE 1:64:D4:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV

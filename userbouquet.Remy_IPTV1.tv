@@ -1,6 +1,10 @@
 #NAME **ReMy_TURKEY & SPECIAL_IPTV**
 #SERVICE 1:64:93:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
+#DESCRIPTION KURAN MEAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
+#DESCRIPTION DiYANET KURAN RADiO
 #SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
