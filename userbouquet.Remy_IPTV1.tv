@@ -15,32 +15,14 @@
 #DESCRIPTION EURO D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8:STAR HD
 #DESCRIPTION STAR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/disneychannel/chunks.m3u8:DISNEY CHANNEL
-#DESCRIPTION DISNEY CHANNEL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/sonychannel/playlist.m3u8:SONY CHANNEL TV
 #DESCRIPTION SONY CHANNEL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/beinhaber/chunks.m3u8:BEIN SPORT HABER
-#DESCRIPTION BEIN SPORT HABER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/haber_turk/index.m3u8:HABERTÜRK
-#DESCRIPTION HABERTÜRK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD
 #DESCRIPTION ATV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/ahaber_sd/index.m3u8:A HABER HD
-#DESCRIPTION A HABER HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:DMAX
 #DESCRIPTION DMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8:TLC TV HD
 #DESCRIPTION TLC TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV HD
-#DESCRIPTION NTV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//151.80.102.86/ciftcitv/bant1:CIFTCI TV
-#DESCRIPTION CIFTCI TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/ciftcitv/bant1:CIFTCI TV
-#DESCRIPTION CIFTCI TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8?wowzasessionid=1804484551?sd=0&amp;rebase=on:KOY TV
-#DESCRIPTION KOY TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/yattv/yattv.m3u8:YAT TV
-#DESCRIPTION YAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3afiltv.smil/playlist.m3u8:FIL TV
 #DESCRIPTION FIL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/360tv_live/smil%3a360tv.smil/REMY.m3u8:360 TV
@@ -59,28 +41,22 @@
 #DESCRIPTION Bengu Turk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8:Mekkah HD
 #DESCRIPTION Mekkah HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.77.2.236%3a1935/ucak/ucak.stream/playlist.m3u8:UCAN KUS
-#DESCRIPTION UCAN KUS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.imajnetwork.com%3a80/makinetv/makinetv:MAKINE TV
 #DESCRIPTION MAKINE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.93.118.165/tempotv//livestream:TEMPO TV
 #DESCRIPTION TEMPO TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//ms.n1.tvkur.noccdn.com/cdn/540ea58191866:TARIM TURK
-#DESCRIPTION TARIM TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk1stream/rtk1.stream/chunklist.m3u8:RTK 1
-#DESCRIPTION RTK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8?wowzasessionid=1804484551?sd=0&amp;rebase=on:KOY TV
+#DESCRIPTION KOY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//151.80.102.86/ciftcitv/bant1:CIFTCI TV
+#DESCRIPTION CIFTCI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/ciftcitv/bant1:CIFTCI TV
+#DESCRIPTION CIFTCI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kanalben.cubecdn.net/live//kanalben1:kanalben
 #DESCRIPTION kanalben
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yayin3.canlitv.com%3a1935/canlitv/nevtv/remy.m3u8:FUL TV
-#DESCRIPTION FUL TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wms.brtk.net%3a1935/live/BRTHD:BRT HD
 #DESCRIPTION BRT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.sportstv.com.tr%3a1935/sportstv/SportsTV3/playlist.m3u8:SportsTV
-#DESCRIPTION SportsTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gtv.live.cdn.bitgravity.com/gtv/live/feed03:GTA/ AZERBAYCAN
-#DESCRIPTION GTA/ AZERBAYCAN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bglive-a.bitgravity.com/ndtv/247hi/live/native:ND TV
-#DESCRIPTION ND TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV
+#DESCRIPTION NTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-i.mncdn.com%3a1935/bloomberght_ios/smil%3abloomberght.smil/master.m3u8:BLOOMBERG HT
 #DESCRIPTION BLOOMBERG HT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8:TRT HABER HD
@@ -97,16 +73,20 @@
 #DESCRIPTION kanal24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//semerkandglb.mediatriple.net%3a1935/semerkandliveedge/semerkand1/ratus42.m3u8:SEMERKAND TV
 #DESCRIPTION SEMERKAND TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sr1.netmedya.org%3a1935/yasintv/live.sdp/playlist.m3u8:YASİN TV
-#DESCRIPTION YASİN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8:TRT TURK
-#DESCRIPTION TRT TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8:TRT AVAZ
 #DESCRIPTION TRT AVAZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8:TRT ARAPÇA
 #DESCRIPTION TRT ARAPÇA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
 #DESCRIPTION TRT Kurdi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gtv.live.cdn.bitgravity.com/gtv/live/feed03:GTA/ AZERBAYCAN
+#DESCRIPTION GTA/ AZERBAYCAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bglive-a.bitgravity.com/ndtv/247hi/live/native:ND TV
+#DESCRIPTION ND TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.rtkit.com%3a1935/rtk1stream/rtk1.stream/chunklist.m3u8:RTK 1
+#DESCRIPTION RTK 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/disneychannel/chunks.m3u8:DISNEY CHANNEL
+#DESCRIPTION DISNEY CHANNEL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3akidztv.smil/yetmis6.m3u8??:Kidz/Animez
 #DESCRIPTION Kidz/Animez
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-l.mncdn.com/karamel/karamel/chunklist.m3u8:TV4 KARAMEL
@@ -163,8 +143,6 @@
 #DESCRIPTION AKILLI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s03.vidpanel.com/yattv/yattv.m3u8:YAT TV
 #DESCRIPTION YAT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8:NTV
-#DESCRIPTION NTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.ntv.com.tr/rss/LiveStream:NTV
 #DESCRIPTION NTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8:BURSASPOR TV
@@ -223,12 +201,6 @@
 #DESCRIPTION Istweb TV MQ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza3:Istweb TV MQ
 #DESCRIPTION Istweb TV MQ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza6:Istweb TV
-#DESCRIPTION Istweb TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza5:Istweb TV
-#DESCRIPTION Istweb TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.istweb.tv%3a1935/webtv/webtv_wowza4:Istweb TV
-#DESCRIPTION Istweb TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/kanal3/bant1:AFYON KANAL 3
 #DESCRIPTION AFYON KANAL 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.taksimbilisim.com%3a1935/kanal3/bant1/chunklist.m3u8:AFYON KANAL 3
