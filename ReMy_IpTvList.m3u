@@ -580,8 +580,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/777/inde
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1860.m3u8?token=SUZYUxZQRwJGA1kEDVRUCAdRAlECVlUEAwQKAgEHVFFUBVYKUw0DDVMRFERGFhddV1loCFdHC1cMAwkfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFVQNRHkZAWwEaXxpVCwm3u8?EBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcIAwVXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQKBghSFxk=
 #EXTINF:0,AXN HD
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2165.m3u8?token=SUZYUxZQRwJGVlkFBFNWDQcBVldWB1UDUAwIAgdVAgBRUgVTU10ECwERFERGFhddV1loCFdHC1QFAwwfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIFWg1RHkZAWwEaXxpWAw1XA0BJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwVTF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQBAgNASA==
-#EXTINF:0,Bloomberg
-http://94.130.34.125:81/Bloomberg/mpegts
 #EXTINF:0,BOOMERANG
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1852.m3u8?token=SUZYUxZQRwJGUA9eB1FWWQ5SU1RXAQVRAAYNUFJSBV0EXQdTUgwHW1YRFERGFhddV1loCFdHC1cMAAsfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIEUARRHkZAWwEaXxpWCgBXBUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcBCwBAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEBwUNCwRASA==
 #EXTINF:0,BR HD
@@ -714,7 +712,7 @@ http://asdp.ddns.net:8000/live/adriano/adriano/360.m3u8
 http://85.144.43.35:3002/play/a01c
 #EXTINF:0,sixx HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/643/index.m3u8
-#EXTINF:0,%20Logo.jpg" tvg-id=" group-title="ALEMANHA" - SWR HD
+#EXTINF:0,SWR HD
 http://85.144.43.35:3002/play/a00m
 #EXTINF:0,tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
@@ -2124,7 +2122,7 @@ http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/207/inde
 ****((LATINO_CHANNELS))****
 #EXTINF:0,13 Max Digital
 http://coninfo.net:1935/13max/live/chunklist.m3u8
-#EXTINF:0,34 Antena ESPAҁ
+#EXTINF:0,34 Antena ESPANA
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:0,8 TV ESP
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
@@ -2274,7 +2272,7 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,CNN Turkia
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,COLOMBIA:Cable Noticias
+#EXTINF:0,Cable Noticias
 http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,COLOSAL TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
@@ -2304,11 +2302,11 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:0,DXTV DEPORTES
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:0,ECUADOR:Television Nacional
+#EXTINF:0,Television Nacional
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,ECUADOR:TVS
+#EXTINF:0,TVS
 http://181.198.10.23:1935/live2/smil:teradek.smil/chunklist_w151492058_b1024000_sleng.m3u8
-#EXTINF:0,ECUADOR:UCSG
+#EXTINF:0,UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:0,Efekto TV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
@@ -2324,26 +2322,10 @@ http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m
 http://bajolamascara.universomarvel.com/images/2013/07/Spiderman%20TAS%20R.jpg"
 #EXTINF:0,El Tiempo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,ENTRETENIMIENTO:Arab Tv
+#EXTINF:0,Arab Tv
 http://149.56.17.92:1935/8404/8404/master.m3u8
-#EXTINF:0,ENTRETENIMIENTO:Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,ENTRETENIMIENTO:Canal Sur Cocina
+#EXTINF:0,Canal Sur Cocina
 http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
-#EXTINF:0,ENTRETENIMIENTO:Maxima Tv HD
-http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
-#EXTINF:0,ENTRETENIMIENTO:MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,ENTRETENIMIENTO:NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,ENTRETENIMIENTO:NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0,ENTRETENIMIENTO:Trailer Tv
-http://evo.eltelon.com:1935/trailertv/smil:trailertv.smil/playlist.m3u8
-#EXTINF:0,ENTRETENIMIENTO:Tv Pop
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
-#EXTINF:0,ESPAҁ
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,ESTETV
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
 #EXTINF:0,EXTREMA TV
@@ -2396,10 +2378,6 @@ https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_jaivas_031215_2200k.
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,Manuel Garcia
 https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_manuel_garcia_031215_2200k.m3u8
-#EXTINF:0,MEGA HD ESP
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:0,MEGA HD ESP
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
 #EXTINF:0,MEJOR LIGE BASSE BALL
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:0,MI MUSICA
@@ -2810,6 +2788,12 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?sta
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MTV LIVE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
+#EXTINF:-1,MTV_Hits
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+#EXTINF:-1,MTV_Dance
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
 #EXTINF:-1,NRJ Hits HD
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 #EXTINF:-1,NRJ HITS
@@ -3476,3 +3460,121 @@ rtmp://all4.noips.info:53/UfkFxz7pWY3N6jVJ/SCT4
 rtmp://all4.noips.info:53/UfkFxz7pWY3N6jVJ/Playboy
 #EXTINF:0,XXX: 21
 rtmp://all4.noips.info:53/UfkFxz7pWY3N6jVJ/SCT5
+#EXTINF:-1,-Ночной Клуб
+http://193.233.189.202:81/udp/239.191.254.38:15285
+#EXTINF:-1,-Русская Ночь
+http://193.233.189.202:81/udp/239.191.254.13:15285
+#EXTINF:-1,-Candyman
+http://193.233.189.202:81/udp/239.191.254.114:15285
+#EXTINF:-1,-O-la-la
+http://193.233.189.202:81/udp/239.191.254.161:15285
+#EXTINF:-1,-Candy HD
+http://193.233.189.202:81/udp/239.191.254.173:15285
+#EXTINF:-1,-Egoist TV
+http://193.233.189.202:81/udp/239.191.254.249:15285
+#EXTINF:-1,-NUART TV HD
+http://193.233.189.202:81/udp/239.191.254.250:15285
+#EXTINF:-1,-FrenchLover TV
+http://193.233.189.202:81/udp/239.191.254.251:15285
+#EXTINF:-1,-Brazzers TV Europe
+http://193.233.189.202:81/udp/239.191.254.170:15285
+#EXTINF:-1,-EROX
+http://193.233.189.202:81/udp/239.191.255.6:15285
+#EXTINF:-1,Dorcel HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/DorcelHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Dorcel XXX HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/DorcelXXXHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Ero XXX HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/EroXXXHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Erox HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/EroxHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Evil Angel HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/EvilAngelHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Hustler HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/HustlerHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Penthouse 1 HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/Penthouse1HD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Penthouse 2 HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/Penthouse2HD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Private TV HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PrivateTVHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Redlight HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/RedlightHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,SuperOne HD VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/SuperOneHD:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Brazzers TV Europe VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/BrazzersTVEurope:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Cento X Cento TV VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/CentoXCentoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Dorcel VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/DorcelTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,DUSK VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/DUSK:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Exotica Plus VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/ExoticaPlus:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Evil Angel TV VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/EvilAngel:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV 2 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTV2:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV 3 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTV3:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV 4 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTV4:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV Amateur VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTVAmateur:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV Anal VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTVAnal:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV Compilation VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTVCompilation:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV Lesbian VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTVLesbian:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV Parody VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTVParody:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV Teens VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTVTeens:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,FAP TV UHD 4K VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/FAPTVUHD4K:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Frenchlover TV VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/Frenchlover:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,HOT VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/HOT:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Hustler TV VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/HustlerTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Passion XXX VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PassionXXX:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pinko TV VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkoTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pink Erotic 1 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic1:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist 
+#EXTINF:-1,Pink Erotic 2 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic2:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pink Erotic 3 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic3:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pink Erotic 4 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic4:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pink Erotic 5 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic5:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pink Erotic 6 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic6:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pink Erotic 7 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic7:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Pink Erotic 8 VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PinkErotic8:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Private TV VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/PrivateTV:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Reality Kings VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/RealityKings:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,SCT VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/SCT:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,SuperOne VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/SuperOne:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,Venus VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/Venus:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,X Bizarre VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/XBizarre:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,X Bunga Bunga VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/XBungaBunga:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,X Desire VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/XDesire:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
+#EXTINF:-1,X Muvi VK.COM/XXX_Playlist
+http://185.10.211.14:54980/udp/XMuvi:100000/BCTynAu'_B_rpynny-http://vk.com/xxx_playlist
