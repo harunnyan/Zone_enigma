@@ -343,16 +343,8 @@
 #DESCRIPTION auto motor und sport channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apk.goo.ac%3a8081/live/9/playlist.m3u8:BAND SPORTS
 #DESCRIPTION BAND SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8:BEIN SPORTS
-#DESCRIPTION BEIN SPORTS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/566/index.m3u8:BEIN SPORTS HD
-#DESCRIPTION BEIN SPORTS HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8:BEIN SPORTS LALIGA
-#DESCRIPTION BEIN SPORTS LALIGA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/574/index.m3u8:BEIN SPORTS LALIGA HD
 #DESCRIPTION BEIN SPORTS LALIGA HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8:BEIN SPORTS MAX 1 HD
-#DESCRIPTION BEIN SPORTS MAX 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.130.34.125%3a81/bt3/index.m3u8:BT SPORT 3
 #DESCRIPTION BT SPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/682/index.m3u8:Eurosport
@@ -405,10 +397,6 @@
 #DESCRIPTION Sport1+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.164.249.60%3a25000/play/a01f:sportdigital HD
 #DESCRIPTION sportdigital HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8:Super RTL
-#DESCRIPTION Super RTL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/468/index.m3u8:Super RTL Hd
-#DESCRIPTION Super RTL Hd
 #SERVICE 1:64:9C:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
@@ -703,8 +691,12 @@
 #DESCRIPTION sixx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/643/index.m3u8:sixx HD
 #DESCRIPTION sixx HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.144.43.35%3a3002/play/a00m:%20Logo.jpg" tvg-id=" group-title="ALEMANHA" - SWR HD
-#DESCRIPTION %20Logo.jpg" tvg-id=" group-title="ALEMANHA" - SWR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8:Super RTL
+#DESCRIPTION Super RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/468/index.m3u8:Super RTL Hd
+#DESCRIPTION Super RTL Hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.144.43.35%3a3002/play/a00m:SWR
+#DESCRIPTION SWR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8:tagesschau24
 #DESCRIPTION tagesschau24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/rtc_teste/TeamBlue.m3u8:TCV
