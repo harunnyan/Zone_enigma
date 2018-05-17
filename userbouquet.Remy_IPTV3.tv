@@ -51,6 +51,12 @@
 #DESCRIPTION Mooz Ro
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Ro
 #DESCRIPTION Mooz Ro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8:MTV_Dance
+#DESCRIPTION MTV_Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8:MTV_Hits
+#DESCRIPTION MTV_Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8:MTV_Live
+#DESCRIPTION MTV_Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8:MTV
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on:MTV HD
