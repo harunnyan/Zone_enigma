@@ -1897,6 +1897,34 @@
 #DESCRIPTION Power Türk Fm
 #SERVICE 1:64:A6:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=gsu5VsblZZo&t=245s:Frankenstein Ölümsüzlerin SavaSİ
+#DESCRIPTION Frankenstein Ölümsüzlerin SavaSİ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=pNlABF0pMsA:EX Machine﻿
+#DESCRIPTION EX Machine﻿
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=q39wO_SDrMM:Son Cadı Avcısı
+#DESCRIPTION Son Cadı Avcısı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=luP4rCtY-_A:Black panter
+#DESCRIPTION Black panter
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ZYEDtZT13CA:ASTERIX & OBURIX
+#DESCRIPTION ASTERIX & OBURIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=19HpeL1II1k:YENILMEZ
+#DESCRIPTION YENILMEZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qLTYrrmxD0k:Kung-Fu Yoga
+#DESCRIPTION Kung-Fu Yoga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5UEQM3RYQwQ:UYUMSUZ
+#DESCRIPTION UYUMSUZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=j9ktbrapm7s:GAME OF GAME
+#DESCRIPTION GAME OF GAME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=VPtwrc-gPTk:Ay Krallığı: Beyaz Saçlı Cadı
+#DESCRIPTION Ay Krallığı: Beyaz Saçlı Cadı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=mAIr45hrFlo:BensizOlmaz HD karanlıklar ülkesi
+#DESCRIPTION BensizOlmaz HD karanlıklar ülkesi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Q1j1cCyCyJ8:RIDDICK
+#DESCRIPTION RIDDICK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=FkYHjj9oHKE:Solomon kane
+#DESCRIPTION Solomon kane
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=wOmt2aimlGk:JURASSIC WORLD
+#DESCRIPTION JURASSIC WORLD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=SgDqSFJpNbA:PJ Masks Full Episodes
 #DESCRIPTION PJ Masks Full Episodes
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=EY0WWNoS2xo:Talking Tom Shorts FULL Episodes
