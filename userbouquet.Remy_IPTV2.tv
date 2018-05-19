@@ -1,9 +1,9 @@
 #NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2201.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=3504196174&pk=85c857db4c92f9f2190783de15bfaa42c0a6b7cc1a3bb5e421e28fdadff32663:Bein Sports MAC SAATI ACIK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2201.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=038368712&pk=f9366ebab4070b259e49141b7dd2eee202ad7ea0abf98ca634854359a72a31ae:Bein Sports MAC SAATI ACIK
 #DESCRIPTION Bein Sports MAC SAATI ACIK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//105.liveflashplayer.org%3a8088/zenex/livin3bein1com/playlist.m3u8?id=28005&wowzasessionid=44114666&pk=85c857db4c92f9f2190783de15bfaa42c0a6b7cc1a3bb5e421e28fdadff32663:Bein Sports MAC SAATI ACIK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//104.liveflashplayer.org%3a8088/zenex/TR567UIJHJGUT687U/playlist.m3u8?id=28072&wowzasessionid=193923910&pk=f9366ebab4070b259e49141b7dd2eee202ad7ea0abf98ca634854359a72a31ae:Bein Sports MAC SAATI ACIK
 #DESCRIPTION Bein Sports MAC SAATI ACIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/bil6kale./1710.ca/1291.ts:BEiN SPORT1 HD
 #DESCRIPTION BEiN SPORT1 HD
@@ -1899,15 +1899,15 @@
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=gsu5VsblZZo&t=245s:Frankenstein Ölümsüzlerin SavaSİ
 #DESCRIPTION Frankenstein Ölümsüzlerin SavaSİ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=pNlABF0pMsA:EX Machine﻿
-#DESCRIPTION EX Machine﻿
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=q39wO_SDrMM:Son Cadı Avcısı
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=KqlUv3UArrI:SÜPER HIZLI
+#DESCRIPTION SÜPER HIZLI
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=q39wO_SDrMM:Son Cadı Avcısı
 #DESCRIPTION Son Cadı Avcısı
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=luP4rCtY-_A:Black panter
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=luP4rCtY-_A:Black panter
 #DESCRIPTION Black panter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ZYEDtZT13CA:ASTERIX & OBURIX
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ZYEDtZT13CA:ASTERIX & OBURIX
 #DESCRIPTION ASTERIX & OBURIX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=19HpeL1II1k:YENILMEZ
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=19HpeL1II1k:YENILMEZ
 #DESCRIPTION YENILMEZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qLTYrrmxD0k:Kung-Fu Yoga
 #DESCRIPTION Kung-Fu Yoga
