@@ -1,9 +1,13 @@
 #NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8:Bein Sports 1 HD
+#DESCRIPTION Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8:Bein Sports 1 HD
+#DESCRIPTION Bein Sports 1 HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2201.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=038368712&pk=f9366ebab4070b259e49141b7dd2eee202ad7ea0abf98ca634854359a72a31ae:Bein Sports MAC SAATI ACIK
 #DESCRIPTION Bein Sports MAC SAATI ACIK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//104.liveflashplayer.org%3a8088/zenex/TR567UIJHJGUT687U/playlist.m3u8?id=28072&wowzasessionid=193923910&pk=f9366ebab4070b259e49141b7dd2eee202ad7ea0abf98ca634854359a72a31ae:Bein Sports MAC SAATI ACIK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2202.janjuaplayer.com%3a8088/live/bein2livinsiker3/playlist.m3u8?id=80533&wowzasessionid=493701037&pk=f9366ebab4070b259e49141b7dd2eee202ad7ea0abf98ca634854359a72a31ae:Bein Sports MAC SAATI ACIK
 #DESCRIPTION Bein Sports MAC SAATI ACIK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/bil6kale./1710.ca/1291.ts:BEiN SPORT1 HD
 #DESCRIPTION BEiN SPORT1 HD
@@ -329,6 +333,66 @@
 #DESCRIPTION Sport1+ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.164.249.60%3a25000/play/a01f:sportdigital HD
 #DESCRIPTION sportdigital HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlsarchive.limehd.tv%3a8191/boec/index.m3u8:boec
+#DESCRIPTION boec
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.srkcast.com/stream/bt1/playlist.m3u8:BT1
+#DESCRIPTION BT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.srkcast.com/stream/sky1/playlist.m3u8:SKY Sport  MAIN EVENT HD
+#DESCRIPTION SKY Sport  MAIN EVENT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8:SuperTennis
+#DESCRIPTION SuperTennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8:Arena Sport 1 HR
+#DESCRIPTION Arena Sport 1 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8:Arena Sport 2 HR
+#DESCRIPTION Arena Sport 2 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8:Arena Sport 3 SRP
+#DESCRIPTION Arena Sport 3 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8:Arena Sport 4 HR
+#DESCRIPTION Arena Sport 4 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8:Arena Sport 5 SRP
+#DESCRIPTION Arena Sport 5 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8:SK 1 SRP
+#DESCRIPTION SK 1 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8:SK 2 SRP
+#DESCRIPTION SK 2 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8:SK 3 HR
+#DESCRIPTION SK 3 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8:Arena Sport 1 HR
+#DESCRIPTION Arena Sport 1 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8:Arena Sport 2 HR
+#DESCRIPTION Arena Sport 2 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8:Arena Sport 3 SRP
+#DESCRIPTION Arena Sport 3 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8:Arena Sport 4 HR
+#DESCRIPTION Arena Sport 4 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8:Arena Sport 5 SRP
+#DESCRIPTION Arena Sport 5 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8:SK 1 SRP
+#DESCRIPTION SK 1 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8:SK 2 SRP
+#DESCRIPTION SK 2 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8:SK 3 HR
+#DESCRIPTION SK 3 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8:SuperTennis
+#DESCRIPTION SuperTennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8:SuperTennis
+#DESCRIPTION SuperTennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8:Arena Sport 1 HR
+#DESCRIPTION Arena Sport 1 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8:Arena Sport 2 HR
+#DESCRIPTION Arena Sport 2 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8:Arena Sport 3 SRP
+#DESCRIPTION Arena Sport 3 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8:Arena Sport 4 HR
+#DESCRIPTION Arena Sport 4 HR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8:Arena Sport 5 SRP
+#DESCRIPTION Arena Sport 5 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8:SK 1 SRP
+#DESCRIPTION SK 1 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8:SK 2 SRP
+#DESCRIPTION SK 2 SRP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8:SK 3 HR
+#DESCRIPTION SK 3 HR
 #SERVICE 1:64:9D:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
