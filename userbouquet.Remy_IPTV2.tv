@@ -1911,7 +1911,7 @@
 #DESCRIPTION FilmOn Tv-WebSocket-beklemeli kanallar
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/party-girls-tv:party-girls-tv
 #DESCRIPTION party-girls-tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/bikini-kitchen:bikini-kitchen
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/bikini-kitchen:bikini-kitchen
 #DESCRIPTION bikini-kitchen
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/miss-top-of-the-world:miss-top-of-the-world
 #DESCRIPTION miss-top-of-the-world
