@@ -153,7 +153,7 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-0,IDMAN TV
 https://streaming.kovalchuk.me/azeri/idman/index.m3u8
 #EXTINF:-1,Bein Sports Hd
-http://2202.janjuaplayer.com:8088/live/bein2livinsiker3/playlist.m3u8?id=80533&wowzasessionid=493701037&pk=f9366ebab4070b259e49141b7dd2eee202ad7ea0abf98ca634854359a72a31ae
+http://2202.janjuaplayer.com:8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=3120395924&pk=55e25221bbd468a94f20890eb10c1358d01b85ed6d1e2e8b86d7301ede65c4c3
 #EXTINF:-1,Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1,Arena Sport2
