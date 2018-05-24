@@ -1,7 +1,7 @@
 #NAME **ReMy_IPTV_18+ADULT**
-#SERVICE 1:64:DC:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
+#SERVICE 1:64:94:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
 #DESCRIPTION ::::::_E N I G M A__T U R K__T E A M_::::::
-#SERVICE 1:64:DD:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
+#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
@@ -227,7 +227,7 @@
 #DESCRIPTION FAP TV 3 VK.COM/XXX_Playlist
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTV4%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV 4 VK.COM/XXX_Playlist
 #DESCRIPTION FAP TV 4 VK.COM/XXX_Playlist
-#SERVICE 1:64:DE:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
+#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -321,7 +321,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:DF:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
+#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
 #DESCRIPTION 2017 Victoria’s Secret Fashion Show
@@ -727,7 +727,7 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:E0:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.75.107/files/videos/140747456300c03.flv:Asian XXX - VOD 01
 #DESCRIPTION Asian XXX - VOD 01
@@ -2185,7 +2185,7 @@
 #DESCRIPTION wild-city-girl-shower-masturbation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.155.129.196/flashfiles/flash/young-couples-private-tape-leaked.flv:young-couples-private-tape-leaked
 #DESCRIPTION young-couples-private-tape-leaked
-#SERVICE 1:64:E1:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
+#SERVICE 1:64:99:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #DESCRIPTION OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
 #DESCRIPTION Adult 4K: VOD 1

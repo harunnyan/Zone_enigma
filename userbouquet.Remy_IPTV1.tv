@@ -1,11 +1,11 @@
 #NAME **ReMy_TURKEY & SPECIAL_IPTV**
-#SERVICE 1:64:94:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -123,7 +123,7 @@
 #DESCRIPTION CIZGI FILM 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8:CIZGI FILM 10
 #DESCRIPTION CIZGI FILM 10
-#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
+#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8:STAR TV
 #DESCRIPTION STAR TV
@@ -189,7 +189,7 @@
 #DESCRIPTION Asgabat TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch007_400/index.m3u8:Türkmenistan TV
 #DESCRIPTION Türkmenistan TV
-#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
+#SERVICE 1:64:9D:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/55c4522e6c990/playlist.m3u8?wowzasessionid=959095225:ANKARA TV
 #DESCRIPTION ANKARA TV
@@ -347,10 +347,28 @@
 #DESCRIPTION VUSLAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8:ZIRAAT TV
 #DESCRIPTION ZIRAAT TV
-#SERVICE 1:64:98:0:0:0:0:0:0:0::==== ★★STAN_IPTV_VOD★★ ====
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::==== ★★STAN_IPTV_VOD★★ ====
 #DESCRIPTION ==== ★★STAN_IPTV_VOD★★ ====
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//vod.tsvipsmart.eu/dublaj/Kusursuz.Sevgili.2018.TR.WEBRip.XviD.www.filmindirgen.com.avi:Kusursuz-Sevgili-2018
 #DESCRIPTION Kusursuz-Sevgili-2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Shallows-Karanlik.Sular-2016.mkv:4K-DUAL-The.Shallows-Karanlik.Sular-2016
+#DESCRIPTION 4K-DUAL-The.Shallows-Karanlik.Sular-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Last.Witch.Hunter-Son.Cadi.Avcisi-2015.mkv:4K-DUAL-The.Last.Witch.Hunter-Son.Cadi.Avcisi-2015
+#DESCRIPTION 4K-DUAL-The.Last.Witch.Hunter-Son.Cadi.Avcisi-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Angry.Birds-Kizgin.Kuslar-2016.mkv:4K-DUAL-The.Angry.Birds-Kizgin.Kuslar-2016
+#DESCRIPTION 4K-DUAL-The.Angry.Birds-Kizgin.Kuslar-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Fantastic.Four-Fantastik.Dortlu-2015.mkv:4K-DUAL-Fantastic.Four-Fantastik.Dortlu-2015
+#DESCRIPTION 4K-DUAL-Fantastic.Four-Fantastik.Dortlu-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Enders.Game-Uzay.Oyunlari-2013.mkv:4K-DUAL-Enders.Game-Uzay.Oyunlari-2013
+#DESCRIPTION 4K-DUAL-Enders.Game-Uzay.Oyunlari-2013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Mike.Dave.Need.Wedding.Dates-Ah.Bir.Sevgili.Yapsak-2016.mkv:4K-DUAL-Mike.Dave.Need.Wedding.Dates-Ah.Bir.Sevgil
+#DESCRIPTION 4K-DUAL-Mike.Dave.Need.Wedding.Dates-Ah.Bir.Sevgil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Hitman.Agent47-2015.mkv:4K-DUAL-Hitman.Agent47-2015
+#DESCRIPTION 4K-DUAL-Hitman.Agent47-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Sicario-2015.mkv:4K-DUAL-Sicario-2015
+#DESCRIPTION 4K-DUAL-Sicario-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Sully-2016.mkv:4K-DUAL-Sully-2016
+#DESCRIPTION 4K-DUAL-Sully-2016
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601504.us.archive.org/32/items/luaAmor/luaAmor.mp4?STANIPTV:luAMOR
 #DESCRIPTION luAMOR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?STANIPTV:Os Seus -  os Meus e os Nossos
@@ -1183,7 +1201,7 @@
 #DESCRIPTION Yearmix2014
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ Panduro - Video Yearmix 2015.mp4:Yearmix2015
 #DESCRIPTION Yearmix2015
-#SERVICE 1:64:99:0:0:0:0:0:0:0::Chıness_VOD
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::Chıness_VOD
 #DESCRIPTION Chıness_VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ws4.streamhls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-1516540856-1_1200/playlist.m3u8:LinZhengYing
 #DESCRIPTION LinZhengYing
@@ -1329,7 +1347,7 @@
 #DESCRIPTION Phim TQ: Xinxu Qinqin - Tập 28
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a //zy.zxziyuan-yu:Phim TQ: Xinxu Qinqin - TİM 29
 #DESCRIPTION Phim TQ: Xinxu Qinqin - TİM 29
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::FILM_A-SALON-VOD
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::FILM_A-SALON-VOD
 #DESCRIPTION FILM_A-SALON-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.soeu.ws%3a6969/movie/painel/H94uP9vwlG/77.mp4:10 Cloverfield Lane
 #DESCRIPTION 10 Cloverfield Lane
@@ -2035,7 +2053,7 @@
 #DESCRIPTION Zootropolis PT
 #SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//hotspot18.hitrow.info/crtici/Zvoncica_i_gusarska_vila_2014/Zvoncica.i.gusarska.vila.2014.avi:Zvoncica i gusarska vila SINKRONIZIRANO (2014)
 #DESCRIPTION Zvoncica i gusarska vila SINKRONIZIRANO (2014)
-#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/thrones1e1.mp4:Game of Thrones Season 1 Episode 1
 #DESCRIPTION Game of Thrones Season 1 Episode 1
@@ -2233,3 +2251,95 @@
 #DESCRIPTION Scandal Season 3 Episode 10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.deadlyblogger.com/NewRelease/scandals3e11.mp4:Scandal Season 3 Episode 11
 #DESCRIPTION Scandal Season 3 Episode 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Assassins.Creed-2016.mkv:4K-DUAL-Assassins.Creed-2016
+#DESCRIPTION 4K-DUAL-Assassins.Creed-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Batman.v.Superman-Adaletin.Safagi-2016.mkv:4K-DUAL-Batman.v.Superman-Adaletin.Safagi-2016
+#DESCRIPTION 4K-DUAL-Batman.v.Superman-Adaletin.Safagi-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Billy.Lynns.Long.Halftime.Walk-Uzun.Yuruyusu-2016.mkv:4K-DUAL-Billy.Lynns.Long.Halftime.Walk-Uzun.Yuruyu
+#DESCRIPTION 4K-DUAL-Billy.Lynns.Long.Halftime.Walk-Uzun.Yuruyu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Chappie-2015.mkv:4K-DUAL-Chappie-2015
+#DESCRIPTION 4K-DUAL-Chappie-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Deadpool-2016.mkv:4K-DUAL-Deadpool-2016
+#DESCRIPTION 4K-DUAL-Deadpool-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Fantastic.Beasts-Fantastik.Canavarlar-2016.mkv:4K-DUAL-Fantastic.Beasts-Fantastik.Canavarlar-2016
+#DESCRIPTION 4K-DUAL-Fantastic.Beasts-Fantastik.Canavarlar-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Ghostbusters-Hayalet.Avcilari-2016.mkv:4K-DUAL-Ghostbusters-Hayalet.Avcilari-2016
+#DESCRIPTION 4K-DUAL-Ghostbusters-Hayalet.Avcilari-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Gods.of.Egypt-Misir.Tanrilari-2016.mkv:4K-DUAL-Gods.of.Egypt-Misir.Tanrilari-2016
+#DESCRIPTION 4K-DUAL-Gods.of.Egypt-Misir.Tanrilari-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Gravity-Yercekimi-2013.mkv:4K-DUAL-Gravity-Yercekimi-2013
+#DESCRIPTION 4K-DUAL-Gravity-Yercekimi-2013
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Guardians.of.the.Galaxy.2-Galaksinin.Koruyucuları.2-2017.mkv:4K-DUAL-Guardians.of.the.Galaxy.2-Galaksinin.Koruy
+#DESCRIPTION 4K-DUAL-Guardians.of.the.Galaxy.2-Galaksinin.Koruy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Hancock-2008.mkv:4K-DUAL-Hancock-2008
+#DESCRIPTION 4K-DUAL-Hancock-2008
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Independence.Day.2-Kurtulus.Gunu-2016.mkv:4K-DUAL-Independence.Day.2-Kurtulus.Gunu-2016
+#DESCRIPTION 4K-DUAL-Independence.Day.2-Kurtulus.Gunu-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Inferno-Cehennem-2016.mkv:4K-DUAL-Inferno-Cehennem-2016
+#DESCRIPTION 4K-DUAL-Inferno-Cehennem-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Jack.Reacher.2-Asla.Geri.donme-2016.mkv:4K-DUAL-Jack.Reacher.2-Asla.Geri.donme-2016
+#DESCRIPTION 4K-DUAL-Jack.Reacher.2-Asla.Geri.donme-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Jason.Bourne.2016.mkv:4K-DUAL-Jason.Bourne.2016
+#DESCRIPTION 4K-DUAL-Jason.Bourne.2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-John.Wick-2.mkv:4K-DUAL-John.Wick-2.
+#DESCRIPTION 4K-DUAL-John.Wick-2.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Kingsman.The.Secret.Service-Gizli.Servis-2014.mkv:4K-DUAL-Kingsman.The.Secret.Service-Gizli.Servis-2
+#DESCRIPTION 4K-DUAL-Kingsman.The.Secret.Service-Gizli.Servis-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Kong.Skull.Island-Kafatasi.Adasi-2017.mkv:4K-DUAL-Kong.Skull.Island-Kafatasi.Adasi-2017
+#DESCRIPTION 4K-DUAL-Kong.Skull.Island-Kafatasi.Adasi-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Logan-2017.mkv:4K-DUAL-Logan-2017
+#DESCRIPTION 4K-DUAL-Logan-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Mad.Max.Fury.Road-Ofkeli.Yollar-2015.mkv:4K-DUAL-Mad.Max.Fury.Road-Ofkeli.Yollar-2015
+#DESCRIPTION 4K-DUAL-Mad.Max.Fury.Road-Ofkeli.Yollar-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Mission.Impossible.5-Gorevimiz.Tehlike.5-2015.mkv:4K-DUAL-Mission.Impossible.5-Gorevimiz.Tehlike.5-2
+#DESCRIPTION 4K-DUAL-Mission.Impossible.5-Gorevimiz.Tehlike.5-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Now.You.See.Me.2-Sihirbazlar.Cetesi.2-2016.mkv:4K-DUAL-Now.You.See.Me.2-Sihirbazlar.Cetesi.2-2016
+#DESCRIPTION 4K-DUAL-Now.You.See.Me.2-Sihirbazlar.Cetesi.2-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Oblivion-2013.mkv:4K-DUAL-Oblivion-2013.
+#DESCRIPTION 4K-DUAL-Oblivion-2013.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Revolt-Isyan-2017.mkv:4K-DUAL-Revolt-Isyan-2017
+#DESCRIPTION 4K-DUAL-Revolt-Isyan-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-San.Andreas.Fayi-2015.mkv:4K-DUAL-San.Andreas.Fayi-2015
+#DESCRIPTION 4K-DUAL-San.Andreas.Fayi-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Spider-Man-Eve.Donus-2017.mkv:4K-DUAL-Spider-Man-Eve.Donus-2017
+#DESCRIPTION 4K-DUAL-Spider-Man-Eve.Donus-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Star.Trek.Beyond-Sonsuzluk-2016.mkv:4K-DUAL-Star.Trek.Beyond-Sonsuzluk-2016
+#DESCRIPTION 4K-DUAL-Star.Trek.Beyond-Sonsuzluk-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Suicide.Squad-Gercek.Kotuler-2016.mkv:4K-DUAL-Suicide.Squad-Gercek.Kotuler-2016
+#DESCRIPTION 4K-DUAL-Suicide.Squad-Gercek.Kotuler-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Teenage.Mutant.Ninja.Turtles.Out.Of.The.Shadow-Golgelerin.Icinden-2016.mkv:4K-DUAL-Teenage.Mutant.Ninja.Turtles.Out.Of.The.Sh
+#DESCRIPTION 4K-DUAL-Teenage.Mutant.Ninja.Turtles.Out.Of.The.Sh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Terminator-5-Genisys-2015.mkv:4K-DUAL-Terminator-5-Genisys-2015
+#DESCRIPTION 4K-DUAL-Terminator-5-Genisys-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Divergent-Allegiant-Yandas.Bolum-1-2016.mkv:4K-DUAL-The.Divergent-Allegiant-Yandas.Bolum-1-201
+#DESCRIPTION 4K-DUAL-The.Divergent-Allegiant-Yandas.Bolum-1-201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Fate.of.the.Furious-Hizli.ve.Ofkeli.8-2017.mkv:4K-DUAL-The.Fate.of.the.Furious-Hizli.ve.Ofkeli.8
+#DESCRIPTION 4K-DUAL-The.Fate.of.the.Furious-Hizli.ve.Ofkeli.8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Fifth.Element-Besinci.Element-1997.mkv:4K-DUAL-The.Fifth.Element-Besinci.Element-1997
+#DESCRIPTION 4K-DUAL-The.Fifth.Element-Besinci.Element-1997
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Great.Wall-Cin.Seddi-2017.mkv:4K-DUAL-The.Great.Wall-Cin.Seddi-2017
+#DESCRIPTION 4K-DUAL-The.Great.Wall-Cin.Seddi-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Legend.Of.Tarzan-Tarzan.Efsanesi-2016.mkv:4K-DUAL-The.Legend.Of.Tarzan-Tarzan.Efsanesi-2016
+#DESCRIPTION 4K-DUAL-The.Legend.Of.Tarzan-Tarzan.Efsanesi-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Magnificent.Seven-Muhtesem.Yedili-2016.mkv:4K-DUAL-The.Magnificent.Seven-Muhtesem.Yedili-2016
+#DESCRIPTION 4K-DUAL-The.Magnificent.Seven-Muhtesem.Yedili-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Martian-Marsli-2015.mkv:4K-DUAL-The.Martian-Marsli-2015
+#DESCRIPTION 4K-DUAL-The.Martian-Marsli-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Mummy-2017.mkv:4K-DUAL-The.Mummy-2017.mkv
+#DESCRIPTION 4K-DUAL-The.Mummy-2017.mkv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-The.Revenant-Dirilis-2015.mkv:4K-DUAL-The.Revenant-Dirilis-2015
+#DESCRIPTION 4K-DUAL-The.Revenant-Dirilis-2015
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Train.To.Busan-Zombi.Ekspresi-2016.mkv:4K-DUAL-Train.To.Busan-Zombi.Ekspresi-2016
+#DESCRIPTION 4K-DUAL-Train.To.Busan-Zombi.Ekspresi-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Transformers.5-2017.mkv:4K-DUAL-Transformers.5-2017
+#DESCRIPTION 4K-DUAL-Transformers.5-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Valerian-Bir.Gezegen.Imparatorlugu-2017.mkv:4K-DUAL-Valerian-Bir.Gezegen.Imparatorlugu-2017
+#DESCRIPTION 4K-DUAL-Valerian-Bir.Gezegen.Imparatorlugu-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-War.Machine-Savas.Makinesi-2017.mkv:4K-DUAL-War.Machine-Savas.Makinesi-2017
+#DESCRIPTION 4K-DUAL-War.Machine-Savas.Makinesi-2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-Warcraft-Iki.dunyanin.ilk.Karsilasmasi-2016.mkv:4K-DUAL-Warcraft-Iki.dunyanin.ilk.Karsilasmasi-201
+#DESCRIPTION 4K-DUAL-Warcraft-Iki.dunyanin.ilk.Karsilasmasi-201
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-DUAL-X-Men.Apocalypse-2016.mkv:4K-DUAL-X-Men.Apocalypse-2016
+#DESCRIPTION 4K-DUAL-X-Men.Apocalypse-2016
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/4k/4K-Kedi-2016.mkv:4K-Kedi-2016
+#DESCRIPTION 4K-Kedi-2016
