@@ -154,6 +154,8 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 https://streaming.kovalchuk.me/azeri/idman/index.m3u8
 #EXTINF:-1,Bein Sports Hd
 http://2202.janjuaplayer.com:8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=3120395924&pk=55e25221bbd468a94f20890eb10c1358d01b85ed6d1e2e8b86d7301ede65c4c3
+#EXTINF:0,DIEMA SPORT
+http://live2.srkcast.com/stream/diema1/chunks.m3u8
 #EXTINF:-1,Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:-1,Arena Sport2
@@ -162,16 +164,6 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:-1,Arena Sport4
 http://46.40.5.99:8000/arena_4_high
-#EXTINF:-1,Arena Sport 1 HD
-rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA1
-#EXTINF:-1,Arena Sport 2 HD
-rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA2
-#EXTINF:-1,Arena Sport 3 HD
-rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA3
-#EXTINF:-1,Arena Sport 4 HD
-rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA4
-#EXTINF:-1,Arena Sport 5 HD
-rtmp://maxtvtackaml.duckdns.org:53/UfkFxz7pWY3N6jVJ/ARENA5
 #EXTINF:-1,TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:-1,FB TV
@@ -1182,6 +1174,12 @@ http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
 http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
 #EXTINF:0,Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0,ROSSIA1
+http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/504/index.m3u8?token=null
+#EXTINF:0,VIP COMEDY
+http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/200/index.m3u8?token=null
+#EXTINF:0,HISTORY
+http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/231/index.m3u8?token=null 
 #EXTINF:0,RT doc
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:0,Speranta TV
