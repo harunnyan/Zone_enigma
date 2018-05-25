@@ -5,8 +5,12 @@
 #DESCRIPTION Bein Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2d06.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=733968394&pk=e2d2f72efbd65235ec3293385ae82b1138d9a46eac3ba594bc11e178c5bf6976:Bein Sports MAC SAATI ACIK
-#DESCRIPTION Bein Sports MAC SAATI ACIK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2d06.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=733968394&pk=e2d2f72efbd65235ec3293385ae82b1138d9a46eac3ba594bc11e178c5bf6976:Bein Sports MAC SAATI
+#DESCRIPTION Bein Sports MAC SAATI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2d06.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=3233158761&pk=8ee53d16eb6213f166ca37528ab5332e50764b255a97d2a25b1f096fff66c4c1:Bein Sports MAC SAATI
+#DESCRIPTION Bein Sports MAC SAATI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2201.janjuaplayer.com%3a8088/live/livinbein3co/playlist.m3u8?id=79061&wowzasessionid=3198176164&pk=8ee53d16eb6213f166ca37528ab5332e50764b255a97d2a25b1f096fff66c4c1:Bein Sports MAC SAATI
+#DESCRIPTION Bein Sports MAC SAATI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/bil6kale./1710.ca/1291.ts:BEiN SPORT1 HD
 #DESCRIPTION BEiN SPORT1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/bil6kale./1710.ca/1290.ts:BEiN SPORT1 sd
@@ -475,12 +479,14 @@
 #DESCRIPTION SOMINE KEYFI HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8:SOMINE KEYFI MUSIC
 #DESCRIPTION SOMINE KEYFI MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a80/A1Balkan/playlist.m3u8:A1Balkan HD
+#DESCRIPTION A1Balkan HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV
 #DESCRIPTION 1-2-3 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3 TV HD
 #DESCRIPTION 1-2-3 TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.152.66.81%3a25461/live/finais2_jbnehu/xvolgz/3371.m3u8?token=SUZYUxZQRwJGClxSBgdUCVJRUQABUAdQUA1bVwZWUAFRVFFTUggGXQIRFERGFhddV1loCFdHC1UHAggfExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYEUQFRHkZAWwEaXxpVBghSDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYJBAFTFxk=:A&amp;E HD
-#DESCRIPTION A&amp;E HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.152.66.81%3a25461/live/finais2_jbnehu/xvolgz/3371.m3u8?token=SUZYUxZQRwJGClxSBgdUCVJRUQABUAdQUA1bVwZWUAFRVFFTUggGXQIRFERGFhddV1loCFdHC1UHAggfExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYEUQFRHkZAWwEaXxpVBghSDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYJBAFTFxk=:A&E HD
+#DESCRIPTION A&E HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.field59.com/wwsb/ngrp%3awwsb1_all/playlist.m3u8:ABC TV
 #DESCRIPTION ABC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//0.0.0.1234:ALEMANHA
@@ -1857,6 +1863,8 @@
 #DESCRIPTION TRT Kurdi
 #SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
 #DESCRIPTION === ★★FilmOn Tv-WebSocket★★ ===
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/miamitv:miamitv
+#DESCRIPTION miamitv
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/party-girls-tv:party-girls-tv
 #DESCRIPTION party-girls-tv
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/bikini-kitchen:bikini-kitchen
@@ -4841,5 +4849,3 @@
 #DESCRIPTION Эstониja 8
 #SERVICE 4097:0:1:1764:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/pesakast-live.m3u8:Эstониja 9
 #DESCRIPTION Эstониja 9
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/miamitv:miamitv
-#DESCRIPTION miamitv

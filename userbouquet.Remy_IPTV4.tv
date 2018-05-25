@@ -89,46 +89,6 @@
 #DESCRIPTION Dorcel TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8:Zest TV
 #DESCRIPTION Zest TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sextwo:sextwo: 1
-#DESCRIPTION sextwo: 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sexthree:sexthree: 2
-#DESCRIPTION sexthree: 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/hustler:hustler: 3
-#DESCRIPTION hustler: 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sexfour:sexfour: 5
-#DESCRIPTION sexfour: 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sexfive:sexfive: 6
-#DESCRIPTION sexfive: 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sexsix:sexsix: 7
-#DESCRIPTION sexsix: 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sexgreece:sexgreece: 8
-#DESCRIPTION sexgreece: 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sex_french_lover:french_lover: 9
-#DESCRIPTION french_lover: 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/SCTHD:SCTHD: 10
-#DESCRIPTION SCTHD: 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sexone:sexone: 11
-#DESCRIPTION sexone: 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/HustlerHD:HustlerHD: 12
-#DESCRIPTION HustlerHD: 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/HustlerHD3:HustlerHD3: 13
-#DESCRIPTION HustlerHD3: 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/SCTHQ:SCTHQ: 14
-#DESCRIPTION SCTHQ: 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/sexp:sexp: 15
-#DESCRIPTION sexp: 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/redlightHD:redlightHD: 16
-#DESCRIPTION redlightHD: 16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/Redlights:Redlights: 17
-#DESCRIPTION Redlights: 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/SCT7:SCT7: 18
-#DESCRIPTION SCT7: 18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/SCT4:SCT4: 19
-#DESCRIPTION SCT4: 19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/Playboy:Playboy: 20
-#DESCRIPTION Playboy: 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//all4.noips.info%3a53/UfkFxz7pWY3N6jVJ/SCT5:SCT5: 21
-#DESCRIPTION SCT5: 21
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTV2%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV 2 VK.COM/XXX_Playlist
 #DESCRIPTION FAP TV 2 VK.COM/XXX_Playlist
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTVAmateur%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV Amateur VK.COM/XXX_Playlist
