@@ -1,7 +1,7 @@
 #NAME **ReMy_IPTV_18+ADULT**
-#SERVICE 1:64:94:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
+#SERVICE 1:64:93:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
 #DESCRIPTION ::::::_E N I G M A__T U R K__T E A M_::::::
-#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
+#SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
@@ -15,6 +15,8 @@
 #DESCRIPTION Miami TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.111.128.190/miamitv/smil%3amiamitvspain/playlist.m3u8:Miami tv 3
 #DESCRIPTION Miami tv 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3 TV HD
+#DESCRIPTION 1-2-3 TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8:Studio 66
 #DESCRIPTION Studio 66
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8:Studio 66
@@ -187,7 +189,7 @@
 #DESCRIPTION FAP TV 3 VK.COM/XXX_Playlist
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.10.211.14%3a54980/udp/FAPTV4%3a100000/BCTynAu'_B_rpynny-http%3a//vk.com/xxx_playlist:FAP TV 4 VK.COM/XXX_Playlist
 #DESCRIPTION FAP TV 4 VK.COM/XXX_Playlist
-#SERVICE 1:64:96:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
+#SERVICE 1:64:95:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
 #DESCRIPTION :::__18_YOGA.COM__:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
 #DESCRIPTION XXX-18-Years.mp4
@@ -231,7 +233,7 @@
 #DESCRIPTION XXX-18yoga.Full.Siterip.18
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18yoga.Full.Siterip.19.mp4:XXX-18yoga.Full.Siterip.19
 #DESCRIPTION XXX-18yoga.Full.Siterip.19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18yoga%20.Full.Siterip.20.mp4:XXX-18yoga%20.Full.Siterip.20
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18yoga .Full.Siterip.20.mp4:XXX-18yoga%20.Full.Siterip.20
 #DESCRIPTION XXX-18yoga%20.Full.Siterip.20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18yoga_Emily_Sweet_1080.mp4:XXX-18yoga_Emily_Sweet
 #DESCRIPTION XXX-18yoga_Emily_Sweet
@@ -241,7 +243,7 @@
 #DESCRIPTION XXX-18yoga_Megan_Rain
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-19-Years.mp4:XXX-19-Years
 #DESCRIPTION XXX-19-Years
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Alex,Tracy%20Lindsay.mp4:XXX-Alex,Tracy%20Lindsay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Alex,Tracy Lindsay.mp4:XXX-Alex,Tracy%20Lindsay
 #DESCRIPTION XXX-Alex,Tracy%20Lindsay
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Alina_1080.mp4:XXX-Alina_
 #DESCRIPTION XXX-Alina_
@@ -263,25 +265,25 @@
 #DESCRIPTION XXX-Anal_Ecstasy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-AnnaMorna,TashaReign.mp4:XXX-AnnaMorna,TashaReign
 #DESCRIPTION XXX-AnnaMorna,TashaReign
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-ArianaMarie,AbigailMac,Niki%20Skyler.mp4:XXX-ArianaMarie,AbigailMac,Niki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-ArianaMarie,AbigailMac,Niki Skyler.mp4:XXX-ArianaMarie,AbigailMac,Niki
 #DESCRIPTION XXX-ArianaMarie,AbigailMac,Niki
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB_2.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB_2.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB_3.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB_3.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB_4.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB_4.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB_5.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB_5.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB_6.mp4:XXX-Art.September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB_6.mp4:XXX-Art.September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art.September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB_7.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB_7.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art%20September%202016%201080p_2160p%20WEB-DL%20AAC%202.0%20H.264-BOB_8.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0 H.264-BOB_8.mp4:XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
 #DESCRIPTION XXX-Art September 2016 1080p_2160p WEB-DL AAC 2.0
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Ass%20Worship%206%20Cd1%20(August,%20Jayna%20Oso,%20Vanessa%20Blue,%20Jada%20Fire,%20Katja%20Kassin,%20Gia%20Paloma).avi:XXX-Ass Worship 6 Cd1 (August, Jayna Oso, Vanessa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Ass Worship 6 Cd1 (August, Jayna Oso, Vanessa Blue, Jada Fire, Katja Kassin, Gia Paloma).avi:XXX-Ass Worship 6 Cd1 (August, Jayna Oso, Vanessa
 #DESCRIPTION XXX-Ass Worship 6 Cd1 (August, Jayna Oso, Vanessa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-AugustAmes,KendraJames.mp4:XXX-AugustAmes,KendraJames
 #DESCRIPTION XXX-AugustAmes,KendraJames
@@ -291,23 +293,23 @@
 #DESCRIPTION XXX-Avery_Ass_Class
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Babes.November.3.mp4:XXX-Babes.November.3
 #DESCRIPTION XXX-Babes.November.3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL.mp4:XXX-BackroomCastingCouch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL.mp4:XXX-BackroomCastingCouch
 #DESCRIPTION XXX-BackroomCastingCouch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_2.mp4:XXX-BackroomCastingCouch-WEB-DL_2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_2.mp4:XXX-BackroomCastingCouch-WEB-DL_2
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_3.mp4:XXX-BackroomCastingCouch-WEB-DL_3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_3.mp4:XXX-BackroomCastingCouch-WEB-DL_3
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_4.mp4:XXX-BackroomCastingCouch-WEB-DL_4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_4.mp4:XXX-BackroomCastingCouch-WEB-DL_4
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_5.mp4:XXX-BackroomCastingCouch-WEB-DL_5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_5.mp4:XXX-BackroomCastingCouch-WEB-DL_5
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_6.mp4:XXX-BackroomCastingCouch-WEB-DL_6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_6.mp4:XXX-BackroomCastingCouch-WEB-DL_6
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_7.mp4:XXX-BackroomCastingCouch-WEB-DL_7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_7.mp4:XXX-BackroomCastingCouch-WEB-DL_7
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_8.mp4:XXX-BackroomCastingCouch-WEB-DL_8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_8.mp4:XXX-BackroomCastingCouch-WEB-DL_8
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch%20Siterip%20Jun-Dec%202015%20720p%20WEB-DL_9.mp4:XXX-BackroomCastingCouch-WEB-DL_9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-BackroomCastingCouch Siterip Jun-Dec 2015 720p WEB-DL_9.mp4:XXX-BackroomCastingCouch-WEB-DL_9
 #DESCRIPTION XXX-BackroomCastingCouch-WEB-DL_9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Bala_Free_Sample.mp4:XXX-Bala_Free_Sample
 #DESCRIPTION XXX-Bala_Free_Sample
@@ -319,7 +321,7 @@
 #DESCRIPTION XXX-Big_Titty_Brunette_August
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Big_tit_MILF_Lisa_Ann_Is_slammed_on_her_boss_s_desk-480p.mp4:XXX-Big_tit_MILF_Lisa_Ann_Is_slammed
 #DESCRIPTION XXX-Big_tit_MILF_Lisa_Ann_Is_slammed
-#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
+#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -413,7 +415,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
+#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
 #DESCRIPTION 2017 Victoria’s Secret Fashion Show
@@ -819,7 +821,7 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:99:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.75.107/files/videos/140747456300c03.flv:Asian XXX - VOD 01
 #DESCRIPTION Asian XXX - VOD 01
@@ -2277,7 +2279,7 @@
 #DESCRIPTION wild-city-girl-shower-masturbation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.155.129.196/flashfiles/flash/young-couples-private-tape-leaked.flv:young-couples-private-tape-leaked
 #DESCRIPTION young-couples-private-tape-leaked
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
+#SERVICE 1:64:99:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #DESCRIPTION OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
 #DESCRIPTION Adult 4K: VOD 1
