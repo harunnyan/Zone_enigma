@@ -15,8 +15,6 @@
 #DESCRIPTION Miami TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.111.128.190/miamitv/smil%3amiamitvspain/playlist.m3u8:Miami tv 3
 #DESCRIPTION Miami tv 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3 TV HD
-#DESCRIPTION 1-2-3 TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8:Studio 66
 #DESCRIPTION Studio 66
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8:Studio 66
@@ -37,6 +35,8 @@
 #DESCRIPTION Fundorado TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.53.73.2%3a8000/play/mezzo:Private TV HD
 #DESCRIPTION Private TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3 TV HD
+#DESCRIPTION 1-2-3 TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8:EROX HD
 #DESCRIPTION EROX HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/142/index.m3u8:Playboy
