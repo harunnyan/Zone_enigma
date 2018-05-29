@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,****((ULUSAL))****
 ****((ULUSAL))****
-#EXTINF:-1,A HABER HD
-https://streaming.kovalchuk.me/turk/ahaber_sd/index.m3u8
 #EXTINF:-0,HABERTÜRK
 https://streaming.kovalchuk.me/turk/haber_turk/index.m3u8
 #EXTINF:-1,DMAX
@@ -149,6 +147,8 @@ http://217.174.225.146/legacyhls/ch006_400/index.m3u8
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
+#EXTINF:-1,Bein Sports 1 HD
+http://sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
 #EXTINF:-1,Bein Sports 1
 http://iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/beinsports1.m3u8
 #EXTINF:-1,Bein Sports 2
@@ -413,40 +413,30 @@ http://209.182.228.25:8000/udp/230.50.0.13:8208
 http://209.182.228.25:8000/udp/230.50.0.14:8208
 #EXTINF:-1,TSN3
 http://209.182.228.25:8000/udp/230.50.0.15:8208
-#EXTINF:-1,BeIn Sports
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:0,SKY Sport MAIN EVENT HD
+http://live2.srkcast.com/stream/sky1/playlist.m3u8
+#EXTINF:0,BAND SPORTS
+http://apk.goo.ac:8081/live/9/playlist.m3u8
+#EXTINF:0,FIGHT NETWORK
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+#EXTINF:0,FOX SPORTS 2 BR HD
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2158.m3u8?token=SUZYUxZQRwJGAwBfBFdSD1MCAwIHXQEEAARfVwVaV1EGXQgHBAwDCAIRFERGFhddV1loCFdHC1QFAAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGVQZRHkZAWwEaXxpVCgFRBkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwhXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQACgRSFxk=
+#EXTINF:0,auto motor und sport channel
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/635/index.m3u8
 #EXTINF:-1,BeIn Sports
 http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
 #EXTINF:-1,BeIn Sports
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-#EXTINF:0,auto motor und sport channel
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/635/index.m3u8
-#EXTINF:0,BAND SPORTS
-http://apk.goo.ac:8081/live/9/playlist.m3u8
-#EXTINF:0,BEIN SPORTS
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
-#EXTINF:0,BEIN SPORTS HD
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/566/index.m3u8
 #EXTINF:0,BEIN SPORTS LALIGA
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
 #EXTINF:0,BEIN SPORTS LALIGA HD
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/574/index.m3u8
-#EXTINF:0,BEIN SPORTS MAX 1 HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
-#EXTINF:0,BT SPORT 3
-http://94.130.34.125:81/bt3/index.m3u8
 #EXTINF:0,Eurosport
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/682/index.m3u8
 #EXTINF:0,EUROSPORT 1 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
 #EXTINF:0,Eurosport 2
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
-#EXTINF:0,FIGHT NETWORK
-http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
-#EXTINF:0,FOX SPORTS 2 BR
-http://apk.goo.ac:8081/live/13/playlist.m3u8
-#EXTINF:0,FOX SPORTS 2 BR HD
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/2158.m3u8?token=SUZYUxZQRwJGAwBfBFdSD1MCAwIHXQEEAARfVwVaV1EGXQgHBAwDCAIRFERGFhddV1loCFdHC1QFAAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGVQZRHkZAWwEaXxpVCgFRBkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwhXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQACgRSFxk=
 #EXTINF:0,LALIGA TV
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
 #EXTINF:0,MOVISTAR FORMULA 1
@@ -461,34 +451,16 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/inde
 http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/569/index.m3u8
 #EXTINF:0,MOVISTAR MOTO GP
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
-#EXTINF:0,PFC
-http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/4616.m3u8
-#EXTINF:0,PFC HD
-http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/6609.m3u8
-#EXTINF:0,PORTO CANAL
-http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
-#EXTINF:0,Sky Sport 1 DE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/737/index.m3u8
 #EXTINF:0,Sky Sport 2 DE
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/733/index.m3u8
 #EXTINF:0,Sky Sport Austria
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/746/index.m3u8
-#EXTINF:0,SKY SPORT BUNDESLIGA 1
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/725/index.m3u8
 #EXTINF:0,Sky Sport News
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/460/index.m3u8
 #EXTINF:0,Sport1
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/774/index.m3u8
 #EXTINF:0,Sport1 HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/453/index.m3u8
-#EXTINF:0,Sport1+ HD
-http://109.164.249.60:25000/play/a01j
-#EXTINF:0,sportdigital HD
-http://109.164.249.60:25000/play/a01f
-#EXTINF:0,BT1
-http://live2.srkcast.com/stream/bt1/playlist.m3u8
-#EXTINF:0,SKY Sport  MAIN EVENT HD
-http://live2.srkcast.com/stream/sky1/playlist.m3u8
 #EXTINF:-1,SuperTennis
 http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
 #EXTINF:-1,Arena Sport 1 HR
@@ -547,8 +519,6 @@ http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
 #EXTINF:-1,SK 3 HR
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
-#EXTINF:-1,Bein Sports 1 HD
-http://sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
 #EXTINF: -1, KHL
 http://51.15.42.158:8081/tv/khl/playlist.m3u8
 #EXTINF: -1, TNT
@@ -575,66 +545,6 @@ http://51.15.42.158:8081/tv/match-arena/playlist.m3u8
 http://51.15.42.158:8081/tv/match-nash-sport/playlist.m3u8
 #EXTINF: -1, Our Football
 http://51.15.42.158:8081/tv/nash-futboll/playlist.m3u8
-#EXTINF:0,SuperTennis
-http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
-#EXTINF:0,Arena Sport 1 HR
-http://sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
-#EXTINF:0,Arena Sport 2 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8
-#EXTINF:0,Arena Sport 3 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8
-#EXTINF:0,Arena Sport 4 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
-#EXTINF:0,Arena Sport 5 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
-#EXTINF:0,SK 1 SRP https://www.iptvbin.com
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
-#EXTINF:0,SK 2 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
-#EXTINF:0,SK 3 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
-#EXTINF:0,Bein Sports 1 HD
-http://sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
-#EXTINF:0,Arena Sport 1 HR
-http://sport7.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
-#EXTINF:0,Arena Sport 2 HR
-http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8
-#EXTINF:0,Arena Sport 3 SRP
-http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8
-#EXTINF:0,Arena Sport 4 HR
-http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
-#EXTINF:0,Arena Sport 5 SRP
-http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
-#EXTINF:0,SK 1 SRP
-http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
-#EXTINF:0,SK 2 SRP
-http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
-#EXTINF:0,SK 3 HR
-http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
-#EXTINF:0,SuperTennis
-http://sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
-#EXTINF:0,Bein Sports 1 HD
-http://sport7.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
-#EXTINF:0,SuperTennis
-http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
-#EXTINF:0,Arena Sport 1 HR
-http://sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
-#EXTINF:0,Arena Sport 2 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8
-#EXTINF:0,Arena Sport 3 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8
-#EXTINF:0,Arena Sport 4 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
-#EXTINF:0,Arena Sport 5 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
-#EXTINF:0,SK 1 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
-#EXTINF:0,SK 2 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
-#EXTINF:0,SK 3 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
-#EXTINF:0,Bein Sports 1 HD
-http://sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
 #EXTINF:0,UAFootball 1
 http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g3/UAFootball1.m3u8
 #EXTINF:0,DigiRo1
@@ -1541,6 +1451,8 @@ rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
 https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
 #EXTINF:0,Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:0,PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
 #EXTINF:0,Premera TV
 http://wse.planeta-online.tv:1935/live/channel_5/chunklist_w1736880322.m3u8
 #EXTINF:0,PROMAR TV
