@@ -1,10 +1,14 @@
 #NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:A2:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8:Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OWU0YjM3NDdmYjQ5MmMxZTcxMmIxYmMyYzFlNmRmYTA=/g6/bein1tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8:Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OWU0YjM3NDdmYjQ5MmMxZTcxMmIxYmMyYzFlNmRmYTA=/g6/bein1tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OWRhZjJjYmU1MzNkZjI3YWJiMWQ4ZDIzNmMyOTRiMmQ=/g4/bein2tk.m3u8:Bein Sports 2 HD
+#DESCRIPTION Bein Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3 HD
+#DESCRIPTION Bein Sports 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2d06.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=3233158761&pk=8ee53d16eb6213f166ca37528ab5332e50764b255a97d2a25b1f096fff66c4c1:Bein Sports MAC SAATI
 #DESCRIPTION Bein Sports MAC SAATI
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2201.janjuaplayer.com%3a8088/live/bein2livinsiker3/playlist.m3u8?id=80533&wowzasessionid=3034479299&pk=8ee53d16eb6213f166ca37528ab5332e50764b255a97d2a25b1f096fff66c4c1:Bein Sports MAC SAATI
@@ -23,28 +27,6 @@
 #DESCRIPTION BEiN SPORT1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/5209/1610.buR/1290.ts:BEiN SPORT1 sd
 #DESCRIPTION BEiN SPORT1 sd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/beinsports1.m3u8:Bein Sports 1
-#DESCRIPTION Bein Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/beinsports2.m3u8:Bein Sports 2
-#DESCRIPTION Bein Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/beinsports3.m3u8:Bein Sports 3
-#DESCRIPTION Bein Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/beinsports4.m3u8:Bein Sports 4
-#DESCRIPTION Bein Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/matchfootball1.m3u8:Match Futbol 1 HD
-#DESCRIPTION Match Futbol 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/matchfootball2.m3u8:Match Futbol 2 HD
-#DESCRIPTION Match Futbol 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/matchfootball3.m3u8:Match Futbol 3 HD
-#DESCRIPTION Match Futbol 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/foxsports1usa.m3u8:Fox Sports 1 USA HD
-#DESCRIPTION Fox Sports 1 USA HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/foxsports2usa.m3u8:Fox Sports 2 USA HD
-#DESCRIPTION Fox Sports 2 USA HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/foxsports.m3u8:Fox Sports
-#DESCRIPTION Fox Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iptv4u.club/stream/54444442/xxxxxxxxxaaaaaaa333333333/foxsports2.m3u8:Fox Sports 2
-#DESCRIPTION Fox Sports 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.srkcast.com/stream/diema1/chunks.m3u8:DIEMA SPORT
 #DESCRIPTION DIEMA SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
@@ -355,24 +337,6 @@
 #DESCRIPTION SK 2 SRP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8:SK 3 HR
 #DESCRIPTION SK 3 HR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8:SuperTennis
-#DESCRIPTION SuperTennis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8:Arena Sport 1 HR
-#DESCRIPTION Arena Sport 1 HR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8:Arena Sport 2 HR
-#DESCRIPTION Arena Sport 2 HR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8:Arena Sport 3 SRP
-#DESCRIPTION Arena Sport 3 SRP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8:Arena Sport 4 HR
-#DESCRIPTION Arena Sport 4 HR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8:Arena Sport 5 SRP
-#DESCRIPTION Arena Sport 5 SRP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8:SK 1 SRP
-#DESCRIPTION SK 1 SRP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8:SK 2 SRP
-#DESCRIPTION SK 2 SRP
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8:SK 3 HR
-#DESCRIPTION SK 3 HR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g3/UAFootball1.m3u8:UAFootball 1
 #DESCRIPTION UAFootball 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NzNlNTk3NTdiODE4ZTE5MDRjMGI4Yzg4MjIyMGJiZGQ=/g4/DigiRo1.m3u8:DigiRo1
@@ -565,10 +529,10 @@
 #DESCRIPTION GOLF KOREA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/850332798?ticket=F41CF5C37204CC6D1D1028E7FD79D657C7D15BE5&profile=pass:SBS Golf
 #DESCRIPTION SBS Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb2/playlist.m3u8:BT SPORT 2
-#DESCRIPTION BT SPORT 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb1/playlist.m3u8:BT SPORT 1
 #DESCRIPTION BT SPORT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb2/playlist.m3u8:BT SPORT 2
+#DESCRIPTION BT SPORT 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb3/playlist.m3u8:BT SPORT 3
 #DESCRIPTION BT SPORT 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.220.0.196%3a8081/live/ctvb4/playlist.m3u8:ESPN
@@ -641,6 +605,78 @@
 #DESCRIPTION Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/453/index.m3u8:Sport1 HD
 #DESCRIPTION Sport1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/25/index.m3u8:?  HD
+#DESCRIPTION ?  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/112/index.m3u8:HD
+#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/291/index.m3u8:KO HD
+#DESCRIPTION KO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/670/index.m3u8:Super Tennis HD
+#DESCRIPTION Super Tennis HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.36/PLTV/2510088/224/3221227285/1.m3u8:CCTV-5+HD
+#DESCRIPTION CCTV-5+HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8:BesTV 1
+#DESCRIPTION BesTV 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8:BesTV 1   2
+#DESCRIPTION BesTV 1   2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8:KBVR-TV Orange Media Network (Oregon)
+#DESCRIPTION KBVR-TV Orange Media Network (Oregon)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00f:bein1
+#DESCRIPTION bein1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a001:bein2
+#DESCRIPTION bein2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a002:bein3
+#DESCRIPTION bein3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a003:bein4
+#DESCRIPTION bein4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a004:bein5
+#DESCRIPTION bein5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a005:bein6
+#DESCRIPTION bein6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a006:bein7
+#DESCRIPTION bein7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a007:bein8
+#DESCRIPTION bein8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00g:bein9
+#DESCRIPTION bein9
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a009:Bein10
+#DESCRIPTION Bein10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00a:bein13
+#DESCRIPTION bein13
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a008:MATCH 4
+#DESCRIPTION MATCH 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00c:sk1
+#DESCRIPTION sk1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00d:sk3
+#DESCRIPTION sk3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00b:sky calsio hd
+#DESCRIPTION sky calsio hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00e:gs tv
+#DESCRIPTION gs tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a019:COSMOTESportHighlightsHD
+#DESCRIPTION COSMOTESportHighlightsHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00s:COSMOTESport1HD
+#DESCRIPTION COSMOTESport1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00u:COSMOTESport2HD
+#DESCRIPTION COSMOTESport2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00v:COSMOTESport3HD
+#DESCRIPTION COSMOTESport3HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00x:COSMOTESport4HD
+#DESCRIPTION COSMOTESport4HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a012:COSMOTESport5HD
+#DESCRIPTION COSMOTESport5HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a010:COSMOTESport6HD
+#DESCRIPTION COSMOTESport6HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00z:COSMOTESport7HD
+#DESCRIPTION COSMOTESport7HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a015:COSMOTESport8HD
+#DESCRIPTION COSMOTESport8HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01h:EDGEsport HD
+#DESCRIPTION EDGEsport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01a:EDGEsport HD
+#DESCRIPTION EDGEsport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01e:Motorvision Channel HD
+#DESCRIPTION Motorvision Channel HD
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
@@ -777,302 +813,302 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 1:64:A5:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| U.K_IPTV_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY| U.K_IPTV_:::::::::
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch253.stream/playlist.m3u8?token=:1DR
+#DESCRIPTION 1DR
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch254.stream/playlist.m3u8?token=:2DR
+#DESCRIPTION 2DR
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch241.stream/playlist.m3u8?token=:2HUMOR
+#DESCRIPTION 2HUMOR
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch232.stream/playlist.m3u8?token=:2Livsstil
+#DESCRIPTION 2Livsstil
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch228.stream/playlist.m3u8?token=:2nyhetene
+#DESCRIPTION 2nyhetene
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch251.stream/playlist.m3u8?token=:3
+#DESCRIPTION 3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch252.stream/playlist.m3u8?token=:3+
+#DESCRIPTION 3+
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch203.stream/playlist.m3u8?token=:3E
+#DESCRIPTION 3E
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch130.stream/playlist.m3u8?token=:3HD
+#DESCRIPTION 3HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch263.stream/playlist.m3u8?token=:3PCFS
+#DESCRIPTION 3PCFS
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch242.stream/playlist.m3u8?token=:4
+#DESCRIPTION 4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch257.stream/playlist.m3u8?token=:5 UK
+#DESCRIPTION 5 UK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch116.stream/playlist.m3u8?token=:5STAR
+#DESCRIPTION 5STAR
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch115.stream/playlist.m3u8?token=:5USA
+#DESCRIPTION 5USA
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch236.stream/playlist.m3u8?token=:6
+#DESCRIPTION 6
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch256.stream/playlist.m3u8?token=:6 UK
+#DESCRIPTION 6 UK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch259.stream/playlist.m3u8?token=:9 UK
+#DESCRIPTION 9 UK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch173.stream/playlist.m3u8?token=:alibi
+#DESCRIPTION alibi
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch161.stream/playlist.m3u8?token=:ANIMAL PLANET
+#DESCRIPTION ANIMAL PLANET
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch218.stream/playlist.m3u8?token=:BARNKANALEN
+#DESCRIPTION BARNKANALEN
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch112.stream/playlist.m3u8?token=:BBC NEW
+#DESCRIPTION BBC NEW
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch166.stream/playlist.m3u8?token=:BBC NEWS
+#DESCRIPTION BBC NEWS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch101.stream/playlist.m3u8?token=:BBC1
 #DESCRIPTION BBC1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch102.stream/playlist.m3u8?token=:BBC2
 #DESCRIPTION BBC2
-#SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch104.stream/playlist.m3u8?token=:CHANNEL4
-#DESCRIPTION CHANNEL4
-#SERVICE 4097:0:0:9:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch105.stream/playlist.m3u8?token=:CHANNEL5
-#DESCRIPTION CHANNEL5
-#SERVICE 4097:0:0:11:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch106.stream/playlist.m3u8?token=:SKYNEWS
-#DESCRIPTION SKYNEWS
-#SERVICE 4097:0:0:5:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch103.stream/playlist.m3u8?token=:ITV
-#DESCRIPTION ITV
-#SERVICE 4097:0:0:13:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch107.stream/playlist.m3u8?token=:ITV2
-#DESCRIPTION ITV2
-#SERVICE 4097:0:0:15:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch108.stream/playlist.m3u8?token=:ITV3
-#DESCRIPTION ITV3
-#SERVICE 4097:0:0:17:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch109.stream/playlist.m3u8?token=:ITV4
-#DESCRIPTION ITV4
-#SERVICE 4097:0:0:19:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch110.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:21:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch111.stream/playlist.m3u8?token=:CBEEBIES
-#DESCRIPTION CBEEBIES
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch112.stream/playlist.m3u8?token=:BBC NEW
-#DESCRIPTION BBC NEW
-#SERVICE 4097:0:0:25:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch113.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch114.stream/playlist.m3u8?token=:MBC ACTION
-#DESCRIPTION MBC ACTION
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch115.stream/playlist.m3u8?token=:5USA
-#DESCRIPTION 5USA
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch116.stream/playlist.m3u8?token=:5STAR
-#DESCRIPTION 5STAR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch117.stream/playlist.m3u8?token=:CBC ACTION
-#DESCRIPTION CBC ACTION
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch118.stream/playlist.m3u8?token=:HORROR
-#DESCRIPTION HORROR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch119.stream/playlist.m3u8?token=:CBC REALITY
-#DESCRIPTION CBC REALITY
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch120.stream/playlist.m3u8?token=:FOOD NETWORK
-#DESCRIPTION FOOD NETWORK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch121.stream/playlist.m3u8?token=:NOW 80s
-#DESCRIPTION NOW 80s
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch122.stream/playlist.m3u8?token=:TRUE MOVIES
-#DESCRIPTION TRUE MOVIES
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch123.stream/playlist.m3u8?token=:TRUE MOVIES +1
-#DESCRIPTION TRUE MOVIES +1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch124.stream/playlist.m3u8?token=:TRUE ENTERTAINMENT
-#DESCRIPTION TRUE ENTERTAINMENT
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch125.stream/playlist.m3u8?token=:E4
-#DESCRIPTION E4
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch126.stream/playlist.m3u8?token=:MORE4
-#DESCRIPTION MORE4
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch127.stream/playlist.m3u8?token=:RTE ONE HD
-#DESCRIPTION RTE ONE HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch128.stream/playlist.m3u8?token=:RTE JR
-#DESCRIPTION RTE JR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch129.stream/playlist.m3u8?token=:CULAO4
-#DESCRIPTION CULAO4
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch130.stream/playlist.m3u8?token=:3HD
-#DESCRIPTION 3HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch131.stream/playlist.m3u8?token=:CARTOON NETWORK
-#DESCRIPTION CARTOON NETWORK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch132.stream/playlist.m3u8?token=:eis sport 1
-#DESCRIPTION eis sport 1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch133.stream/playlist.m3u8?token=:NHL
-#DESCRIPTION NHL
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch190.stream/playlist.m3u8?token=:BET RACING UK
+#DESCRIPTION BET RACING UK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch184.stream/playlist.m3u8?token=:BLOOMBERG
+#DESCRIPTION BLOOMBERG
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch186.stream/playlist.m3u8?token=:BOXNATION
+#DESCRIPTION BOXNATION
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch134.stream/playlist.m3u8?token=:BT SPORT 1
 #DESCRIPTION BT SPORT 1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch135.stream/playlist.m3u8?token=:BT SPORT 2
 #DESCRIPTION BT SPORT 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch183.stream/playlist.m3u8?token=:BT SPORT 3
+#DESCRIPTION BT SPORT 3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch131.stream/playlist.m3u8?token=:CARTOON NETWORK
+#DESCRIPTION CARTOON NETWORK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch117.stream/playlist.m3u8?token=:CBC ACTION
+#DESCRIPTION CBC ACTION
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch119.stream/playlist.m3u8?token=:CBC REALITY
+#DESCRIPTION CBC REALITY
+#SERVICE 4097:0:0:21:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch111.stream/playlist.m3u8?token=:CBEEBIES
+#DESCRIPTION CBEEBIES
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch188.stream/playlist.m3u8?token=:CBS DRAMA
+#DESCRIPTION CBS DRAMA
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch212.stream/playlist.m3u8?token=:CH 12
+#DESCRIPTION CH 12
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch229.stream/playlist.m3u8?token=:CH 3
+#DESCRIPTION CH 3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch210.stream/playlist.m3u8?token=:CH 4
+#DESCRIPTION CH 4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch207.stream/playlist.m3u8?token=:CH 4 FAKTA
+#DESCRIPTION CH 4 FAKTA
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch208.stream/playlist.m3u8?token=:CH 5
+#DESCRIPTION CH 5
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch204.stream/playlist.m3u8?token=:CH 6
+#DESCRIPTION CH 6
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch214.stream/playlist.m3u8?token=:CH 7
+#DESCRIPTION CH 7
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch209.stream/playlist.m3u8?token=:CH 9
+#DESCRIPTION CH 9
+#SERVICE 4097:0:0:7:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch104.stream/playlist.m3u8?token=:CHANNEL4
+#DESCRIPTION CHANNEL4
+#SERVICE 4097:0:0:9:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch105.stream/playlist.m3u8?token=:CHANNEL5
+#DESCRIPTION CHANNEL5
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch189.stream/playlist.m3u8?token=:CNN
+#DESCRIPTION CNN
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch158.stream/playlist.m3u8?token=:CRIME+INVESTIGATION HD
+#DESCRIPTION CRIME+INVESTIGATION HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch129.stream/playlist.m3u8?token=:CULAO4
+#DESCRIPTION CULAO4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch199.stream/playlist.m3u8?token=:D DRAMA
+#DESCRIPTION D DRAMA
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch145.stream/playlist.m3u8?token=:Dave
+#DESCRIPTION Dave
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch243.stream/playlist.m3u8?token=:DISCOVERY
+#DESCRIPTION DISCOVERY
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch162.stream/playlist.m3u8?token=:DISCOVERY HD
+#DESCRIPTION DISCOVERY HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch181.stream/playlist.m3u8?token=:DISCOVERY SCIENCE
+#DESCRIPTION DISCOVERY SCIENCE
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch240.stream/playlist.m3u8?token=:DISNEY CHANNEL
+#DESCRIPTION DISNEY CHANNEL
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch176.stream/playlist.m3u8?token=:E!
+#DESCRIPTION E!
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch125.stream/playlist.m3u8?token=:E4
+#DESCRIPTION E4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch132.stream/playlist.m3u8?token=:eis sport 1
+#DESCRIPTION eis sport 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch185.stream/playlist.m3u8?token=:EURONEWS
+#DESCRIPTION EURONEWS
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch170.stream/playlist.m3u8?token=:EUROSPORT 1
+#DESCRIPTION EUROSPORT 1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch147.stream/playlist.m3u8?token=:EUROSPORT 2
+#DESCRIPTION EUROSPORT 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch215.stream/playlist.m3u8?token=:EUROSPORT N
+#DESCRIPTION EUROSPORT N
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch244.stream/playlist.m3u8?token=:EUROSPORT1
+#DESCRIPTION EUROSPORT1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch235.stream/playlist.m3u8?token=:FEM
+#DESCRIPTION FEM
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch213.stream/playlist.m3u8?token=:FILM 4
+#DESCRIPTION FILM 4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch120.stream/playlist.m3u8?token=:FOOD NETWORK
+#DESCRIPTION FOOD NETWORK
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch163.stream/playlist.m3u8?token=:FOX
+#DESCRIPTION FOX
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch146.stream/playlist.m3u8?token=:GOLD
+#DESCRIPTION GOLD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch171.stream/playlist.m3u8?token=:HISTORY FOOTBALL
+#DESCRIPTION HISTORY FOOTBALL
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch118.stream/playlist.m3u8?token=:HORROR
+#DESCRIPTION HORROR
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch219.stream/playlist.m3u8?token=:IO
+#DESCRIPTION IO
+#SERVICE 4097:0:0:5:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch103.stream/playlist.m3u8?token=:ITV
+#DESCRIPTION ITV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch193.stream/playlist.m3u8?token=:itv
+#DESCRIPTION itv
+#SERVICE 4097:0:0:13:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch107.stream/playlist.m3u8?token=:ITV2
+#DESCRIPTION ITV2
+#SERVICE 4097:0:0:15:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch108.stream/playlist.m3u8?token=:ITV3
+#DESCRIPTION ITV3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch172.stream/playlist.m3u8?token=:itv3
+#DESCRIPTION itv3
+#SERVICE 4097:0:0:17:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch109.stream/playlist.m3u8?token=:ITV4
+#DESCRIPTION ITV4
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch165.stream/playlist.m3u8?token=:itvBe.
+#DESCRIPTION itvBe.
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch191.stream/playlist.m3u8?token=:LIFETIME HD
+#DESCRIPTION LIFETIME HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch234.stream/playlist.m3u8?token=:MAX
+#DESCRIPTION MAX
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch114.stream/playlist.m3u8?token=:MBC ACTION
+#DESCRIPTION MBC ACTION
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch126.stream/playlist.m3u8?token=:MORE4
+#DESCRIPTION MORE4
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch136.stream/playlist.m3u8?token=:MOTORSPORT TV
 #DESCRIPTION MOTORSPORT TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch179.stream/playlist.m3u8?token=:MTV BASE
+#DESCRIPTION MTV BASE
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch197.stream/playlist.m3u8?token=:MUTV
+#DESCRIPTION MUTV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch160.stream/playlist.m3u8?token=:NATIONAL GEOGRAPHIC
+#DESCRIPTION NATIONAL GEOGRAPHIC
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch133.stream/playlist.m3u8?token=:NHL
+#DESCRIPTION NHL
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch180.stream/playlist.m3u8?token=:NICK JUNIOR
+#DESCRIPTION NICK JUNIOR
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch121.stream/playlist.m3u8?token=:NOW 80s
+#DESCRIPTION NOW 80s
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch227.stream/playlist.m3u8?token=:NRK JN
+#DESCRIPTION NRK JN
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch225.stream/playlist.m3u8?token=:NRK1
+#DESCRIPTION NRK1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch238.stream/playlist.m3u8?token=:NRK1
+#DESCRIPTION NRK1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch226.stream/playlist.m3u8?token=:NRK2
+#DESCRIPTION NRK2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch231.stream/playlist.m3u8?token=:Nyhetskanalen2
+#DESCRIPTION Nyhetskanalen2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch182.stream/playlist.m3u8?token=:Pick
+#DESCRIPTION Pick
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch198.stream/playlist.m3u8?token=:QUEST
+#DESCRIPTION QUEST
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch187.stream/playlist.m3u8?token=:RT
+#DESCRIPTION RT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch128.stream/playlist.m3u8?token=:RTE JR
+#DESCRIPTION RTE JR
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch127.stream/playlist.m3u8?token=:RTE ONE HD
+#DESCRIPTION RTE ONE HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch169.stream/playlist.m3u8?token=:SATENTA SPORTS
+#DESCRIPTION SATENTA SPORTS
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch152.stream/playlist.m3u8?token=:SKY AT THE RACES
+#DESCRIPTION SKY AT THE RACES
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch192.stream/playlist.m3u8?token=:SKY SPORTS CRICKET HD
+#DESCRIPTION SKY SPORTS CRICKET HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch137.stream/playlist.m3u8?token=:Sky Sports F1
 #DESCRIPTION Sky Sports F1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch138.stream/playlist.m3u8?token=:Sky Sports HD MAIN EVENT
-#DESCRIPTION Sky Sports HD MAIN EVENT
-#SERVICE 4097:0:0:77:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch139.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch140.stream/playlist.m3u8?token=:Sky Sports FOOTBALL HD
 #DESCRIPTION Sky Sports FOOTBALL HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch141.stream/playlist.m3u8?token=:Sky Sports NEWS
-#DESCRIPTION Sky Sports NEWS
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch164.stream/playlist.m3u8?token=:SKY SPORTS GOLF HD
+#DESCRIPTION SKY SPORTS GOLF HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch142.stream/playlist.m3u8?token=:Sky Sports HD ACTION
 #DESCRIPTION Sky Sports HD ACTION
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch138.stream/playlist.m3u8?token=:Sky Sports HD MAIN EVENT
+#DESCRIPTION Sky Sports HD MAIN EVENT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch141.stream/playlist.m3u8?token=:Sky Sports NEWS
+#DESCRIPTION Sky Sports NEWS
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch155.stream/playlist.m3u8?token=:SKY TRILLER HD
+#DESCRIPTION SKY TRILLER HD
+#SERVICE 4097:0:0:11:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch106.stream/playlist.m3u8?token=:SKYNEWS
+#DESCRIPTION SKYNEWS
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch239.stream/playlist.m3u8?token=:SPORTSKANALEN 2
+#DESCRIPTION SPORTSKANALEN 2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch201.stream/playlist.m3u8?token=:SVT1
+#DESCRIPTION SVT1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch202.stream/playlist.m3u8?token=:SVT2
+#DESCRIPTION SVT2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch148.stream/playlist.m3u8?token=:SYFY
+#DESCRIPTION SYFY
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch157.stream/playlist.m3u8?token=:TCM +1
+#DESCRIPTION TCM +1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch124.stream/playlist.m3u8?token=:TRUE ENTERTAINMENT
+#DESCRIPTION TRUE ENTERTAINMENT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch122.stream/playlist.m3u8?token=:TRUE MOVIES
+#DESCRIPTION TRUE MOVIES
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch123.stream/playlist.m3u8?token=:TRUE MOVIES +1
+#DESCRIPTION TRUE MOVIES +1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch255.stream/playlist.m3u8?token=:TV2
+#DESCRIPTION TV2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch258.stream/playlist.m3u8?token=:TV2 CHARLIE
+#DESCRIPTION TV2 CHARLIE
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch260.stream/playlist.m3u8?token=:TV2 NEWS
+#DESCRIPTION TV2 NEWS
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch261.stream/playlist.m3u8?token=:TV2 SPORT
+#DESCRIPTION TV2 SPORT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch149.stream/playlist.m3u8?token=:UNIVERSAL TV
+#DESCRIPTION UNIVERSAL TV
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch168.stream/playlist.m3u8?token=:VH1
+#DESCRIPTION VH1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch223.stream/playlist.m3u8?token=:VIASAT MOTOR HD
+#DESCRIPTION VIASAT MOTOR HD
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch237.stream/playlist.m3u8?token=:VOX
+#DESCRIPTION VOX
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch159.stream/playlist.m3u8?token=:W
+#DESCRIPTION W
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch174.stream/playlist.m3u8?token=:YESTERDAY
+#DESCRIPTION YESTERDAY
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch177.stream/playlist.m3u8?token=:YESTERDAY+1
+#DESCRIPTION YESTERDAY+1
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch233.stream/playlist.m3u8?token=:Zebra2
+#DESCRIPTION Zebra2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch262.stream/playlist.m3u8?token=:ZULU
+#DESCRIPTION ZULU
+#SERVICE 4097:0:0:19:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch110.stream/playlist.m3u8?token=:UK
+#DESCRIPTION UK
+#SERVICE 4097:0:0:25:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch113.stream/playlist.m3u8?token=:UK
+#DESCRIPTION UK
+#SERVICE 4097:0:0:77:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch139.stream/playlist.m3u8?token=:UK
+#DESCRIPTION UK
 #SERVICE 4097:0:0:85:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch143.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:87:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch144.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch145.stream/playlist.m3u8?token=:Dave
-#DESCRIPTION Dave
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch146.stream/playlist.m3u8?token=:GOLD
-#DESCRIPTION GOLD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch147.stream/playlist.m3u8?token=:EUROSPORT 2
-#DESCRIPTION EUROSPORT 2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch148.stream/playlist.m3u8?token=:SYFY
-#DESCRIPTION SYFY
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch149.stream/playlist.m3u8?token=:UNIVERSAL TV
-#DESCRIPTION UNIVERSAL TV
 #SERVICE 4097:0:0:99:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch150.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch151.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch152.stream/playlist.m3u8?token=:SKY AT THE RACES
-#DESCRIPTION SKY AT THE RACES
 #SERVICE 4097:0:0:105:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch153.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch154.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch155.stream/playlist.m3u8?token=:SKY TRILLER HD
-#DESCRIPTION SKY TRILLER HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch156.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch157.stream/playlist.m3u8?token=:TCM +1
-#DESCRIPTION TCM +1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch158.stream/playlist.m3u8?token=:CRIME+INVESTIGATION HD
-#DESCRIPTION CRIME+INVESTIGATION HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch159.stream/playlist.m3u8?token=:W
-#DESCRIPTION W
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch160.stream/playlist.m3u8?token=:NATIONAL GEOGRAPHIC
-#DESCRIPTION NATIONAL GEOGRAPHIC
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch161.stream/playlist.m3u8?token=:ANIMAL PLANET
-#DESCRIPTION ANIMAL PLANET
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch162.stream/playlist.m3u8?token=:DISCOVERY HD
-#DESCRIPTION DISCOVERY HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch163.stream/playlist.m3u8?token=:FOX
-#DESCRIPTION FOX
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch164.stream/playlist.m3u8?token=:SKY SPORTS GOLF HD
-#DESCRIPTION SKY SPORTS GOLF HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch165.stream/playlist.m3u8?token=:itvBe.
-#DESCRIPTION itvBe.
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch166.stream/playlist.m3u8?token=:BBC NEWS
-#DESCRIPTION BBC NEWS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch167.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch168.stream/playlist.m3u8?token=:VH1
-#DESCRIPTION VH1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch169.stream/playlist.m3u8?token=:SATENTA SPORTS
-#DESCRIPTION SATENTA SPORTS
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch170.stream/playlist.m3u8?token=:EUROSPORT 1
-#DESCRIPTION EUROSPORT 1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch171.stream/playlist.m3u8?token=:HISTORY FOOTBALL
-#DESCRIPTION HISTORY FOOTBALL
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch172.stream/playlist.m3u8?token=:itv3
-#DESCRIPTION itv3
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch173.stream/playlist.m3u8?token=:alibi
-#DESCRIPTION alibi
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch174.stream/playlist.m3u8?token=:YESTERDAY
-#DESCRIPTION YESTERDAY
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch176.stream/playlist.m3u8?token=:E!
-#DESCRIPTION E!
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch177.stream/playlist.m3u8?token=:YESTERDAY+1
-#DESCRIPTION YESTERDAY+1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch178.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch179.stream/playlist.m3u8?token=:MTV BASE
-#DESCRIPTION MTV BASE
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch180.stream/playlist.m3u8?token=:NICK JUNIOR
-#DESCRIPTION NICK JUNIOR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch181.stream/playlist.m3u8?token=:DISCOVERY SCIENCE
-#DESCRIPTION DISCOVERY SCIENCE
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch182.stream/playlist.m3u8?token=:Pick
-#DESCRIPTION Pick
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch183.stream/playlist.m3u8?token=:BT SPORT 3
-#DESCRIPTION BT SPORT 3
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch184.stream/playlist.m3u8?token=:BLOOMBERG
-#DESCRIPTION BLOOMBERG
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch185.stream/playlist.m3u8?token=:EURONEWS
-#DESCRIPTION EURONEWS
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch186.stream/playlist.m3u8?token=:BOXNATION
-#DESCRIPTION BOXNATION
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch187.stream/playlist.m3u8?token=:RT
-#DESCRIPTION RT
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch188.stream/playlist.m3u8?token=:CBS DRAMA
-#DESCRIPTION CBS DRAMA
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch189.stream/playlist.m3u8?token=:CNN
-#DESCRIPTION CNN
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch190.stream/playlist.m3u8?token=:BET RACING UK
-#DESCRIPTION BET RACING UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch191.stream/playlist.m3u8?token=:LIFETIME HD
-#DESCRIPTION LIFETIME HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch192.stream/playlist.m3u8?token=:SKY SPORTS CRICKET HD
-#DESCRIPTION SKY SPORTS CRICKET HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch193.stream/playlist.m3u8?token=:itv
-#DESCRIPTION itv
 #SERVICE 4097:0:0:185:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch194.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:187:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch195.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:189:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch196.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch197.stream/playlist.m3u8?token=:MUTV
-#DESCRIPTION MUTV
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch198.stream/playlist.m3u8?token=:QUEST
-#DESCRIPTION QUEST
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch199.stream/playlist.m3u8?token=:D DRAMA
-#DESCRIPTION D DRAMA
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch201.stream/playlist.m3u8?token=:SVT1
-#DESCRIPTION SVT1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch202.stream/playlist.m3u8?token=:SVT2
-#DESCRIPTION SVT2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch203.stream/playlist.m3u8?token=:3E
-#DESCRIPTION 3E
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch204.stream/playlist.m3u8?token=:CH 6
-#DESCRIPTION CH 6
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch207.stream/playlist.m3u8?token=:CH 4 FAKTA
-#DESCRIPTION CH 4 FAKTA
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch208.stream/playlist.m3u8?token=:CH 5
-#DESCRIPTION CH 5
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch209.stream/playlist.m3u8?token=:CH 9
-#DESCRIPTION CH 9
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch210.stream/playlist.m3u8?token=:CH 4
-#DESCRIPTION CH 4
 #SERVICE 4097:0:0:213:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch211.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch212.stream/playlist.m3u8?token=:CH 12
-#DESCRIPTION CH 12
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch213.stream/playlist.m3u8?token=:FILM 4
-#DESCRIPTION FILM 4
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch214.stream/playlist.m3u8?token=:CH 7
-#DESCRIPTION CH 7
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch215.stream/playlist.m3u8?token=:EUROSPORT N
-#DESCRIPTION EUROSPORT N
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch218.stream/playlist.m3u8?token=:BARNKANALEN
-#DESCRIPTION BARNKANALEN
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch219.stream/playlist.m3u8?token=:IO
-#DESCRIPTION IO
 #SERVICE 4097:0:0:227:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch221.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch223.stream/playlist.m3u8?token=:VIASAT MOTOR HD
-#DESCRIPTION VIASAT MOTOR HD
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch225.stream/playlist.m3u8?token=:NRK1
-#DESCRIPTION NRK1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch226.stream/playlist.m3u8?token=:NRK2
-#DESCRIPTION NRK2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch227.stream/playlist.m3u8?token=:NRK JN
-#DESCRIPTION NRK JN
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch228.stream/playlist.m3u8?token=:2nyhetene
-#DESCRIPTION 2nyhetene
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch229.stream/playlist.m3u8?token=:CH 3
-#DESCRIPTION CH 3
 #SERVICE 4097:0:0:241:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch230.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch231.stream/playlist.m3u8?token=:Nyhetskanalen2
-#DESCRIPTION Nyhetskanalen2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch232.stream/playlist.m3u8?token=:2Livsstil
-#DESCRIPTION 2Livsstil
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch233.stream/playlist.m3u8?token=:Zebra2
-#DESCRIPTION Zebra2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch234.stream/playlist.m3u8?token=:MAX
-#DESCRIPTION MAX
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch235.stream/playlist.m3u8?token=:FEM
-#DESCRIPTION FEM
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch236.stream/playlist.m3u8?token=:6
-#DESCRIPTION 6
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch237.stream/playlist.m3u8?token=:VOX
-#DESCRIPTION VOX
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch238.stream/playlist.m3u8?token=:NRK1
-#DESCRIPTION NRK1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch239.stream/playlist.m3u8?token=:SPORTSKANALEN 2
-#DESCRIPTION SPORTSKANALEN 2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch240.stream/playlist.m3u8?token=:DISNEY CHANNEL
-#DESCRIPTION DISNEY CHANNEL
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch241.stream/playlist.m3u8?token=:2HUMOR
-#DESCRIPTION 2HUMOR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch242.stream/playlist.m3u8?token=:4
-#DESCRIPTION 4
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch243.stream/playlist.m3u8?token=:DISCOVERY
-#DESCRIPTION DISCOVERY
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch244.stream/playlist.m3u8?token=:EUROSPORT1
-#DESCRIPTION EUROSPORT1
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch251.stream/playlist.m3u8?token=:3
-#DESCRIPTION 3
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch252.stream/playlist.m3u8?token=:3+
-#DESCRIPTION 3+
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch253.stream/playlist.m3u8?token=:1DR
-#DESCRIPTION 1DR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch254.stream/playlist.m3u8?token=:2DR
-#DESCRIPTION 2DR
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch255.stream/playlist.m3u8?token=:TV2
-#DESCRIPTION TV2
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch256.stream/playlist.m3u8?token=:6 UK
-#DESCRIPTION 6 UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch257.stream/playlist.m3u8?token=:5 UK
-#DESCRIPTION 5 UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch258.stream/playlist.m3u8?token=:TV2 CHARLIE
-#DESCRIPTION TV2 CHARLIE
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch259.stream/playlist.m3u8?token=:9 UK
-#DESCRIPTION 9 UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch260.stream/playlist.m3u8?token=:TV2 NEWS
-#DESCRIPTION TV2 NEWS
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch261.stream/playlist.m3u8?token=:TV2 SPORT
-#DESCRIPTION TV2 SPORT
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch262.stream/playlist.m3u8?token=:ZULU
-#DESCRIPTION ZULU
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch263.stream/playlist.m3u8?token=:3PCFS
-#DESCRIPTION 3PCFS
 #SERVICE 4097:0:0:297:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch264.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:299:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch265.stream/playlist.m3u8?token=:UK
@@ -1335,8 +1371,36 @@
 #DESCRIPTION UK-
 #SERVICE 4097:0:0:557:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch1155.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 1:64:A6:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY|OTE_PACKED_::::::::::
-#DESCRIPTION :::::::::::::::::::::::_REMY|OTE_PACKED_::::::::::
+#SERVICE 1:64:A6:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| OTE_COSMOTE_::::::::
+#DESCRIPTION :::::::::::::::::::::::_REMY| OTE_COSMOTE_::::::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01c:FOX HD
+#DESCRIPTION FOX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01b:FOX Life HD
+#DESCRIPTION FOX Life HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a011:Village Cinema HD
+#DESCRIPTION Village Cinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01d:SundanceTV
+#DESCRIPTION SundanceTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00r:COSMOTECinema1HD
+#DESCRIPTION COSMOTECinema1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a014:COSMOTECinema2HD
+#DESCRIPTION COSMOTECinema2HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00w:COSMOTECinema3
+#DESCRIPTION COSMOTECinema3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a018:COSMOTECinema4HD
+#DESCRIPTION COSMOTECinema4HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a017:COSMOTE History HD
+#DESCRIPTION COSMOTE History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a013:Nat Geo HD
+#DESCRIPTION Nat Geo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01i:National Geographic
+#DESCRIPTION National Geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01j:Viasat History
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01l:Disney Junior
+#DESCRIPTION Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01g:Disney Channel
+#DESCRIPTION Disney Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.91.128.190%3a9981/stream/channelid/1778371915?ticket=c51ca9a9db6966dd88ce7710ea98068a14edcf73&profile=pass:4E
 #DESCRIPTION 4E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.91.128.190%3a9981/stream/channelid/1581996080?ticket=8edede903f8d205b3f92972ff64d44779e1efaf4&profile=pass:BBC Earth HD
@@ -1467,6 +1531,460 @@
 #DESCRIPTION SOMINE KEYFI HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8:SOMINE KEYFI MUSIC
 #DESCRIPTION SOMINE KEYFI MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:1
+#DESCRIPTION 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:1
+#DESCRIPTION 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/157/index.m3u8:1 HD (0h)
+#DESCRIPTION 1 HD (0h)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3.TV HD
+#DESCRIPTION 1-2-3.TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/158/index.m3u8:1HD
+#DESCRIPTION 1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8:2
+#DESCRIPTION 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/6431/299492/10267.m3u8:2
+#DESCRIPTION 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vid.techbee.pro%3a8080/crimea24/index.m3u8:24  24 HD
+#DESCRIPTION 24  24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/417/index.m3u8:6ter HD
+#DESCRIPTION 6ter HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.gcdn.co/streams/877_13/1080n/index.m3u8:78 ru
+#DESCRIPTION 78 ru
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8:adultswim
+#DESCRIPTION adultswim
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alex-stream.rosebud-media.de%3a1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800:alexlive tv
+#DESCRIPTION alexlive tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8:aljazeera-eng-hd
+#DESCRIPTION aljazeera-eng-hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8:AMC Espa�a HD
+#DESCRIPTION AMC Espa�a HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/163/index.m3u8:Amedia Premium HD
+#DESCRIPTION Amedia Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/164/index.m3u8:Amedia Premium HD
+#DESCRIPTION Amedia Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/110/index.m3u8:Animal Planet Russia HD
+#DESCRIPTION Animal Planet Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/440/index.m3u8:Anixe HD Serie
+#DESCRIPTION Anixe HD Serie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/615/index.m3u8:Antena 3 HD
+#DESCRIPTION Antena 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8:Arte Fran�ais HD
+#DESCRIPTION Arte Fran�ais HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanru-mbr/tracks-v1a1/index.m3u8:astrakhan TV
+#DESCRIPTION astrakhan TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//augsburgtv.iptv-playoutcenter.de%3a1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8:augsburg tv
+#DESCRIPTION augsburg tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8:AXN Espa�a HD
+#DESCRIPTION AXN Espa�a HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/836/index.m3u8:Bahrain TV HD
+#DESCRIPTION Bahrain TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/560/index.m3u8:BBC Earth HD Polska
+#DESCRIPTION BBC Earth HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/561/index.m3u8:BBC Earth HD Polska
+#DESCRIPTION BBC Earth HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/559/index.m3u8:BBC HD Nordic
+#DESCRIPTION BBC HD Nordic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:beats music tv
+#DESCRIPTION beats music tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8:BLK TV
+#DESCRIPTION BLK TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/171/index.m3u8:Bollywood HD
+#DESCRIPTION Bollywood HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/115/index.m3u8:Bridge TV HD
+#DESCRIPTION Bridge TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/381/index.m3u8:Canal + Film HD
+#DESCRIPTION Canal + Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/382/index.m3u8:Canal + Film HD
+#DESCRIPTION Canal + Film HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/391/index.m3u8:Canal+Serie HD
+#DESCRIPTION Canal+Serie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/392/index.m3u8:Canal+ Serie HD
+#DESCRIPTION Canal+ Serie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/383/index.m3u8:Canal+ Family HD
+#DESCRIPTION Canal+ Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/384/index.m3u8:Canal+ Family HD
+#DESCRIPTION Canal+ Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.172/PLTV/3/224/3221225548/index.m3u8:CCTV 6
+#DESCRIPTION CCTV 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.36/PLTV/2510088/224/3221227374/1.m3u8:CCTV-1
+#DESCRIPTION CCTV-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.150/PLTV/3/224/3221225588/index.m3u8:CCTV-3
+#DESCRIPTION CCTV-3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8:CCTV-8
+#DESCRIPTION CCTV-8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.44.138.251%3a16416/contents40/live/CHANNEL4ff3d770b713424e9dafa96da0390915/HD_2013552811240083238/live.m3u8:CCTV4
+#DESCRIPTION CCTV4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8:chinamobile1
+#DESCRIPTION chinamobile1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8:chinamobile2
+#DESCRIPTION chinamobile2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8:chinamobile3
+#DESCRIPTION chinamobile3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8:chinamobile4
+#DESCRIPTION chinamobile4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8:chinamobile5
+#DESCRIPTION chinamobile5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.171/PLTV/3/224/3221225536/index.m3u8:chinamobile6
+#DESCRIPTION chinamobile6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/395/index.m3u8:Cinemax Central Europe HD
+#DESCRIPTION Cinemax Central Europe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/396/index.m3u8:Cinemax Central Europe HD
+#DESCRIPTION Cinemax Central Europe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnn-i.akamaihd.net/hls/live/253953/dotcomlive_1/v2/master.m3u8?__b__=650:CNN Live Event
+#DESCRIPTION CNN Live Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8:Comedy Central Espa�a HD
+#DESCRIPTION Comedy Central Espa�a HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/648/index.m3u8:Comedy Central �sterreich
+#DESCRIPTION Comedy Central �sterreich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/570/index.m3u8:Cosmopolitan TV Europa HD
+#DESCRIPTION Cosmopolitan TV Europa HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8:Cuatro HD
+#DESCRIPTION Cuatro HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/796/index.m3u8:Current Time HD
+#DESCRIPTION Current Time HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8:Daystar
+#DESCRIPTION Daystar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/451/index.m3u8:Deluxe Music HD
+#DESCRIPTION Deluxe Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
+#DESCRIPTION DHTV denhaag tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/290/index.m3u8:Discovery Channel Russia HD
+#DESCRIPTION Discovery Channel Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/738/index.m3u8:Discovery HD Deutschland
+#DESCRIPTION Discovery HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/884/index.m3u8:Discovery Life HD Polska
+#DESCRIPTION Discovery Life HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/885/index.m3u8:Discovery Life HD Polska
+#DESCRIPTION Discovery Life HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/881/index.m3u8:Disney Channel Polska HD
+#DESCRIPTION Disney Channel Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/730/index.m3u8:Disney Cinemagic Deutschland HD
+#DESCRIPTION Disney Cinemagic Deutschland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/709/index.m3u8:Disney Junior HD Deutschland
+#DESCRIPTION Disney Junior HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/646/index.m3u8:DMAX HD
+#DESCRIPTION DMAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/940/index.m3u8:DocuBox HD
+#DESCRIPTION DocuBox HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//donautv.iptv-playoutcenter.de%3a1935/donautv/donautv.stream_1/playlist.m3u8:donautv
+#DESCRIPTION donautv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/409/index.m3u8:DTX Polska
+#DESCRIPTION DTX Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/415/index.m3u8:Duna HD
+#DESCRIPTION Duna HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-europe.smartcast.de%3a1935/eotv/eotvhd/playlist.m3u8:eotv
+#DESCRIPTION eotv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/833/index.m3u8:EuroNews HD
+#DESCRIPTION EuroNews HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/941/index.m3u8:Fine Living Europe HD
+#DESCRIPTION Fine Living Europe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/860/index.m3u8:Food Network Russia HD
+#DESCRIPTION Food Network Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/861/index.m3u8:Food Network Russia HD
+#DESCRIPTION Food Network Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/478/index.m3u8:Fox Deutschland HD
+#DESCRIPTION Fox Deutschland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/479/index.m3u8:Fox Deutschland HD
+#DESCRIPTION Fox Deutschland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8:Fox Life HD Espa�a
+#DESCRIPTION Fox Life HD Espa�a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/68/index.m3u8:Fox Russia HD
+#DESCRIPTION Fox Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/906/index.m3u8:France 24 English HD
+#DESCRIPTION France 24 English HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.172.110.19//june:HD
+#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/286/index.m3u8:HD
+#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/114/index.m3u8:HD
+#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/156/index.m3u8:HD
+#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/292/index.m3u8:HD
+#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/288/index.m3u8:HD Life
+#DESCRIPTION HD Life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/698/index.m3u8:History Deutschland HD
+#DESCRIPTION History Deutschland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/165/index.m3u8:History Russia HD
+#DESCRIPTION History Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/577/index.m3u8:Hollywood HD
+#DESCRIPTION Hollywood HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/787/index.m3u8:HR Fernsehen HD
+#DESCRIPTION HR Fernsehen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/788/index.m3u8:HR Fernsehen HD
+#DESCRIPTION HR Fernsehen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/432/index.m3u8:HSE 24 Extra
+#DESCRIPTION HSE 24 Extra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/442/index.m3u8:HSE 24 HD
+#DESCRIPTION HSE 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.220.204.63%3a1935/live/htv.stream/playlist.m3u8:htv
+#DESCRIPTION htv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/842/index.m3u8:I24 News HD (English)
+#DESCRIPTION I24 News HD (English)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/843/index.m3u8:I24 News HD (French)
+#DESCRIPTION I24 News HD (French)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:igi tv
+#DESCRIPTION igi tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//now2.eaglecdn.com/stream/irystontv_irystontvstream/index.m3u8:irystontv
+#DESCRIPTION irystontv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/821/index.m3u8:Juwelo TV HD
+#DESCRIPTION Juwelo TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/642/index.m3u8:Kabel eins HD Deutschland
+#DESCRIPTION Kabel eins HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtven.ultraiptv.com/live_en/playlist.m3u8:kazakh tv
+#DESCRIPTION kazakh tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/952/index.m3u8:KBS World HD
+#DESCRIPTION KBS World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/387/index.m3u8:Kuchnia+ HD
+#DESCRIPTION Kuchnia+ HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/828/index.m3u8:LCP / Public S�nat HD
+#DESCRIPTION LCP / Public S�nat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/889/index.m3u8:Lifetime HD
+#DESCRIPTION Lifetime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8:M. Acci�n HD
+#DESCRIPTION M. Acci�n HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8:M. Comedia HD
+#DESCRIPTION M. Comedia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8:M. Formula 1 HD
+#DESCRIPTION M. Formula 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/index.m3u8:M. Series Xtra HD
+#DESCRIPTION M. Series Xtra HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/412/index.m3u8:M1 HD Europa
+#DESCRIPTION M1 HD Europa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/413/index.m3u8:M2 HD Europa
+#DESCRIPTION M2 HD Europa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/414/index.m3u8:M5 HD Europa
+#DESCRIPTION M5 HD Europa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/416/index.m3u8:M6 Suisse HD
+#DESCRIPTION M6 Suisse HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/785/index.m3u8:MDR Fernsehen Sachsen HD
+#DESCRIPTION MDR Fernsehen Sachsen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.77.128.179%3a8089/www_mezhdunet/mezhdunet_hd/playlist.m3u8:mezhdunet Net HD
+#DESCRIPTION mezhdunet Net HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/153/index.m3u8:Mezzo Live HD
+#DESCRIPTION Mezzo Live HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/154/index.m3u8:MGM HD Russia
+#DESCRIPTION MGM HD Russia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:MIR HD
+#DESCRIPTION MIR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8:Movistar MotoGP HD
+#DESCRIPTION Movistar MotoGP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8:MSNBC
+#DESCRIPTION MSNBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muenchentv.iptv-playoutcenter.de%3a1935/muenchentv/muenchentv.stream_1/playlist.m3u:muenchen tv
+#DESCRIPTION muenchen tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/447/index.m3u8:N 24 HD
+#DESCRIPTION N 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/456/index.m3u8:N-TV HD
+#DESCRIPTION N-TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/397/index.m3u8:Nat Geo Wild Europe HD
+#DESCRIPTION Nat Geo Wild Europe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/150/index.m3u8:Nat Geo Wild HD
+#DESCRIPTION Nat Geo Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/735/index.m3u8:Nat Geo Wild HD Deutschland
+#DESCRIPTION Nat Geo Wild HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/731/index.m3u8:National Geographic Deutschland HD
+#DESCRIPTION National Geographic Deutschland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/161/index.m3u8:National Geographic HD Russia & T�rkiye
+#DESCRIPTION National Geographic HD Russia & T�rkiye
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/907/index.m3u8:Nautical Channel HD
+#DESCRIPTION Nautical Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.16/PLTV/3/224/3221225559/index.m3u8:NEW TV
+#DESCRIPTION NEW TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.120.104.64/hls/newsone-hd/stream.m3u8:NewsOne HD
+#DESCRIPTION NewsOne HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.7/PLTV/3/224/3221225561/index.m3u8:Newtv
+#DESCRIPTION Newtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225543/index.m3u8:NewTV
+#DESCRIPTION NewTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225567/index.m3u8:Newtv
+#DESCRIPTION Newtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225535/index.m3u8:Newtv
+#DESCRIPTION Newtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225549/index.m3u8:Newtv
+#DESCRIPTION Newtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.16/PLTV/3/224/3221225559/index.m3u8:Newtv
+#DESCRIPTION Newtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225555/index.m3u8:Newtv
+#DESCRIPTION Newtv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/446/index.m3u8:Nickelodeon Deutschland HD
+#DESCRIPTION Nickelodeon Deutschland HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/30/index.m3u8:Nickelodeon HD
+#DESCRIPTION Nickelodeon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD  open-tv
+#DESCRIPTION O HD  open-tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD  open-tv
+#DESCRIPTION O HD  open-tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8:ok-dessau
+#DESCRIPTION ok-dessau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-magdeburg_high/playlist.m3u8:ok-magdeburg
+#DESCRIPTION ok-magdeburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-salzwedel_high/playlist.m3u8:ok-salzwedel
+#DESCRIPTION ok-salzwedel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8:one HD
+#DESCRIPTION one HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/822/index.m3u8:Pearl TV HD
+#DESCRIPTION Pearl TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/386/index.m3u8:Planete+ Polska HD
+#DESCRIPTION Planete+ Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/783/index.m3u8:RBB Brandenburg HD
+#DESCRIPTION RBB Brandenburg HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/927/index.m3u8:RT Doc HD
+#DESCRIPTION RT Doc HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/482/index.m3u8:RT Espa�ol HD
+#DESCRIPTION RT Espa�ol HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/152/index.m3u8:RTG TV HD (Russian Travel Guide)
+#DESCRIPTION RTG TV HD (Russian Travel Guide)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/840/index.m3u8:RTL 102.5 TV HD
+#DESCRIPTION RTL 102.5 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/457/index.m3u8:RTL 2 HD Deutschland
+#DESCRIPTION RTL 2 HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/678/index.m3u8:RTL 2 �sterreich
+#DESCRIPTION RTL 2 �sterreich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/473/index.m3u8:RTL Crime HD
+#DESCRIPTION RTL Crime HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/469/index.m3u8:RTL Nitro HD
+#DESCRIPTION RTL Nitro HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/483/index.m3u8:Sat.1 HD Deutschland
+#DESCRIPTION Sat.1 HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/667/index.m3u8:Shant Music HD
+#DESCRIPTION Shant Music HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/700/index.m3u8:Sky Action HD Deutschland
+#DESCRIPTION Sky Action HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/476/index.m3u8:Sky Arts HD
+#DESCRIPTION Sky Arts HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/729/index.m3u8:Sky Atlantic HD
+#DESCRIPTION Sky Atlantic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/705/index.m3u8:Sky Cinema +1 HD Deutschland
+#DESCRIPTION Sky Cinema +1 HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/706/index.m3u8:Sky Cinema +24 HD Deutschland
+#DESCRIPTION Sky Cinema +24 HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/710/index.m3u8:Sky Cinema Family HD
+#DESCRIPTION Sky Cinema Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/739/index.m3u8:Sky Cinema HD
+#DESCRIPTION Sky Cinema HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//euvia.cdn.ses-ps.com/HLS-Live/index.m3u8:Sonnenklar TV
+#DESCRIPTION Sonnenklar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-europe.smartcast.de%3a1935/eotv/eotvhd/playlist.m3u8:Sonnenklar TV
+#DESCRIPTION Sonnenklar TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//test-planet-live.ercdn.net/sony/sony_.m3u8:Sony Channel
+#DESCRIPTION Sony Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/480/index.m3u8:Spiegel Geschichte HD
+#DESCRIPTION Spiegel Geschichte HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/781/index.m3u8:Sudwest Fernsehen Rheinland-Pfalz HD
+#DESCRIPTION Sudwest Fernsehen Rheinland-Pfalz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/888/index.m3u8:Sundance TV Europe HD
+#DESCRIPTION Sundance TV Europe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/468/index.m3u8:Super RTL HD Deutschland
+#DESCRIPTION Super RTL HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/779/index.m3u8:S�dwest Fernsehen Baden-W�rttemberg HD
+#DESCRIPTION S�dwest Fernsehen Baden-W�rttemberg HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/645/index.m3u8:Tele 5 HD
+#DESCRIPTION Tele 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/926/index.m3u8:Tele Padre Pio HD
+#DESCRIPTION Tele Padre Pio HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/617/index.m3u8:Telecinco HD
+#DESCRIPTION Telecinco HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/863/index.m3u8:Telekanal Ukraine HD
+#DESCRIPTION Telekanal Ukraine HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/671/index.m3u8:TelePace HD
+#DESCRIPTION TelePace HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/803/index.m3u8:Telesur HD
+#DESCRIPTION Telesur HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdna.telesur.ultrabase.net/mbliveMain/ngrp%3amblive_all/playlist.m3u8:telesur TV
+#DESCRIPTION telesur TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/385/index.m3u8:Teletoon+ HD Polska
+#DESCRIPTION Teletoon+ HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vid.techbee.pro%3a8080/1tvcrimea/index.m3u8:The First Crimean
+#DESCRIPTION The First Crimean
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.hd-livestream.de%3a1935/live/TirolTV/playlist.m3u8:TirolTV
+#DESCRIPTION TirolTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.hd-livestream.de%3a1935/live/TirolTV/playlist.m3u8:TirolTV
+#DESCRIPTION TirolTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/462/index.m3u8:TLC HD Deutschland
+#DESCRIPTION TLC HD Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/920/index.m3u8:TLC HD Polska
+#DESCRIPTION TLC HD Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/167/index.m3u8:TLC Russia HD
+#DESCRIPTION TLC Russia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/702/index.m3u8:TNT Serie HD
+#DESCRIPTION TNT Serie HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/169/index.m3u8:Travel Channel HD
+#DESCRIPTION Travel Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8:TRT World
+#DESCRIPTION TRT World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/835/index.m3u8:TRT World HD
+#DESCRIPTION TRT World HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:TV
+#DESCRIPTION TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvoberfranken.iptv-playoutcenter.de%3a1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8:tv oberfranken
+#DESCRIPTION tv oberfranken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/879/index.m3u8:TV Puls HD
+#DESCRIPTION TV Puls HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8:TV tvaktuellr
+#DESCRIPTION TV tvaktuellr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8:TV tvaktuellr
+#DESCRIPTION TV tvaktuellr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/71/index.m3u8:TV1000 Megahit HD
+#DESCRIPTION TV1000 Megahit HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/72/index.m3u8:TV1000 Premium HD
+#DESCRIPTION TV1000 Premium HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/410/index.m3u8:TV6 Polska HD
+#DESCRIPTION TV6 Polska HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/399/index.m3u8:TVP HD
+#DESCRIPTION TVP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/935/index.m3u8:UnireSat by Teleippica HD
+#DESCRIPTION UnireSat by Teleippica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/73/index.m3u8:Viasat Nature/History HD
+#DESCRIPTION Viasat Nature/History HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8:votv
+#DESCRIPTION votv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livezvezda.cdnvideo.ru/zv/zvezda2.sdp/chunklist.m3u8:zvezda
+#DESCRIPTION zvezda
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a051:Fokus TV
+#DESCRIPTION Fokus TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a059:Stopklatka TV
+#DESCRIPTION Stopklatka TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a053:Polsat Cafe HD
+#DESCRIPTION Polsat Cafe HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a058:Novela TV HD
+#DESCRIPTION Novela TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a054:TVN STYLE HD
+#DESCRIPTION TVN STYLE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a069:TVP ROZRYWKA
+#DESCRIPTION TVP ROZRYWKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a065:TO!TV
+#DESCRIPTION TO!TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a060:Kino TV
+#DESCRIPTION Kino TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a064:TVR HD
+#DESCRIPTION TVR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a056:HGTV
+#DESCRIPTION HGTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a055:Polsat 2 HD
+#DESCRIPTION Polsat 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a052:Polsat Romans
+#DESCRIPTION Polsat Romans
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a063:TTV
+#DESCRIPTION TTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a061:Kino Polska
+#DESCRIPTION Kino Polska
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a068:POLONIA 1
+#DESCRIPTION POLONIA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a070:TELE 5 HD
+#DESCRIPTION TELE 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a066:Polsat News 2
+#DESCRIPTION Polsat News 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a067:TV TRWAM
+#DESCRIPTION TV TRWAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a062:ATM ROZRYWKA
+#DESCRIPTION ATM ROZRYWKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a057:Polsat Film HD
+#DESCRIPTION Polsat Film HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a80/A1Balkan/playlist.m3u8:A1Balkan HD
 #DESCRIPTION A1Balkan HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8:TV RECORD HD- big brother
@@ -2613,432 +3131,6 @@
 #DESCRIPTION ZEELAND TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8:Zeeland TV
 #DESCRIPTION Zeeland TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.89.199.174%3a81/hls/live2.m3u8:BAL TV
-#DESCRIPTION BAL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8:KBVR-TV Orange Media Network (Oregon)
-#DESCRIPTION KBVR-TV Orange Media Network (Oregon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8:Daystar
-#DESCRIPTION Daystar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.36/PLTV/2510088/224/3221227374/1.m3u8:CCTV-1
-#DESCRIPTION CCTV-1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.243.150/PLTV/3/224/3221225588/index.m3u8:CCTV-3
-#DESCRIPTION CCTV-3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.44.138.251%3a16416/contents40/live/CHANNEL4ff3d770b713424e9dafa96da0390915/HD_2013552811240083238/live.m3u8:CCTV4
-#DESCRIPTION CCTV4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.36/PLTV/2510088/224/3221227285/1.m3u8:CCTV-5+HD
-#DESCRIPTION CCTV-5+HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8:BesTV 1
-#DESCRIPTION BesTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8:BesTV 1   2
-#DESCRIPTION BesTV 1   2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.172/PLTV/3/224/3221225548/index.m3u8:CCTV 6
-#DESCRIPTION CCTV 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8:CCTV-8
-#DESCRIPTION CCTV-8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.16/PLTV/3/224/3221225559/index.m3u8:NEW TV
-#DESCRIPTION NEW TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.7/PLTV/3/224/3221225561/index.m3u8:Newtv
-#DESCRIPTION Newtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225543/index.m3u8:NewTV
-#DESCRIPTION NewTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225567/index.m3u8:Newtv
-#DESCRIPTION Newtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225535/index.m3u8:Newtv
-#DESCRIPTION Newtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225549/index.m3u8:Newtv
-#DESCRIPTION Newtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.16/PLTV/3/224/3221225559/index.m3u8:Newtv
-#DESCRIPTION Newtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225555/index.m3u8:Newtv
-#DESCRIPTION Newtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.171/PLTV/3/224/3221225536/index.m3u8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
-#DESCRIPTION DHTV denhaag tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8:TRT World
-#DESCRIPTION TRT World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//test-planet-live.ercdn.net/sony/sony_.m3u8:Sony Channel
-#DESCRIPTION Sony Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8:aljazeera-eng-hd
-#DESCRIPTION aljazeera-eng-hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtven.ultraiptv.com/live_en/playlist.m3u8:kazakh tv
-#DESCRIPTION kazakh tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.220.204.63%3a1935/live/htv.stream/playlist.m3u8:htv
-#DESCRIPTION htv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8:votv
-#DESCRIPTION votv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.120.104.64/hls/newsone-hd/stream.m3u8:NewsOne HD
-#DESCRIPTION NewsOne HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vid.techbee.pro%3a8080/crimea24/index.m3u8:24  24 HD
-#DESCRIPTION 24  24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vid.techbee.pro%3a8080/1tvcrimea/index.m3u8:The First Crimean
-#DESCRIPTION The First Crimean
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:beats music tv
-#DESCRIPTION beats music tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:1
-#DESCRIPTION 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:1
-#DESCRIPTION 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8:MIR HD
-#DESCRIPTION MIR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//now2.eaglecdn.com/stream/irystontv_irystontvstream/index.m3u8:irystontv
-#DESCRIPTION irystontv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD  open-tv
-#DESCRIPTION O HD  open-tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8:igi tv
-#DESCRIPTION igi tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8:2
-#DESCRIPTION 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanru-mbr/tracks-v1a1/index.m3u8:astrakhan TV
-#DESCRIPTION astrakhan TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:TV
-#DESCRIPTION TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livezvezda.cdnvideo.ru/zv/zvezda2.sdp/chunklist.m3u8:zvezda
-#DESCRIPTION zvezda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.172.110.19//june:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.77.128.179%3a8089/www_mezhdunet/mezhdunet_hd/playlist.m3u8:mezhdunet Net HD
-#DESCRIPTION mezhdunet Net HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.gcdn.co/streams/877_13/1080n/index.m3u8:78 ru
-#DESCRIPTION 78 ru
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD  open-tv
-#DESCRIPTION O HD  open-tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/6431/299492/10267.m3u8:2
-#DESCRIPTION 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdna.telesur.ultrabase.net/mbliveMain/ngrp%3amblive_all/playlist.m3u8:telesur TV
-#DESCRIPTION telesur TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//euvia.cdn.ses-ps.com/HLS-Live/index.m3u8:Sonnenklar TV
-#DESCRIPTION Sonnenklar TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//alex-stream.rosebud-media.de%3a1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800:alexlive tv
-#DESCRIPTION alexlive tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//augsburgtv.iptv-playoutcenter.de%3a1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8:augsburg tv
-#DESCRIPTION augsburg tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//donautv.iptv-playoutcenter.de%3a1935/donautv/donautv.stream_1/playlist.m3u8:donautv
-#DESCRIPTION donautv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-europe.smartcast.de%3a1935/eotv/eotvhd/playlist.m3u8:eotv
-#DESCRIPTION eotv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//muenchentv.iptv-playoutcenter.de%3a1935/muenchentv/muenchentv.stream_1/playlist.m3u:muenchen tv
-#DESCRIPTION muenchen tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8:one HD
-#DESCRIPTION one HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvoberfranken.iptv-playoutcenter.de%3a1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8:tv oberfranken
-#DESCRIPTION tv oberfranken
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8:BLK TV
-#DESCRIPTION BLK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8:ok-dessau
-#DESCRIPTION ok-dessau
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-magdeburg_high/playlist.m3u8:ok-magdeburg
-#DESCRIPTION ok-magdeburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-salzwedel_high/playlist.m3u8:ok-salzwedel
-#DESCRIPTION ok-salzwedel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-europe.smartcast.de%3a1935/eotv/eotvhd/playlist.m3u8:Sonnenklar TV
-#DESCRIPTION Sonnenklar TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8:TV tvaktuellr
-#DESCRIPTION TV tvaktuellr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.hd-livestream.de%3a1935/live/TirolTV/playlist.m3u8:TirolTV
-#DESCRIPTION TirolTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8:TV tvaktuellr
-#DESCRIPTION TV tvaktuellr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.hd-livestream.de%3a1935/live/TirolTV/playlist.m3u8:TirolTV
-#DESCRIPTION TirolTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnn-i.akamaihd.net/hls/live/253953/dotcomlive_1/v2/master.m3u8?__b__=650:CNN Live Event
-#DESCRIPTION CNN Live Event
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8:adultswim
-#DESCRIPTION adultswim
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8:MSNBC
-#DESCRIPTION MSNBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8:QVC
-#DESCRIPTION QVC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/927/index.m3u8:RT Doc HD
-#DESCRIPTION RT Doc HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/482/index.m3u8:RT Espa�ol HD
-#DESCRIPTION RT Espa�ol HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/71/index.m3u8:TV1000 Megahit HD
-#DESCRIPTION TV1000 Megahit HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/72/index.m3u8:TV1000 Premium HD
-#DESCRIPTION TV1000 Premium HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/835/index.m3u8:TRT World HD
-#DESCRIPTION TRT World HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/462/index.m3u8:TLC HD Deutschland
-#DESCRIPTION TLC HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/920/index.m3u8:TLC HD Polska
-#DESCRIPTION TLC HD Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/286/index.m3u8:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/114/index.m3u8:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/163/index.m3u8:Amedia Premium HD
-#DESCRIPTION Amedia Premium HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/164/index.m3u8:Amedia Premium HD
-#DESCRIPTION Amedia Premium HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/156/index.m3u8:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/112/index.m3u8:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/291/index.m3u8:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/381/index.m3u8:Canal + Film HD
-#DESCRIPTION Canal + Film HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/382/index.m3u8:Canal + Film HD
-#DESCRIPTION Canal + Film HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/383/index.m3u8:Canal+ Family HD
-#DESCRIPTION Canal+ Family HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/384/index.m3u8:Canal+ Family HD
-#DESCRIPTION Canal+ Family HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/391/index.m3u8:Canal+ ******e HD
-#DESCRIPTION Canal+ ******e HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/392/index.m3u8:Canal+ ******e HD
-#DESCRIPTION Canal+ ******e HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/395/index.m3u8:Cinemax Central Europe HD
-#DESCRIPTION Cinemax Central Europe HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/396/index.m3u8:Cinemax Central Europe HD
-#DESCRIPTION Cinemax Central Europe HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/451/index.m3u8:Deluxe Music HD
-#DESCRIPTION Deluxe Music HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/290/index.m3u8:Discovery Channel Russia HD
-#DESCRIPTION Discovery Channel Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/738/index.m3u8:Discovery HD Deutschland
-#DESCRIPTION Discovery HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/884/index.m3u8:Discovery Life HD Polska
-#DESCRIPTION Discovery Life HD Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/885/index.m3u8:Discovery Life HD Polska
-#DESCRIPTION Discovery Life HD Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/881/index.m3u8:Disney Channel Polska HD
-#DESCRIPTION Disney Channel Polska HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/730/index.m3u8:Disney Cinemagic Deutschland HD
-#DESCRIPTION Disney Cinemagic Deutschland HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/709/index.m3u8:Disney Junior HD Deutschland
-#DESCRIPTION Disney Junior HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/646/index.m3u8:DMAX HD
-#DESCRIPTION DMAX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/940/index.m3u8:DocuBox HD
-#DESCRIPTION DocuBox HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/409/index.m3u8:DTX Polska
-#DESCRIPTION DTX Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/415/index.m3u8:Duna HD
-#DESCRIPTION Duna HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/833/index.m3u8:EuroNews HD
-#DESCRIPTION EuroNews HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/941/index.m3u8:Fine Living Europe HD
-#DESCRIPTION Fine Living Europe HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/68/index.m3u8:Fox Russia HD
-#DESCRIPTION Fox Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/860/index.m3u8:Food Network Russia HD
-#DESCRIPTION Food Network Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/861/index.m3u8:Food Network Russia HD
-#DESCRIPTION Food Network Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/478/index.m3u8:Fox Deutschland HD
-#DESCRIPTION Fox Deutschland HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/479/index.m3u8:Fox Deutschland HD
-#DESCRIPTION Fox Deutschland HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8:Fox Life HD Espa�a
-#DESCRIPTION Fox Life HD Espa�a
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/906/index.m3u8:France 24 English HD
-#DESCRIPTION France 24 English HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/698/index.m3u8:History Deutschland HD
-#DESCRIPTION History Deutschland HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/165/index.m3u8:History Russia HD
-#DESCRIPTION History Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/577/index.m3u8:Hollywood HD
-#DESCRIPTION Hollywood HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/787/index.m3u8:HR Fernsehen HD
-#DESCRIPTION HR Fernsehen HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/788/index.m3u8:HR Fernsehen HD
-#DESCRIPTION HR Fernsehen HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/432/index.m3u8:HSE 24 Extra
-#DESCRIPTION HSE 24 Extra
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/442/index.m3u8:HSE 24 HD
-#DESCRIPTION HSE 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/821/index.m3u8:Juwelo TV HD
-#DESCRIPTION Juwelo TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/642/index.m3u8:Kabel eins HD Deutschland
-#DESCRIPTION Kabel eins HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/952/index.m3u8:KBS World HD
-#DESCRIPTION KBS World HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/842/index.m3u8:I24 News HD (English)
-#DESCRIPTION I24 News HD (English)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/843/index.m3u8:I24 News HD (French)
-#DESCRIPTION I24 News HD (French)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/73/index.m3u8:Viasat Nature/History HD
-#DESCRIPTION Viasat Nature/History HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/935/index.m3u8:UnireSat by Teleippica HD
-#DESCRIPTION UnireSat by Teleippica HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/863/index.m3u8:Telekanal Ukraine HD
-#DESCRIPTION Telekanal Ukraine HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/671/index.m3u8:TelePace HD
-#DESCRIPTION TelePace HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/803/index.m3u8:Telesur HD
-#DESCRIPTION Telesur HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/385/index.m3u8:Teletoon+ HD Polska
-#DESCRIPTION Teletoon+ HD Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/167/index.m3u8:TLC Russia HD
-#DESCRIPTION TLC Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/702/index.m3u8:TNT Serie HD
-#DESCRIPTION TNT Serie HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/169/index.m3u8:Travel Channel HD
-#DESCRIPTION Travel Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/879/index.m3u8:TV Puls HD
-#DESCRIPTION TV Puls HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/410/index.m3u8:TV6 Polska HD
-#DESCRIPTION TV6 Polska HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/399/index.m3u8:TVP HD
-#DESCRIPTION TVP HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/926/index.m3u8:Tele Padre Pio HD
-#DESCRIPTION Tele Padre Pio HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/617/index.m3u8:Telecinco HD
-#DESCRIPTION Telecinco HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/480/index.m3u8:Spiegel Geschichte HD
-#DESCRIPTION Spiegel Geschichte HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/779/index.m3u8:S�dwest Fernsehen Baden-W�rttemberg HD
-#DESCRIPTION S�dwest Fernsehen Baden-W�rttemberg HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/781/index.m3u8:Sudwest Fernsehen Rheinland-Pfalz HD
-#DESCRIPTION Sudwest Fernsehen Rheinland-Pfalz HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/888/index.m3u8:Sundance TV Europe HD
-#DESCRIPTION Sundance TV Europe HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/670/index.m3u8:Super Tennis HD
-#DESCRIPTION Super Tennis HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/645/index.m3u8:Tele 5 HD
-#DESCRIPTION Tele 5 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/468/index.m3u8:Super RTL HD Deutschland
-#DESCRIPTION Super RTL HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/710/index.m3u8:Sky Cinema Family HD
-#DESCRIPTION Sky Cinema Family HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/739/index.m3u8:Sky Cinema HD
-#DESCRIPTION Sky Cinema HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/667/index.m3u8:Shant Music HD
-#DESCRIPTION Shant Music HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/700/index.m3u8:Sky Action HD Deutschland
-#DESCRIPTION Sky Action HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/476/index.m3u8:Sky Arts HD
-#DESCRIPTION Sky Arts HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/729/index.m3u8:Sky Atlantic HD
-#DESCRIPTION Sky Atlantic HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/705/index.m3u8:Sky Cinema +1 HD Deutschland
-#DESCRIPTION Sky Cinema +1 HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/706/index.m3u8:Sky Cinema +24 HD Deutschland
-#DESCRIPTION Sky Cinema +24 HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/483/index.m3u8:Sat.1 HD Deutschland
-#DESCRIPTION Sat.1 HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/840/index.m3u8:RTL 102.5 TV HD
-#DESCRIPTION RTL 102.5 TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/457/index.m3u8:RTL 2 HD Deutschland
-#DESCRIPTION RTL 2 HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/469/index.m3u8:RTL Nitro HD
-#DESCRIPTION RTL Nitro HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/678/index.m3u8:RTL 2 �sterreich
-#DESCRIPTION RTL 2 �sterreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/473/index.m3u8:RTL Crime HD
-#DESCRIPTION RTL Crime HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/783/index.m3u8:RBB Brandenburg HD
-#DESCRIPTION RBB Brandenburg HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/152/index.m3u8:RTG TV HD (Russian Travel Guide)
-#DESCRIPTION RTG TV HD (Russian Travel Guide)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/822/index.m3u8:Pearl TV HD
-#DESCRIPTION Pearl TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/386/index.m3u8:Planete+ Polska HD
-#DESCRIPTION Planete+ Polska HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/25/index.m3u8:?  HD
-#DESCRIPTION ?  HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/157/index.m3u8:1 HD (0h)
-#DESCRIPTION 1 HD (0h)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/292/index.m3u8:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/417/index.m3u8:6ter HD
-#DESCRIPTION 6ter HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3.TV HD
-#DESCRIPTION 1-2-3.TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/158/index.m3u8:1HD
-#DESCRIPTION 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8:AMC Espa�a HD
-#DESCRIPTION AMC Espa�a HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/110/index.m3u8:Animal Planet Russia HD
-#DESCRIPTION Animal Planet Russia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/440/index.m3u8:Anixe HD Serie
-#DESCRIPTION Anixe HD Serie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/615/index.m3u8:Antena 3 HD
-#DESCRIPTION Antena 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8:Arte Fran�ais HD
-#DESCRIPTION Arte Fran�ais HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8:AXN Espa�a HD
-#DESCRIPTION AXN Espa�a HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/836/index.m3u8:Bahrain TV HD
-#DESCRIPTION Bahrain TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/560/index.m3u8:BBC Earth HD Polska
-#DESCRIPTION BBC Earth HD Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/561/index.m3u8:BBC Earth HD Polska
-#DESCRIPTION BBC Earth HD Polska
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/559/index.m3u8:BBC HD Nordic
-#DESCRIPTION BBC HD Nordic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/171/index.m3u8:Bollywood HD
-#DESCRIPTION Bollywood HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/115/index.m3u8:Bridge TV HD
-#DESCRIPTION Bridge TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8:Cuatro HD
-#DESCRIPTION Cuatro HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/796/index.m3u8:Current Time HD
-#DESCRIPTION Current Time HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8:Comedy Central Espa�a HD
-#DESCRIPTION Comedy Central Espa�a HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/648/index.m3u8:Comedy Central �sterreich
-#DESCRIPTION Comedy Central �sterreich
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/570/index.m3u8:Cosmopolitan TV Europa HD
-#DESCRIPTION Cosmopolitan TV Europa HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/288/index.m3u8:HD Life
-#DESCRIPTION HD Life
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/387/index.m3u8:Kuchnia+ HD
-#DESCRIPTION Kuchnia+ HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/828/index.m3u8:LCP / Public S�nat HD
-#DESCRIPTION LCP / Public S�nat HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/889/index.m3u8:Lifetime HD
-#DESCRIPTION Lifetime HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8:M. Acci�n HD
-#DESCRIPTION M. Acci�n HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8:M. Comedia HD
-#DESCRIPTION M. Comedia HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8:M. Formula 1 HD
-#DESCRIPTION M. Formula 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/index.m3u8:M. Series Xtra HD
-#DESCRIPTION M. Series Xtra HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/412/index.m3u8:M1 HD Europa
-#DESCRIPTION M1 HD Europa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/413/index.m3u8:M2 HD Europa
-#DESCRIPTION M2 HD Europa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/414/index.m3u8:M5 HD Europa
-#DESCRIPTION M5 HD Europa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/416/index.m3u8:M6 Suisse HD
-#DESCRIPTION M6 Suisse HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/785/index.m3u8:MDR Fernsehen Sachsen HD
-#DESCRIPTION MDR Fernsehen Sachsen HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/153/index.m3u8:Mezzo Live HD
-#DESCRIPTION Mezzo Live HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/154/index.m3u8:MGM HD Russia
-#DESCRIPTION MGM HD Russia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8:Movistar MotoGP HD
-#DESCRIPTION Movistar MotoGP HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/447/index.m3u8:N 24 HD
-#DESCRIPTION N 24 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/456/index.m3u8:N-TV HD
-#DESCRIPTION N-TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/397/index.m3u8:Nat Geo Wild Europe HD
-#DESCRIPTION Nat Geo Wild Europe HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/150/index.m3u8:Nat Geo Wild HD
-#DESCRIPTION Nat Geo Wild HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/735/index.m3u8:Nat Geo Wild HD Deutschland
-#DESCRIPTION Nat Geo Wild HD Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/731/index.m3u8:National Geographic Deutschland HD
-#DESCRIPTION National Geographic Deutschland HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/161/index.m3u8:National Geographic HD Russia & T�rkiye
-#DESCRIPTION National Geographic HD Russia & T�rkiye
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/907/index.m3u8:Nautical Channel HD
-#DESCRIPTION Nautical Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/446/index.m3u8:Nickelodeon Deutschland HD
-#DESCRIPTION Nickelodeon Deutschland HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/30/index.m3u8:Nickelodeon HD
-#DESCRIPTION Nickelodeon HD
 #SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★N1 | PAKETI★★ ====
 #DESCRIPTION === ★★N1 | PAKETI★★ ====
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1srb?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 SRB
