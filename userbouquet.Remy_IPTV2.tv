@@ -595,24 +595,26 @@
 #DESCRIPTION BesTV 1   2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8:KBVR-TV Orange Media Network (Oregon)
 #DESCRIPTION KBVR-TV Orange Media Network (Oregon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00f:bein1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00f:gs tv
+#DESCRIPTION gs tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00e:bein sports 1
+#DESCRIPTION bein sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a001:bein1
 #DESCRIPTION bein1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a001:bein2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a002:bein2
 #DESCRIPTION bein2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a002:bein3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a003:bein3
 #DESCRIPTION bein3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a003:bein4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a004:bein4
 #DESCRIPTION bein4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a004:bein5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a005:bein5
 #DESCRIPTION bein5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a005:bein6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a006:bein6
 #DESCRIPTION bein6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a006:bein7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a007:bein7
 #DESCRIPTION bein7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a007:bein8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00g:bein8
 #DESCRIPTION bein8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00g:bein9
-#DESCRIPTION bein9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a009:Bein10
 #DESCRIPTION Bein10
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00a:bein13
@@ -625,8 +627,6 @@
 #DESCRIPTION sk3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00b:sky calsio hd
 #DESCRIPTION sky calsio hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00e:gs tv
-#DESCRIPTION gs tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a019:COSMOTESportHighlightsHD
 #DESCRIPTION COSMOTESportHighlightsHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00s:COSMOTESport1HD
