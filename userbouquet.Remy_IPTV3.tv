@@ -233,8 +233,16 @@
 #DESCRIPTION Niu TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8:Polskie Radio 24 WEB
 #DESCRIPTION Polskie Radio 24 WEB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.88%3a8888:Planeta HD
+#DESCRIPTION Planeta HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/planetahd/planetahd.m3u8:Planeta HD
 #DESCRIPTION Planeta HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.34%3a8888:DM Sat
+#DESCRIPTION DM Sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.139%3a8888:Fen Folk TV
+#DESCRIPTION Fen Folk TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.32%3a8888:FAN TV
+#DESCRIPTION FAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_3/playlist.m3u8:Relax.TV
 #DESCRIPTION Relax.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO
@@ -309,18 +317,6 @@
 #DESCRIPTION XITE NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFM1 Music
 #DESCRIPTION ZFM1 Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.11%3a8888:The Voice
-#DESCRIPTION The Voice
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.1%3a8888:Planeta TV
-#DESCRIPTION Planeta TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.88%3a8888:Planeta HD
-#DESCRIPTION Planeta HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.32%3a8888:FAN TV
-#DESCRIPTION FAN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.139%3a8888:Fen Folk TV
-#DESCRIPTION Fen Folk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.34%3a8888:DM Sat
-#DESCRIPTION DM Sat
 #SERVICE 1:64:DF:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #SERVICE 1:64:E0:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
