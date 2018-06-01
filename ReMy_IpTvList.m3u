@@ -1,6 +1,46 @@
 #EXTM3U
 #EXTINF:0,****((ULUSAL))****
 ****((ULUSAL))****
+#EXTINF:-1,Haber Turk
+http://85.132.71.6/turk/haber_turk/index.m3u8
+#EXTINF:-1,Minika Cocuk
+http://85.132.71.6/turk/minika_cocuk/index.m3u8
+#EXTINF:-1,Dream TV
+http://85.132.71.6/turk/dream_tv/index.m3u8
+#EXTINF:-1,Dream Turk
+http://85.132.71.6/turk/dream_turk/index.m3u8
+#EXTINF:-1,Cartoon Network tr
+http://85.132.71.6/turk/cartoon_network/index.m3u8
+#EXTINF:-1,aHaber HD
+http://85.132.71.6/turk/a_haber_hd/index.m3u8
+#EXTINF:-1,CNN Turk
+http://85.132.71.6/turk/cnn/index.m3u8
+#EXTINF:0,ATV HD az
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:0,TRT1
+https://streaming.kovalchuk.me/turk/trt1/index.m3u8
+#EXTINF:0,DMAX
+https://streaming.kovalchuk.me/turk/ntv_spor_hd/index.m3u8
+#EXTINF:0,TV8_hd
+https://streaming.kovalchuk.me/turk/tv8_hd/index.m3u8
+#EXTINF:0,A_HABER_hd
+https://streaming.kovalchuk.me/turk/a_haber_hd/index.m3u8
+#EXTINF:0,TRT_spor
+https://streaming.kovalchuk.me/turk/trt_spor/index.m3u8
+#EXTINF:0,TRT_haber
+https://streaming.kovalchuk.me/turk/trt_haber/index.m3u8
+#EXTINF:0,TRT_belgesel
+https://streaming.kovalchuk.me/turk/trt_belgesel/index.m3u8
+#EXTINF:0,minika_cocuk
+https://streaming.kovalchuk.me/turk/minika_cocuk/index.m3u8
+#EXTINF:0,dream_tv
+https://streaming.kovalchuk.me/turk/dream_tv/index.m3u8
+#EXTINF:0,dream_turk
+https://streaming.kovalchuk.me/turk/dream_turk/index.m3u8
+#EXTINF:0,disney
+https://streaming.kovalchuk.me/turk/disney/index.m3u8
+#EXTINF:0,cartoon_network
+https://streaming.kovalchuk.me/turk/cartoon_network/index.m3u8
 #EXTINF:0,HABERTÜRK
 https://streaming.kovalchuk.me/turk/haber_turk/index.m3u8
 #EXTINF:0,DMAX
@@ -27,8 +67,6 @@ http://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2/playlist.m3u8
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
 #EXTINF:0,BRT2
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:0,ATV HD az
-http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:0,KANAL D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:0,KANAL D
