@@ -1,5 +1,5 @@
 #NAME **ReMy_PREMIUM_WORLD** 
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY_ENIGMA|TURK_TEAM_%3a%3a%3a%3a
+#SERVICE 1:64:A2:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OWU0YjM3NDdmYjQ5MmMxZTcxMmIxYmMyYzFlNmRmYTA=/g6/bein1tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
@@ -9,26 +9,6 @@
 #DESCRIPTION Bein Sports 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3 HD
 #DESCRIPTION Bein Sports 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2d06.janjuaplayer.com%3a8088/live/livinstreambein1/playlist.m3u8?id=80534&wowzasessionid=3233158761&pk=8ee53d16eb6213f166ca37528ab5332e50764b255a97d2a25b1f096fff66c4c1:Bein Sports MAC SAATI
-#DESCRIPTION Bein Sports MAC SAATI
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//2201.janjuaplayer.com%3a8088/live/bein2livinsiker3/playlist.m3u8?id=80533&wowzasessionid=3034479299&pk=8ee53d16eb6213f166ca37528ab5332e50764b255a97d2a25b1f096fff66c4c1:Bein Sports MAC SAATI
-#DESCRIPTION Bein Sports MAC SAATI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//2201.janjuaplayer.com%3a8088/live/bein2livinsiker3/playlist.m3u8?id=80533&wowzasessionid=3008231330&pk=8ee53d16eb6213f166ca37528ab5332e50764b255a97d2a25b1f096fff66c4c1:Bein Sports MAC SAATI
-#DESCRIPTION Bein Sports MAC SAATI
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/bil6kale./1710.ca/1291.ts:BEiN SPORT1 HD
-#DESCRIPTION BEiN SPORT1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/bil6kale./1710.ca/1290.ts:BEiN SPORT1 sd
-#DESCRIPTION BEiN SPORT1 sd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/red2500kur/1710.edr/1291.ts:BEiN SPORT1 HD
-#DESCRIPTION BEiN SPORT1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/red2500kur/1710.edr/1290.ts:BEiN SPORT1 sd
-#DESCRIPTION BEiN SPORT1 sd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/5209/1610.buR/1291.ts:BEiN SPORT1 HD
-#DESCRIPTION BEiN SPORT1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ip.akiptv.biz%3a8000/live/5209/1610.buR/1290.ts:BEiN SPORT1 sd
-#DESCRIPTION BEiN SPORT1 sd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.srkcast.com/stream/diema1/chunks.m3u8:DIEMA SPORT
-#DESCRIPTION DIEMA SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8:Bursaspor TV
@@ -379,14 +359,14 @@
 #DESCRIPTION Nash Football
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/17/index.m3u8:KHL TV
 #DESCRIPTION KHL TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/29/index.m3u8:Match! Football 1 HD
+#DESCRIPTION Match! Football 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/23/index.m3u8:Match! Football 2 HD
 #DESCRIPTION Match! Football 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/24/index.m3u8:Match! Football 3 HD
 #DESCRIPTION Match! Football 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/25/index.m3u8:Nash Football HD
 #DESCRIPTION Nash Football HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/29/index.m3u8:Match! Football 1 HD
-#DESCRIPTION Match! Football 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/44/index.m3u8:Viasat Sport East
 #DESCRIPTION Viasat Sport East
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/45/index.m3u8:Viasat Sport
@@ -579,10 +559,10 @@
 #DESCRIPTION Sport1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/453/index.m3u8:Sport1 HD
 #DESCRIPTION Sport1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/25/index.m3u8:?  HD
-#DESCRIPTION ?  HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/112/index.m3u8:HD
-#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/25/index.m3u8:OUR FOOTBALL HD
+#DESCRIPTION OUR FOOTBALL HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/112/index.m3u8:KINO MIR HD
+#DESCRIPTION KINO MIR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/291/index.m3u8:KO HD
 #DESCRIPTION KO HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/670/index.m3u8:Super Tennis HD
@@ -651,7 +631,7 @@
 #DESCRIPTION EDGEsport HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01e:Motorvision Channel HD
 #DESCRIPTION Motorvision Channel HD
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_HABER/NEWS_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
 #DESCRIPTION London Live
@@ -739,7 +719,7 @@
 #DESCRIPTION Russia Today
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pstv.krasmix.ru/tv/russia24/playlist.m3u8:russia24
 #DESCRIPTION russia24
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY| U.S.A_IPTV_%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:A4:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| U.S.A_IPTV_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY| U.S.A_IPTV_:::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media4.tripsmarter.com%3a1935/LiveTV/BTVHD/chucklist.m3u8:Beach TV - Panama City (eng)
 #DESCRIPTION Beach TV - Panama City (eng)
@@ -785,8 +765,10 @@
 #DESCRIPTION WHOH TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY| U.K_IPTV_%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:A5:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| U.K_IPTV_:::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY| U.K_IPTV_:::::::::
+#SERVICE 4097:0:0:447:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch356.stream/playlist.m3u8?token=:1classic
+#DESCRIPTION 1classic
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch253.stream/playlist.m3u8?token=:1DR
 #DESCRIPTION 1DR
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch254.stream/playlist.m3u8?token=:2DR
@@ -811,10 +793,14 @@
 #DESCRIPTION 3PCFS
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch242.stream/playlist.m3u8?token=:4
 #DESCRIPTION 4
+#SERVICE 4097:0:0:359:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch309.stream/playlist.m3u8?token=:4e
+#DESCRIPTION 4e
 #SERVICE 4097:0:0:325:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch281.stream/playlist.m3u8?token=:4tv
 #DESCRIPTION 4tv
 #SERVICE 4097:0:0:543:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch914.stream/playlist.m3u8?token=:4HD
 #DESCRIPTION 4HD
+#SERVICE 4097:0:0:299:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch265.stream/playlist.m3u8?token=:4 HD
+#DESCRIPTION 4 HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch257.stream/playlist.m3u8?token=:5 UK
 #DESCRIPTION 5 UK
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch116.stream/playlist.m3u8?token=:5STAR
@@ -831,14 +817,20 @@
 #DESCRIPTION A&E
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch173.stream/playlist.m3u8?token=:alibi
 #DESCRIPTION alibi
+#SERVICE 4097:0:0:407:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch335.stream/playlist.m3u8?token=:animal planet
+#DESCRIPTION animal planet
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch161.stream/playlist.m3u8?token=:ANIMAL PLANET
 #DESCRIPTION ANIMAL PLANET
+#SERVICE 4097:0:0:405:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch334.stream/playlist.m3u8?token=:arena
+#DESCRIPTION arena
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch218.stream/playlist.m3u8?token=:BARNKANALEN
 #DESCRIPTION BARNKANALEN
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch112.stream/playlist.m3u8?token=:BBC NEW
 #DESCRIPTION BBC NEW
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch166.stream/playlist.m3u8?token=:BBC NEWS
 #DESCRIPTION BBC NEWS
+#SERVICE 4097:0:0:537:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch911.stream/playlist.m3u8?token=:BBC ONE
+#DESCRIPTION BBC ONE
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch101.stream/playlist.m3u8?token=:BBC1
 #DESCRIPTION BBC1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch102.stream/playlist.m3u8?token=:BBC2
@@ -857,6 +849,8 @@
 #DESCRIPTION BT SPORT 3
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch131.stream/playlist.m3u8?token=:CARTOON NETWORK
 #DESCRIPTION CARTOON NETWORK
+#SERVICE 4097:0:0:381:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch321.stream/playlist.m3u8?token=:cartoon network
+#DESCRIPTION cartoon network
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch117.stream/playlist.m3u8?token=:CBC ACTION
 #DESCRIPTION CBC ACTION
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch119.stream/playlist.m3u8?token=:CBC REALITY
@@ -895,8 +889,12 @@
 #DESCRIPTION C MORE MAX
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch189.stream/playlist.m3u8?token=:CNN
 #DESCRIPTION CNN
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch151.stream/playlist.m3u8?token=:comedy central
+#DESCRIPTION comedy central
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch158.stream/playlist.m3u8?token=:CRIME+INVESTIGATION HD
 #DESCRIPTION CRIME+INVESTIGATION HD
+#SERVICE 4097:0:0:397:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch330.stream/playlist.m3u8?token=:CTC
+#DESCRIPTION CTC
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch129.stream/playlist.m3u8?token=:CULAO4
 #DESCRIPTION CULAO4
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch199.stream/playlist.m3u8?token=:D DRAMA
@@ -909,7 +907,11 @@
 #DESCRIPTION DISCOVERY HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch181.stream/playlist.m3u8?token=:DISCOVERY SCIENCE
 #DESCRIPTION DISCOVERY SCIENCE
+#SERVICE 4097:0:0:409:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch336.stream/playlist.m3u8?token=:discovery channel
+#DESCRIPTION discovery channel
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch240.stream/playlist.m3u8?token=:DISNEY CHANNEL
+#DESCRIPTION DISNEY CHANNEL
+#SERVICE 4097:0:0:363:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch311.stream/playlist.m3u8?token=:DISNEY CHANNEL
 #DESCRIPTION DISNEY CHANNEL
 #SERVICE 4097:0:0:297:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch264.stream/playlist.m3u8?token=:dk4
 #DESCRIPTION dk4
@@ -929,6 +931,8 @@
 #DESCRIPTION EUROSPORT1
 #SERVICE 4097:0:0:529:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch653.stream/playlist.m3u8?token=:EUROSPORT1
 #DESCRIPTION EUROSPORT1
+#SERVICE 4097:0:0:411:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch337.stream/playlist.m3u8?token=:EUROSPORT1
+#DESCRIPTION EUROSPORT1
 #SERVICE 4097:0:0:519:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch658.stream/playlist.m3u8?token=:EUROSPORT2
 #DESCRIPTION EUROSPORT2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch147.stream/playlist.m3u8?token=:EUROSPORT 2
@@ -945,8 +949,14 @@
 #DESCRIPTION FOOD NETWORK
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch163.stream/playlist.m3u8?token=:FOX
 #DESCRIPTION FOX
+#SERVICE 4097:0:0:379:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch319.stream/playlist.m3u8?token=:FOX
+#DESCRIPTION FOX
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch146.stream/playlist.m3u8?token=:GOLD
 #DESCRIPTION GOLD
+#SERVICE 4097:0:0:373:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch316.stream/playlist.m3u8?token=:HISTORY
+#DESCRIPTION HISTORY
+#SERVICE 4097:0:0:455:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch360.stream/playlist.m3u8?token=:HISTORY
+#DESCRIPTION HISTORY
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch171.stream/playlist.m3u8?token=:HISTORY FOOTBALL
 #DESCRIPTION HISTORY FOOTBALL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch118.stream/playlist.m3u8?token=:HORROR
@@ -955,10 +965,14 @@
 #DESCRIPTION htb
 #SERVICE 4097:0:0:323:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch280.stream/playlist.m3u8?token=:jim
 #DESCRIPTION jim
+#SERVICE 4097:0:0:443:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch354.stream/playlist.m3u8?token=:ID
+#DESCRIPTION ID
 #SERVICE 4097:0:0:533:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch654.stream/playlist.m3u8?token=:ID
 #DESCRIPTION ID
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch219.stream/playlist.m3u8?token=:IO
 #DESCRIPTION IO
+#SERVICE 4097:0:0:441:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch353.stream/playlist.m3u8?token=:INTER
+#DESCRIPTION INTER
 #SERVICE 4097:0:0:541:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch913.stream/playlist.m3u8?token=:itv HD
 #DESCRIPTION itv HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch103.stream/playlist.m3u8?token=:itv
@@ -975,12 +989,16 @@
 #DESCRIPTION ITV4
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch165.stream/playlist.m3u8?token=:itvBe.
 #DESCRIPTION itvBe.
+#SERVICE 4097:0:0:389:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch325.stream/playlist.m3u8?token=:KO
+#DESCRIPTION KO
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch191.stream/playlist.m3u8?token=:LIFETIME HD
 #DESCRIPTION LIFETIME HD
 #SERVICE 4097:0:0:319:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch277.stream/playlist.m3u8?token=:liv
 #DESCRIPTION liv
 #SERVICE 4097:0:0:351:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch305.stream/playlist.m3u8?token=:MATCH4
 #DESCRIPTION MATCH4
+#SERVICE 4097:0:0:399:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch331.stream/playlist.m3u8?token=:MATCH BOX
+#DESCRIPTION MATCH BOX
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch234.stream/playlist.m3u8?token=:MAX
 #DESCRIPTION MAX
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch114.stream/playlist.m3u8?token=:MBC ACTION
@@ -993,14 +1011,22 @@
 #DESCRIPTION MOTORSPORT TV
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch179.stream/playlist.m3u8?token=:MTV BASE
 #DESCRIPTION MTV BASE
+#SERVICE 4097:0:0:459:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch362.stream/playlist.m3u8?token=:MTV HITS
+#DESCRIPTION MTV HITS
 #SERVICE 4097:0:0:327:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch282.stream/playlist.m3u8?token=:mtv3
 #DESCRIPTION mtv3
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch197.stream/playlist.m3u8?token=:MUTV
 #DESCRIPTION MUTV
+#SERVICE 4097:0:0:365:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch312.stream/playlist.m3u8?token=:Nash football
+#DESCRIPTION Nash football
 #SERVICE 4097:0:0:535:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch655.stream/playlist.m3u8?token=:National Geographic
 #DESCRIPTION National Geographic
+#SERVICE 4097:0:0:413:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch338.stream/playlist.m3u8?token=:NATIONAL GEOGRAPHIC
+#DESCRIPTION NATIONAL GEOGRAPHIC
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch160.stream/playlist.m3u8?token=:NATIONAL GEOGRAPHIC
 #DESCRIPTION NATIONAL GEOGRAPHIC
+#SERVICE 4097:0:0:451:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch358.stream/playlist.m3u8?token=:NAT GEO WILD
+#DESCRIPTION NAT GEO WILD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch133.stream/playlist.m3u8?token=:NHL
 #DESCRIPTION NHL
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch180.stream/playlist.m3u8?token=:NICK JUNIOR
@@ -1029,10 +1055,14 @@
 #DESCRIPTION Pick
 #SERVICE 4097:0:0:345:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch302.stream/playlist.m3u8?token=:PLANETA RTR
 #DESCRIPTION PLANETA RTR
+#SERVICE 4097:0:0:367:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch313.stream/playlist.m3u8?token=:poccorn K
+#DESCRIPTION poccorn K
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch187.stream/playlist.m3u8?token=:RT
 #DESCRIPTION RT
 #SERVICE 4097:0:0:525:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch702.stream/playlist.m3u8?token=:rtl4
 #DESCRIPTION rtl4
+#SERVICE 4097:0:0:527:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch703.stream/playlist.m3u8?token=:RTL5
+#DESCRIPTION RTL5
 #SERVICE 4097:0:0:531:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch704.stream/playlist.m3u8?token=:rtl7
 #DESCRIPTION rtl7
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch127.stream/playlist.m3u8?token=:RTE ONE HD
@@ -1043,11 +1073,19 @@
 #DESCRIPTION RTE2 HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch128.stream/playlist.m3u8?token=:RTE JR
 #DESCRIPTION RTE JR
+#SERVICE 4097:0:0:449:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch357.stream/playlist.m3u8?token=:RTG TV
+#DESCRIPTION RTG TV
+#SERVICE 4097:0:0:347:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch303.stream/playlist.m3u8?token=:ru1
+#DESCRIPTION ru1
 #SERVICE 4097:0:0:349:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch304.stream/playlist.m3u8?token=:ru1
+#DESCRIPTION ru1
+#SERVICE 4097:0:0:343:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch301.stream/playlist.m3u8?token=:ru1
 #DESCRIPTION ru1
 #SERVICE 4097:0:0:353:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch306.stream/playlist.m3u8?token=:ru24
 #DESCRIPTION ru24
 #SERVICE 4097:0:0:313:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch274.stream/playlist.m3u8?token=:RUUTU
+#DESCRIPTION RUUTU
+#SERVICE 4097:0:0:335:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch286.stream/playlist.m3u8?token=:RUUTU
 #DESCRIPTION RUUTU
 #SERVICE 4097:0:0:311:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch273.stream/playlist.m3u8?token=:RUUTU+
 #DESCRIPTION RUUTU+
@@ -1057,6 +1095,14 @@
 #DESCRIPTION RUUTU SPORT
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch169.stream/playlist.m3u8?token=:SATENTA SPORTS
 #DESCRIPTION SATENTA SPORTS
+#SERVICE 4097:0:0:105:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch153.stream/playlist.m3u8?token=:sky Q
+#DESCRIPTION sky Q
+#SERVICE 4097:0:0:85:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch143.stream/playlist.m3u8?token=:sky one
+#DESCRIPTION sky one
+#SERVICE 4097:0:0:99:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch150.stream/playlist.m3u8?token=:sky atlantik
+#DESCRIPTION sky atlantik
+#SERVICE 4097:0:0:87:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch144.stream/playlist.m3u8?token=:sky living
+#DESCRIPTION sky living
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch152.stream/playlist.m3u8?token=:SKY AT THE RACES
 #DESCRIPTION SKY AT THE RACES
 #SERVICE 4097:0:0:77:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch139.stream/playlist.m3u8?token=:SKY SPORTS HD
@@ -1089,11 +1135,17 @@
 #DESCRIPTION SVT2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch148.stream/playlist.m3u8?token=:SYFY
 #DESCRIPTION SYFY
+#SERVICE 4097:0:0:357:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch308.stream/playlist.m3u8?token=:TBU
+#DESCRIPTION TBU
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch157.stream/playlist.m3u8?token=:TCM +1
 #DESCRIPTION TCM +1
 #SERVICE 4097:0:0:547:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch1129.stream/playlist.m3u8?token=:TG4s
 #DESCRIPTION TG4s
+#SERVICE 4097:0:0:401:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch332.stream/playlist.m3u8?token=:THT
+#DESCRIPTION THT
 #SERVICE 4097:0:0:305:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch269.stream/playlist.m3u8?token=:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:0:431:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch347.stream/playlist.m3u8?token=:TLC
 #DESCRIPTION TLC
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch124.stream/playlist.m3u8?token=:TRUE ENTERTAINMENT
 #DESCRIPTION TRUE ENTERTAINMENT
@@ -1115,6 +1167,8 @@
 #DESCRIPTION VH1
 #SERVICE 4097:0:0:301:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch266.stream/playlist.m3u8?token=:viasat sport3
 #DESCRIPTION viasat sport3
+#SERVICE 4097:0:0:453:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch359.stream/playlist.m3u8?token=:VIASAT SPORT BALTIC
+#DESCRIPTION VIASAT SPORT BALTIC
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch223.stream/playlist.m3u8?token=:VIASAT MOTOR HD
 #DESCRIPTION VIASAT MOTOR HD
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch237.stream/playlist.m3u8?token=:VOX
@@ -1135,29 +1189,9 @@
 #DESCRIPTION Zebra2
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch262.stream/playlist.m3u8?token=:ZULU
 #DESCRIPTION ZULU
-#SERVICE 4097:0:0:343:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch301.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:335:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch286.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:347:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch303.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:539:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch912.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:19:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch110.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:527:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch703.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:299:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch265.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:85:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch143.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:87:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch144.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:99:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch150.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch151.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:105:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch153.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch154.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
@@ -1177,33 +1211,15 @@
 #DESCRIPTION UK
 #SERVICE 4097:0:0:227:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch221.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:357:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch308.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:359:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch309.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:361:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch310.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:363:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch311.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:365:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch312.stream/playlist.m3u8?token=:Novi kanal
-#DESCRIPTION Novi kanal
-#SERVICE 4097:0:0:537:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch911.stream/playlist.m3u8?token=:Novi kanal
-#DESCRIPTION Novi kanal
-#SERVICE 4097:0:0:367:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch313.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:369:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch314.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:371:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch315.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:373:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch316.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:375:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch317.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:377:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch318.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:379:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch319.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:381:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch321.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:383:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch322.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
@@ -1211,31 +1227,13 @@
 #DESCRIPTION UK
 #SERVICE 4097:0:0:387:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch324.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:389:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch325.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:391:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch326.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:393:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch328.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:395:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch329.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:397:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch330.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:399:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch331.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:401:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch332.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:403:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch333.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:405:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch334.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:407:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch335.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:409:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch336.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:411:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch337.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:413:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch338.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:415:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch339.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
@@ -1253,8 +1251,6 @@
 #DESCRIPTION UK
 #SERVICE 4097:0:0:429:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch346.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:431:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch347.stream/playlist.m3u8?token=:Novi kanal
-#DESCRIPTION Novi kanal
 #SERVICE 4097:0:0:433:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch348.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:435:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch350.stream/playlist.m3u8?token=:UK
@@ -1263,25 +1259,9 @@
 #DESCRIPTION UK
 #SERVICE 4097:0:0:439:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch352.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:441:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch353.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:443:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch354.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:445:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch355.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 4097:0:0:447:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch356.stream/playlist.m3u8?token=:UK-
-#DESCRIPTION UK-
-#SERVICE 4097:0:0:449:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch357.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:451:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch358.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:453:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch359.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:455:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch360.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
 #SERVICE 4097:0:0:457:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch361.stream/playlist.m3u8?token=:UK
-#DESCRIPTION UK
-#SERVICE 4097:0:0:459:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch362.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
 #SERVICE 4097:0:0:461:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch363.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
@@ -1345,7 +1325,7 @@
 #DESCRIPTION UK-
 #SERVICE 4097:0:0:557:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch1155.stream/playlist.m3u8?token=:UK
 #DESCRIPTION UK
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY| OTE_COSMOTE_%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:A6:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| OTE_COSMOTE_::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY| OTE_COSMOTE_::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01c:FOX HD
 #DESCRIPTION FOX HD
@@ -1499,7 +1479,7 @@
 #DESCRIPTION SKAI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.91.128.190%3a9981/stream/channelid/1849095493?ticket=ea17db6f13c2ce7e258ea054dbb559b06fd44a29&profile=pass:STAR
 #DESCRIPTION STAR
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_REMY|WORLD_IPTV_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:A7:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY|WORLD_IPTV_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//play.lanet.tv/live/2009.m3u8:SOMINE KEYFI HD
 #DESCRIPTION SOMINE KEYFI HD
@@ -2023,11 +2003,11 @@
 #DESCRIPTION hr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/787/index.m3u8:hr HD
 #DESCRIPTION hr HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/1.ts:h1%3aПрилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/1.ts:h1:Прилеп
 #DESCRIPTION h1:Прилеп
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/2.ts:h2%3aПрилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/2.ts:h2:Прилеп
 #DESCRIPTION h2:Прилеп
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/3.ts:h3%3aПрилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/3.ts:h3:Прилеп
 #DESCRIPTION h3:Прилеп
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&profile=pass:BBC
 #DESCRIPTION BBC
@@ -2591,7 +2571,7 @@
 #DESCRIPTION Muenchen TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/chunklist_w324994460_b1896000.m3u8?CeceGeek.m3u8:MIAMI TV
 #DESCRIPTION MIAMI TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:MODA%3aHD Fashion
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:MODA:HD Fashion
 #DESCRIPTION MODA:HD Fashion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:MUNDO +
 #DESCRIPTION MUNDO +
@@ -3113,6 +3093,36 @@
 #DESCRIPTION N1 HR
 #SERVICE 4097:0:1:8:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1bih?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 BIH
 #DESCRIPTION N1 BIH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.4%3a8888:bTV
+#DESCRIPTION bTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.50%3a8888:Bulgaria on Air
+#DESCRIPTION Bulgaria on Air
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.13%3a8888:Diema
+#DESCRIPTION Diema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.8%3a8888:NOVA
+#DESCRIPTION NOVA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.9%3a8888:KinoNova
+#DESCRIPTION KinoNova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.31%3a8888:Kanal 3
+#DESCRIPTION Kanal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.140%3a8888:BNT 1
+#DESCRIPTION BNT 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.23%3a8888:CN
+#DESCRIPTION CN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.12%3a8888:Discovery Channel
+#DESCRIPTION Discovery Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.85%3a8888:National Geographic HD
+#DESCRIPTION National Geographic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.89%3a8888:NG Wild HD
+#DESCRIPTION NG Wild HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.21%3a8888:Viasat Explorer
+#DESCRIPTION Viasat Explorer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.44%3a8888:NG WILD
+#DESCRIPTION NG WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.57%3a8888:History Channel
+#DESCRIPTION History Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.82%3a8888:Eurosport HD
+#DESCRIPTION Eurosport HD
 #SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
 #DESCRIPTION === ★★EX YU | PAKETI★★ ====
 #SERVICE 4097:0:1:87:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Banovina TV
@@ -3437,7 +3447,7 @@
 #DESCRIPTION drone-race-tv
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/cragg:cragg
 #DESCRIPTION cragg
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WEBSOCKET_LIVE_UPDATE_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
 #DESCRIPTION Star TV HD
@@ -3487,7 +3497,7 @@
 #DESCRIPTION Kral Pop Radyo
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HXZlvafC14Y:Power Türk Fm
 #DESCRIPTION Power Türk Fm
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::_%3a%3a%3a_FILM_BELGESEL_EGLENCE_%3a%3a%3a_
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=gsu5VsblZZo&t=245s:Frankenstein Ölümsüzlerin SavaSİ
 #DESCRIPTION Frankenstein Ölümsüzlerin SavaSİ
@@ -3511,7 +3521,7 @@
 #DESCRIPTION Stephen Hawking-Universe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=g6c4xCkrvOk:Evrenin Ucuna Yolculuk
 #DESCRIPTION Evrenin Ucuna Yolculuk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ly9cmLfH_bg:NGC%3a Gizli Gerçekler - Ufolar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ly9cmLfH_bg:NGC: Gizli Gerçekler - Ufolar
 #DESCRIPTION NGC: Gizli Gerçekler - Ufolar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=a8iW_eWqcPQ:National Geographic - Marmaray Tüp Geçit Projesi
 #DESCRIPTION National Geographic - Marmaray Tüp Geçit Projesi
@@ -3587,25 +3597,25 @@
 #DESCRIPTION Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
 #SERVICE 1:64:B1:0:0:0:0:0:0:0::Hottest | Sports Illustrated Swimsuit
 #DESCRIPTION Hottest | Sports Illustrated Swimsuit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eBZdmQ58n0s:Ashley Graham Hottest Moments%3a Curvy Cover Model,
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eBZdmQ58n0s:Ashley Graham Hottest Moments: Curvy Cover Model,
 #DESCRIPTION Ashley Graham Hottest Moments: Curvy Cover Model,
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=DV86TY39Z0I:Best Of 2014%3a Kate Upton, Irina Shayk, Nina Agdal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=DV86TY39Z0I:Best Of 2014: Kate Upton, Irina Shayk, Nina Agdal
 #DESCRIPTION Best Of 2014: Kate Upton, Irina Shayk, Nina Agdal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=IebBbA-9Bqo:Best Of 2016%3a Gigi Hadid, Nina Agdal, Chrissy Teig
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=IebBbA-9Bqo:Best Of 2016: Gigi Hadid, Nina Agdal, Chrissy Teig
 #DESCRIPTION Best Of 2016: Gigi Hadid, Nina Agdal, Chrissy Teig
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nigUibmNSX0:Emily Ratajkowski Best Moments%3a Steamy St. Lucia,
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nigUibmNSX0:Emily Ratajkowski Best Moments: Steamy St. Lucia,
 #DESCRIPTION Emily Ratajkowski Best Moments: Steamy St. Lucia,
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5iQzny094FM:Gigi Hadid Best Moments%3a Jersey Shore Fun, Tropica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5iQzny094FM:Gigi Hadid Best Moments: Jersey Shore Fun, Tropica
 #DESCRIPTION Gigi Hadid Best Moments: Jersey Shore Fun, Tropica
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=J41EMabLPSQ:Kate Upton Through The Years - The Best Of | Marat
 #DESCRIPTION Kate Upton Through The Years - The Best Of | Marat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=J41EMabLPSQ&t=31s:Kate Upton Through The Years - The Best Of | Marat
 #DESCRIPTION Kate Upton Through The Years - The Best Of | Marat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c:Irina Shayk Hottest Moments%3a Russian Homecoming, B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c:Irina Shayk Hottest Moments: Russian Homecoming, B
 #DESCRIPTION Irina Shayk Hottest Moments: Russian Homecoming, B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c&t=87s:Irina Shayk Hottest Moments%3a Russian Homecoming, B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eaUZOwgOw1c&t=87s:Irina Shayk Hottest Moments: Russian Homecoming, B
 #DESCRIPTION Irina Shayk Hottest Moments: Russian Homecoming, B
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=b6AQ2k5s8kc:Nina Agdal's Hottest Moments%3a Nothing But Vajazzle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=b6AQ2k5s8kc:Nina Agdal's Hottest Moments: Nothing But Vajazzle
 #DESCRIPTION Nina Agdal's Hottest Moments: Nothing But Vajazzle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=nK5YMW_O8zg:HOPE HIGH HEELS - Desfile
 #DESCRIPTION HOPE HIGH HEELS - Desfile
@@ -3695,7 +3705,7 @@
 #DESCRIPTION Victoria Secret 2015 swimsuit show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6nnAlNA_PTs:Victoria's Secret Swim 2013
 #DESCRIPTION Victoria's Secret Swim 2013
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_KOREAN_IPTV_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:B2:0:0:0:0:0:0:0:::::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.118.21.79/etv1/phd28/playlist.m3u8:CTS
 #DESCRIPTION CTS
@@ -3717,7 +3727,7 @@
 #DESCRIPTION Viet My TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//live.vietchristian.com/tv:Viet Christian
 #DESCRIPTION Viet Christian
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WebCam_Live_Turkey_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
+#SERVICE 1:64:B3:0:0:0:0:0:0:0:::::::::::::_WebCam_Live_Turkey_::::::::::
 #DESCRIPTION :::::::::::_WebCam_Live_Turkey_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/297.stream/chunklist_w1890125726.m3u8:Taksim Canlı Mobesa Kamera
 #DESCRIPTION Taksim Canlı Mobesa Kamera
@@ -4057,7 +4067,7 @@
 #DESCRIPTION New York City Times Square - Street Cam
 #SERVICE 4097:0:1:391:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8:New York City Times Square - 47th & Broad
 #DESCRIPTION New York City Times Square - 47th & Broad
-#SERVICE 4097:0:1:393:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8:New York City%3a Times Square - 5th Ave NYC
+#SERVICE 4097:0:1:393:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8:New York City: Times Square - 5th Ave NYC
 #DESCRIPTION New York City: Times Square - 5th Ave NYC
 #SERVICE 4097:0:1:395:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8:New York City - Wall St.
 #DESCRIPTION New York City - Wall St.
@@ -5069,79 +5079,79 @@
 #DESCRIPTION Pier -California
 #SERVICE 4097:0:1:408:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream:Plougonvelin - Bretagne - France
 #DESCRIPTION Plougonvelin - Bretagne - France
-#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM%3a ALVOR
+#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM: ALVOR
 #DESCRIPTION Portugal WEBCAM: ALVOR
-#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/arrifana/chunks.m3u8:Portugal WEBCAM%3a ARRIFANA
+#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/arrifana/chunks.m3u8:Portugal WEBCAM: ARRIFANA
 #DESCRIPTION Portugal WEBCAM: ARRIFANA
-#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM%3a BARRA
+#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM: BARRA
 #DESCRIPTION Portugal WEBCAM: BARRA
-#SERVICE 4097:0:1:416:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM%3a BUARCOS
+#SERVICE 4097:0:1:416:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM: BUARCOS
 #DESCRIPTION Portugal WEBCAM: BUARCOS
-#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM%3a CAPARICA CDS
+#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM: CAPARICA CDS
 #DESCRIPTION Portugal WEBCAM: CAPARICA CDS
-#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicasaojoao/chunks.m3u8:Portugal WEBCAM%3a CAPARICA S.JOÃO
+#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicasaojoao/chunks.m3u8:Portugal WEBCAM: CAPARICA S.JOÃO
 #DESCRIPTION Portugal WEBCAM: CAPARICA S.JOÃO
-#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM%3a CARCAVELOS
+#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM: CARCAVELOS
 #DESCRIPTION Portugal WEBCAM: CARCAVELOS
-#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carvalhal/chunks.m3u8:Portugal WEBCAM%3a CARVALHAL
+#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carvalhal/chunks.m3u8:Portugal WEBCAM: CARVALHAL
 #DESCRIPTION Portugal WEBCAM: CARVALHAL
-#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM%3a ERICEIRA
+#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM: ERICEIRA
 #DESCRIPTION Portugal WEBCAM: ERICEIRA
-#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/esmoriz/chunks.m3u8:Portugal WEBCAM%3a ESMORIZ
+#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/esmoriz/chunks.m3u8:Portugal WEBCAM: ESMORIZ
 #DESCRIPTION Portugal WEBCAM: ESMORIZ
-#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM%3a ESPINHO
+#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM: ESPINHO
 #DESCRIPTION Portugal WEBCAM: ESPINHO
-#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/evaristo/chunks.m3u8:Portugal WEBCAM%3a EVARISTO
+#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/evaristo/chunks.m3u8:Portugal WEBCAM: EVARISTO
 #DESCRIPTION Portugal WEBCAM: EVARISTO
-#SERVICE 4097:0:1:434:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/fontedatelha/chunks.m3u8:Portugal WEBCAM%3a FONTE DA TELHA
+#SERVICE 4097:0:1:434:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/fontedatelha/chunks.m3u8:Portugal WEBCAM: FONTE DA TELHA
 #DESCRIPTION Portugal WEBCAM: FONTE DA TELHA
-#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM%3a FURADOURO
+#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM: FURADOURO
 #DESCRIPTION Portugal WEBCAM: FURADOURO
-#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiagrande/chunks.m3u8:Portugal WEBCAM%3a GRANDE
+#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiagrande/chunks.m3u8:Portugal WEBCAM: GRANDE
 #DESCRIPTION Portugal WEBCAM: GRANDE
-#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM%3a GUINCHO SUL
+#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM: GUINCHO SUL
 #DESCRIPTION Portugal WEBCAM: GUINCHO SUL
-#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/madeirajardimdomar/chunks.m3u8:Portugal WEBCAM%3a JARDIM DO MAR
+#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/madeirajardimdomar/chunks.m3u8:Portugal WEBCAM: JARDIM DO MAR
 #DESCRIPTION Portugal WEBCAM: JARDIM DO MAR
-#SERVICE 4097:0:1:444:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM%3a LAGIDE
+#SERVICE 4097:0:1:444:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM: LAGIDE
 #DESCRIPTION Portugal WEBCAM: LAGIDE
-#SERVICE 4097:0:1:446:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lecadapalmeira/chunks.m3u8:Portugal WEBCAM%3a LEÇA DA PALMEIRA
+#SERVICE 4097:0:1:446:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lecadapalmeira/chunks.m3u8:Portugal WEBCAM: LEÇA DA PALMEIRA
 #DESCRIPTION Portugal WEBCAM: LEÇA DA PALMEIRA
-#SERVICE 4097:0:1:448:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/matosinhos/chunks.m3u8:Portugal WEBCAM%3a MATOSINHOS
+#SERVICE 4097:0:1:448:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/matosinhos/chunks.m3u8:Portugal WEBCAM: MATOSINHOS
 #DESCRIPTION Portugal WEBCAM: MATOSINHOS
-#SERVICE 4097:0:1:450:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM%3a MEIA PRAIA
+#SERVICE 4097:0:1:450:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM: MEIA PRAIA
 #DESCRIPTION Portugal WEBCAM: MEIA PRAIA
-#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcmira/chunks.m3u8:Portugal WEBCAM%3a MIRA
+#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcmira/chunks.m3u8:Portugal WEBCAM: MIRA
 #DESCRIPTION Portugal WEBCAM: MIRA
-#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM%3a NAZARÉ
+#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM: NAZARÉ
 #DESCRIPTION Portugal WEBCAM: NAZARÉ
-#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcgale/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA GALÉ
+#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcgale/chunks.m3u8:Portugal WEBCAM: PRAIA DA GALÉ
 #DESCRIPTION Portugal WEBCAM: PRAIA DA GALÉ
-#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA LUZ
+#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM: PRAIA DA LUZ
 #DESCRIPTION Portugal WEBCAM: PRAIA DA LUZ
-#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA ROCHA
+#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM: PRAIA DA ROCHA
 #DESCRIPTION Portugal WEBCAM: PRAIA DA ROCHA
-#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//130.185.85.5%3a1935/live/matosinhos.stream/livestream.m3u8:Portugal WEBCAM%3a Praia Matosinhos
+#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//130.185.85.5%3a1935/live/matosinhos.stream/livestream.m3u8:Portugal WEBCAM: Praia Matosinhos
 #DESCRIPTION Portugal WEBCAM: Praia Matosinhos
-#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ribeiradilhas/chunks.m3u8:Portugal WEBCAM%3a RIBEIRA D´ ILHAS
+#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ribeiradilhas/chunks.m3u8:Portugal WEBCAM: RIBEIRA D´ ILHAS
 #DESCRIPTION Portugal WEBCAM: RIBEIRA D´ ILHAS
-#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM%3a S. TORPES
+#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM: S. TORPES
 #DESCRIPTION Portugal WEBCAM: S. TORPES
-#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saopedroestoria/chunks.m3u8:Portugal WEBCAM%3a S.PEDRO ESTORIL
+#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saopedroestoria/chunks.m3u8:Portugal WEBCAM: S.PEDRO ESTORIL
 #DESCRIPTION Portugal WEBCAM: S.PEDRO ESTORIL
-#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM%3a SANTA CRUZ
+#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM: SANTA CRUZ
 #DESCRIPTION Portugal WEBCAM: SANTA CRUZ
-#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM%3a SUPERTUBOS
+#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM: SUPERTUBOS
 #DESCRIPTION Portugal WEBCAM: SUPERTUBOS
-#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/index.m3u8:Portugal WEBCAM%3a Santuáriode Fátima (Capelinha d
+#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/index.m3u8:Portugal WEBCAM: Santuáriode Fátima (Capelinha d
 #DESCRIPTION Portugal WEBCAM: Santuáriode Fátima (Capelinha d
-#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/torreira/chunks.m3u8:Portugal WEBCAM%3a TORREIRA
+#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/torreira/chunks.m3u8:Portugal WEBCAM: TORREIRA
 #DESCRIPTION Portugal WEBCAM: TORREIRA
-#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vagueira/chunks.m3u8:Portugal WEBCAM%3a VAGUEIRA
+#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vagueira/chunks.m3u8:Portugal WEBCAM: VAGUEIRA
 #DESCRIPTION Portugal WEBCAM: VAGUEIRA
-#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM%3a VILAMOURA
+#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM: VILAMOURA
 #DESCRIPTION Portugal WEBCAM: VILAMOURA
-#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM%3a ZAMBUJEIRA
+#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM: ZAMBUJEIRA
 #DESCRIPTION Portugal WEBCAM: ZAMBUJEIRA
 #SERVICE 4097:0:1:484:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv110_720p.stream:Potsdam - Hotel Am Luisenplatz
 #DESCRIPTION Potsdam - Hotel Am Luisenplatz
@@ -5271,7 +5281,7 @@
 #DESCRIPTION Warnemünde - Best Western Hotel
 #SERVICE 4097:0:1:610:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv4_450p.stream:Warnemünde - Yachthafen
 #DESCRIPTION Warnemünde - Yachthafen
-#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//wowza.catve.com.br%3a1935/camera4/camera4.stream/playlist.m3u8:WebCam BR%3a PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
+#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//wowza.catve.com.br%3a1935/camera4/camera4.stream/playlist.m3u8:WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
 #DESCRIPTION WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
 #SERVICE 4097:0:1:614:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8:Wedding chapel -Nevada
 #DESCRIPTION Wedding chapel -Nevada
