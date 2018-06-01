@@ -17,8 +17,46 @@
 #DESCRIPTION STAR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams.tvizlehd.com/live/sonychannel/playlist.m3u8:SONY CHANNEL TV
 #DESCRIPTION SONY CHANNEL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD
-#DESCRIPTION ATV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/turk/haber_turk/index.m3u8:Haber Turk
+#DESCRIPTION Haber Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/turk/minika_cocuk/index.m3u8:Minika Cocuk
+#DESCRIPTION Minika Cocuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/turk/dream_tv/index.m3u8:Dream TV
+#DESCRIPTION Dream TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/turk/dream_turk/index.m3u8:Dream Turk
+#DESCRIPTION Dream Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/turk/cartoon_network/index.m3u8:Cartoon Network tr
+#DESCRIPTION Cartoon Network tr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/turk/a_haber_hd/index.m3u8:aHaber HD
+#DESCRIPTION aHaber HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/turk/cnn/index.m3u8:CNN Turk
+#DESCRIPTION CNN Turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD az
+#DESCRIPTION ATV HD az
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt1/index.m3u8:TRT1
+#DESCRIPTION TRT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/ntv_spor_hd/index.m3u8:DMAX
+#DESCRIPTION DMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/tv8_hd/index.m3u8:TV8_hd
+#DESCRIPTION TV8_hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/a_haber_hd/index.m3u8:A_HABER_hd
+#DESCRIPTION A_HABER_hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt_spor/index.m3u8:TRT_spor
+#DESCRIPTION TRT_spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt_haber/index.m3u8:TRT_haber
+#DESCRIPTION TRT_haber
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt_belgesel/index.m3u8:TRT_belgesel
+#DESCRIPTION TRT_belgesel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/minika_cocuk/index.m3u8:minika_cocuk
+#DESCRIPTION minika_cocuk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/dream_tv/index.m3u8:dream_tv
+#DESCRIPTION dream_tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/dream_turk/index.m3u8:dream_turk
+#DESCRIPTION dream_turk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/disney/index.m3u8:disney
+#DESCRIPTION disney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/cartoon_network/index.m3u8:cartoon_network
+#DESCRIPTION cartoon_network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:DMAX
 #DESCRIPTION DMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8:TLC TV HD
