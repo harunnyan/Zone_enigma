@@ -241,8 +241,16 @@
 #DESCRIPTION TSN3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.bmx-tv.top%3a1935/live/2.smil/playlist.m3u8:FIGHT NETWORK
 #DESCRIPTION FIGHT NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//apk.goo.ac%3a8081/live/4/playlist.m3u8:FOX SPORTS BR
+#DESCRIPTION FOX SPORTS BR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.152.66.81%3a25461/live/finais2_jbnehu/xvolgz/1816.ts?token=SUZYUxZQRwJGAgxWBVpSXgECVQcGVlADAVcBAAkHBVEEXFRQVVxRDlARFERGFhddV1loCFdHC1cMBA8fExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYFWgdTHkZAWwEaXxpWBQ1TDEBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBgFXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYABgdASA==:FOX SPORTS BR FHD
+#DESCRIPTION FOX SPORTS BR FHD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.152.66.81%3a25461/live/finais2_uk0zpx/ivp8ye/2158.m3u8?token=SUZYUxZQRwJGAwBfBFdSD1MCAwIHXQEEAARfVwVaV1EGXQgHBAwDCAIRFERGFhddV1loCFdHC1QFAAEfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIGVQZRHkZAWwEaXxpVCgFRBkBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLBwhXF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgQACgRSFxk=:FOX SPORTS 2 BR HD
 #DESCRIPTION FOX SPORTS 2 BR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_1200.m3u8?dnt=true&access_token=mkn1ejub7yla1mkvrfhvi6l2adxkpvs5zqqlqqyllmac5wmq8ktzykfjahbor3sahzrlnig9b6l&ref=https%3a%2f%2fwww.eiplus.com.br%2fcanal%2f47%2fnautico-x-bahia%2f&es=l3tk-ei-ee-cdn-mdstrm.secure.footprint.net&proto=https&pz=br&hash=0abd35a18c0ee0c957eac:ESPORTE INTERATIVO
+#DESCRIPTION ESPORTE INTERATIVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8?dnt=true&access_token=e8z1j3se8ze4g3jzgxkblgarm5wt4jti7ja6bomdfurocw3ofv3zceswv5bnpkbvrmj50x3rhu6&ref=https%3a%2f%2fwww.eiplus.com.br%2fcanal%2f46%2froma-x-shakhtar-donetsk%2f&es=l3tk-ei-ee-cdn-mdstrm.secure.footprint.net&proto=https&pz=br&hash=01566973e3ceb23880dcd:ESPORTE INTERATIVO 2
+#DESCRIPTION ESPORTE INTERATIVO 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.42.158%3a8081/tv/khl/playlist.m3u8:KHL
 #DESCRIPTION KHL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.42.158%3a8081/tv/tnt/playlist.m3u8:TNT
@@ -783,8 +791,6 @@
 #DESCRIPTION arena
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch218.stream/playlist.m3u8?token=:BARNKANALEN
 #DESCRIPTION BARNKANALEN
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch112.stream/playlist.m3u8?token=:BBC NEW
-#DESCRIPTION BBC NEW
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch166.stream/playlist.m3u8?token=:BBC NEWS
 #DESCRIPTION BBC NEWS
 #SERVICE 4097:0:0:537:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch911.stream/playlist.m3u8?token=:BBC ONE
@@ -793,6 +799,8 @@
 #DESCRIPTION BBC1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch102.stream/playlist.m3u8?token=:BBC2
 #DESCRIPTION BBC2
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch112.stream/playlist.m3u8?token=:CBBC
+#DESCRIPTION CBBC
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch190.stream/playlist.m3u8?token=:BET RACING UK
 #DESCRIPTION BET RACING UK
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//88.150.250.180%3a8082/live/ch184.stream/playlist.m3u8?token=:BLOOMBERG
@@ -1629,10 +1637,10 @@
 #DESCRIPTION France 24 English HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/286/index.m3u8:HD
 #DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/114/index.m3u8:HD
-#DESCRIPTION HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/156/index.m3u8:HD
-#DESCRIPTION HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/114/index.m3u8:KINO DOM HD
+#DESCRIPTION KINO DOM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/156/index.m3u8:1HD
+#DESCRIPTION 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/292/index.m3u8:HD
 #DESCRIPTION HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/288/index.m3u8:HD Life
@@ -2029,12 +2037,12 @@
 #DESCRIPTION TVP ROZRYWKA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.123.176.105%3a8002/play/a064:TVR HD
 #DESCRIPTION TVR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a80/A1Balkan/playlist.m3u8:A1Balkan HD
-#DESCRIPTION A1Balkan HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8:TV RECORD HD- big brother
 #DESCRIPTION TV RECORD HD- big brother
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3 TV
 #DESCRIPTION 1-2-3 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a80/A1Balkan/playlist.m3u8:A1Balkan HD
+#DESCRIPTION A1Balkan HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.152.66.81%3a25461/live/finais2_jbnehu/xvolgz/3371.m3u8?token=SUZYUxZQRwJGClxSBgdUCVJRUQABUAdQUA1bVwZWUAFRVFFTUggGXQIRFERGFhddV1loCFdHC1UHAggfExdGAUA7WVZHAkcKXAsIUQJASRpCXVoEEV8AUwYHAAYEUQFRHkZAWwEaXxpVBghSDUBJGlNMQwRBC1AKa1FcRVgBUEYICkVeCRRHVwpsXANYAwtcFA4VUBFJEw9HRRsJEyNWARInX18ASgZRCxNdRmYHF05fV1gSEwFURn1bX1xDD1QQWwdREilMAVlEHhgrcEBJGlRdQxNSEVREDhcLCgNUF0gQB19HC0wXQUYJGiRnQEkaU0xDBF0WWAlaFwMRRREXSBANQ20XXRZMFlZZC1AQRwIUBBVNEQhQHmtWVl1fB1YQWwteQUcCRwlGHxoLWgwMTFlGaBFaARNcFgYJBAFTFxk=:A&E HD
 #DESCRIPTION A&E HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.field59.com/wwsb/ngrp%3awwsb1_all/playlist.m3u8:ABC TV
