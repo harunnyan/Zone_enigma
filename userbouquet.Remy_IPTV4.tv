@@ -97,6 +97,34 @@
 #DESCRIPTION Playboy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/266/index.m3u8:Русская Ночь
 #DESCRIPTION Русская Ночь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Passion_X/index.m3u8:Passion_X
+#DESCRIPTION Passion_X
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/SCT/index.m3u8:SCT
+#DESCRIPTION SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Visit-X_HD/index.m3u8:Visit-X_HD
+#DESCRIPTION Visit-X_HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Brazzers_TV/index.m3u8:Brazzers_TV
+#DESCRIPTION Brazzers_TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/FRENCHLOVER/index.m3u8:FRENCHLOVER
+#DESCRIPTION FRENCHLOVER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Hustler_HD/index.m3u8:Hustler_HD
+#DESCRIPTION Hustler_HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/O-la-la/index.m3u8:O-la-la
+#DESCRIPTION O-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Penthouse_HD_1/index.m3u8:Penthouse_HD_1
+#DESCRIPTION Penthouse_HD_1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Penthouse_HD_2/index.m3u8:Penthouse_HD_2
+#DESCRIPTION Penthouse_HD_2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Playboy/index.m3u8:Playboy
+#DESCRIPTION Playboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Private/index.m3u8:Private
+#DESCRIPTION Private
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Reality_Kings/index.m3u8:Reality_Kings
+#DESCRIPTION Reality_Kings
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Redlight_HD/index.m3u8:Redlight_HD
+#DESCRIPTION Redlight_HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Russkaya_noch/index.m3u8:Russkaya_noch
+#DESCRIPTION Russkaya_noch
 #SERVICE 1:64:94:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
 #DESCRIPTION :::__18_YOGA.COM__:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
