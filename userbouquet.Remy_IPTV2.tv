@@ -1,11 +1,11 @@
 #NAME **ReMy_PREMIUM_WORLD** 
 #SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OWU0YjM3NDdmYjQ5MmMxZTcxMmIxYmMyYzFlNmRmYTA=/g6/bein1tk.m3u8:Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g4/bein1tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OWU0YjM3NDdmYjQ5MmMxZTcxMmIxYmMyYzFlNmRmYTA=/g6/bein1tk.m3u8:Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g4/bein1tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/OWRhZjJjYmU1MzNkZjI3YWJiMWQ4ZDIzNmMyOTRiMmQ=/g4/bein2tk.m3u8:Bein Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g6/bein2tk.m3u8:Bein Sports 2 HD
 #DESCRIPTION Bein Sports 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3 HD
 #DESCRIPTION Bein Sports 3 HD
@@ -557,30 +557,6 @@
 #DESCRIPTION sk3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00b:sky calsio hd
 #DESCRIPTION sky calsio hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a019:COSMOTESportHighlightsHD
-#DESCRIPTION COSMOTESportHighlightsHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00s:COSMOTESport1HD
-#DESCRIPTION COSMOTESport1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00u:COSMOTESport2HD
-#DESCRIPTION COSMOTESport2HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00v:COSMOTESport3HD
-#DESCRIPTION COSMOTESport3HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00x:COSMOTESport4HD
-#DESCRIPTION COSMOTESport4HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a012:COSMOTESport5HD
-#DESCRIPTION COSMOTESport5HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a010:COSMOTESport6HD
-#DESCRIPTION COSMOTESport6HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00z:COSMOTESport7HD
-#DESCRIPTION COSMOTESport7HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a015:COSMOTESport8HD
-#DESCRIPTION COSMOTESport8HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01h:EDGEsport HD
-#DESCRIPTION EDGEsport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01a:EDGEsport HD
-#DESCRIPTION EDGEsport HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01e:Motorvision Channel HD
-#DESCRIPTION Motorvision Channel HD
 #SERVICE 1:64:A2:0:0:0:0:0:0:0::::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #DESCRIPTION ::::::::::::::::::::::_HABER/NEWS_::::::::::::::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
@@ -799,34 +775,6 @@
 #DESCRIPTION Cbeebies
 #SERVICE 1:64:A5:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY| OTE_COSMOTE_::::::::
 #DESCRIPTION :::::::::::::::::::::::_REMY| OTE_COSMOTE_::::::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01c:FOX HD
-#DESCRIPTION FOX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01b:FOX Life HD
-#DESCRIPTION FOX Life HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a011:Village Cinema HD
-#DESCRIPTION Village Cinema HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01d:SundanceTV
-#DESCRIPTION SundanceTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00r:COSMOTECinema1HD
-#DESCRIPTION COSMOTECinema1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a014:COSMOTECinema2HD
-#DESCRIPTION COSMOTECinema2HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a00w:COSMOTECinema3
-#DESCRIPTION COSMOTECinema3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a018:COSMOTECinema4HD
-#DESCRIPTION COSMOTECinema4HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a017:COSMOTE History HD
-#DESCRIPTION COSMOTE History HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a013:Nat Geo HD
-#DESCRIPTION Nat Geo HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01i:National Geographic
-#DESCRIPTION National Geographic
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01j:Viasat History
-#DESCRIPTION Viasat History
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01l:Disney Junior
-#DESCRIPTION Disney Junior
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.149.191.229%3a8000/play/a01g:Disney Channel
-#DESCRIPTION Disney Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.91.128.190%3a9981/stream/channelid/1778371915?ticket=c51ca9a9db6966dd88ce7710ea98068a14edcf73&profile=pass:4E
 #DESCRIPTION 4E
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.91.128.190%3a9981/stream/channelid/1581996080?ticket=8edede903f8d205b3f92972ff64d44779e1efaf4&profile=pass:BBC Earth HD

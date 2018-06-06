@@ -41,22 +41,22 @@
 #DESCRIPTION Vibee TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL TV
 #DESCRIPTION CAPITAL TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/_definst_/TODAYFM_TEST2/playlist.m3u8:CITY TV
-#DESCRIPTION CITY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/_definst_/TODAYFM_TEST2/playlist.m3u8:CITY
+#DESCRIPTION CITY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Dance
 #DESCRIPTION Mooz Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Hits
 #DESCRIPTION Mooz Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz HD
 #DESCRIPTION Mooz HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Ro
-#DESCRIPTION Mooz Ro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
+#DESCRIPTION Mooz RO!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8:MTV_Dance
 #DESCRIPTION MTV_Dance
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8:MTV_Hits
 #DESCRIPTION MTV_Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8:MTV_Live
-#DESCRIPTION MTV_Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8:MTV_Live HD
+#DESCRIPTION MTV_Live HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8:MTV
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on:MTV HD
@@ -65,10 +65,10 @@
 #DESCRIPTION NRJ Hist
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique_720p/playlist.m3u8:NRJ Hits HD
 #DESCRIPTION NRJ Hits HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8:Music Channel
-#DESCRIPTION Music Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music Channel Hungary
-#DESCRIPTION 1Music Channel Hungary
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8:1Music Channel
+#DESCRIPTION 1Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
+#DESCRIPTION 1Music HU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:H!T Music Channel
 #DESCRIPTION H!T Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:D-HOT
@@ -155,10 +155,16 @@
 #DESCRIPTION Cool HD BR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
 #DESCRIPTION DMF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.34%3a8888:DM Sat
+#DESCRIPTION DM Sat
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.249.95.140/live/livestream:DSTV BG
 #DESCRIPTION DSTV BG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-p.m3u8?sd=10&rebase=on:Enlace TV
 #DESCRIPTION Enlace TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.32%3a8888:FAN TV
+#DESCRIPTION FAN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.139%3a8888:Fen Folk TV
+#DESCRIPTION Fen Folk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:First Music Channel
 #DESCRIPTION First Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:First Music Channel HD
@@ -177,14 +183,10 @@
 #DESCRIPTION Gospel Music TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8:Heart TV
 #DESCRIPTION Heart TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp.one.by/HD/1muz:HD ONE Music
-#DESCRIPTION HD ONE Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:HIT
 #DESCRIPTION HIT
 #SERVICE 4097:0:1:228:0:0:0:0:0:0:http%3a//89.36.10.12%3a8080:IMPACT TV
 #DESCRIPTION IMPACT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr/indies-live/live/playlist.m3u8:INDIES LIVE
-#DESCRIPTION INDIES LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8:JUCE TV
 #DESCRIPTION JUCE TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/43Kanal.stream/playlist.m3u8:Kanal 43
@@ -199,32 +201,30 @@
 #DESCRIPTION Klipkar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk TV
 #DESCRIPTION Sky Folk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTVZiK
-#DESCRIPTION RTVZiK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTV Zeri
+#DESCRIPTION RTV Zeri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//ip.tvtetova.net%3a5119/live/tvtetova:Tetova
 #DESCRIPTION Tetova
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.16.66.101%3a1935/livecast/_definst_/tvm3/playlist.m3u8:M3
-#DESCRIPTION M3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:M2O TV
-#DESCRIPTION M2O TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on:M2O Music
-#DESCRIPTION M2O Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/messinia/messinia/master.m3u8:messinia
-#DESCRIPTION messinia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.16.66.101%3a1935/livecast/_definst_/tvm3/playlist.m3u8:TVM3
+#DESCRIPTION TVM3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net%3a80/i/m2oTv_1@186074/index_600_av-b.m3u8:m2otv
+#DESCRIPTION m2otv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on:m2otv
+#DESCRIPTION m2otv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.155.200.118%3a1935/live/MelodyChannel/playlist.m3u8:Melody Channel
 #DESCRIPTION Melody Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//186.155.200.118%3a1935/live/MelodyChannel:Melody Channel
 #DESCRIPTION Melody Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/messinia/messinia/master.m3u8:messinia
+#DESCRIPTION messinia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//176.9.123.140%3a1935/messinia/messinia:MESSINIA WEB TV
 #DESCRIPTION MESSINIA WEB TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fms.105.net/live/rmc1:Montecarlo Music
-#DESCRIPTION Montecarlo Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
 #DESCRIPTION Music Box UA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.78.6%3a1935/live/muztv.stream/index.m3u8:MUZ TV
-#DESCRIPTION MUZ TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.78.6%3a1935/live/muztv.stream/index.m3u8:MTV az
+#DESCRIPTION MTV az
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8:MuzZone
 #DESCRIPTION MuzZone
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.nebiset.tv/nebiset.m3u8:Nebiset
@@ -237,12 +237,6 @@
 #DESCRIPTION Planeta HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/planetahd/planetahd.m3u8:Planeta HD
 #DESCRIPTION Planeta HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.34%3a8888:DM Sat
-#DESCRIPTION DM Sat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.139%3a8888:Fen Folk TV
-#DESCRIPTION Fen Folk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.32%3a8888:FAN TV
-#DESCRIPTION FAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_3/playlist.m3u8:Relax.TV
 #DESCRIPTION Relax.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO
@@ -251,8 +245,6 @@
 #DESCRIPTION ROMAN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8:ROMAN TV Tr
 #DESCRIPTION ROMAN TV Tr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8:Russian Music Box
-#DESCRIPTION Russian Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/105Test1/playlist.m3u8:Radio 105 TV
 #DESCRIPTION Radio 105 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.97.59%3a80/beverwijk/studio/playlist.m3u8:Radio Beverwijk
@@ -263,8 +255,8 @@
 #DESCRIPTION Radio Italia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Radio M-1
 #DESCRIPTION Radio M-1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wos1.smartcast.com.mx%3a1935/mvs/mvs_radio/live.m3u8:RADIO MVS 102.5 FM
-#DESCRIPTION RADIO MVS 102.5 FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//fms.105.net/live/rmc1:Radio Monte Carlo TV
+#DESCRIPTION Radio Monte Carlo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/rmc1/playlist.m3u8:Radio Monte Carlo TV
 #DESCRIPTION Radio Monte Carlo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flash5.streaming.xdevel.com%3a80/taorminatv/taorminatv/playlist.m3u8:Radio Taormina TV
@@ -277,8 +269,6 @@
 #DESCRIPTION Sarajevo 1 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.az-mediaserver.com%3a1935/7120/7120/live.m3u8:SB4
 #DESCRIPTION SB4
-#SERVICE 4097:0:1:37:0:0:0:0:0:0:http%3a//parh.rtrs.tv%3a1935/plus/plus/playlist.m3u8:Serbia Plus Tv
-#DESCRIPTION Serbia Plus Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.trimi.com.ar%3a80/provincial/streaming/mystream.m3u8:SEÑAL PROVINCIAL
 #DESCRIPTION SEÑAL PROVINCIAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8:SKY DE Adult Swim
@@ -291,16 +281,14 @@
 #DESCRIPTION QMusic NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//200.42.92.6%3a1755/qmusica:QUIERO MÚSICA
 #DESCRIPTION QUIERO MÚSICA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru/btv/tntmusic/type/user/devname/LG-SmartTV/devid/LG-1469013493/eol/20200101T0000/hash/31f1cdfc91072d63a48690432c5baf7c6163c352/playlist.m3u8:tntmusic
-#DESCRIPTION tntmusic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru/btv/tntmusic/type/user/devname/LG-SmartTV/devid/LG-1469013493/eol/20200101T0000/hash/31f1cdfc91072d63a48690432c5baf7c6163c352/playlist.m3u8:THT MUSIC
+#DESCRIPTION THT MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.tvtopsound.com%3a1935/live/ngrp%3ampegts.stream_all/playlist.m3u8:TOP SOUND
 #DESCRIPTION TOP SOUND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/live.m3u8:TV MAS HD
 #DESCRIPTION TV MAS HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv//master.m3u8:TVMas
 #DESCRIPTION TVMas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.16.66.101%3a1935/livecast/_definst_/tvm3/playlist.m3u8:TVM3
-#DESCRIPTION TVM3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canal22santiago.cl/playlist.m3u8:TVR
 #DESCRIPTION TVR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8:UA TV
@@ -311,12 +299,12 @@
 #DESCRIPTION Visual Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
 #DESCRIPTION Voice of America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:Xite
-#DESCRIPTION Xite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:XITE
+#DESCRIPTION XITE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:XITE NL
 #DESCRIPTION XITE NL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFM1 Music
-#DESCRIPTION ZFM1 Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFMRADIO.NL
+#DESCRIPTION ZFMRADIO.NL
 #SERVICE 1:64:DE:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| K R A L/Music_
 #SERVICE 1:64:DF:0:0:0:0:0:0:0:::::::::::::::::::::::_KING Turkish Radios_::::::::
@@ -511,8 +499,6 @@
 #DESCRIPTION RUMELI RADYO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.138.1.183%3a10108/stream:S4 Radio | TR
 #DESCRIPTION S4 Radio | TR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.3.229%3a80:SHOW RADYO
-#DESCRIPTION SHOW RADYO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dinle.slowkaradenizfm.com%3a9578/;:Slow Karadeniz FM
 #DESCRIPTION Slow Karadeniz FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5f5ce410-ba94-4cfc-a10f-70e4eec5cbf9:SUPER_FM
@@ -525,6 +511,8 @@
 #DESCRIPTION URBAN LEGENDS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2:Virgin Radio Türkiye
 #DESCRIPTION Virgin Radio Türkiye
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc:ZEPLIN
+#DESCRIPTION ZEPLIN
 #SERVICE 1:64:E2:0:0:0:0:0:0:0:::::::::::::::::::::::_iTunes Radios_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_iTunes Radios_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
@@ -547,8 +535,6 @@
 #DESCRIPTION Acoustic Freight Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//HearMe.fm%3a8231/stream:Always Country
 #DESCRIPTION Always Country
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.104.250%3a80/stream:ANTENA1 - 94 7 FM
-#DESCRIPTION ANTENA1 - 94 7 FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3channels.webradio.antenne.de%3a80/antenne:ANTENNE BAYERN
 #DESCRIPTION ANTENNE BAYERN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.athenscountryradio.com%3a8000/stream:Athens Country Radio
@@ -609,8 +595,6 @@
 #DESCRIPTION Ibiza Global Station
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.sonicabroadcast.com%3a7005/stream/1/:Ibiza Sonica 92.4
 #DESCRIPTION Ibiza Sonica 92.4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s41.myradiostream.com%3a4806/:iCon Country
-#DESCRIPTION iCon Country
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3:Jazz Radio - Lounge
 #DESCRIPTION Jazz Radio - Lounge
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.jewishmusicstream.com%3a8000/stream:JewishMusic Stream
@@ -643,8 +627,8 @@
 #DESCRIPTION Radyo Mydonose
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//18463.live.streamtheworld.com/KOMSU128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=477eff09-b7bd-40e0-db19-7bec5cb43cd1:Radyo Play
 #DESCRIPTION Radyo Play
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies Webstream
-#DESCRIPTION Schlagerparadies Webstream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.250.77.9%3a8090:Schlagerparadies
+#DESCRIPTION Schlagerparadies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.thebullradio.com%3a8004/:The Bull
 #DESCRIPTION The Bull
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//HearMe.fm%3a8022/stream:The Very Best of Country
@@ -665,5 +649,3 @@
 #DESCRIPTION Z104 Country KSOP-FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc:ZEPLIN
-#DESCRIPTION ZEPLIN
