@@ -905,6 +905,48 @@
 #DESCRIPTION SOMINE KEYFI HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8:SOMINE KEYFI MUSIC
 #DESCRIPTION SOMINE KEYFI MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8:Nat Geo Wild
+#DESCRIPTION Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8:UNICABLE
+#DESCRIPTION UNICABLE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8:SPACE HD
+#DESCRIPTION SPACE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8:TNT HD
+#DESCRIPTION TNT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8:AMC
+#DESCRIPTION AMC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8:NAT GEO
+#DESCRIPTION NAT GEO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8:FORO TV
+#DESCRIPTION FORO TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8:GOLDEN PLUS
+#DESCRIPTION GOLDEN PLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8:NAT_GEO
+#DESCRIPTION NAT_GEO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8:Nat Geo Wild
+#DESCRIPTION Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8:El Gourmet
+#DESCRIPTION El Gourmet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8:ESPN 2 OK
+#DESCRIPTION ESPN 2 OK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8:ESPN2 HD PLANETFOOLS
+#DESCRIPTION ESPN2 HD PLANETFOOLS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8:Satellite
+#DESCRIPTION Satellite
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8:TDN SD
+#DESCRIPTION TDN SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(01)/index.m3u8:DISTRITO COMEDIA SD
+#DESCRIPTION DISTRITO COMEDIA SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8:NATGEO WILD
+#DESCRIPTION NATGEO WILD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(05)/index.m3u8:UNICALE PLANETFOOLS
+#DESCRIPTION UNICALE PLANETFOOLS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(06)/index.m3u8:NAT GEO
+#DESCRIPTION NAT GEO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/157/index.m3u8:1 HD (0h)
 #DESCRIPTION 1 HD (0h)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3.TV HD
@@ -953,6 +995,10 @@
 #DESCRIPTION Canal+ Family HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/384/index.m3u8:Canal+ Family HD
 #DESCRIPTION Canal+ Family HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/956/index.m3u8:CBC TV
+#DESCRIPTION CBC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/7897eb1d61ef4aba51d1424a65d01be9/126/index.m3u8:CBS Reality
+#DESCRIPTION CBS Reality
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/395/index.m3u8:Cinemax Central Europe HD
 #DESCRIPTION Cinemax Central Europe HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/396/index.m3u8:Cinemax Central Europe HD
