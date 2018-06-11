@@ -186,6 +186,8 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:0,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
 #EXTINF:0,Bein Sports1 HD
+http://87.98.162.77:7080/playlist
+#EXTINF:0,Bein Sports1 HD
 http://sport7.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g4/bein1tk.m3u8
 #EXTINF:0,Bein Sports2 HD
 http://sportsbar.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g6/bein2tk.m3u8
