@@ -3915,8 +3915,8 @@
 #DESCRIPTION Oberwiesenthal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv21_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_a65f0:St. Anton
 #DESCRIPTION St. Anton
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv65_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_a1ea5:ZÃ¼rich
-#DESCRIPTION ZÃ¼rich
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv65_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_a1ea5:Zurich
+#DESCRIPTION Zurich
 #SERVICE 1:64:D9:0:0:0:0:0:0:0::*** StÃ¤dte ***
 #DESCRIPTION *** StÃ¤dte ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv102_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_50e56:Aachen
@@ -3983,22 +3983,22 @@
 #DESCRIPTION Lindau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv50_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_66975:Lindau 2
 #DESCRIPTION Lindau 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv44_720p.stream?sa=ostseelive.tv swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_7c3d8&ch=LS_284fb:LÃ¼beck
-#DESCRIPTION LÃ¼beck
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv64_720p.stream?sa=ostseelive.tv swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_7c3d8&ch=LS_8c48b:LÃ¼beck 2
-#DESCRIPTION LÃ¼beck 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv44_720p.stream?sa=ostseelive.tv swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_7c3d8&ch=LS_284fb:Lubeck
+#DESCRIPTION Lubeck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv64_720p.stream?sa=ostseelive.tv swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_7c3d8&ch=LS_8c48b:Lubeck 2
+#DESCRIPTION Lubeck 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv94_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_60ca9:MeiÃŸen
 #DESCRIPTION MeiÃŸen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv118_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_4ed66:MÃ¶nchengladbach
-#DESCRIPTION MÃ¶nchengladbach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv55_450p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_f1977:MÃ¼nchen
-#DESCRIPTION MÃ¼nchen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv72_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_c1528:MÃ¼nchen 2
-#DESCRIPTION MÃ¼nchen 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv116_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_4f073:MÃ¼nster
-#DESCRIPTION MÃ¼nster
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv63_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_d7b12:MÃ¼nster 2
-#DESCRIPTION MÃ¼nster 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv118_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_4ed66:Munchengladbach
+#DESCRIPTION Munchengladbach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv55_450p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_f1977:Munchen
+#DESCRIPTION Munchen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv72_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_c1528:Munchen 2
+#DESCRIPTION Munchen 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv116_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_4f073:Munster
+#DESCRIPTION Munster
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv63_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_d7b12:Munster 2
+#DESCRIPTION Munster 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv98_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_30e2f:Passau
 #DESCRIPTION Passau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv110_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_00445:Potsdam
@@ -4009,14 +4009,14 @@
 #DESCRIPTION Rostock 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv87_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_00e60:Rust
 #DESCRIPTION Rust
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv68_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_18b8c:SaarbrÃ¼cken
-#DESCRIPTION SaarbrÃ¼cken
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv68_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_18b8c:Saarbrucken
+#DESCRIPTION Saarbrucken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv97_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_f78d4:Schwerin
 #DESCRIPTION Schwerin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv52_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_21256:Torfhaus
 #DESCRIPTION Torfhaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv109_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_f55f1:TÃ¼bingen
-#DESCRIPTION TÃ¼bingen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv109_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_f55f1:Tubingen
+#DESCRIPTION Tubingen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv66_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_bd1ba:Ulm
 #DESCRIPTION Ulm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//edge30.fms.stream24.net%3a443/osltv5/_definst_/ playpath=mp4%3awaren.stream?id=10654-5-live swfUrl=http%3a//player.mdn.stream24.net/video/resources/vdm/jw6.12/jwplayer.flash.swf pageUrl=http%3a//player.mdn.stream24.net/video/livestream.php?cam=waren&autostart=true:Waren
@@ -4027,8 +4027,8 @@
 #DESCRIPTION Wolfsburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv117_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_9ee05:Wuppertal
 #DESCRIPTION Wuppertal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv70_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_5834c:WÃ¼rzburg
-#DESCRIPTION WÃ¼rzburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv70_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_5834c:Wurzburg
+#DESCRIPTION Wurzburg
 #SERVICE 1:64:DA:0:0:0:0:0:0:0::*** World Cams Bars ***
 #DESCRIPTION *** World Cams Bars ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//94.228.215.67%3a1935/live/ playpath=livecam025.stream swfUrl=https%3a//livecam-pro.com/jwplayer7/jwplayer.flash.swf pageUrl=https%3a//livecam-pro.com/fileadmin/templates/assets/_html/livecamX.025.html:E Barcelona - Terra d'Escudella
@@ -4105,70 +4105,70 @@
 #DESCRIPTION USA Sharky's Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//hzrtmp02.ys7.com%3a1935/livestream/ playpath=469941431_1_11_1_0 swfUrl=http%3a//square.ys7.com/vods/source/src/widget/cyberplayer/cyberplayer.flash.swf pageUrl=http%3a//square.ys7.com/play/index?cameraId=1296:VRC Lijiang
 #DESCRIPTION VRC Lijiang
-#SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//j.mp/PromoFreeWebCams:=== ПЛЕЙЛИСТ FreeWebCamsWorld ===
-#DESCRIPTION === ПЛЕЙЛИСТ FreeWebCamsWorld ===
-#SERVICE 4097:0:1:4:0:0:0:0:0:0:rtmp%3a//stream.radiogroup.com.ua%3a1935/stream/camera2:Авtоrадио UA (Веб-камеrа)
-#DESCRIPTION Авtоrадио UA (Веб-камеrа)
-#SERVICE 4097:0:1:6:0:0:0:0:0:0:http%3a//stream.optibit.ru/hls/aradio1/stream.m3u8:Авtоrиtеtное Радио RU (1)(Веб-ка
-#DESCRIPTION Авtоrиtеtное Радио RU (1)(Веб-ка
-#SERVICE 4097:0:1:8:0:0:0:0:0:0:http%3a//stream.optibit.ru/hls/aradio2/stream.m3u8:Авtоrиtеtное Радио RU (2)(Веб-ка
-#DESCRIPTION Авtоrиtеtное Радио RU (2)(Веб-ка
-#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//stream.optibit.ru/hls/aradio3/stream.m3u8:Авtоrиtеtное Радио RU (3)(Веб-ка
-#DESCRIPTION Авtоrиtеtное Радио RU (3)(Веб-ка
-#SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//hls-mycdn0738558684.cdnvideo.ru/mycdn0738558684/stream1/playlist.m3u8:Болгаr Радиоsy RU (Веб-камеrа)
-#DESCRIPTION Болгаr Радиоsy RU (Веб-камеrа)
-#SERVICE 4097:0:1:14:0:0:0:0:0:0:rtmp%3a//stream.radiogroup.com.ua%3a1935/stream/camera1:Наshе Радио UA (Веб-камеrа)
-#DESCRIPTION Наshе Радио UA (Веб-камеrа)
-#SERVICE 4097:0:1:16:0:0:0:0:0:0:http%3a//cdn.radio1.news%3a1935/rtvp/live/playlist.m3u8:Радио 1 RU (Веб-камеrа)
-#DESCRIPTION Радио 1 RU (Веб-камеrа)
-#SERVICE 4097:0:1:18:0:0:0:0:0:0:http%3a//live.mixnews.lv/live/mp4%3abaltkom/playlist.m3u8:Радио Baltkom LAT (Веб-камеrа)
-#DESCRIPTION Радио Baltkom LAT (Веб-камеrа)
-#SERVICE 4097:0:1:20:0:0:0:0:0:0:https%3a//rosshow.gcdn.co/rosshow_live/dfm_1/playlist.m3u8:Радио DFM RU (1)(Веб-камеrа)
-#DESCRIPTION Радио DFM RU (1)(Веб-камеrа)
-#SERVICE 4097:0:1:22:0:0:0:0:0:0:http%3a//rosshow.gcdn.co/rosshow_live/dfm_2/playlist.m3u8:Радио DFM RU (2)(Веб-камеrа)
-#DESCRIPTION Радио DFM RU (2)(Веб-камеrа)
-#SERVICE 4097:0:1:24:0:0:0:0:0:0:http%3a//europam10m.gcdn.co/m10tv/mp4%3aep2/playlist.m3u8:Радио Europa Plus RU (Веб-камеrа)
-#DESCRIPTION Радио Europa Plus RU (Веб-камеrа)
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//j.mp/PromoFreeWebCams:=== PLAYLIST FreeWebCamsWorld ===
+#DESCRIPTION === PLAYLIST FreeWebCamsWorld ===
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:rtmp%3a//stream.radiogroup.com.ua%3a1935/stream/camera2:Avtorodio UA (Web-camera)
+#DESCRIPTION Avtorodio UA (Web-camera)
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:http%3a//stream.optibit.ru/hls/aradio1/stream.m3u8:Avtoritetnoe radyo RU (1)(Web-camera
+#DESCRIPTION Avtoritetnoe radyo RU (1)(Web-camera
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:http%3a//stream.optibit.ru/hls/aradio2/stream.m3u8:Avtoritetnoe radyo RU (2)(Web-camera
+#DESCRIPTION Avtoritetnoe radyo RU (2)(Web-camera
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//stream.optibit.ru/hls/aradio3/stream.m3u8:Avtoritetnoe radyo RU (3)(Web-camera
+#DESCRIPTION Avtoritetnoe radyo RU (3)(Web-camera
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//hls-mycdn0738558684.cdnvideo.ru/mycdn0738558684/stream1/playlist.m3u8:Bolgar radyosy RU (Web-camera)
+#DESCRIPTION Bolgar radyosy RU (Web-camera)
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:rtmp%3a//stream.radiogroup.com.ua%3a1935/stream/camera1:Наshе radyo UA (Web-camera)
+#DESCRIPTION Наshе radyo UA (Web-camera)
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:http%3a//cdn.radio1.news%3a1935/rtvp/live/playlist.m3u8:radyo 1 RU (Web-camera)
+#DESCRIPTION radyo 1 RU (Web-camera)
+#SERVICE 4097:0:1:18:0:0:0:0:0:0:http%3a//live.mixnews.lv/live/mp4%3abaltkom/playlist.m3u8:radyo Baltkom LAT (Web-camera)
+#DESCRIPTION radyo Baltkom LAT (Web-camera)
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:https%3a//rosshow.gcdn.co/rosshow_live/dfm_1/playlist.m3u8:radyo DFM RU (1)(Web-camera)
+#DESCRIPTION radyo DFM RU (1)(Web-camera)
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:http%3a//rosshow.gcdn.co/rosshow_live/dfm_2/playlist.m3u8:radyo DFM RU (2)(Web-camera)
+#DESCRIPTION radyo DFM RU (2)(Web-camera)
+#SERVICE 4097:0:1:24:0:0:0:0:0:0:http%3a//europam10m.gcdn.co/m10tv/mp4%3aep2/playlist.m3u8:radyo Europa Plus RU (Web-camera)
+#DESCRIPTION radyo Europa Plus RU (Web-camera)
 #SERVICE 4097:0:1:26:0:0:0:0:0:0:http%3a//m-1.data.lt/m-1/smil%3am-1.smil/playlist.m3u8:Channel 26
 #DESCRIPTION Channel 26
-#SERVICE 4097:0:1:28:0:0:0:0:0:0:http%3a//live.mixnews.lv/live/mp4%3amixfm/playlist.m3u8:Радио Mix FM LAT (Веб-камеrа)
-#DESCRIPTION Радио Mix FM LAT (Веб-камеrа)
-#SERVICE 4097:0:1:30:0:0:0:0:0:0:http%3a//live.imagineradio.ru/hls/stream.m3u8:Радио Imagine RU (Веб-камеrа)
-#DESCRIPTION Радио Imagine RU (Веб-камеrа)
-#SERVICE 4097:0:1:32:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/18160210/streams/live/iphone/playlist.m3u8:Радио Radio RU (Веб-камеrа)
-#DESCRIPTION Радио Radio RU (Веб-камеrа)
-#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//stream.ls.lv/swh_swh/smil%3aswh_swh.smil/playlist.m3u8:Радио SWH LAT (Веб-камеrа)
-#DESCRIPTION Радио SWH LAT (Веб-камеrа)
-#SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//stream.ls.lv/swhplus/smil%3aswhplus.smil/playlist.m3u8:Радио SWH+ LAT (Веб-камеrа)
-#DESCRIPTION Радио SWH+ LAT (Веб-камеrа)
-#SERVICE 4097:0:1:38:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8:Радио Веstи FM RU (Веб-камеrа)
-#DESCRIPTION Радио Веstи FM RU (Веб-камеrа)
-#SERVICE 4097:0:1:40:0:0:0:0:0:0:http%3a//video.govoritmoskva.ru%3a8080/live/rufmbk-1/index.m3u8:Радио Гоrод FM RU (Веб-камеrа)
-#DESCRIPTION Радио Гоrод FM RU (Веб-камеrа)
-#SERVICE 4097:0:1:44:0:0:0:0:0:0:http%3a//212.26.146.15/hls/erafmwebcam.m3u8:Радио Еrа UA (Веб-камеrа)
-#DESCRIPTION Радио Еrа UA (Веб-камеrа)
-#SERVICE 4097:0:1:46:0:0:0:0:0:0:rtmp%3a//80.252.19.34%3a1936/video/skat.stream:Радио Коt FM RU (Веб-камеrа)
-#DESCRIPTION Радио Коt FM RU (Веб-камеrа)
-#SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//stream1.luxnet.ua/luxstudio/smil%3aluxstudio.stream.smil/playlist.m3u8:Радио Люкs FM UA (Веб-камеrа)
-#DESCRIPTION Радио Люкs FM UA (Веб-камеrа)
-#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//live.maksmedia.cdnvideo.ru/maksmedia/maksfm2.sdp/playlist.m3u8:Радио Макs FM RU (Веб-камеrа)
-#DESCRIPTION Радио Макs FM RU (Веб-камеrа)
-#SERVICE 4097:0:1:52:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/mayak.smil/chunklist_b1600000.m3u8:Радио Маjaк RU (Веб-камеrа)
-#DESCRIPTION Радио Маjaк RU (Веб-камеrа)
-#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//93.125.31.87%3a8080/tv2/stream.m3u8:Радио Миr BLR (Веб-камеrа)
-#DESCRIPTION Радио Миr BLR (Веб-камеrа)
-#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel1/playlist.m3u8:Радио Ника FM RU (1)(Веб-камеrа)
-#DESCRIPTION Радио Ника FM RU (1)(Веб-камеrа)
-#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel2/playlist.m3u8:Радио Ника FM RU (2)(Веб-камеrа)
-#DESCRIPTION Радио Ника FM RU (2)(Веб-камеrа)
-#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel3/playlist.m3u8:Радио Ника FM RU (3)(Веб-камеrа)
-#DESCRIPTION Радио Ника FM RU (3)(Веб-камеrа)
-#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel4/playlist.m3u8:Радио Ника FM RU (4)(Веб-камеrа)
-#DESCRIPTION Радио Ника FM RU (4)(Веб-камеrа)
-#SERVICE 4097:0:1:64:0:0:0:0:0:0:rtmp%3a//stream.radiogroup.com.ua%3a1935/stream/camera4:Радио Пjatниcа UA (Веб-камеrа)
-#DESCRIPTION Радио Пjatниcа UA (Веб-камеrа)
-#SERVICE 4097:0:1:66:0:0:0:0:0:0:rtmp%3a//rtmp.turmedia.tv/live/tisafm:Радио Тиsа FM UA (Веб-камеrа)
-#DESCRIPTION Радио Тиsа FM UA (Веб-камеrа)
+#SERVICE 4097:0:1:28:0:0:0:0:0:0:http%3a//live.mixnews.lv/live/mp4%3amixfm/playlist.m3u8:radyo Mix FM LAT (Web-camera)
+#DESCRIPTION radyo Mix FM LAT (Web-camera)
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:http%3a//live.imagineradio.ru/hls/stream.m3u8:radyo Imagine RU (Web-camera)
+#DESCRIPTION radyo Imagine RU (Web-camera)
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/18160210/streams/live/iphone/playlist.m3u8:radyo Radio RU (Web-camera)
+#DESCRIPTION radyo Radio RU (Web-camera)
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//stream.ls.lv/swh_swh/smil%3aswh_swh.smil/playlist.m3u8:radyo SWH LAT (Web-camera)
+#DESCRIPTION radyo SWH LAT (Web-camera)
+#SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//stream.ls.lv/swhplus/smil%3aswhplus.smil/playlist.m3u8:radyo SWH+ LAT (Web-camera)
+#DESCRIPTION radyo SWH+ LAT (Web-camera)
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8:radyo Веstи FM RU (Web-camera)
+#DESCRIPTION radyo Веstи FM RU (Web-camera)
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:http%3a//video.govoritmoskva.ru%3a8080/live/rufmbk-1/index.m3u8:radyo Gorod FM RU (Web-camera)
+#DESCRIPTION radyo Gorod FM RU (Web-camera)
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:http%3a//212.26.146.15/hls/erafmwebcam.m3u8:radyo Еrа UA (Web-camera)
+#DESCRIPTION radyo Еrа UA (Web-camera)
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:rtmp%3a//80.252.19.34%3a1936/video/skat.stream:radyo Коt FM RU (Web-camera)
+#DESCRIPTION radyo Коt FM RU (Web-camera)
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:http%3a//stream1.luxnet.ua/luxstudio/smil%3aluxstudio.stream.smil/playlist.m3u8:radyo Lyuks FM UA (Web-camera)
+#DESCRIPTION radyo Lyuks FM UA (Web-camera)
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:http%3a//live.maksmedia.cdnvideo.ru/maksmedia/maksfm2.sdp/playlist.m3u8:radyo Maks FM RU (Web-camera)
+#DESCRIPTION radyo Maks FM RU (Web-camera)
+#SERVICE 4097:0:1:52:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/mayak.smil/chunklist_b1600000.m3u8:radyo Majak RU (Web-camera)
+#DESCRIPTION radyo Majak RU (Web-camera)
+#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//93.125.31.87%3a8080/tv2/stream.m3u8:radyo Mir BLR (Web-camera)
+#DESCRIPTION radyo Mir BLR (Web-camera)
+#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel1/playlist.m3u8:radyo Nick FM RU (1)(Web-camera)
+#DESCRIPTION radyo Nick FM RU (1)(Web-camera)
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel2/playlist.m3u8:radyo Nick FM RU (2)(Web-camera)
+#DESCRIPTION radyo Nick FM RU (2)(Web-camera)
+#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel3/playlist.m3u8:radyo Nick FM RU (3)(Web-camera)
+#DESCRIPTION radyo Nick FM RU (3)(Web-camera)
+#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//nikatv.cdnvideo.ru/nikatv-rtsp/channel4/playlist.m3u8:radyo Nick FM RU (4)(Web-camera)
+#DESCRIPTION radyo Nick FM RU (4)(Web-camera)
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:rtmp%3a//stream.radiogroup.com.ua%3a1935/stream/camera4:radyo Pjatnica UA (Web-camera)
+#DESCRIPTION radyo Pjatnica UA (Web-camera)
+#SERVICE 4097:0:1:66:0:0:0:0:0:0:rtmp%3a//rtmp.turmedia.tv/live/tisafm:radyo Tisa FM UA (Web-camera)
+#DESCRIPTION radyo Tisa FM UA (Web-camera)
 #SERVICE 4097:0:1:68:0:0:0:0:0:0:http%3a//hls2.slynet.pw/slynetfreestartpromo?.m3u8:=== WEBCAMS WORLD ===
 #DESCRIPTION === WEBCAMS WORLD ===
 #SERVICE 4097:0:1:70:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/18105029/streams/live/iphone/playlist.m3u8:ALASKA CAM
@@ -4393,14 +4393,14 @@
 #DESCRIPTION KESTEREN
 #SERVICE 4097:0:1:290:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/12311613/streams/live/iphone/playlist.m3u8:KIPLIVECAM TAKATSUKI JAPAN
 #DESCRIPTION KIPLIVECAM TAKATSUKI JAPAN
-#SERVICE 4097:0:1:292:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8:KRAKÓW Grodzka 2
-#DESCRIPTION KRAKÓW Grodzka 2
-#SERVICE 4097:0:1:294:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8:KRAKÓW rynek Podgórski
-#DESCRIPTION KRAKÓW rynek Podgórski
-#SERVICE 4097:0:1:296:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/chunks.m3u8:KRAKÓW widok na WAWEL
-#DESCRIPTION KRAKÓW widok na WAWEL
-#SERVICE 4097:0:1:298:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8:KRAKÓW. plaża Live
-#DESCRIPTION KRAKÓW. plaża Live
+#SERVICE 4097:0:1:292:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8:CRACOW Grodzka 2
+#DESCRIPTION CRACOW Grodzka 2
+#SERVICE 4097:0:1:294:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8:CRACOW rynek Podgórski
+#DESCRIPTION CRACOW rynek Podgórski
+#SERVICE 4097:0:1:296:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/chunks.m3u8:CRACOW widok na WAWEL
+#DESCRIPTION CRACOW widok na WAWEL
+#SERVICE 4097:0:1:298:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8:CRACOW. plaża Live
+#DESCRIPTION CRACOW. plaża Live
 #SERVICE 4097:0:1:300:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/16416392/streams/live/iphone/playlist.m3u8:KYOTO JAPAN CAM
 #DESCRIPTION KYOTO JAPAN CAM
 #SERVICE 4097:0:1:302:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv49_720p.stream:Kampen - Sylt
@@ -4773,8 +4773,8 @@
 #DESCRIPTION Africa 4
 #SERVICE 4097:0:1:674:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/rc/rc.stream/playlist.m3u8:Africa 5
 #DESCRIPTION Africa 5
-#SERVICE 4097:0:1:676:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream:Аerопоrt Kel'n/Bonn
-#DESCRIPTION Аerопоrt Kel'n/Bonn
+#SERVICE 4097:0:1:676:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream:Aeroport Kol'n/Bonn
+#DESCRIPTION Aeroport Kol'n/Bonn
 #SERVICE 4097:0:1:678:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/megagrinn.m3u8:Belgorod - Mega Grinn
 #DESCRIPTION Belgorod - Mega Grinn
 #SERVICE 4097:0:1:680:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/gubkina.m3u8:Belgorod - Shortcut Gubkin
@@ -4783,126 +4783,126 @@
 #DESCRIPTION Belgorod - Univermag Maja
 #SERVICE 4097:0:1:684:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/filarmoniya.m3u8:Belgorod - Torture
 #DESCRIPTION Belgorod - Torture
-#SERVICE 4097:0:1:686:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biysk 1
-#DESCRIPTION Biysk 1
-#SERVICE 4097:0:1:688:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/180934/53663534f98f5479c774/playlist.m3u8:Biysk 10
-#DESCRIPTION Biysk 10
-#SERVICE 4097:0:1:690:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8:Biysk 11
-#DESCRIPTION Biysk 11
-#SERVICE 4097:0:1:692:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8:Biysk 12
-#DESCRIPTION Biysk 12
-#SERVICE 4097:0:1:694:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8:Biysk 13
-#DESCRIPTION Biysk 13
-#SERVICE 4097:0:1:696:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8:Biysk 14
-#DESCRIPTION Biysk 14
-#SERVICE 4097:0:1:698:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8:Biysk 15
-#DESCRIPTION Biysk 15
-#SERVICE 4097:0:1:700:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8:Biysk 16
-#DESCRIPTION Biysk 16
-#SERVICE 4097:0:1:702:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8:Biysk 17
-#DESCRIPTION Biysk 17
-#SERVICE 4097:0:1:704:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8:Biysk 18
-#DESCRIPTION Biysk 18
-#SERVICE 4097:0:1:706:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8:Biysk 19
-#DESCRIPTION Biysk 19
-#SERVICE 4097:0:1:708:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8:Biysk 2
-#DESCRIPTION Biysk 2
-#SERVICE 4097:0:1:710:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/355630/382e019f2610439ffb91/playlist.m3u8:Biysk 20
-#DESCRIPTION Biysk 20
-#SERVICE 4097:0:1:712:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8:Biysk 21
-#DESCRIPTION Biysk 21
-#SERVICE 4097:0:1:714:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8:Biysk 22
-#DESCRIPTION Biysk 22
-#SERVICE 4097:0:1:716:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8:Biysk 23
-#DESCRIPTION Biysk 23
-#SERVICE 4097:0:1:718:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8:Biysk 24
-#DESCRIPTION Biysk 24
-#SERVICE 4097:0:1:720:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8:Biysk 25
-#DESCRIPTION Biysk 25
-#SERVICE 4097:0:1:722:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biysk 26
-#DESCRIPTION Biysk 26
-#SERVICE 4097:0:1:724:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8:Biysk 27
-#DESCRIPTION Biysk 27
-#SERVICE 4097:0:1:726:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8:Biysk 28
-#DESCRIPTION Biysk 28
-#SERVICE 4097:0:1:728:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8:Biysk 29
-#DESCRIPTION Biysk 29
-#SERVICE 4097:0:1:730:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/230453/178c952b7d1869584d04/playlist.m3u8:Biysk 3
-#DESCRIPTION Biysk 3
-#SERVICE 4097:0:1:732:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8:Biysk 30
-#DESCRIPTION Biysk 30
-#SERVICE 4097:0:1:734:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8:Biysk 31
-#DESCRIPTION Biysk 31
-#SERVICE 4097:0:1:736:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8:Biysk 32
-#DESCRIPTION Biysk 32
-#SERVICE 4097:0:1:738:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8:Biysk 33
-#DESCRIPTION Biysk 33
-#SERVICE 4097:0:1:740:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/16855/a821b71440124e5914d9/playlist.m3u8:Biysk 34
-#DESCRIPTION Biysk 34
-#SERVICE 4097:0:1:742:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8:Biysk 35
-#DESCRIPTION Biysk 35
-#SERVICE 4097:0:1:744:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/178548/d46267d245a243786377/playlist.m3u8:Biysk 36
-#DESCRIPTION Biysk 36
-#SERVICE 4097:0:1:746:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8:Biysk 37
-#DESCRIPTION Biysk 37
-#SERVICE 4097:0:1:748:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8:Biysk 38
-#DESCRIPTION Biysk 38
-#SERVICE 4097:0:1:750:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8:Biysk 39
-#DESCRIPTION Biysk 39
-#SERVICE 4097:0:1:752:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8:Biysk 4
-#DESCRIPTION Biysk 4
-#SERVICE 4097:0:1:754:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8:Biysk 40
-#DESCRIPTION Biysk 40
-#SERVICE 4097:0:1:756:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8:Biysk 41
-#DESCRIPTION Biysk 41
-#SERVICE 4097:0:1:758:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/5/452e70cecbafe495920d/playlist.m3u8:Biysk 42
-#DESCRIPTION Biysk 42
-#SERVICE 4097:0:1:760:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8:Biysk 43
-#DESCRIPTION Biysk 43
-#SERVICE 4097:0:1:762:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/348492/c710a58231a641930eb2/playlist.m3u8:Biysk 44
-#DESCRIPTION Biysk 44
-#SERVICE 4097:0:1:764:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8:Biysk 45
-#DESCRIPTION Biysk 45
-#SERVICE 4097:0:1:766:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8:Biysk 46
-#DESCRIPTION Biysk 46
-#SERVICE 4097:0:1:768:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8:Biysk 47
-#DESCRIPTION Biysk 47
-#SERVICE 4097:0:1:770:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8:Biysk 48
-#DESCRIPTION Biysk 48
-#SERVICE 4097:0:1:772:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/74202/a97bfc864469641845da/playlist.m3u8:Biysk 49
-#DESCRIPTION Biysk 49
-#SERVICE 4097:0:1:774:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8:Biysk 5
-#DESCRIPTION Biysk 5
-#SERVICE 4097:0:1:776:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8:Biysk 50
-#DESCRIPTION Biysk 50
-#SERVICE 4097:0:1:778:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8:Biysk 51
-#DESCRIPTION Biysk 51
-#SERVICE 4097:0:1:780:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/747833/941160d961d57bd8aeb4/playlist.m3u8:Biysk 52
-#DESCRIPTION Biysk 52
-#SERVICE 4097:0:1:782:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/201962/2b4939cb9ede5c4831c8/playlist.m3u8:Biysk 53
-#DESCRIPTION Biysk 53
-#SERVICE 4097:0:1:784:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8:Biysk 54
-#DESCRIPTION Biysk 54
-#SERVICE 4097:0:1:786:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8:Biysk 55
-#DESCRIPTION Biysk 55
-#SERVICE 4097:0:1:788:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8:Biysk 56
-#DESCRIPTION Biysk 56
-#SERVICE 4097:0:1:790:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/262003/488d2a22430cc517594c/playlist.m3u8:Biysk 57
-#DESCRIPTION Biysk 57
-#SERVICE 4097:0:1:792:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/811131/cb726aaabd6774a499c4/playlist.m3u8:Biysk 58
-#DESCRIPTION Biysk 58
-#SERVICE 4097:0:1:794:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8:Biysk 59
-#DESCRIPTION Biysk 59
-#SERVICE 4097:0:1:796:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8:Biysk 6
-#DESCRIPTION Biysk 6
-#SERVICE 4097:0:1:798:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8:Biysk 60
-#DESCRIPTION Biysk 60
-#SERVICE 4097:0:1:800:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615836/ea200b79cfe81f8b9ab8/playlist.m3u8:Biysk 7
-#DESCRIPTION Biysk 7
-#SERVICE 4097:0:1:802:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/902370/67d5e778ca124e000717/playlist.m3u8:Biysk 8
-#DESCRIPTION Biysk 8
-#SERVICE 4097:0:1:804:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11184/ca1fad7866c9e129ebb5/playlist.m3u8:Biysk 9
-#DESCRIPTION Biysk 9
+#SERVICE 4097:0:1:686:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biisk 1
+#DESCRIPTION Biisk 1
+#SERVICE 4097:0:1:708:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8:Biisk 2
+#DESCRIPTION Biisk 2
+#SERVICE 4097:0:1:730:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/230453/178c952b7d1869584d04/playlist.m3u8:Biisk 3
+#DESCRIPTION Biisk 3
+#SERVICE 4097:0:1:752:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8:Biisk 4
+#DESCRIPTION Biisk 4
+#SERVICE 4097:0:1:774:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8:Biisk 5
+#DESCRIPTION Biisk 5
+#SERVICE 4097:0:1:796:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8:Biisk 6
+#DESCRIPTION Biisk 6
+#SERVICE 4097:0:1:800:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615836/ea200b79cfe81f8b9ab8/playlist.m3u8:Biisk 7
+#DESCRIPTION Biisk 7
+#SERVICE 4097:0:1:802:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/902370/67d5e778ca124e000717/playlist.m3u8:Biisk 8
+#DESCRIPTION Biisk 8
+#SERVICE 4097:0:1:804:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11184/ca1fad7866c9e129ebb5/playlist.m3u8:Biisk 9
+#DESCRIPTION Biisk 9
+#SERVICE 4097:0:1:688:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/180934/53663534f98f5479c774/playlist.m3u8:Biisk 10
+#DESCRIPTION Biisk 10
+#SERVICE 4097:0:1:690:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8:Biisk 11
+#DESCRIPTION Biisk 11
+#SERVICE 4097:0:1:692:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8:Biisk 12
+#DESCRIPTION Biisk 12
+#SERVICE 4097:0:1:694:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8:Biisk 13
+#DESCRIPTION Biisk 13
+#SERVICE 4097:0:1:696:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8:Biisk 14
+#DESCRIPTION Biisk 14
+#SERVICE 4097:0:1:698:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8:Biisk 15
+#DESCRIPTION Biisk 15
+#SERVICE 4097:0:1:700:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8:Biisk 16
+#DESCRIPTION Biisk 16
+#SERVICE 4097:0:1:702:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8:Biisk 17
+#DESCRIPTION Biisk 17
+#SERVICE 4097:0:1:704:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8:Biisk 18
+#DESCRIPTION Biisk 18
+#SERVICE 4097:0:1:706:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8:Biisk 19
+#DESCRIPTION Biisk 19
+#SERVICE 4097:0:1:710:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/355630/382e019f2610439ffb91/playlist.m3u8:Biisk 20
+#DESCRIPTION Biisk 20
+#SERVICE 4097:0:1:712:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8:Biisk 21
+#DESCRIPTION Biisk 21
+#SERVICE 4097:0:1:714:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8:Biisk 22
+#DESCRIPTION Biisk 22
+#SERVICE 4097:0:1:716:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8:Biisk 23
+#DESCRIPTION Biisk 23
+#SERVICE 4097:0:1:718:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8:Biisk 24
+#DESCRIPTION Biisk 24
+#SERVICE 4097:0:1:720:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8:Biisk 25
+#DESCRIPTION Biisk 25
+#SERVICE 4097:0:1:722:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biisk 26
+#DESCRIPTION Biisk 26
+#SERVICE 4097:0:1:724:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8:Biisk 27
+#DESCRIPTION Biisk 27
+#SERVICE 4097:0:1:726:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8:Biisk 28
+#DESCRIPTION Biisk 28
+#SERVICE 4097:0:1:728:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8:Biisk 29
+#DESCRIPTION Biisk 29
+#SERVICE 4097:0:1:732:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8:Biisk 30
+#DESCRIPTION Biisk 30
+#SERVICE 4097:0:1:734:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8:Biisk 31
+#DESCRIPTION Biisk 31
+#SERVICE 4097:0:1:736:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8:Biisk 32
+#DESCRIPTION Biisk 32
+#SERVICE 4097:0:1:738:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8:Biisk 33
+#DESCRIPTION Biisk 33
+#SERVICE 4097:0:1:740:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/16855/a821b71440124e5914d9/playlist.m3u8:Biisk 34
+#DESCRIPTION Biisk 34
+#SERVICE 4097:0:1:742:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8:Biisk 35
+#DESCRIPTION Biisk 35
+#SERVICE 4097:0:1:744:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/178548/d46267d245a243786377/playlist.m3u8:Biisk 36
+#DESCRIPTION Biisk 36
+#SERVICE 4097:0:1:746:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8:Biisk 37
+#DESCRIPTION Biisk 37
+#SERVICE 4097:0:1:748:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8:Biisk 38
+#DESCRIPTION Biisk 38
+#SERVICE 4097:0:1:750:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8:Biisk 39
+#DESCRIPTION Biisk 39
+#SERVICE 4097:0:1:754:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8:Biisk 40
+#DESCRIPTION Biisk 40
+#SERVICE 4097:0:1:756:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8:Biisk 41
+#DESCRIPTION Biisk 41
+#SERVICE 4097:0:1:758:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/5/452e70cecbafe495920d/playlist.m3u8:Biisk 42
+#DESCRIPTION Biisk 42
+#SERVICE 4097:0:1:760:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8:Biisk 43
+#DESCRIPTION Biisk 43
+#SERVICE 4097:0:1:762:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/348492/c710a58231a641930eb2/playlist.m3u8:Biisk 44
+#DESCRIPTION Biisk 44
+#SERVICE 4097:0:1:764:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8:Biisk 45
+#DESCRIPTION Biisk 45
+#SERVICE 4097:0:1:766:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8:Biisk 46
+#DESCRIPTION Biisk 46
+#SERVICE 4097:0:1:768:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8:Biisk 47
+#DESCRIPTION Biisk 47
+#SERVICE 4097:0:1:770:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8:Biisk 48
+#DESCRIPTION Biisk 48
+#SERVICE 4097:0:1:772:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/74202/a97bfc864469641845da/playlist.m3u8:Biisk 49
+#DESCRIPTION Biisk 49
+#SERVICE 4097:0:1:776:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8:Biisk 50
+#DESCRIPTION Biisk 50
+#SERVICE 4097:0:1:778:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8:Biisk 51
+#DESCRIPTION Biisk 51
+#SERVICE 4097:0:1:780:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/747833/941160d961d57bd8aeb4/playlist.m3u8:Biisk 52
+#DESCRIPTION Biisk 52
+#SERVICE 4097:0:1:782:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/201962/2b4939cb9ede5c4831c8/playlist.m3u8:Biisk 53
+#DESCRIPTION Biisk 53
+#SERVICE 4097:0:1:784:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8:Biisk 54
+#DESCRIPTION Biisk 54
+#SERVICE 4097:0:1:786:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8:Biisk 55
+#DESCRIPTION Biisk 55
+#SERVICE 4097:0:1:788:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8:Biisk 56
+#DESCRIPTION Biisk 56
+#SERVICE 4097:0:1:790:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/262003/488d2a22430cc517594c/playlist.m3u8:Biisk 57
+#DESCRIPTION Biisk 57
+#SERVICE 4097:0:1:792:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/811131/cb726aaabd6774a499c4/playlist.m3u8:Biisk 58
+#DESCRIPTION Biisk 58
+#SERVICE 4097:0:1:794:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8:Biisk 59
+#DESCRIPTION Biisk 59
+#SERVICE 4097:0:1:798:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8:Biisk 60
+#DESCRIPTION Biisk 60
 #SERVICE 4097:0:1:806:0:0:0:0:0:0:http%3a//195.14.118.60%3a1935/rtplive2/camera51-okc.stream/index.m3u8:Blagoveshchensk - OCT
 #DESCRIPTION Blagoveshchensk - OCT
 #SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//195.14.118.60%3a1935/rtplive2/camera43-lenina.stream/index.m3u8:Blagoveshchensk - Plotschad' Leni
@@ -5621,8 +5621,8 @@
 #DESCRIPTION Har'koy ШandРОНandНЦЕВ БЛЮХЕРА
 #SERVICE 4097:0:1:1666:0:0:0:0:0:0:http%3a//91.214.176.84%3a8088/hls/ch01/index.m3u8:Herson - АвtоRailway stationл
 #DESCRIPTION Herson - АвtоRailway stationл
-#SERVICE 4097:0:1:1668:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch01.m3u8:Herson - View on гоrодsкой sовеt
-#DESCRIPTION Herson - View on гоrодsкой sовеt
+#SERVICE 4097:0:1:1668:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch01.m3u8:Herson - View on Gorodsкой sовеt
+#DESCRIPTION Herson - View on Gorodsкой sовеt
 #SERVICE 4097:0:1:1670:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch06.m3u8:Herson - Железнyй поrt(pljaj)
 #DESCRIPTION Herson - Железнyй поrt(pljaj)
 #SERVICE 4097:0:1:1672:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch16.m3u8:Herson - PPC Каланchак
