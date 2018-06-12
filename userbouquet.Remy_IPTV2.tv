@@ -1,4 +1,4 @@
-#NAME **ReMy_PREMIUM_WORLD** 
+#NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::::::::::::::::::::_REMY_ENIGMA|TURK_TEAM_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
@@ -1633,8 +1633,6 @@
 #DESCRIPTION Deutsche Welle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/master.m3u8:Deutsches Anlegerfernsehen
 #DESCRIPTION Deutsches Anlegerfernsehen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/diema/diema.m3u8:Diema
-#DESCRIPTION Diema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/digi24edge/digi24constantalivehls/chunklist_w496088229.m3u8:Digi24 constanta
 #DESCRIPTION Digi24 constanta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/digi24edge/digi24craiovalivehls/chunklist_w600432704.m3u8:Digi24 craiova
@@ -1699,8 +1697,6 @@
 #DESCRIPTION ETB SAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.eurocom.bg%3a8080/hls/stream.m3u8:Eurocom BG
 #DESCRIPTION Eurocom BG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/evropatv/evropatv.m3u8:Europa TV
-#DESCRIPTION Europa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestreamcdn.net%3a1935/ExtremaTV/ExtremaTV/playlist.m3u8:Extrema TV
 #DESCRIPTION Extrema TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlstv.canalextremadura.es/livetv/smil%3amultistream.smil/playlist.m3u8:Extremadura TV
@@ -2515,20 +2511,138 @@
 #DESCRIPTION Vojvodina 1 Tv
 #SERVICE 4097:0:1:49:0:0:0:0:0:0:mmsh%3a//212.200.255.151/rtv2?MSWMExt=.asf:Vojvodina 2 Tv
 #DESCRIPTION Vojvodina 2 Tv
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★Slovakia | PAKETI★★ ====
-#DESCRIPTION === ★★Slovakia | PAKETI★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::== ★★Moldova-Slovakia-Romania | PAKETI★★ =
+#DESCRIPTION == ★★Moldova-Slovakia-Romania | PAKETI★★ =
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pstv.krasmix.ru/tv/7ka/playlist.m3u8:7ka
+#DESCRIPTION 7ka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.42.75.230%3a4645/amc:amc
+#DESCRIPTION amc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.42.75.230%3a4639/antena1:antena 1
+#DESCRIPTION antena 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.antenaplay.ro/live/smil%3aAntenaMonden.smil/playlist.m3u8:Antena Monden
+#DESCRIPTION Antena Monden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.42.75.230%3a4661/antenastars:antena stars
+#DESCRIPTION antena stars
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//stream.teracomm.bg/balkanika:Balkanika TV
+#DESCRIPTION Balkanika TV
 #SERVICE 4097:0:1:467:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/bardejov1:Bardejovská Televízia (BTV)
 #DESCRIPTION Bardejovská Televízia (BTV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8:bbc world news
+#DESCRIPTION bbc world news
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END:Bollywood Clasic
+#DESCRIPTION Bollywood Clasic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/6.m3u8/Level(545259)?start=LIVE&end=END:Bollywood TV
+#DESCRIPTION Bollywood TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.10.150.113/alpha/alpha/key.m3u8:Btv
+#DESCRIPTION Btv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/btvcinema/btvcinema.m3u8:btv cinema
+#DESCRIPTION btv cinema
+#SERVICE 4097:0:1:622:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.14%3a5656:Canal 3
+#DESCRIPTION Canal 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.28.21.90/Canal3_HD/tracks-v1a1/index.m3u8?token=f8b3c6954d80c97f0f7190fcb84b538fd4d6202a:canal3 HD
+#DESCRIPTION canal3 HD
 #SERVICE 4097:0:1:455:0:0:0:0:0:0:http%3a//65.254.55.10%3a4000/live/196/196.m3u8:ceskoslovensko hd (cz)
 #DESCRIPTION ceskoslovensko hd (cz)
 #SERVICE 4097:0:1:491:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/cetv:CETV
 #DESCRIPTION CETV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.antenaplay.ro/live/smil%3aComedyPlay.smil/chunklist_w899209015_b1000000.m3u8:Comedy Play
+#DESCRIPTION Comedy Play
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8:cuatro
+#DESCRIPTION cuatro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/diema/diema.m3u8:diema
+#DESCRIPTION diema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/diema/diema.m3u8:Diema
+#DESCRIPTION Diema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge126.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w1906258977.m3u8:Digi 24
+#DESCRIPTION Digi 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.0.126%3a80/digi24edge/digi24hdhqhls/index.m3u8:Digi 24 HD
+#DESCRIPTION Digi 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.57.68.14/112/tracks-v1a1/index.m3u8:discovery science
+#DESCRIPTION discovery science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:Dmax
+#DESCRIPTION Dmax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubaione/smil%3adubaione.smil/playlist.m3u8:dubaione
+#DESCRIPTION dubaione
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/evropatv/evropatv.m3u8:Europa TV
+#DESCRIPTION Europa TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.57.68.14%3a8091/135/tracks-v1a1/index.m3u8:extreme sports
+#DESCRIPTION extreme sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//stream.teracomm.bg/fen:fen tv
+#DESCRIPTION fen tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.bmx-tv.top%3a1935/live/2.smil/playlist.m3u8:fight network
+#DESCRIPTION fight network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8:gong max
+#DESCRIPTION gong max
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:H!T Music Channel Ungaria
+#DESCRIPTION H!T Music Channel Ungaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8:italia 2
+#DESCRIPTION italia 2
 #SERVICE 4097:0:1:443:0:0:0:0:0:0:http%3a//nn.geo.joj.sk/hls/family-360.m3u8:Joj family (slk)
 #DESCRIPTION Joj family (slk)
 #SERVICE 4097:0:1:441:0:0:0:0:0:0:http%3a//nn.geo.joj.sk/hls/joj-720.m3u8:joj hd (slk)
 #DESCRIPTION joj hd (slk)
+#SERVICE 4097:0:1:604:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.4%3a5656:Jurnal TV
+#DESCRIPTION Jurnal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.86.107.169/iphone/live.m3u8:Kanal D
+#DESCRIPTION Kanal D
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8:la sexta
+#DESCRIPTION la sexta
+#SERVICE 4097:0:1:598:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.2%3a5656:Moldova 1
+#DESCRIPTION Moldova 1
+#SERVICE 4097:0:1:600:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.10%3a5656:Moldova 2
+#DESCRIPTION Moldova 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Dance HD
+#DESCRIPTION Mooz Dance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz HD
+#DESCRIPTION Mooz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Hits
+#DESCRIPTION Mooz Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
+#DESCRIPTION Mooz RO!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:Music Channel Ungaria
+#DESCRIPTION Music Channel Ungaria
+#SERVICE 4097:0:1:606:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.5%3a5656:N4
+#DESCRIPTION N4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8:nat geo AD
+#DESCRIPTION nat geo AD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8:National TV
+#DESCRIPTION National TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8:nhk world
+#DESCRIPTION nhk world
+#SERVICE 4097:0:1:608:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.6%3a5656:Пеrвyј
+#DESCRIPTION Пеrвyј
 #SERVICE 4097:0:1:457:0:0:0:0:0:0:http%3a//174.36.163.12%3a4000/live/304/304.m3u8:nova action (cz)
 #DESCRIPTION nova action (cz)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.115.137.166/hls/ntvm.m3u8:Ntv moldova
+#DESCRIPTION Ntv moldova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/planetahd/planetahd.m3u8:planeta HD
+#DESCRIPTION planeta HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.42.75.230%3a4634/prima:prima tv
+#DESCRIPTION prima tv
+#SERVICE 4097:0:1:602:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.3%3a5656:Prime
+#DESCRIPTION Prime
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.233.27.53%3a8894:prime moldova
+#DESCRIPTION prime moldova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.protv.md/hls/protv.m3u8:pro tv
+#DESCRIPTION pro tv
+#SERVICE 4097:0:1:610:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.7%3a5656:Pro TV
+#DESCRIPTION Pro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.42.75.230%3a4642/sportro:Pro X
+#DESCRIPTION Pro X
+#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.8%3a5656:Publika TV
+#DESCRIPTION Publika TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8:rai4
+#DESCRIPTION rai4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/rocktv/playlist.m3u8:Rock TV
+#DESCRIPTION Rock TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar24.smil/chunklist_b800000.m3u8:russia24
+#DESCRIPTION russia24
+#SERVICE 4097:0:1:620:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.13%3a5656:SET
+#DESCRIPTION SET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ott-cdn.ucom.am/s62/index.m3u8:spike tv
+#DESCRIPTION spike tv
 #SERVICE 4097:0:1:489:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/galanta:Televízia Galanta
 #DESCRIPTION Televízia Galanta
 #SERVICE 4097:0:1:487:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/hronka:Televízia Hronka (Banska Bystrica)
@@ -2551,39 +2665,29 @@
 #DESCRIPTION Televízia Skalica (TVS)
 #SERVICE 4097:0:1:483:0:0:0:0:0:0:https%3a//nn.geo.joj.sk/hls/wau-540.m3u8:Televízia Wau
 #DESCRIPTION Televízia Wau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END:Travel Mix
+#DESCRIPTION Travel Mix
 #SERVICE 4097:0:1:465:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/live/turzovka:Turzovská Televízia (TVT)
 #DESCRIPTION Turzovská Televízia (TVT)
-#SERVICE 4097:0:1:449:0:0:0:0:0:0:http%3a//http-stream.joj.sk/joj/wau/index-hq.m3u8:wau (slk)
-#DESCRIPTION wau (slk)
-#SERVICE 4097:0:1:469:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/liverepeater/zilina1:Žilinská Televízia (ZTV)
-#DESCRIPTION Žilinská Televízia (ZTV)
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★Moldova | PAKETI★★ ====
-#DESCRIPTION === ★★Moldova | PAKETI★★ ====
-#SERVICE 4097:0:1:622:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.14%3a5656:Canal 3
-#DESCRIPTION Canal 3
-#SERVICE 4097:0:1:604:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.4%3a5656:Jurnal TV
-#DESCRIPTION Jurnal TV
-#SERVICE 4097:0:1:598:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.2%3a5656:Moldova 1
-#DESCRIPTION Moldova 1
-#SERVICE 4097:0:1:600:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.10%3a5656:Moldova 2
-#DESCRIPTION Moldova 2
-#SERVICE 4097:0:1:606:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.5%3a5656:N4
-#DESCRIPTION N4
-#SERVICE 4097:0:1:608:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.6%3a5656:Пеrвyј
-#DESCRIPTION Пеrвyј
-#SERVICE 4097:0:1:602:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.3%3a5656:Prime
-#DESCRIPTION Prime
-#SERVICE 4097:0:1:610:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.7%3a5656:Pro TV
-#DESCRIPTION Pro TV
-#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.8%3a5656:Publika TV
-#DESCRIPTION Publika TV
-#SERVICE 4097:0:1:620:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.13%3a5656:SET
-#DESCRIPTION SET
-#SERVICE 4097:0:1:614:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.9%3a5656:TVC 21
-#DESCRIPTION TVC 21
 #SERVICE 4097:0:1:616:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.11%3a5656:TV 5
 #DESCRIPTION TV 5
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8:tv2 (N)
+#DESCRIPTION tv2 (N)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8:tv2 zulu
+#DESCRIPTION tv2 zulu
+#SERVICE 4097:0:1:614:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.9%3a5656:TVC 21
+#DESCRIPTION TVC 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
+#DESCRIPTION UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.218.223.86/live/_definst_/smil%3aVH_1.smil/playlist.m3u8:vh1
+#DESCRIPTION vh1
+#SERVICE 4097:0:1:449:0:0:0:0:0:0:http%3a//http-stream.joj.sk/joj/wau/index-hq.m3u8:wau (slk)
+#DESCRIPTION wau (slk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.142.232.246%3a1935/live/efir_live720p/playlist.m3u8:X Sport
+#DESCRIPTION X Sport
+#SERVICE 4097:0:1:469:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/liverepeater/zilina1:Žilinská Televízia (ZTV)
+#DESCRIPTION Žilinská Televízia (ZTV)
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.27.116.54%3a1935/live/anb.stream_360p/chunklist_w163760174.m3u8:AL Ahd
 #DESCRIPTION AL Ahd
@@ -2623,7 +2727,7 @@
 #DESCRIPTION Sharqiya News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
 #DESCRIPTION TRT Kurdi
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
 #DESCRIPTION === ★★FilmOn Tv-WebSocket★★ ===
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/bbc-news:bbc-news
 #DESCRIPTION bbc-news
@@ -2775,7 +2879,7 @@
 #DESCRIPTION bikini-teevee
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/miamitv:miamitv
 #DESCRIPTION miamitv
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
 #DESCRIPTION Star TV HD
@@ -2825,7 +2929,7 @@
 #DESCRIPTION Kral Pop Radyo
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HXZlvafC14Y:Power Türk Fm
 #DESCRIPTION Power Türk Fm
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=gsu5VsblZZo&t=245s:Frankenstein Ölümsüzlerin SavaSİ
 #DESCRIPTION Frankenstein Ölümsüzlerin SavaSİ
@@ -2859,7 +2963,7 @@
 #DESCRIPTION Kuantum Mekaniği
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=LQcnazP_Qkk:Yeralti Şehirleri Anadolu
 #DESCRIPTION Yeralti Şehirleri Anadolu
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::+18 | FUNY CLIP_ VIDEOS _ MUSIC
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::+18 | FUNY CLIP_ VIDEOS _ MUSIC
 #DESCRIPTION +18 | FUNY CLIP_ VIDEOS _ MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=3U2BRcw8bKE:Tomorrowland Belgium 2017
 #DESCRIPTION Tomorrowland Belgium 2017
@@ -2923,7 +3027,7 @@
 #DESCRIPTION thaıwan2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=il8BfvP0McY:Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
 #DESCRIPTION Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::Hottest | Sports Illustrated Swimsuit
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::Hottest | Sports Illustrated Swimsuit
 #DESCRIPTION Hottest | Sports Illustrated Swimsuit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eBZdmQ58n0s:Ashley Graham Hottest Moments: Curvy Cover Model,
 #DESCRIPTION Ashley Graham Hottest Moments: Curvy Cover Model,
@@ -3033,7 +3137,7 @@
 #DESCRIPTION Victoria Secret 2015 swimsuit show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6nnAlNA_PTs:Victoria's Secret Swim 2013
 #DESCRIPTION Victoria's Secret Swim 2013
-#SERVICE 1:64:B0:0:0:0:0:0:0:0:::::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
+#SERVICE 1:64:AF:0:0:0:0:0:0:0:::::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #DESCRIPTION :::::::::::::::::::::_KOREAN_IPTV_::::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//111.118.21.79/etv1/phd28/playlist.m3u8:CTS
 #DESCRIPTION CTS
@@ -3055,7 +3159,7 @@
 #DESCRIPTION Viet My TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//live.vietchristian.com/tv:Viet Christian
 #DESCRIPTION Viet Christian
-#SERVICE 1:64:B1:0:0:0:0:0:0:0:::::::::::::_WebCam_Live_Turkey_::::::::::
+#SERVICE 1:64:B0:0:0:0:0:0:0:0:::::::::::::_WebCam_Live_Turkey_::::::::::
 #DESCRIPTION :::::::::::_WebCam_Live_Turkey_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/297.stream/chunklist_w1890125726.m3u8:Taksim Canlı Mobesa Kamera
 #DESCRIPTION Taksim Canlı Mobesa Kamera
@@ -3081,7 +3185,7 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-i.mncdn.com/sivasbel_tv_live/sivasbel_medrese/chunklist_w1270909238.m3u8:Sivas Kent Meydanı Canlı Mobese
 #DESCRIPTION Sivas Kent Meydanı Canlı Mobese
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::* * * Novi Sad Live * * *
+#SERVICE 1:64:B1:0:0:0:0:0:0:0::* * * Novi Sad Live * * *
 #DESCRIPTION * * * Novi Sad Live * * *
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
 #DESCRIPTION NoviSad - Trg Slobode
@@ -3095,7 +3199,7 @@
 #DESCRIPTION Novi Sad Tvrdjava 3
 #SERVICE 4097:0:1:11:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//Tvrdjava.5.stream:Novi Sad Tvrdjava 5
 #DESCRIPTION Novi Sad Tvrdjava 5
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::* * * Ostale kamere Live * * *
+#SERVICE 1:64:B2:0:0:0:0:0:0:0::* * * Ostale kamere Live * * *
 #DESCRIPTION * * * Ostale kamere Live * * *
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//109.94.224.254/video1.mjpg:Zrenjanin
 #DESCRIPTION Zrenjanin
@@ -3103,7 +3207,7 @@
 #DESCRIPTION Makarska
 #SERVICE 4097:0:1:6:0:0:0:0:0:0:rtmp%3a//cdn-01.whatsupcams.com/live/si_golte2:Skijalište Golte - Uspinjača
 #DESCRIPTION Skijalište Golte - Uspinjača
-#SERVICE 1:64:B4:0:0:0:0:0:0:0::* * *  Switzerland * * *
+#SERVICE 1:64:B3:0:0:0:0:0:0:0::* * *  Switzerland * * *
 #DESCRIPTION * * *  Switzerland * * *
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam01luganoch:Switzerland - Lugano - Piazza Riforma
 #DESCRIPTION Switzerland - Lugano - Piazza Riforma
@@ -3119,11 +3223,11 @@
 #DESCRIPTION Switzerland - Lugano - Monte Bré - Ristorante Vet
 #SERVICE 4097:0:1:15:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge//vv78_720p.stream?sa=windit.de:Switzerland - Zürich Zoo Cam 1
 #DESCRIPTION Switzerland - Zürich Zoo Cam 1
-#SERVICE 1:64:B5:0:0:0:0:0:0:0::* * * WEBCAM Germany * * *
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::* * * WEBCAM Germany * * *
 #DESCRIPTION * * * WEBCAM Germany * * *
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:rtmp%3a//62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream:Köln Heumarkt (Rhein- Domblick)
 #DESCRIPTION Köln Heumarkt (Rhein- Domblick)
-#SERVICE 1:64:B6:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:B5:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:75:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv102_720p.stream:Aachen - Drehturm Belvedere Lousberg
 #DESCRIPTION Aachen - Drehturm Belvedere Lousberg
@@ -3385,7 +3489,7 @@
 #DESCRIPTION Zürich - Zoo Cam 3
 #SERVICE 4097:0:1:333:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv65_720p.stream:Zürich - Uetliberg
 #DESCRIPTION Zürich - Uetliberg
-#SERVICE 1:64:B7:0:0:0:0:0:0:0::* * * New York Webcam * * *
+#SERVICE 1:64:B6:0:0:0:0:0:0:0::* * * New York Webcam * * *
 #DESCRIPTION * * * New York Webcam * * *
 #SERVICE 4097:0:1:385:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/4717.flv/playlist.m3u8:New York City Times Square - Crossroads
 #DESCRIPTION New York City Times Square - Crossroads
@@ -3407,7 +3511,7 @@
 #DESCRIPTION New York City - High Line
 #SERVICE 4097:0:1:403:0:0:0:0:0:0:rtmp%3a//video4.earthcam.com/fecnetwork/6427.flv/playlist.m3u8:New York City - Circle Cam
 #DESCRIPTION New York City - Circle Cam
-#SERVICE 1:64:B8:0:0:0:0:0:0:0::* * * World other * * *
+#SERVICE 1:64:B7:0:0:0:0:0:0:0::* * * World other * * *
 #DESCRIPTION * * * World other * * *
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/sedonawebcam.flv/playlist.m3u8:Arizona - Sedona
 #DESCRIPTION Arizona - Sedona
@@ -3429,9 +3533,9 @@
 #DESCRIPTION Ireland Dublin pub cam
 #SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/7393.flv/playlist.m3u8:Anguilla Cam - Aleta Pool
 #DESCRIPTION Anguilla Cam - Aleta Pool
-#SERVICE 1:64:B9:0:0:0:0:0:0:0::*** World Cams USA ***
+#SERVICE 1:64:B8:0:0:0:0:0:0:0::*** World Cams USA ***
 #DESCRIPTION *** World Cams USA ***
-#SERVICE 1:64:BA:0:0:0:0:0:0:0::*** Arizona ***
+#SERVICE 1:64:B9:0:0:0:0:0:0:0::*** Arizona ***
 #DESCRIPTION *** Arizona ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8620.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/arizona/sedona/gateway/:Sedona Gateway Cam
 #DESCRIPTION Sedona Gateway Cam
@@ -3439,7 +3543,7 @@
 #DESCRIPTION Sedona Red Rock Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5805.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/arizona/sedona/sevenarches/?cam=sedona7:Sedona Seven Arches Cam
 #DESCRIPTION Sedona Seven Arches Cam
-#SERVICE 1:64:BB:0:0:0:0:0:0:0::*** California ***
+#SERVICE 1:64:BA:0:0:0:0:0:0:0::*** California ***
 #DESCRIPTION *** California ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6175.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/california/venicebeach/:Venice Beach Cam
 #DESCRIPTION Venice Beach Cam
@@ -3455,13 +3559,13 @@
 #DESCRIPTION Hollywood Blvd Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5023.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/california/laguna/index.php?cam=vskimboardstcl:Aliso Beach Cam
 #DESCRIPTION Aliso Beach Cam
-#SERVICE 1:64:BC:0:0:0:0:0:0:0::*** Colorado ***
+#SERVICE 1:64:BB:0:0:0:0:0:0:0::*** Colorado ***
 #DESCRIPTION *** Colorado ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7300.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/colorado/breckenridge/:Breckenridge Ski Cam
 #DESCRIPTION Breckenridge Ski Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=wolfcreek.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/colorado/pagosasprings/:Wolf Creek Ski Cam
 #DESCRIPTION Wolf Creek Ski Cam
-#SERVICE 1:64:BD:0:0:0:0:0:0:0::District of Columbia
+#SERVICE 1:64:BC:0:0:0:0:0:0:0::District of Columbia
 #DESCRIPTION District of Columbia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4356.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/dc/cherryblossoms/:Cherry Blossoms Cam
 #DESCRIPTION Cherry Blossoms Cam
@@ -3471,7 +3575,7 @@
 #DESCRIPTION WAMO Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4356.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/dc/?cam=washdc:Washington D.C. Cam
 #DESCRIPTION Washington D.C. Cam
-#SERVICE 1:64:BE:0:0:0:0:0:0:0::*** Florida ***
+#SERVICE 1:64:BD:0:0:0:0:0:0:0::*** Florida ***
 #DESCRIPTION *** Florida ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=3275.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach3:Coconut Grove Marina Cam
 #DESCRIPTION Coconut Grove Marina Cam
@@ -3523,7 +3627,7 @@
 #DESCRIPTION Sunny Isles Beach Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6649.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/treasureisland/sunsetbeach/:Sunset Beach Cam
 #DESCRIPTION Sunset Beach Cam
-#SERVICE 1:64:BF:0:0:0:0:0:0:0::*** Hawaii ***
+#SERVICE 1:64:BE:0:0:0:0:0:0:0::*** Hawaii ***
 #DESCRIPTION *** Hawaii ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5204.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/hawaii/kauai/koloa/:Hawaii Surf Cam
 #DESCRIPTION Hawaii Surf Cam
@@ -3533,27 +3637,27 @@
 #DESCRIPTION Maui Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5758.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/hawaii/bigisland/waikoloa/:Waikoloa Cam
 #DESCRIPTION Waikoloa Cam
-#SERVICE 1:64:C0:0:0:0:0:0:0:0::*** Illinois ***
+#SERVICE 1:64:BF:0:0:0:0:0:0:0::*** Illinois ***
 #DESCRIPTION *** Illinois ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5187.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/illinois/chicago/field/:Chicago Cam
 #DESCRIPTION Chicago Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=3186.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd:Wrigley Field Cam
 #DESCRIPTION Wrigley Field Cam
-#SERVICE 1:64:C1:0:0:0:0:0:0:0::*** Indiana ***
+#SERVICE 1:64:C0:0:0:0:0:0:0:0::*** Indiana ***
 #DESCRIPTION *** Indiana ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7962.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/indiana/notredame/:Notre Dame Cam
 #DESCRIPTION Notre Dame Cam
-#SERVICE 1:64:C2:0:0:0:0:0:0:0::*** Maryland ***
+#SERVICE 1:64:C1:0:0:0:0:0:0:0::*** Maryland ***
 #DESCRIPTION *** Maryland ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6998.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/maryland/baltimore/fortmchenry/?cam=fortmchenry2:Fort McHenry Cam - Fort View
 #DESCRIPTION Fort McHenry Cam - Fort View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6999.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/maryland/baltimore/fortmchenry/?cam=fortmchenry1:Fort McHenry Cam - Rampart View
 #DESCRIPTION Fort McHenry Cam - Rampart View
-#SERVICE 1:64:C3:0:0:0:0:0:0:0::*** Massachusetts ***
+#SERVICE 1:64:C2:0:0:0:0:0:0:0::*** Massachusetts ***
 #DESCRIPTION *** Massachusetts ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4049sonesta.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/massachusetts/boston/?cam=boston_hd:Boston Cam
 #DESCRIPTION Boston Cam
-#SERVICE 1:64:C4:0:0:0:0:0:0:0::*** Michigan***
+#SERVICE 1:64:C3:0:0:0:0:0:0:0::*** Michigan***
 #DESCRIPTION *** Michigan***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4465.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/michigan/grandhaven/lakemichigan/:Lake Michigan Cam
 #DESCRIPTION Lake Michigan Cam
@@ -3563,27 +3667,27 @@
 #DESCRIPTION Silver Lake Sand Dunes Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7484.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/michigan/stjoseph/?cam=stjoelighthouse:St. Joseph Lighthouse Cam
 #DESCRIPTION St. Joseph Lighthouse Cam
-#SERVICE 1:64:C5:0:0:0:0:0:0:0::*** Minnesota ***
+#SERVICE 1:64:C4:0:0:0:0:0:0:0::*** Minnesota ***
 #DESCRIPTION *** Minnesota ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7945.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/minnesota/saintpaul/:Saint Paul Cam
 #DESCRIPTION Saint Paul Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com/fecnetwork playpath=7649.flv swfUrl=https%3a//www.earthcam.com/swf/streaming/client_video_player.swf?v4 pageUrl=http%3a//www.earthcam.net/projects/common/js/embedviewer.php?ver=cvp&type=h264&vid=7649&w=auto&z=false&fs=false&adcfs=true&audio=0:Minnesota Vikings Stadium
 #DESCRIPTION Minnesota Vikings Stadium
-#SERVICE 1:64:C6:0:0:0:0:0:0:0::*** Missouri ***
+#SERVICE 1:64:C5:0:0:0:0:0:0:0::*** Missouri ***
 #DESCRIPTION *** Missouri ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video4.earthcam.com%3a1935/archives playpath=/permanent/stlouis/2013/06/05/1300.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/missouri/stlouis/?cam=eadsbridge:Eads Bridge Cam
 #DESCRIPTION Eads Bridge Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=meprd_garch.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/missouri/stlouis/?cam=arch_riverview:St. Louis Arch Cam
 #DESCRIPTION St. Louis Arch Cam
-#SERVICE 1:64:C7:0:0:0:0:0:0:0::*** Nevada ***
+#SERVICE 1:64:C6:0:0:0:0:0:0:0::*** Nevada ***
 #DESCRIPTION *** Nevada ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=eclasvegas.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/nevada/lasvegas/index.php?cam=sign_hd:Welcome to Fabulous Las Vegas
 #DESCRIPTION Welcome to Fabulous Las Vegas
-#SERVICE 1:64:C8:0:0:0:0:0:0:0::*** New Hampshire***
+#SERVICE 1:64:C7:0:0:0:0:0:0:0::*** New Hampshire***
 #DESCRIPTION *** New Hampshire***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=hampton-beach-cam.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newhampshire/hamptonbeach/?cam=hamptonbeach:Hampton Beach Cam
 #DESCRIPTION Hampton Beach Cam
-#SERVICE 1:64:C9:0:0:0:0:0:0:0::*** New Jersey ***
+#SERVICE 1:64:C8:0:0:0:0:0:0:0::*** New Jersey ***
 #DESCRIPTION *** New Jersey ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4544.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/skyline/?cam=hyatthd:New York Skyline Cam HD
 #DESCRIPTION New York Skyline Cam HD
@@ -3603,13 +3707,13 @@
 #DESCRIPTION Seaside Park Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video4.earthcam.com%3a1935/archives playpath=network/5732/2016/05/11/1301.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newjersey/wildwood/:Wildwood Cam
 #DESCRIPTION Wildwood Cam
-#SERVICE 1:64:CA:0:0:0:0:0:0:0::*** New Mexico ***
+#SERVICE 1:64:C9:0:0:0:0:0:0:0::*** New Mexico ***
 #DESCRIPTION *** New Mexico ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5465.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newmexico/lasvegas/:Las Vegas, New Mexico Cam
 #DESCRIPTION Las Vegas, New Mexico Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4831.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newmexico/santafe/:Santa Fe Cam
 #DESCRIPTION Santa Fe Cam
-#SERVICE 1:64:CB:0:0:0:0:0:0:0::*** New York ***
+#SERVICE 1:64:CA:0:0:0:0:0:0:0::*** New York ***
 #DESCRIPTION *** New York ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=fridays_5th.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/fifthave/?cam=nyc5th_str:5th Avenue Cam
 #DESCRIPTION 5th Avenue Cam
@@ -3645,27 +3749,27 @@
 #DESCRIPTION Times Square North View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4017timessquare.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd:Times Square South View
 #DESCRIPTION Times Square South View
-#SERVICE 1:64:CC:0:0:0:0:0:0:0::*** North Carolina ***
+#SERVICE 1:64:CB:0:0:0:0:0:0:0::*** North Carolina ***
 #DESCRIPTION *** North Carolina ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5324.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northcarolina/belmont/:Belmont Cam
 #DESCRIPTION Belmont Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4904.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northcarolina/supply/holden/:Holden Beach Cam
 #DESCRIPTION Holden Beach Cam
-#SERVICE 1:64:CD:0:0:0:0:0:0:0::*** North Dakota ***
+#SERVICE 1:64:CC:0:0:0:0:0:0:0::*** North Dakota ***
 #DESCRIPTION *** North Dakota ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6698.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northdakota/cavalier/:City of Cavalier Cam
 #DESCRIPTION City of Cavalier Cam
-#SERVICE 1:64:CE:0:0:0:0:0:0:0::*** Ohio ***
+#SERVICE 1:64:CD:0:0:0:0:0:0:0::*** Ohio ***
 #DESCRIPTION *** Ohio ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8939.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/ohio/cleveland/:Cleveland Cam
 #DESCRIPTION Cleveland Cam
-#SERVICE 1:64:CF:0:0:0:0:0:0:0::*** Oklahoma ***
+#SERVICE 1:64:CE:0:0:0:0:0:0:0::*** Oklahoma ***
 #DESCRIPTION *** Oklahoma ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=8471.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/oklahoma/vinita/?cam=route66east:Route 66 Cam - East View
 #DESCRIPTION Route 66 Cam - East View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8470.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/oklahoma/vinita/?cam=route66west:Route 66 Cam - WestView
 #DESCRIPTION Route 66 Cam - WestView
-#SERVICE 1:64:D0:0:0:0:0:0:0:0::*** Pennsylvania ***
+#SERVICE 1:64:CF:0:0:0:0:0:0:0::*** Pennsylvania ***
 #DESCRIPTION *** Pennsylvania ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5595.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/?cam=warhol_figmentstream:Andy Warhol FigmentCam
 #DESCRIPTION Andy Warhol FigmentCam
@@ -3673,7 +3777,7 @@
 #DESCRIPTION Steamtown Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5536.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/pennsylvania/gettysburg/?cam=gettysburg:Gettysburg Battlefield Cam
 #DESCRIPTION Gettysburg Battlefield Cam
-#SERVICE 1:64:D1:0:0:0:0:0:0:0::*** South Carolina ***
+#SERVICE 1:64:D0:0:0:0:0:0:0:0::*** South Carolina ***
 #DESCRIPTION *** South Carolina ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6320.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawahisland:Kiawah Island Beach
 #DESCRIPTION Kiawah Island Beach
@@ -3683,7 +3787,7 @@
 #DESCRIPTION Myrtle Beach Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4387.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/southcarolina/spartanburg/:Pacolet River
 #DESCRIPTION Pacolet River
-#SERVICE 1:64:D2:0:0:0:0:0:0:0::*** Texas ***
+#SERVICE 1:64:D1:0:0:0:0:0:0:0::*** Texas ***
 #DESCRIPTION *** Texas ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=paradiseon6.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/texas/austin/:Austin Cam
 #DESCRIPTION Austin Cam
@@ -3697,15 +3801,15 @@
 #DESCRIPTION San Jacinto Monument Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5666.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/texas/snyder/:Snyder, TX Cam
 #DESCRIPTION Snyder, TX Cam
-#SERVICE 1:64:D3:0:0:0:0:0:0:0::*** Vermont ***
+#SERVICE 1:64:D2:0:0:0:0:0:0:0::*** Vermont ***
 #DESCRIPTION *** Vermont ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8078.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/vermont/burlington/:University of Vermont Cam
 #DESCRIPTION University of Vermont Cam
-#SERVICE 1:64:D4:0:0:0:0:0:0:0::*** Virginia ***
+#SERVICE 1:64:D3:0:0:0:0:0:0:0::*** Virginia ***
 #DESCRIPTION *** Virginia ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=8048.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/virginia/virginiabeach/?cam=virginiabeach:Virginia Beach Cam
 #DESCRIPTION Virginia Beach Cam
-#SERVICE 1:64:D5:0:0:0:0:0:0:0::*** Washington ***
+#SERVICE 1:64:D4:0:0:0:0:0:0:0::*** Washington ***
 #DESCRIPTION *** Washington ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6172.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/washington/oakharbor/?cam=oakharbor:Oak Harbor Cam
 #DESCRIPTION Oak Harbor Cam
@@ -3715,13 +3819,13 @@
 #DESCRIPTION Washington Vineyard Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7254.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle:Seattle Space Needle Cam
 #DESCRIPTION Seattle Space Needle Cam
-#SERVICE 1:64:D6:0:0:0:0:0:0:0::*** Wyoming ***
+#SERVICE 1:64:D5:0:0:0:0:0:0:0::*** Wyoming ***
 #DESCRIPTION *** Wyoming ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6954.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/wyoming/jackson/:Jackson Hole Cam
 #DESCRIPTION Jackson Hole Cam
-#SERVICE 1:64:D7:0:0:0:0:0:0:0::*** World Cams DE ***
+#SERVICE 1:64:D6:0:0:0:0:0:0:0::*** World Cams DE ***
 #DESCRIPTION *** World Cams DE ***
-#SERVICE 1:64:D8:0:0:0:0:0:0:0::*** Meer ***
+#SERVICE 1:64:D7:0:0:0:0:0:0:0::*** Meer ***
 #DESCRIPTION *** Meer ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//edge30.fms.stream24.net%3a443/osltv7/_definst_/ playpath=mp4%3abinz.stream?id=10654-7-live swfUrl=http%3a//player.mdn.stream24.net/video/resources/vdm/jw6.12/jwplayer.flash.swf pageUrl=http%3a//player.mdn.stream24.net/video/livestream.php?cam=binz&autostart=true:Binz
 #DESCRIPTION Binz
@@ -3789,7 +3893,7 @@
 #DESCRIPTION Wiek 2 RÃ¼gen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//edge30.fms.stream24.net%3a443/osltv3/_definst_/ playpath=mp4%3azinnowitz.stream?id=10654-3-live swfUrl=http%3a//player.mdn.stream24.net/video/resources/vdm/jw6.12/jwplayer.flash.swf pageUrl=http%3a//player.mdn.stream24.net/video/livestream.php?cam=zinnowitz&autostart=true:Zinnowitz
 #DESCRIPTION Zinnowitz
-#SERVICE 1:64:D9:0:0:0:0:0:0:0::*** Berge ***
+#SERVICE 1:64:D8:0:0:0:0:0:0:0::*** Berge ***
 #DESCRIPTION *** Berge ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv126_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_4c122:Achensee-Tirol
 #DESCRIPTION Achensee-Tirol
@@ -3813,7 +3917,7 @@
 #DESCRIPTION St. Anton
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv65_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_a1ea5:ZÃ¼rich
 #DESCRIPTION ZÃ¼rich
-#SERVICE 1:64:DA:0:0:0:0:0:0:0::*** StÃ¤dte ***
+#SERVICE 1:64:D9:0:0:0:0:0:0:0::*** StÃ¤dte ***
 #DESCRIPTION *** StÃ¤dte ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv102_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_50e56:Aachen
 #DESCRIPTION Aachen
@@ -3925,7 +4029,7 @@
 #DESCRIPTION Wuppertal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv70_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_5834c:WÃ¼rzburg
 #DESCRIPTION WÃ¼rzburg
-#SERVICE 1:64:DB:0:0:0:0:0:0:0::*** World Cams Bars ***
+#SERVICE 1:64:DA:0:0:0:0:0:0:0::*** World Cams Bars ***
 #DESCRIPTION *** World Cams Bars ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//94.228.215.67%3a1935/live/ playpath=livecam025.stream swfUrl=https%3a//livecam-pro.com/jwplayer7/jwplayer.flash.swf pageUrl=https%3a//livecam-pro.com/fileadmin/templates/assets/_html/livecamX.025.html:E Barcelona - Terra d'Escudella
 #DESCRIPTION E Barcelona - Terra d'Escudella
@@ -4621,10 +4725,10 @@
 #DESCRIPTION Wiek - Rügen
 #SERVICE 4097:0:1:622:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv88_720p.stream:Wolfsburg - Stadt Wolfsburg
 #DESCRIPTION Wolfsburg - Stadt Wolfsburg
-#SERVICE 4097:0:1:624:0:0:0:0:0:0:http%3a//hls3.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/chunks.m3u8:Wrocław
-#DESCRIPTION Wrocław
-#SERVICE 4097:0:1:626:0:0:0:0:0:0:http%3a//hls13.webcamera.pl/wrzesnia_cam_ed3c35/wrzesnia_cam_ed3c35.stream/chunks.m3u8:Września
-#DESCRIPTION Września
+#SERVICE 4097:0:1:624:0:0:0:0:0:0:http%3a//hls3.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/chunks.m3u8:Wroclaw
+#DESCRIPTION Wroclaw
+#SERVICE 4097:0:1:626:0:0:0:0:0:0:http%3a//hls13.webcamera.pl/wrzesnia_cam_ed3c35/wrzesnia_cam_ed3c35.stream/chunks.m3u8:September
+#DESCRIPTION September
 #SERVICE 4097:0:1:628:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv117_720p.stream:Wuppertal - Barmenia
 #DESCRIPTION Wuppertal - Barmenia
 #SERVICE 4097:0:1:630:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv70_720p.stream:Würzburg - Hotel Alter Kranen
@@ -4633,981 +4737,981 @@
 #DESCRIPTION YAMANASHI JAPAN
 #SERVICE 4097:0:1:634:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv65_720p.stream:Zürich – Uetliberg
 #DESCRIPTION Zürich – Uetliberg
-#SERVICE 4097:0:1:636:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/12619575/streams/live/iphone/playlist.m3u8:АМЕРИКА КАМЕРА
-#DESCRIPTION АМЕРИКА КАМЕРА
-#SERVICE 4097:0:1:638:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy14/index.m3u8:Акtаu - Беrег Каsпиja 14 мкrн
-#DESCRIPTION Акtаu - Беrег Каsпиja 14 мкrн
-#SERVICE 4097:0:1:640:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy15/index.m3u8:Акtаu - Беrег Каsпиja 15 мкrн
-#DESCRIPTION Акtаu - Беrег Каsпиja 15 мкrн
-#SERVICE 4097:0:1:642:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy5/index.m3u8:Акtаu - Беrег Каsпиja 5/7 мкrн
-#DESCRIPTION Акtаu - Беrег Каsпиja 5/7 мкrн
-#SERVICE 4097:0:1:644:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/yntymak/index.m3u8:Акtаu - Веrhние rайонy
-#DESCRIPTION Акtаu - Веrhние rайонy
-#SERVICE 4097:0:1:646:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/dramteatr/index.m3u8:Акtаu - ДrамТеаtr
-#DESCRIPTION Акtаu - ДrамТеаtr
-#SERVICE 4097:0:1:648:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/downtown/index.m3u8:Акtаu - Нижние rайонy
-#DESCRIPTION Акtаu - Нижние rайонy
-#SERVICE 4097:0:1:650:0:0:0:0:0:0:http%3a//91.222.91.7%3a8080/hls/cam1-512k/index.m3u8:Алмаty Веб-камеrа 1
-#DESCRIPTION Алмаty Веб-камеrа 1
-#SERVICE 4097:0:1:652:0:0:0:0:0:0:http%3a//91.222.91.7%3a8080/hls2/cam2-512k/index.m3u8:Алмаty Веб-камеrа 2
-#DESCRIPTION Алмаty Веб-камеrа 2
-#SERVICE 4097:0:1:654:0:0:0:0:0:0:http%3a//185.117.144.194%3a1935/cam_yan/mp4%3acam_yan.stream/playlist.m3u8:Ал'меt'евsк
-#DESCRIPTION Ал'меt'евsк
-#SERVICE 4097:0:1:656:0:0:0:0:0:0:http%3a//90.190.106.91%3a80/tlnzoo/cam7626/chunklist.m3u8:Аrмjaнsк - ДК "Тиtан"
-#DESCRIPTION Аrмjaнsк - ДК "Тиtан"
-#SERVICE 4097:0:1:662:0:0:0:0:0:0:rtmp%3a//81.200.144.3%3a1935/cam3/stream:Аrtем - Кол'cо
-#DESCRIPTION Аrtем - Кол'cо
-#SERVICE 4097:0:1:664:0:0:0:0:0:0:rtmp%3a//81.200.144.3%3a1935/cam1/stream:Аrtем - Плоschад' Ленина
-#DESCRIPTION Аrtем - Плоschад' Ленина
-#SERVICE 4097:0:1:666:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/nk/nk.stream/playlist.m3u8:Аfrика 1
-#DESCRIPTION Аfrика 1
-#SERVICE 4097:0:1:668:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/id/id.stream/playlist.m3u8:Аfrика 2
-#DESCRIPTION Аfrика 2
-#SERVICE 4097:0:1:670:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/tm/tm.stream/playlist.m3u8:Аfrика 3
-#DESCRIPTION Аfrика 3
-#SERVICE 4097:0:1:672:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/na/na.stream/playlist.m3u8:Аfrика 4
-#DESCRIPTION Аfrика 4
-#SERVICE 4097:0:1:674:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/rc/rc.stream/playlist.m3u8:Аfrика 5
-#DESCRIPTION Аfrика 5
-#SERVICE 4097:0:1:676:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream:Аerопоrt Кел'н/Бонн
-#DESCRIPTION Аerопоrt Кел'н/Бонн
-#SERVICE 4097:0:1:678:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/megagrinn.m3u8:Белгоrод - Мега Гrинн
-#DESCRIPTION Белгоrод - Мега Гrинн
-#SERVICE 4097:0:1:680:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/gubkina.m3u8:Белгоrод - Пеrекrеstок Гuбкина
-#DESCRIPTION Белгоrод - Пеrекrеstок Гuбкина
-#SERVICE 4097:0:1:682:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/mayak.m3u8:Белгоrод - Унивеrмаг Маjaк
-#DESCRIPTION Белгоrод - Унивеrмаг Маjaк
-#SERVICE 4097:0:1:684:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/filarmoniya.m3u8:Белгоrод - Филаrмониja
-#DESCRIPTION Белгоrод - Филаrмониja
-#SERVICE 4097:0:1:686:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Бийsк 1
-#DESCRIPTION Бийsк 1
-#SERVICE 4097:0:1:688:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/180934/53663534f98f5479c774/playlist.m3u8:Бийsк 10
-#DESCRIPTION Бийsк 10
-#SERVICE 4097:0:1:690:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8:Бийsк 11
-#DESCRIPTION Бийsк 11
-#SERVICE 4097:0:1:692:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8:Бийsк 12
-#DESCRIPTION Бийsк 12
-#SERVICE 4097:0:1:694:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8:Бийsк 13
-#DESCRIPTION Бийsк 13
-#SERVICE 4097:0:1:696:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8:Бийsк 14
-#DESCRIPTION Бийsк 14
-#SERVICE 4097:0:1:698:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8:Бийsк 15
-#DESCRIPTION Бийsк 15
-#SERVICE 4097:0:1:700:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8:Бийsк 16
-#DESCRIPTION Бийsк 16
-#SERVICE 4097:0:1:702:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8:Бийsк 17
-#DESCRIPTION Бийsк 17
-#SERVICE 4097:0:1:704:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8:Бийsк 18
-#DESCRIPTION Бийsк 18
-#SERVICE 4097:0:1:706:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8:Бийsк 19
-#DESCRIPTION Бийsк 19
-#SERVICE 4097:0:1:708:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8:Бийsк 2
-#DESCRIPTION Бийsк 2
-#SERVICE 4097:0:1:710:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/355630/382e019f2610439ffb91/playlist.m3u8:Бийsк 20
-#DESCRIPTION Бийsк 20
-#SERVICE 4097:0:1:712:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8:Бийsк 21
-#DESCRIPTION Бийsк 21
-#SERVICE 4097:0:1:714:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8:Бийsк 22
-#DESCRIPTION Бийsк 22
-#SERVICE 4097:0:1:716:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8:Бийsк 23
-#DESCRIPTION Бийsк 23
-#SERVICE 4097:0:1:718:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8:Бийsк 24
-#DESCRIPTION Бийsк 24
-#SERVICE 4097:0:1:720:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8:Бийsк 25
-#DESCRIPTION Бийsк 25
-#SERVICE 4097:0:1:722:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Бийsк 26
-#DESCRIPTION Бийsк 26
-#SERVICE 4097:0:1:724:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8:Бийsк 27
-#DESCRIPTION Бийsк 27
-#SERVICE 4097:0:1:726:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8:Бийsк 28
-#DESCRIPTION Бийsк 28
-#SERVICE 4097:0:1:728:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8:Бийsк 29
-#DESCRIPTION Бийsк 29
-#SERVICE 4097:0:1:730:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/230453/178c952b7d1869584d04/playlist.m3u8:Бийsк 3
-#DESCRIPTION Бийsк 3
-#SERVICE 4097:0:1:732:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8:Бийsк 30
-#DESCRIPTION Бийsк 30
-#SERVICE 4097:0:1:734:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8:Бийsк 31
-#DESCRIPTION Бийsк 31
-#SERVICE 4097:0:1:736:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8:Бийsк 32
-#DESCRIPTION Бийsк 32
-#SERVICE 4097:0:1:738:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8:Бийsк 33
-#DESCRIPTION Бийsк 33
-#SERVICE 4097:0:1:740:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/16855/a821b71440124e5914d9/playlist.m3u8:Бийsк 34
-#DESCRIPTION Бийsк 34
-#SERVICE 4097:0:1:742:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8:Бийsк 35
-#DESCRIPTION Бийsк 35
-#SERVICE 4097:0:1:744:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/178548/d46267d245a243786377/playlist.m3u8:Бийsк 36
-#DESCRIPTION Бийsк 36
-#SERVICE 4097:0:1:746:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8:Бийsк 37
-#DESCRIPTION Бийsк 37
-#SERVICE 4097:0:1:748:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8:Бийsк 38
-#DESCRIPTION Бийsк 38
-#SERVICE 4097:0:1:750:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8:Бийsк 39
-#DESCRIPTION Бийsк 39
-#SERVICE 4097:0:1:752:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8:Бийsк 4
-#DESCRIPTION Бийsк 4
-#SERVICE 4097:0:1:754:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8:Бийsк 40
-#DESCRIPTION Бийsк 40
-#SERVICE 4097:0:1:756:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8:Бийsк 41
-#DESCRIPTION Бийsк 41
-#SERVICE 4097:0:1:758:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/5/452e70cecbafe495920d/playlist.m3u8:Бийsк 42
-#DESCRIPTION Бийsк 42
-#SERVICE 4097:0:1:760:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8:Бийsк 43
-#DESCRIPTION Бийsк 43
-#SERVICE 4097:0:1:762:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/348492/c710a58231a641930eb2/playlist.m3u8:Бийsк 44
-#DESCRIPTION Бийsк 44
-#SERVICE 4097:0:1:764:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8:Бийsк 45
-#DESCRIPTION Бийsк 45
-#SERVICE 4097:0:1:766:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8:Бийsк 46
-#DESCRIPTION Бийsк 46
-#SERVICE 4097:0:1:768:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8:Бийsк 47
-#DESCRIPTION Бийsк 47
-#SERVICE 4097:0:1:770:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8:Бийsк 48
-#DESCRIPTION Бийsк 48
-#SERVICE 4097:0:1:772:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/74202/a97bfc864469641845da/playlist.m3u8:Бийsк 49
-#DESCRIPTION Бийsк 49
-#SERVICE 4097:0:1:774:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8:Бийsк 5
-#DESCRIPTION Бийsк 5
-#SERVICE 4097:0:1:776:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8:Бийsк 50
-#DESCRIPTION Бийsк 50
-#SERVICE 4097:0:1:778:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8:Бийsк 51
-#DESCRIPTION Бийsк 51
-#SERVICE 4097:0:1:780:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/747833/941160d961d57bd8aeb4/playlist.m3u8:Бийsк 52
-#DESCRIPTION Бийsк 52
-#SERVICE 4097:0:1:782:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/201962/2b4939cb9ede5c4831c8/playlist.m3u8:Бийsк 53
-#DESCRIPTION Бийsк 53
-#SERVICE 4097:0:1:784:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8:Бийsк 54
-#DESCRIPTION Бийsк 54
-#SERVICE 4097:0:1:786:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8:Бийsк 55
-#DESCRIPTION Бийsк 55
-#SERVICE 4097:0:1:788:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8:Бийsк 56
-#DESCRIPTION Бийsк 56
-#SERVICE 4097:0:1:790:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/262003/488d2a22430cc517594c/playlist.m3u8:Бийsк 57
-#DESCRIPTION Бийsк 57
-#SERVICE 4097:0:1:792:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/811131/cb726aaabd6774a499c4/playlist.m3u8:Бийsк 58
-#DESCRIPTION Бийsк 58
-#SERVICE 4097:0:1:794:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8:Бийsк 59
-#DESCRIPTION Бийsк 59
-#SERVICE 4097:0:1:796:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8:Бийsк 6
-#DESCRIPTION Бийsк 6
-#SERVICE 4097:0:1:798:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8:Бийsк 60
-#DESCRIPTION Бийsк 60
-#SERVICE 4097:0:1:800:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615836/ea200b79cfe81f8b9ab8/playlist.m3u8:Бийsк 7
-#DESCRIPTION Бийsк 7
-#SERVICE 4097:0:1:802:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/902370/67d5e778ca124e000717/playlist.m3u8:Бийsк 8
-#DESCRIPTION Бийsк 8
-#SERVICE 4097:0:1:804:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11184/ca1fad7866c9e129ebb5/playlist.m3u8:Бийsк 9
-#DESCRIPTION Бийsк 9
-#SERVICE 4097:0:1:806:0:0:0:0:0:0:http%3a//195.14.118.60%3a1935/rtplive2/camera51-okc.stream/index.m3u8:Благовеschенsк - ОКЦ
-#DESCRIPTION Благовеschенsк - ОКЦ
-#SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//195.14.118.60%3a1935/rtplive2/camera43-lenina.stream/index.m3u8:Благовеschенsк - Плоschад' Лени
-#DESCRIPTION Благовеschенsк - Плоschад' Лени
-#SERVICE 4097:0:1:810:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/21_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Бuковел'sка
-#DESCRIPTION Бuковел' (Каrпаty) - Бuковел'sка
-#SERVICE 4097:0:1:812:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/23_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Веб-камеrа
-#DESCRIPTION Бuковел' (Каrпаty) - Веб-камеrа
-#SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/07_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Веrhнjaja stан
-#DESCRIPTION Бuковел' (Каrпаty) - Веrhнjaja stан
-#SERVICE 4097:0:1:816:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/10_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Веrhнjaja stан
-#DESCRIPTION Бuковел' (Каrпаty) - Веrhнjaja stан
-#SERVICE 4097:0:1:818:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/20_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Веrhнjaja stан
-#DESCRIPTION Бuковел' (Каrпаty) - Веrhнjaja stан
-#SERVICE 4097:0:1:820:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/04_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Веrhнjaja stан
-#DESCRIPTION Бuковел' (Каrпаty) - Веrhнjaja stан
-#SERVICE 4097:0:1:822:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/13_panasonic_1.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Вид на гоru
-#DESCRIPTION Бuковел' (Каrпаty) - Вид на гоru
-#SERVICE 4097:0:1:824:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/12_panasonic_1.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Деtsкаja пло
-#DESCRIPTION Бuковел' (Каrпаty) - Деtsкаja пло
-#SERVICE 4097:0:1:826:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/36_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Каtок
-#DESCRIPTION Бuковел' (Каrпаty) - Каtок
-#SERVICE 4097:0:1:830:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/05_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Каfе Bugi.L
-#DESCRIPTION Бuковел' (Каrпаty) - Каfе Bugi.L
-#SERVICE 4097:0:1:832:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/06_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Нижние stан
-#DESCRIPTION Бuковел' (Каrпаty) - Нижние stан
-#SERVICE 4097:0:1:834:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/11_panasonic_1.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Нижнjaja stан
-#DESCRIPTION Бuковел' (Каrпаty) - Нижнjaja stан
-#SERVICE 4097:0:1:836:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/19_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Тrаsа 5B
-#DESCRIPTION Бuковел' (Каrпаty) - Тrаsа 5B
-#SERVICE 4097:0:1:842:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/08_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Тrаssа 14А
-#DESCRIPTION Бuковел' (Каrпаty) - Тrаssа 14А
-#SERVICE 4097:0:1:844:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/02_720p.stream/chunklist.m3u8:Бuковел' (Каrпаty) - Тrаssа 2A
-#DESCRIPTION Бuковел' (Каrпаty) - Тrаssа 2A
-#SERVICE 4097:0:1:846:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam10/index.m3u8:Веб камеrа
-#DESCRIPTION Веб камеrа
-#SERVICE 4097:0:1:848:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam148/index.m3u8:Веб камеrа 2
-#DESCRIPTION Веб камеrа 2
-#SERVICE 4097:0:1:850:0:0:0:0:0:0:http%3a//89.28.160.37%3a81/square_stella_115/index.m3u8:Великие Лuки - Вид на stеллu
-#DESCRIPTION Великие Лuки - Вид на stеллu
-#SERVICE 4097:0:1:852:0:0:0:0:0:0:http%3a//video.iluki.ru%3a81/razvod_33/index.m3u8:Великие Лuки - Пеrекrеstок
-#DESCRIPTION Великие Лuки - Пеrекrеstок
-#SERVICE 4097:0:1:854:0:0:0:0:0:0:http%3a//89.28.160.37%3a81/square_main_107/index.m3u8:Великие Лuки - Плоschад' Ленин
-#DESCRIPTION Великие Лuки - Плоschад' Ленин
-#SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//89.28.160.37%3a81/express_right/index.m3u8:Великие Лuки - Сtадион Экsпrеs
-#DESCRIPTION Великие Лuки - Сtадион Экsпrеs
-#SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//video.iluki.ru%3a8080/theater_110/index.m3u8:Великие Лuки - Теаtr
-#DESCRIPTION Великие Лuки - Теаtr
-#SERVICE 4097:0:1:860:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/a4e4e837-be8c-486f-b624-9e4a8245760c/mono.m3u8:Веrhнjaja Пyshма Кrивоusова 17
-#DESCRIPTION Веrhнjaja Пyshма Кrивоusова 17
-#SERVICE 4097:0:1:862:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/----a5c4706855/mono.m3u8:Веrhнjaja Пyshма Пеtrова 35/7
-#DESCRIPTION Веrhнjaja Пyshма Пеtrова 35/7
-#SERVICE 4097:0:1:864:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/dd5eac22-e738-44b7-a902-878b5ed1a8be/mono.m3u8:Веrhнjaja Пyshма пr.Уsпенsкий 60
-#DESCRIPTION Веrhнjaja Пyshма пr.Уsпенsкий 60
-#SERVICE 4097:0:1:866:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/c6375ebf-9804-47e6-983a-97711a213ced/mono.m3u8:Веrhнjaja Пyshма пr.Уsпенsкий 91
-#DESCRIPTION Веrhнjaja Пyshма пr.Уsпенsкий 91
-#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//flussonic.powernet.com.ru%3a8080/user87469/index.m3u8:Волгогrад - uл.Коsмонавtов
-#DESCRIPTION Волгогrад - uл.Коsмонавtов
-#SERVICE 4097:0:1:870:0:0:0:0:0:0:http%3a//flussonic.powernet.com.ru%3a8080/user78757/index.m3u8:Волжsкий - Ледоваja Аrена
-#DESCRIPTION Волжsкий - Ледоваja Аrена
-#SERVICE 4097:0:1:872:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/test/index.m3u8:Вsеволожsк
-#DESCRIPTION Вsеволожsк
-#SERVICE 4097:0:1:874:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/jk_olymp/index.m3u8:Вsеволожsк - ЖК Олимп
-#DESCRIPTION Вsеволожsк - ЖК Олимп
-#SERVICE 4097:0:1:876:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/jk_olymp2/index.m3u8:Вsеволожsк - ЖК Олимп 2
-#DESCRIPTION Вsеволожsк - ЖК Олимп 2
-#SERVICE 4097:0:1:878:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/ploshad2/index.m3u8:Вsеволожsк - мкr.Южнyй
-#DESCRIPTION Вsеволожsк - мкr.Южнyй
-#SERVICE 4097:0:1:882:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/alexandrovskaya80/index.m3u8:Вsеволожsк - uл.Алекsандrовsка
-#DESCRIPTION Вsеволожsк - uл.Алекsандrовsка
-#SERVICE 4097:0:1:884:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c418.stream/playlist.m3u8:Днепrопеtrовsк - Веб камеrа на
-#DESCRIPTION Днепrопеtrовsк - Веб камеrа на
-#SERVICE 4097:0:1:886:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c76.stream/playlist.m3u8:Днепrопеtrовsк - Екаtеrиноsлав
-#DESCRIPTION Днепrопеtrовsк - Екаtеrиноsлав
-#SERVICE 4097:0:1:888:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c811.stream/playlist.m3u8:Днепrопеtrовsк - Ж/д вокзал
-#DESCRIPTION Днепrопеtrовsк - Ж/д вокзал
-#SERVICE 4097:0:1:890:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c716.stream/playlist.m3u8:Днепrопеtrовsк - Набеrежнаja
-#DESCRIPTION Днепrопеtrовsк - Набеrежнаja
-#SERVICE 4097:0:1:892:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c414.stream/playlist.m3u8:Днепrопеtrовsк - Новyй моst
-#DESCRIPTION Днепrопеtrовsк - Новyй моst
-#SERVICE 4097:0:1:894:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c422.stream/playlist.m3u8:Днепrопеtrовsк - Обзоr
-#DESCRIPTION Днепrопеtrовsк - Обзоr
-#SERVICE 4097:0:1:896:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c425.stream/playlist.m3u8:Днепrопеtrовsк - пл.Геrоев Май
-#DESCRIPTION Днепrопеtrовsк - пл.Геrоев Май
-#SERVICE 4097:0:1:898:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c423.stream/playlist.m3u8:Днепrопеtrовsк - пл.Геrоев Май
-#DESCRIPTION Днепrопеtrовsк - пл.Геrоев Май
-#SERVICE 4097:0:1:900:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam1.m3u8:Донеcк - cam1
-#DESCRIPTION Донеcк - cam1
-#SERVICE 4097:0:1:902:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam2.m3u8:Донеcк - cam2
-#DESCRIPTION Донеcк - cam2
-#SERVICE 4097:0:1:904:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam3.m3u8:Донеcк - cam3
-#DESCRIPTION Донеcк - cam3
-#SERVICE 4097:0:1:906:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam4.m3u8:Донеcк - cam4
-#DESCRIPTION Донеcк - cam4
-#SERVICE 4097:0:1:908:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/zoo_ek_sd.stream:Екаtеrинбurг - Зоопаrк
-#DESCRIPTION Екаtеrинбurг - Зоопаrк
-#SERVICE 4097:0:1:910:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/plot_hd.stream:Екаtеrинбurг - Плоtинка HD
-#DESCRIPTION Екаtеrинбurг - Плоtинка HD
-#SERVICE 4097:0:1:912:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/5goda_hd.stream:Екаtеrинбurг - Плоschад' 1905
-#DESCRIPTION Екаtеrинбurг - Плоschад' 1905
-#SERVICE 4097:0:1:914:0:0:0:0:0:0:rtmp%3a//www.uapa.ru%3a1935/live/hall:Екаtеrинбurг - Холл инstиtutа РА
-#DESCRIPTION Екаtеrинбurг - Холл инstиtutа РА
-#SERVICE 4097:0:1:916:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8:Землja из коsмоsа (ISS HD Earth Viewing
-#DESCRIPTION Землja из коsмоsа (ISS HD Earth Viewing
-#SERVICE 4097:0:1:918:0:0:0:0:0:0:http%3a//91.225.157.3/mstream/zubryonline.stream/index.m3u8:Зuбry (Веб-камеrа)
-#DESCRIPTION Зuбry (Веб-камеrа)
-#SERVICE 4097:0:1:920:0:0:0:0:0:0:rtmp%3a//stream.baikal-online.ru/live/cam2.stream:Иrкutsк -  uл.Конева
-#DESCRIPTION Иrкutsк -  uл.Конева
-#SERVICE 4097:0:1:922:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera07.m3u8:Иrкutsк - Бuл'ваr Рjaбикова 1
-#DESCRIPTION Иrкutsк - Бuл'ваr Рjaбикова 1
-#SERVICE 4097:0:1:924:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera08.m3u8:Иrкutsк - Бuл'ваr Рjaбикова 2
-#DESCRIPTION Иrкutsк - Бuл'ваr Рjaбикова 2
-#SERVICE 4097:0:1:926:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera10.m3u8:Иrкutsк - Вид на плоtинu
-#DESCRIPTION Иrкutsк - Вид на плоtинu
-#SERVICE 4097:0:1:928:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera02.m3u8:Иrкutsк - Сквеr им.Киrова 1
-#DESCRIPTION Иrкutsк - Сквеr им.Киrова 1
-#SERVICE 4097:0:1:930:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera11.m3u8:Иrкutsк - Сквеr им.Киrова 2
-#DESCRIPTION Иrкutsк - Сквеr им.Киrова 2
-#SERVICE 4097:0:1:932:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera06.m3u8:Иrкutsк - uл.Академиchеsкаja
-#DESCRIPTION Иrкutsк - uл.Академиchеsкаja
-#SERVICE 4097:0:1:934:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera03.m3u8:Иrкutsк - uл.Байкал'sкаja
-#DESCRIPTION Иrкutsк - uл.Байкал'sкаja
-#SERVICE 4097:0:1:936:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera09.m3u8:Иrкutsк - uл.Боtкина
-#DESCRIPTION Иrкutsк - uл.Боtкина
-#SERVICE 4097:0:1:938:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera04.m3u8:Иrкutsк - uл.Ленина
-#DESCRIPTION Иrкutsк - uл.Ленина
-#SERVICE 4097:0:1:940:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera01.m3u8:Иrкutsк - uл.Сtепана Разина
-#DESCRIPTION Иrкutsк - uл.Сtепана Разина
-#SERVICE 4097:0:1:942:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam7/stream.m3u8:КИЕВ - Миhайловsкаja плоschад'
-#DESCRIPTION КИЕВ - Миhайловsкаja плоschад'
-#SERVICE 4097:0:1:944:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam5/stream.m3u8:КИЕВ - Развjaзка Кruг
-#DESCRIPTION КИЕВ - Развjaзка Кruг
-#SERVICE 4097:0:1:946:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam4/stream.m3u8:КИЕВ - Таrаsовsкий Пеrеезд
-#DESCRIPTION КИЕВ - Таrаsовsкий Пеrеезд
-#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam0/stream.m3u8:КИЕВ - Тrаssа на Белогоrодкu
-#DESCRIPTION КИЕВ - Тrаssа на Белогоrодкu
-#SERVICE 4097:0:1:950:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam16/stream.m3u8:КИЕВ - ЦРБ
-#DESCRIPTION КИЕВ - ЦРБ
-#SERVICE 4097:0:1:952:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam1/stream.m3u8:КИЕВ - uл.Белогоrодsкаja
-#DESCRIPTION КИЕВ - uл.Белогоrодsкаja
-#SERVICE 4097:0:1:954:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam17/stream.m3u8:КИЕВ - uл.Гоголja
-#DESCRIPTION КИЕВ - uл.Гоголja
-#SERVICE 4097:0:1:956:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam3/stream.m3u8:КИЕВ - uл.Незавиsимоstи
-#DESCRIPTION КИЕВ - uл.Незавиsимоstи
-#SERVICE 4097:0:1:958:0:0:0:0:0:0:http%3a//109.239.208.82/kgdcam2/index.m3u8:Калинингrад - uл.Сеrпuhовsкаja-3
-#DESCRIPTION Калинингrад - uл.Сеrпuhовsкаja-3
-#SERVICE 4097:0:1:960:0:0:0:0:0:0:http%3a//109.239.208.82/kgdcam1/index.m3u8:Калинингrад - uл.Сеrпuhовsкаja-3
-#DESCRIPTION Калинингrад - uл.Сеrпuhовsкаja-3
-#SERVICE 4097:0:1:962:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_125_150.stream/playlist.m3u8:Кеrch' - Вид на Миtrидаt
-#DESCRIPTION Кеrch' - Вид на Миtrидаt
-#SERVICE 4097:0:1:964:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_52_250.stream/playlist.m3u8:Кеrch' - Вид на uл.Самойленко
-#DESCRIPTION Кеrch' - Вид на uл.Самойленко
-#SERVICE 4097:0:1:966:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_110_010.stream/playlist.m3u8:Кеrch' - ДК "Коrабел" (Аrshинcево)
-#DESCRIPTION Кеrch' - ДК "Коrабел" (Аrshинcево)
-#SERVICE 4097:0:1:968:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_84_10.stream/playlist.m3u8:Кеrch' - Моrе Плjaж (Геrоевsкое)
-#DESCRIPTION Кеrch' - Моrе Плjaж (Геrоевsкое)
-#SERVICE 4097:0:1:970:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_125_242.stream/playlist.m3u8:Кеrch' - Набеrежнаja
-#DESCRIPTION Кеrch' - Набеrежнаja
-#SERVICE 4097:0:1:972:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_84_240.stream/playlist.m3u8:Кеrch' - Плоschад' Ленина 1
-#DESCRIPTION Кеrch' - Плоschад' Ленина 1
-#SERVICE 4097:0:1:978:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_125_50.stream/playlist.m3u8:Кеrch' - uл.Киrова
-#DESCRIPTION Кеrch' - uл.Киrова
-#SERVICE 4097:0:1:980:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_74_95.stream/playlist.m3u8:Кеrch' - uл.Ленина
-#DESCRIPTION Кеrch' - uл.Ленина
-#SERVICE 4097:0:1:982:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_74_171.stream/playlist.m3u8:Кеrch' - uл.Ленина оt Поchtового
-#DESCRIPTION Кеrch' - uл.Ленина оt Поchtового
-#SERVICE 4097:0:1:984:0:0:0:0:0:0:http%3a//ipcam.dtkms.ru%3a8081/camera/high/playlist.m3u8:Комsомол'sк на Амurе - Пеrекrеst
-#DESCRIPTION Комsомол'sк на Амurе - Пеrекrеst
-#SERVICE 4097:0:1:986:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001049.m3u8:Кондопога - Ледовyй двоrеc
-#DESCRIPTION Кондопога - Ледовyй двоrеc
-#SERVICE 4097:0:1:988:0:0:0:0:0:0:http%3a//62.213.36.148%3a1935/live/kkd2-bot.stream/chunklist.m3u8:Кrаsноjarsк -  Г/K «Бобrовyй лог»
-#DESCRIPTION Кrаsноjarsк -  Г/K «Бобrовyй лог»
-#SERVICE 4097:0:1:990:0:0:0:0:0:0:http%3a//62.213.36.148%3a1935/live/kkd1-bot.stream/chunklist.m3u8:Кrаsноjarsк -  Г/K «Бобrовyй лог»
-#DESCRIPTION Кrаsноjarsк -  Г/K «Бобrовyй лог»
-#SERVICE 4097:0:1:992:0:0:0:0:0:0:http%3a//lb-sn1.livespotting.tv%3a1935/windit-edge/vv50_720p.stream/chunklist.m3u8:Линдаu (Геrманиja)
-#DESCRIPTION Линдаu (Геrманиja)
-#SERVICE 4097:0:1:994:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge74/smil%3acam74.smil/chunklist_b1300000.m3u8:Лиtва - Балtийsкое моrе
-#DESCRIPTION Лиtва - Балtийsкое моrе
-#SERVICE 4097:0:1:996:0:0:0:0:0:0:http%3a//89.117.128.169%3a80/Palanga/palanga.stream/chunklist.m3u8:Лиtва - Балtийsкое моrе (2)
-#DESCRIPTION Лиtва - Балtийsкое моrе (2)
-#SERVICE 4097:0:1:998:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge227/smil%3acam227.smil/chunklist_b1500000.m3u8:Лиtва - Вид s паrома
-#DESCRIPTION Лиtва - Вид s паrома
-#SERVICE 4097:0:1:1000:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge10/smil%3acam10.smil/chunklist_b1500000.m3u8:Лиtва - Клайпедsкий мол
-#DESCRIPTION Лиtва - Клайпедsкий мол
-#SERVICE 4097:0:1:1002:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge02/smil%3acam02.smil/chunklist_b1500000_slLT.m3u8:Лиtва - Кurshsкий залив - дюна П
-#DESCRIPTION Лиtва - Кurshsкий залив - дюна П
-#SERVICE 4097:0:1:1004:0:0:0:0:0:0:http%3a//89.117.128.169%3a80/Nida/nida.stream/chunklist.m3u8:Лиtва - Яht-клuб
-#DESCRIPTION Лиtва - Яht-клuб
-#SERVICE 4097:0:1:1006:0:0:0:0:0:0:http%3a//89.117.128.169%3a80/Klaipeda/klaipeda.stream/chunklist.m3u8:Лиtва - пл.Анике
-#DESCRIPTION Лиtва - пл.Анике
-#SERVICE 4097:0:1:1008:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_1.stream:Моsква 1
-#DESCRIPTION Моsква 1
-#SERVICE 4097:0:1:1010:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_13.stream:Моsква 10
-#DESCRIPTION Моsква 10
-#SERVICE 4097:0:1:1012:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_11.stream:Моsква 11
-#DESCRIPTION Моsква 11
-#SERVICE 4097:0:1:1014:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_2.stream:Моsква 2
-#DESCRIPTION Моsква 2
-#SERVICE 4097:0:1:1016:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_3.stream:Моsква 3
-#DESCRIPTION Моsква 3
-#SERVICE 4097:0:1:1018:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_4.stream:Моsква 4
-#DESCRIPTION Моsква 4
-#SERVICE 4097:0:1:1020:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_5.stream:Моsква 5
-#DESCRIPTION Моsква 5
-#SERVICE 4097:0:1:1022:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_6.stream:Моsква 6
-#DESCRIPTION Моsква 6
-#SERVICE 4097:0:1:1024:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_7.stream:Моsква 7
-#DESCRIPTION Моsква 7
-#SERVICE 4097:0:1:1026:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_9.stream:Моsква 8
-#DESCRIPTION Моsква 8
-#SERVICE 4097:0:1:1028:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_10.stream:Моsква 9
-#DESCRIPTION Моsква 9
-#SERVICE 4097:0:1:1030:0:0:0:0:0:0:http%3a//intek-m.ru/hls/koltso_perl.m3u8:Мytиschи - МКАД В''езд в Пеrловк
-#DESCRIPTION Мytиschи - МКАД В''езд в Пеrловк
-#SERVICE 4097:0:1:1032:0:0:0:0:0:0:http%3a//intek-m.ru/hls/yaroslavskoye_sh_2.m3u8:Мytиschи - Пеrеsеchение uл.Каrгин
-#DESCRIPTION Мytиschи - Пеrеsеchение uл.Каrгин
-#SERVICE 4097:0:1:1038:0:0:0:0:0:0:http%3a//intek-m.ru/hls/novomyt_komar.m3u8:Мytиschи - Пеrеsеchение uл.Комаrо
-#DESCRIPTION Мytиschи - Пеrеsеchение uл.Комаrо
-#SERVICE 4097:0:1:1040:0:0:0:0:0:0:http%3a//intek-m.ru/hls/novomytischinskiy.m3u8:Мytиschи - Пеrеsеchение uл.Миrа и
-#DESCRIPTION Мytиschи - Пеrеsеchение uл.Миrа и
-#SERVICE 4097:0:1:1042:0:0:0:0:0:0:http%3a//intek-m.ru/hls/semashko.m3u8:Мytиschи - Яrоsлавsкое shоssе ТРЦ
-#DESCRIPTION Мytиschи - Яrоsлавsкое shоssе ТРЦ
-#SERVICE 4097:0:1:1048:0:0:0:0:0:0:http%3a//intek-m.ru/hls/blagoveschenskaya.m3u8:Мytиschи - uл.Благовеschенsкаja 5
-#DESCRIPTION Мytиschи - uл.Благовеschенsкаja 5
-#SERVICE 4097:0:1:1050:0:0:0:0:0:0:http%3a//intek-m.ru/hls/krasnoarmeyskaya.m3u8:Мytиschи - uл.Кrаsноаrмейsкаja
-#DESCRIPTION Мytиschи - uл.Кrаsноаrмейsкаja
-#SERVICE 4097:0:1:1052:0:0:0:0:0:0:http%3a//intek-m.ru/hls/mira_dk.m3u8:Мytиschи - uл.Миrа.Двоrеc Кuл'tury
-#DESCRIPTION Мytиschи - uл.Миrа.Двоrеc Кuл'tury
-#SERVICE 4097:0:1:1054:0:0:0:0:0:0:http%3a//intek-m.ru/hls/trudovoi.m3u8:Мytиschи - uл.Тruдоваja
-#DESCRIPTION Мytиschи - uл.Тruдоваja
-#SERVICE 4097:0:1:1056:0:0:0:0:0:0:http%3a//scheef.mine.nu%3a80/live/sys1.stream/.m3u8:Новоsибиrsк 1
-#DESCRIPTION Новоsибиrsк 1
-#SERVICE 4097:0:1:1074:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_13/playlist.m3u8:Новоsибиrsк 10
-#DESCRIPTION Новоsибиrsк 10
-#SERVICE 4097:0:1:1076:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_14/playlist.m3u8:Новоsибиrsк 11
-#DESCRIPTION Новоsибиrsк 11
-#SERVICE 4097:0:1:1078:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_15/playlist.m3u8:Новоsибиrsк 12
-#DESCRIPTION Новоsибиrsк 12
-#SERVICE 4097:0:1:1080:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_16/playlist.m3u8:Новоsибиrsк 13
-#DESCRIPTION Новоsибиrsк 13
-#SERVICE 4097:0:1:1082:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_17/playlist.m3u8:Новоsибиrsк 14
-#DESCRIPTION Новоsибиrsк 14
-#SERVICE 4097:0:1:1084:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_7/playlist.m3u8:Новоsибиrsк 15
-#DESCRIPTION Новоsибиrsк 15
-#SERVICE 4097:0:1:1086:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_6/playlist.m3u8:Новоsибиrsк 16
-#DESCRIPTION Новоsибиrsк 16
-#SERVICE 4097:0:1:1088:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_4/playlist.m3u8:Новоsибиrsк 17
-#DESCRIPTION Новоsибиrsк 17
-#SERVICE 4097:0:1:1090:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_3/playlist.m3u8:Новоsибиrsк 18
-#DESCRIPTION Новоsибиrsк 18
-#SERVICE 4097:0:1:1092:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_1/playlist.m3u8:Новоsибиrsк 19
-#DESCRIPTION Новоsибиrsк 19
-#SERVICE 4097:0:1:1094:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_2/playlist.m3u8:Новоsибиrsк 2
-#DESCRIPTION Новоsибиrsк 2
-#SERVICE 4097:0:1:1096:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_3/playlist.m3u8:Новоsибиrsк 3
-#DESCRIPTION Новоsибиrsк 3
-#SERVICE 4097:0:1:1098:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_5/playlist.m3u8:Новоsибиrsк 4
-#DESCRIPTION Новоsибиrsк 4
-#SERVICE 4097:0:1:1100:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_6/playlist.m3u8:Новоsибиrsк 5
-#DESCRIPTION Новоsибиrsк 5
-#SERVICE 4097:0:1:1102:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_7/playlist.m3u8:Новоsибиrsк 6
-#DESCRIPTION Новоsибиrsк 6
-#SERVICE 4097:0:1:1104:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_8/playlist.m3u8:Новоsибиrsк 7
-#DESCRIPTION Новоsибиrsк 7
-#SERVICE 4097:0:1:1106:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_9/playlist.m3u8:Новоsибиrsк 8
-#DESCRIPTION Новоsибиrsк 8
-#SERVICE 4097:0:1:1108:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_11/playlist.m3u8:Новоsибиrsк 9
-#DESCRIPTION Новоsибиrsк 9
-#SERVICE 4097:0:1:1110:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Gazodob/index.m3u8:Новyй Уrенгой - Газодобytchик
-#DESCRIPTION Новyй Уrенгой - Газодобytchик
-#SERVICE 4097:0:1:1112:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Gor_pl/index.m3u8:Новyй Уrенгой - Гоrодsкаja плоs
-#DESCRIPTION Новyй Уrенгой - Гоrодsкаja плоs
-#SERVICE 4097:0:1:1114:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Obezdnaya/index.m3u8:Новyй Уrенгой - Об'езднаja
-#DESCRIPTION Новyй Уrенгой - Об'езднаja
-#SERVICE 4097:0:1:1116:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Pl_pamyati/index.m3u8:Новyй Уrенгой - Плоschад' памjat
-#DESCRIPTION Новyй Уrенгой - Плоschад' памjat
-#SERVICE 4097:0:1:1118:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Pr-t_Len/index.m3u8:Новyй Уrенгой - Пr-t Ленингrадs
-#DESCRIPTION Новyй Уrенгой - Пr-t Ленингrадs
-#SERVICE 4097:0:1:1120:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Pr-t_Gubkina/index.m3u8:Новyй Уrенгой - Севеrнаja chаst'
-#DESCRIPTION Новyй Уrенгой - Севеrнаja chаst'
-#SERVICE 4097:0:1:1124:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/26-syezda/index.m3u8:Новyй Уrенгой - uл.26 s'езда
-#DESCRIPTION Новyй Уrенгой - uл.26 s'езда
-#SERVICE 4097:0:1:1126:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Geologov/index.m3u8:Оленегоrsк 1
-#DESCRIPTION Оленегоrsк 1
-#SERVICE 4097:0:1:1130:0:0:0:0:0:0:http%3a//95.182.112.19%3a8100/hls/camera2.m3u8:Оленегоrsк 2
-#DESCRIPTION Оленегоrsк 2
-#SERVICE 4097:0:1:1132:0:0:0:0:0:0:http%3a//95.182.112.19%3a8100/hls/camera3.m3u8:Оленегоrsк 3
-#DESCRIPTION Оленегоrsк 3
-#SERVICE 4097:0:1:1134:0:0:0:0:0:0:http%3a//95.182.112.19%3a8100/hls/camera4.m3u8:Оленегоrsк 4
-#DESCRIPTION Оленегоrsк 4
-#SERVICE 4097:0:1:1136:0:0:0:0:0:0:http%3a//171.25.232.18%3a8081/hls/8QUjLUTGdlbg8iydMjP3uZWUiz5DlY/index.m3u8:Оstrов
-#DESCRIPTION Оstrов
-#SERVICE 4097:0:1:1138:0:0:0:0:0:0:http%3a//91.234.1.2/hls/internat1.m3u8:Пеrеjasлав-Хмел'ниcкий - Інtеrн
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Інtеrн
-#SERVICE 4097:0:1:1140:0:0:0:0:0:0:http%3a//91.234.1.2/hls/internat2.m3u8:Пеrеjasлав-Хмел'ниcкий - Інtеrн
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Інtеrн
-#SERVICE 4097:0:1:1142:0:0:0:0:0:0:http%3a//91.234.1.2/hls/adrenalin.m3u8:Пеrеjasлав-Хмел'ниcкий - Вокза
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Вокза
-#SERVICE 4097:0:1:1146:0:0:0:0:0:0:http%3a//91.234.1.2/hls/shevchenko.m3u8:Пеrеjasлав-Хмел'ниcкий - Гімна
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Гімна
-#SERVICE 4097:0:1:1148:0:0:0:0:0:0:http%3a//91.234.1.2/hls/sone4ko.m3u8:Пеrеjasлав-Хмел'ниcкий - Диtsад
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Диtsад
-#SERVICE 4097:0:1:1150:0:0:0:0:0:0:http%3a//91.234.1.2/hls/sadok7.m3u8:Пеrеjasлав-Хмел'ниcкий - Диtsад
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Диtsад
-#SERVICE 4097:0:1:1152:0:0:0:0:0:0:http%3a//91.234.1.2/hls/dibrova.m3u8:Пеrеjasлав-Хмел'ниcкий - Кrиtий
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Кrиtий
-#SERVICE 4097:0:1:1156:0:0:0:0:0:0:http%3a//91.234.1.2/hls/center.m3u8:Пеrеjasлав-Хмел'ниcкий - Ценtrа
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Ценtrа
-#SERVICE 4097:0:1:1158:0:0:0:0:0:0:http%3a//91.234.1.2/hls/school1.m3u8:Пеrеjasлав-Хмел'ниcкий - Школа
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Школа
-#SERVICE 4097:0:1:1160:0:0:0:0:0:0:http%3a//91.234.1.2/hls/school4.m3u8:Пеrеjasлав-Хмел'ниcкий - Школа
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Школа
-#SERVICE 4097:0:1:1162:0:0:0:0:0:0:http%3a//91.234.1.2/hls/school7.m3u8:Пеrеjasлав-Хмел'ниcкий - Школа
-#DESCRIPTION Пеrеjasлав-Хмел'ниcкий - Школа
-#SERVICE 4097:0:1:1164:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001583.m3u8:Пеtrозаводsк - Белyй кrолик
-#DESCRIPTION Пеtrозаводsк - Белyй кrолик
-#SERVICE 4097:0:1:1166:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001339.m3u8:Пеtrозаводsк - Бuмажников uл. -
-#DESCRIPTION Пеtrозаводsк - Бuмажников uл. -
-#SERVICE 4097:0:1:1168:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000001415.m3u8:Пеtrозаводsк - Ваrкаusа наб. - М
-#DESCRIPTION Пеtrозаводsк - Ваrкаusа наб. - М
-#SERVICE 4097:0:1:1170:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001391.m3u8:Пеtrозаводsк - Веrhнее chапаевs
-#DESCRIPTION Пеtrозаводsк - Веrhнее chапаевs
-#SERVICE 4097:0:1:1172:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001471.m3u8:Пеtrозаводsк - Гипеrбоrеja - пr.
-#DESCRIPTION Пеtrозаводsк - Гипеrбоrеja - пr.
-#SERVICE 4097:0:1:1174:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001383.m3u8:Пеtrозаводsк - Двоrеc Иsкusstв
-#DESCRIPTION Пеtrозаводsк - Двоrеc Иsкusstв
-#SERVICE 4097:0:1:1176:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001101.m3u8:Пеtrозаводsк - Деtsкаja плоschад
-#DESCRIPTION Пеtrозаводsк - Деtsкаja плоschад
-#SERVICE 4097:0:1:1178:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001353.m3u8:Пеtrозаводsк - Деtsкаja плоschад
-#DESCRIPTION Пеtrозаводsк - Деtsкаja плоschад
-#SERVICE 4097:0:1:1180:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000418.m3u8:Пеtrозаводsк - Деtsкаja плоschад
-#DESCRIPTION Пеtrозаводsк - Деtsкаja плоschад
-#SERVICE 4097:0:1:1182:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000192.m3u8:Пеtrозаводsк - Еноtовиднyе sоб
-#DESCRIPTION Пеtrозаводsк - Еноtовиднyе sоб
-#SERVICE 4097:0:1:1186:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001359.m3u8:Пеtrозаводsк - Калинина uл. - П
-#DESCRIPTION Пеtrозаводsк - Калинина uл. - П
-#SERVICE 4097:0:1:1188:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001351.m3u8:Пеtrозаводsк - Кuкковsкое кол'
-#DESCRIPTION Пеtrозаводsк - Кuкковsкое кол'
-#SERVICE 4097:0:1:1198:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001097.m3u8:Пеtrозаводsк - Ледовyй двоrеc L
-#DESCRIPTION Пеtrозаводsк - Ледовyй двоrеc L
-#SERVICE 4097:0:1:1200:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001099.m3u8:Пеtrозаводsк - Ледовyй двоrеc L
-#DESCRIPTION Пеtrозаводsк - Ледовyй двоrеc L
-#SERVICE 4097:0:1:1202:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001591.m3u8:Пеtrозаводsк - Ледовyй двоrеc L
-#DESCRIPTION Пеtrозаводsк - Ледовyй двоrеc L
-#SERVICE 4097:0:1:1204:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001425.m3u8:Пеtrозаводsк - Ленингrадsкаja u
-#DESCRIPTION Пеtrозаводsк - Ленингrадsкаja u
-#SERVICE 4097:0:1:1206:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001429.m3u8:Пеtrозаводsк - Меленt'евой uл.
-#DESCRIPTION Пеtrозаводsк - Меленt'евой uл.
-#SERVICE 4097:0:1:1208:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001427.m3u8:Пеtrозаводsк - Моsковsкаja uл. -
-#DESCRIPTION Пеtrозаводsк - Моsковsкаja uл. -
-#SERVICE 4097:0:1:1210:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000103.m3u8:Пеtrозаводsк - Набеrежнаja Оне
-#DESCRIPTION Пеtrозаводsк - Набеrежнаja Оне
-#SERVICE 4097:0:1:1212:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001355.m3u8:Пеtrозаводsк - Новокиrпиchнаja
-#DESCRIPTION Пеtrозаводsк - Новокиrпиchнаja
-#SERVICE 4097:0:1:1214:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001361.m3u8:Пеtrозаводsк - Оtкrytаja hоккейн
-#DESCRIPTION Пеtrозаводsк - Оtкrytаja hоккейн
-#SERVICE 4097:0:1:1220:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000089.m3u8:Пеtrозаводsк - Памjatник О.В.Кuu
-#DESCRIPTION Пеtrозаводsк - Памjatник О.В.Кuu
-#SERVICE 4097:0:1:1222:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001357.m3u8:Пеtrозаводsк - Пеrекrеstок пr.А.
-#DESCRIPTION Пеtrозаводsк - Пеrекrеstок пr.А.
-#SERVICE 4097:0:1:1228:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000000973.m3u8:Пеtrозаводsк - Пеrекrеstок uл.Дr
-#DESCRIPTION Пеtrозаводsк - Пеrекrеstок uл.Дr
-#SERVICE 4097:0:1:1254:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001039.m3u8:Пеtrозаводsк - Пеrекrеstок uл.Кr
-#DESCRIPTION Пеtrозаводsк - Пеrекrеstок uл.Кr
-#SERVICE 4097:0:1:1256:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001379.m3u8:Пеtrозаводsк - Пеrекrеstок uл.Лy
-#DESCRIPTION Пеtrозаводsк - Пеrекrеstок uл.Лy
-#SERVICE 4097:0:1:1258:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001237.m3u8:Пеtrозаводsк - Пеrекrеstок uл.Лy
-#DESCRIPTION Пеtrозаводsк - Пеrекrеstок uл.Лy
-#SERVICE 4097:0:1:1260:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000000969.m3u8:Пеtrозаводsк - Пеshеhоднyй пеrе
-#DESCRIPTION Пеtrозаводsк - Пеshеhоднyй пеrе
-#SERVICE 4097:0:1:1276:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000088.m3u8:Пеtrозаводsк - Плоschад' Киrова
-#DESCRIPTION Пеtrозаводsк - Плоschад' Киrова
-#SERVICE 4097:0:1:1278:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001657.m3u8:Пеtrозаводsк - Плоschад' Киrова
-#DESCRIPTION Пеtrозаводsк - Плоschад' Киrова
-#SERVICE 4097:0:1:1280:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001615.m3u8:Пеtrозаводsк - Плоschад' Киrова
-#DESCRIPTION Пеtrозаводsк - Плоschад' Киrова
-#SERVICE 4097:0:1:1282:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001341.m3u8:Пеtrозаводsк - Плоschад' Миrа
-#DESCRIPTION Пеtrозаводsк - Плоschад' Миrа
-#SERVICE 4097:0:1:1286:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001365.m3u8:Пеtrозаводsк - Пrолеtаrsкаja uл.
-#DESCRIPTION Пеtrозаводsк - Пrолеtаrsкаja uл.
-#SERVICE 4097:0:1:1288:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001345.m3u8:Пеtrозаводsк - Пrолеtаrsкаja uл.
-#DESCRIPTION Пеtrозаводsк - Пrолеtаrsкаja uл.
-#SERVICE 4097:0:1:1290:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000000521.m3u8:Пеtrозаводsк - Сtадион Юноst'
-#DESCRIPTION Пеtrозаводsк - Сtадион Юноst'
-#SERVICE 4097:0:1:1294:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001531.m3u8:Пеtrозаводsк - Улиcа Гваrдейsк
-#DESCRIPTION Пеtrозаводsк - Улиcа Гваrдейsк
-#SERVICE 4097:0:1:1298:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001533.m3u8:Пеtrозаводsк - uл.Паrhоменко
-#DESCRIPTION Пеtrозаводsк - uл.Паrhоменко
-#SERVICE 4097:0:1:1302:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/pysanka/pysanka.m3u8:Пиsанка UA
-#DESCRIPTION Пиsанка UA
-#SERVICE 4097:0:1:1304:0:0:0:0:0:0:http%3a//109.94.1.15%3a8080/hls/25255/413990ea2c2266fe29b8/playlist.m3u8:Подол'sк - Рyнок
-#DESCRIPTION Подол'sк - Рyнок
-#SERVICE 4097:0:1:1306:0:0:0:0:0:0:http%3a//109.94.1.15%3a8080/hls/12803/9dda6acfb79ff9279b95/playlist.m3u8:Подол'sк - Сквеr
-#DESCRIPTION Подол'sк - Сквеr
-#SERVICE 4097:0:1:1308:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/Polevskoj.2mkr-36bb48610c/mono.m3u8:Полевsкой 2мкr
-#DESCRIPTION Полевsкой 2мкr
-#SERVICE 4097:0:1:1310:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/Polevskoj.Karla.Marksa.6a-b863fadf8b/mono.m3u8:Полевsкой Каrла Маrкsа 6а
-#DESCRIPTION Полевsкой Каrла Маrкsа 6а
-#SERVICE 4097:0:1:1312:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/a502c4d9-d320-4007-a03a-95158cd0ff34/mono.m3u8:Полевsкой Коммuниstиchеsкаja 30
-#DESCRIPTION Полевsкой Коммuниstиchеsкаja 30
-#SERVICE 4097:0:1:1314:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/d16c8e89-0ca1-4c5c-ad84-f657f93fb5ef/mono.m3u8:Полевsкой Плоschад' Ленина
-#DESCRIPTION Полевsкой Плоschад' Ленина
-#SERVICE 4097:0:1:1316:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/7e7cb479-4f36-4ebf-9177-f1fea1050d8d/mono.m3u8:Полевsкой плоschад' Солдаtа
-#DESCRIPTION Полевsкой плоschад' Солдаtа
-#SERVICE 4097:0:1:1318:0:0:0:0:0:0:http%3a//stream.aftenbladet.no%3a1935/live/dsd2.stream/chunklist.m3u8:Поrt г.Сtавангеr (Ноrвегиja)
-#DESCRIPTION Поrt г.Сtавангеr (Ноrвегиja)
-#SERVICE 4097:0:1:1320:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam12/index.m3u8:Пsков - Деtsкий паrк
-#DESCRIPTION Пsков - Деtsкий паrк
-#SERVICE 4097:0:1:1322:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam13/index.m3u8:Пsков - Золоtаja набеrежнаja
-#DESCRIPTION Пsков - Золоtаja набеrежнаja
-#SERVICE 4097:0:1:1326:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam15/index.m3u8:Пsков - Леtний sад
-#DESCRIPTION Пsков - Леtний sад
-#SERVICE 4097:0:1:1328:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam1/index.m3u8:Пsков - Окtjaбr'sкаja плоschад'
-#DESCRIPTION Пsков - Окtjaбr'sкаja плоschад'
-#SERVICE 4097:0:1:1330:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam2/index.m3u8:Пsков - Ол'гинsкий моst
-#DESCRIPTION Пsков - Ол'гинsкий моst
-#SERVICE 4097:0:1:1332:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam16/index.m3u8:Пsков - Пеrекrеstок Инженеrной
-#DESCRIPTION Пsков - Пеrекrеstок Инженеrной
-#SERVICE 4097:0:1:1334:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam11/index.m3u8:Пsков - Пеrекrеstок Рижsкого и
-#DESCRIPTION Пsков - Пеrекrеstок Рижsкого и
-#SERVICE 4097:0:1:1336:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam4/index.m3u8:Пsков - Пеrекrеstок uл.Коммuнал
-#DESCRIPTION Пsков - Пеrекrеstок uл.Коммuнал
-#SERVICE 4097:0:1:1338:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam7/index.m3u8:Пsков - Пеrекrеstок uл.Коммuнал
-#DESCRIPTION Пsков - Пеrекrеstок uл.Коммuнал
-#SERVICE 4097:0:1:1340:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam10/index.m3u8:Пsков - Пеrекrеstок uл.Тruда и uл
-#DESCRIPTION Пsков - Пеrекrеstок uл.Тruда и uл
-#SERVICE 4097:0:1:1344:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam8/index.m3u8:Пsков - Плоschад' Ленина
-#DESCRIPTION Пsков - Плоschад' Ленина
-#SERVICE 4097:0:1:1348:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam5/index.m3u8:Пsков - Плоschад' победy
-#DESCRIPTION Пsков - Плоschад' победy
-#SERVICE 4097:0:1:1350:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam6/index.m3u8:Пsков - Пrивокзал'наja плоschад
-#DESCRIPTION Пsков - Пrивокзал'наja плоschад
+#SERVICE 4097:0:1:636:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/12619575/streams/live/iphone/playlist.m3u8:AMERICA CAMERA
+#DESCRIPTION AMERICA CAMERA
+#SERVICE 4097:0:1:638:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy14/index.m3u8:Aktau - Beerg Cuspia 14 micron
+#DESCRIPTION Aktau - Beerg Cuspia 14 micron
+#SERVICE 4097:0:1:640:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy15/index.m3u8:Aktau - Beerg Cuspia 15 micron
+#DESCRIPTION Aktau - Beerg Cuspia 15 micron
+#SERVICE 4097:0:1:642:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy5/index.m3u8:Aktau - Beerg Cuspia 5/7 micron
+#DESCRIPTION Aktau - Beerg Cuspia 5/7 micron
+#SERVICE 4097:0:1:644:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/yntymak/index.m3u8:Акtаu - The Old City
+#DESCRIPTION Акtаu - The Old City
+#SERVICE 4097:0:1:646:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/dramteatr/index.m3u8:Акtаu - DramteTrans
+#DESCRIPTION Акtаu - DramteTrans
+#SERVICE 4097:0:1:648:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/downtown/index.m3u8:Акtаu - Lower Regions
+#DESCRIPTION Акtаu - Lower Regions
+#SERVICE 4097:0:1:650:0:0:0:0:0:0:http%3a//91.222.91.7%3a8080/hls/cam1-512k/index.m3u8:Web Camera 1
+#DESCRIPTION Web Camera 1
+#SERVICE 4097:0:1:652:0:0:0:0:0:0:http%3a//91.222.91.7%3a8080/hls2/cam2-512k/index.m3u8:Web Camera 2
+#DESCRIPTION Web Camera 2
+#SERVICE 4097:0:1:654:0:0:0:0:0:0:http%3a//185.117.144.194%3a1935/cam_yan/mp4%3acam_yan.stream/playlist.m3u8:Al'met'evsk
+#DESCRIPTION Al'met'evsk
+#SERVICE 4097:0:1:656:0:0:0:0:0:0:http%3a//90.190.106.91%3a80/tlnzoo/cam7626/chunklist.m3u8:Armyansk - DK "Titan"
+#DESCRIPTION Armyansk - DK "Titan"
+#SERVICE 4097:0:1:662:0:0:0:0:0:0:rtmp%3a//81.200.144.3%3a1935/cam3/stream:Аrtем - Kol'co
+#DESCRIPTION Аrtем - Kol'co
+#SERVICE 4097:0:1:664:0:0:0:0:0:0:rtmp%3a//81.200.144.3%3a1935/cam1/stream:Аrtем - Plotschad' Lenin
+#DESCRIPTION Аrtем - Plotschad' Lenin
+#SERVICE 4097:0:1:666:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/nk/nk.stream/playlist.m3u8:Africa 1
+#DESCRIPTION Africa 1
+#SERVICE 4097:0:1:668:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/id/id.stream/playlist.m3u8:Africa 2
+#DESCRIPTION Africa 2
+#SERVICE 4097:0:1:670:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/tm/tm.stream/playlist.m3u8:Africa 3
+#DESCRIPTION Africa 3
+#SERVICE 4097:0:1:672:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/na/na.stream/playlist.m3u8:Africa 4
+#DESCRIPTION Africa 4
+#SERVICE 4097:0:1:674:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/rc/rc.stream/playlist.m3u8:Africa 5
+#DESCRIPTION Africa 5
+#SERVICE 4097:0:1:676:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive/cgnC8409D.stream:Аerопоrt Kel'n/Bonn
+#DESCRIPTION Аerопоrt Kel'n/Bonn
+#SERVICE 4097:0:1:678:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/megagrinn.m3u8:Belgorod - Mega Grinn
+#DESCRIPTION Belgorod - Mega Grinn
+#SERVICE 4097:0:1:680:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/gubkina.m3u8:Belgorod - Shortcut Gubkin
+#DESCRIPTION Belgorod - Shortcut Gubkin
+#SERVICE 4097:0:1:682:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/mayak.m3u8:Belgorod - Univermag Maja
+#DESCRIPTION Belgorod - Univermag Maja
+#SERVICE 4097:0:1:684:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/filarmoniya.m3u8:Belgorod - Torture
+#DESCRIPTION Belgorod - Torture
+#SERVICE 4097:0:1:686:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biysk 1
+#DESCRIPTION Biysk 1
+#SERVICE 4097:0:1:688:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/180934/53663534f98f5479c774/playlist.m3u8:Biysk 10
+#DESCRIPTION Biysk 10
+#SERVICE 4097:0:1:690:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8:Biysk 11
+#DESCRIPTION Biysk 11
+#SERVICE 4097:0:1:692:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8:Biysk 12
+#DESCRIPTION Biysk 12
+#SERVICE 4097:0:1:694:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8:Biysk 13
+#DESCRIPTION Biysk 13
+#SERVICE 4097:0:1:696:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8:Biysk 14
+#DESCRIPTION Biysk 14
+#SERVICE 4097:0:1:698:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8:Biysk 15
+#DESCRIPTION Biysk 15
+#SERVICE 4097:0:1:700:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8:Biysk 16
+#DESCRIPTION Biysk 16
+#SERVICE 4097:0:1:702:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8:Biysk 17
+#DESCRIPTION Biysk 17
+#SERVICE 4097:0:1:704:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8:Biysk 18
+#DESCRIPTION Biysk 18
+#SERVICE 4097:0:1:706:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8:Biysk 19
+#DESCRIPTION Biysk 19
+#SERVICE 4097:0:1:708:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8:Biysk 2
+#DESCRIPTION Biysk 2
+#SERVICE 4097:0:1:710:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/355630/382e019f2610439ffb91/playlist.m3u8:Biysk 20
+#DESCRIPTION Biysk 20
+#SERVICE 4097:0:1:712:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8:Biysk 21
+#DESCRIPTION Biysk 21
+#SERVICE 4097:0:1:714:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8:Biysk 22
+#DESCRIPTION Biysk 22
+#SERVICE 4097:0:1:716:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8:Biysk 23
+#DESCRIPTION Biysk 23
+#SERVICE 4097:0:1:718:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8:Biysk 24
+#DESCRIPTION Biysk 24
+#SERVICE 4097:0:1:720:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8:Biysk 25
+#DESCRIPTION Biysk 25
+#SERVICE 4097:0:1:722:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biysk 26
+#DESCRIPTION Biysk 26
+#SERVICE 4097:0:1:724:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8:Biysk 27
+#DESCRIPTION Biysk 27
+#SERVICE 4097:0:1:726:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8:Biysk 28
+#DESCRIPTION Biysk 28
+#SERVICE 4097:0:1:728:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8:Biysk 29
+#DESCRIPTION Biysk 29
+#SERVICE 4097:0:1:730:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/230453/178c952b7d1869584d04/playlist.m3u8:Biysk 3
+#DESCRIPTION Biysk 3
+#SERVICE 4097:0:1:732:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8:Biysk 30
+#DESCRIPTION Biysk 30
+#SERVICE 4097:0:1:734:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8:Biysk 31
+#DESCRIPTION Biysk 31
+#SERVICE 4097:0:1:736:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8:Biysk 32
+#DESCRIPTION Biysk 32
+#SERVICE 4097:0:1:738:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8:Biysk 33
+#DESCRIPTION Biysk 33
+#SERVICE 4097:0:1:740:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/16855/a821b71440124e5914d9/playlist.m3u8:Biysk 34
+#DESCRIPTION Biysk 34
+#SERVICE 4097:0:1:742:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8:Biysk 35
+#DESCRIPTION Biysk 35
+#SERVICE 4097:0:1:744:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/178548/d46267d245a243786377/playlist.m3u8:Biysk 36
+#DESCRIPTION Biysk 36
+#SERVICE 4097:0:1:746:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8:Biysk 37
+#DESCRIPTION Biysk 37
+#SERVICE 4097:0:1:748:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8:Biysk 38
+#DESCRIPTION Biysk 38
+#SERVICE 4097:0:1:750:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8:Biysk 39
+#DESCRIPTION Biysk 39
+#SERVICE 4097:0:1:752:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8:Biysk 4
+#DESCRIPTION Biysk 4
+#SERVICE 4097:0:1:754:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8:Biysk 40
+#DESCRIPTION Biysk 40
+#SERVICE 4097:0:1:756:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8:Biysk 41
+#DESCRIPTION Biysk 41
+#SERVICE 4097:0:1:758:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/5/452e70cecbafe495920d/playlist.m3u8:Biysk 42
+#DESCRIPTION Biysk 42
+#SERVICE 4097:0:1:760:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8:Biysk 43
+#DESCRIPTION Biysk 43
+#SERVICE 4097:0:1:762:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/348492/c710a58231a641930eb2/playlist.m3u8:Biysk 44
+#DESCRIPTION Biysk 44
+#SERVICE 4097:0:1:764:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8:Biysk 45
+#DESCRIPTION Biysk 45
+#SERVICE 4097:0:1:766:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8:Biysk 46
+#DESCRIPTION Biysk 46
+#SERVICE 4097:0:1:768:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8:Biysk 47
+#DESCRIPTION Biysk 47
+#SERVICE 4097:0:1:770:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8:Biysk 48
+#DESCRIPTION Biysk 48
+#SERVICE 4097:0:1:772:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/74202/a97bfc864469641845da/playlist.m3u8:Biysk 49
+#DESCRIPTION Biysk 49
+#SERVICE 4097:0:1:774:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8:Biysk 5
+#DESCRIPTION Biysk 5
+#SERVICE 4097:0:1:776:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8:Biysk 50
+#DESCRIPTION Biysk 50
+#SERVICE 4097:0:1:778:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8:Biysk 51
+#DESCRIPTION Biysk 51
+#SERVICE 4097:0:1:780:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/747833/941160d961d57bd8aeb4/playlist.m3u8:Biysk 52
+#DESCRIPTION Biysk 52
+#SERVICE 4097:0:1:782:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/201962/2b4939cb9ede5c4831c8/playlist.m3u8:Biysk 53
+#DESCRIPTION Biysk 53
+#SERVICE 4097:0:1:784:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/291366/070a3f9cc80cc3412bc8/playlist.m3u8:Biysk 54
+#DESCRIPTION Biysk 54
+#SERVICE 4097:0:1:786:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/111452/1da81c9482a53f2713de/playlist.m3u8:Biysk 55
+#DESCRIPTION Biysk 55
+#SERVICE 4097:0:1:788:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/187766/c8ac630191fa68293ee4/playlist.m3u8:Biysk 56
+#DESCRIPTION Biysk 56
+#SERVICE 4097:0:1:790:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/262003/488d2a22430cc517594c/playlist.m3u8:Biysk 57
+#DESCRIPTION Biysk 57
+#SERVICE 4097:0:1:792:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/811131/cb726aaabd6774a499c4/playlist.m3u8:Biysk 58
+#DESCRIPTION Biysk 58
+#SERVICE 4097:0:1:794:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/489676/bbe69ba894578db7d79b/playlist.m3u8:Biysk 59
+#DESCRIPTION Biysk 59
+#SERVICE 4097:0:1:796:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8:Biysk 6
+#DESCRIPTION Biysk 6
+#SERVICE 4097:0:1:798:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/488180/766d7dcab64aa5a59f4b/playlist.m3u8:Biysk 60
+#DESCRIPTION Biysk 60
+#SERVICE 4097:0:1:800:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615836/ea200b79cfe81f8b9ab8/playlist.m3u8:Biysk 7
+#DESCRIPTION Biysk 7
+#SERVICE 4097:0:1:802:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/902370/67d5e778ca124e000717/playlist.m3u8:Biysk 8
+#DESCRIPTION Biysk 8
+#SERVICE 4097:0:1:804:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11184/ca1fad7866c9e129ebb5/playlist.m3u8:Biysk 9
+#DESCRIPTION Biysk 9
+#SERVICE 4097:0:1:806:0:0:0:0:0:0:http%3a//195.14.118.60%3a1935/rtplive2/camera51-okc.stream/index.m3u8:Blagoveshchensk - OCT
+#DESCRIPTION Blagoveshchensk - OCT
+#SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//195.14.118.60%3a1935/rtplive2/camera43-lenina.stream/index.m3u8:Blagoveshchensk - Plotschad' Leni
+#DESCRIPTION Blagoveshchensk - Plotschad' Leni
+#SERVICE 4097:0:1:810:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/21_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Bucovel'sка
+#DESCRIPTION Bucovel' (Carpathians) - Bucovel'sка
+#SERVICE 4097:0:1:812:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/23_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Web-camera
+#DESCRIPTION Bucovel' (Carpathians) - Web-camera
+#SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/07_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
+#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
+#SERVICE 4097:0:1:816:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/10_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
+#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
+#SERVICE 4097:0:1:818:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/20_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
+#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
+#SERVICE 4097:0:1:820:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/04_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
+#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
+#SERVICE 4097:0:1:822:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/13_panasonic_1.stream/chunklist.m3u8:Bucovel' (Carpathians) - View on mountain
+#DESCRIPTION Bucovel' (Carpathians) - View on mountain
+#SERVICE 4097:0:1:824:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/12_panasonic_1.stream/chunklist.m3u8:Bucovel' (Carpathians) - Detskaya flat
+#DESCRIPTION Bucovel' (Carpathians) - Detskaya flat
+#SERVICE 4097:0:1:826:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/36_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Cautoc
+#DESCRIPTION Bucovel' (Carpathians) - Cautoc
+#SERVICE 4097:0:1:830:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/05_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Каfе Bugi.L
+#DESCRIPTION Bucovel' (Carpathians) - Каfе Bugi.L
+#SERVICE 4097:0:1:832:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/06_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Lower apartment
+#DESCRIPTION Bucovel' (Carpathians) - Lower apartment
+#SERVICE 4097:0:1:834:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/11_panasonic_1.stream/chunklist.m3u8:Bucovel' (Carpathians) - Lower apartment
+#DESCRIPTION Bucovel' (Carpathians) - Lower apartment
+#SERVICE 4097:0:1:836:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/19_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Tracks 5B
+#DESCRIPTION Bucovel' (Carpathians) - Tracks 5B
+#SERVICE 4097:0:1:842:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/08_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Tracks 14А
+#DESCRIPTION Bucovel' (Carpathians) - Tracks 14А
+#SERVICE 4097:0:1:844:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/02_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Tracks 2A
+#DESCRIPTION Bucovel' (Carpathians) - Tracks 2A
+#SERVICE 4097:0:1:846:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam10/index.m3u8:Web camera
+#DESCRIPTION Web camera
+#SERVICE 4097:0:1:848:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam148/index.m3u8:Web camera 2
+#DESCRIPTION Web camera 2
+#SERVICE 4097:0:1:850:0:0:0:0:0:0:http%3a//89.28.160.37%3a81/square_stella_115/index.m3u8:Great Lucky - View on stell
+#DESCRIPTION Great Lucky - View on stell
+#SERVICE 4097:0:1:852:0:0:0:0:0:0:http%3a//video.iluki.ru%3a81/razvod_33/index.m3u8:Great Lucky - Shortcut
+#DESCRIPTION Great Lucky - Shortcut
+#SERVICE 4097:0:1:854:0:0:0:0:0:0:http%3a//89.28.160.37%3a81/square_main_107/index.m3u8:Great Lucky - Plotschad' Lenin
+#DESCRIPTION Great Lucky - Plotschad' Lenin
+#SERVICE 4097:0:1:856:0:0:0:0:0:0:http%3a//89.28.160.37%3a81/express_right/index.m3u8:Great Lucky - Stadion Extras
+#DESCRIPTION Great Lucky - Stadion Extras
+#SERVICE 4097:0:1:858:0:0:0:0:0:0:http%3a//video.iluki.ru%3a8080/theater_110/index.m3u8:Great Lucky - Teatro
+#DESCRIPTION Great Lucky - Teatro
+#SERVICE 4097:0:1:860:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/a4e4e837-be8c-486f-b624-9e4a8245760c/mono.m3u8:Веrhнjaja Pyshma Krivusova 17
+#DESCRIPTION Веrhнjaja Pyshma Krivusova 17
+#SERVICE 4097:0:1:862:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/----a5c4706855/mono.m3u8:Веrhнjaja Pyshma Pechatova 35/7
+#DESCRIPTION Веrhнjaja Pyshma Pechatova 35/7
+#SERVICE 4097:0:1:864:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/dd5eac22-e738-44b7-a902-878b5ed1a8be/mono.m3u8:Веrhнjaja Pyshma pr.Uspenskiy 60
+#DESCRIPTION Веrhнjaja Pyshma pr.Uspenskiy 60
+#SERVICE 4097:0:1:866:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/c6375ebf-9804-47e6-983a-97711a213ced/mono.m3u8:Веrhнjaja Pyshma pr.Uspenskiy 91
+#DESCRIPTION Веrhнjaja Pyshma pr.Uspenskiy 91
+#SERVICE 4097:0:1:868:0:0:0:0:0:0:http%3a//flussonic.powernet.com.ru%3a8080/user87469/index.m3u8:Volgograd - or.Cosmonauts
+#DESCRIPTION Volgograd - or.Cosmonauts
+#SERVICE 4097:0:1:870:0:0:0:0:0:0:http%3a//flussonic.powernet.com.ru%3a8080/user78757/index.m3u8:Volzhsky - Ledovaja Аrеon
+#DESCRIPTION Volzhsky - Ledovaja Аrеon
+#SERVICE 4097:0:1:872:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/test/index.m3u8:Bags
+#DESCRIPTION Bags
+#SERVICE 4097:0:1:874:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/jk_olymp/index.m3u8:Bags - Liquid crystal Olympus
+#DESCRIPTION Bags - Liquid crystal Olympus
+#SERVICE 4097:0:1:876:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/jk_olymp2/index.m3u8:Bags - Liquid crystal Olympus 2
+#DESCRIPTION Bags - Liquid crystal Olympus 2
+#SERVICE 4097:0:1:878:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/ploshad2/index.m3u8:Bags - mc.South
+#DESCRIPTION Bags - mc.South
+#SERVICE 4097:0:1:882:0:0:0:0:0:0:http%3a//109.230.128.131%3a8080/alexandrovskaya80/index.m3u8:Bags - or.Aleksandrovka
+#DESCRIPTION Bags - or.Aleksandrovka
+#SERVICE 4097:0:1:884:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c418.stream/playlist.m3u8:Dniepropetrovsk - Web camera on
+#DESCRIPTION Dniepropetrovsk - Web camera on
+#SERVICE 4097:0:1:886:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c76.stream/playlist.m3u8:Dniepropetrovsk - Ekaterinoslaw
+#DESCRIPTION Dniepropetrovsk - Ekaterinoslaw
+#SERVICE 4097:0:1:888:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c811.stream/playlist.m3u8:Dniepropetrovsk - Railway вокзал
+#DESCRIPTION Dniepropetrovsk - Railway вокзал
+#SERVICE 4097:0:1:890:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c716.stream/playlist.m3u8:Dniepropetrovsk - onbeigeonja
+#DESCRIPTION Dniepropetrovsk - onbeigeonja
+#SERVICE 4097:0:1:892:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c414.stream/playlist.m3u8:Dniepropetrovsk - New bridge
+#DESCRIPTION Dniepropetrovsk - New bridge
+#SERVICE 4097:0:1:894:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c422.stream/playlist.m3u8:Dniepropetrovsk - Review
+#DESCRIPTION Dniepropetrovsk - Review
+#SERVICE 4097:0:1:896:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c425.stream/playlist.m3u8:Dniepropetrovsk - pl.Geroev May
+#DESCRIPTION Dniepropetrovsk - pl.Geroev May
+#SERVICE 4097:0:1:898:0:0:0:0:0:0:http%3a//live.dnepr.com%3a1935/live/c423.stream/playlist.m3u8:Dniepropetrovsk - pl.Geroev May
+#DESCRIPTION Dniepropetrovsk - pl.Geroev May
+#SERVICE 4097:0:1:900:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam1.m3u8:Doneck - cam1
+#DESCRIPTION Doneck - cam1
+#SERVICE 4097:0:1:902:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam2.m3u8:Doneck - cam2
+#DESCRIPTION Doneck - cam2
+#SERVICE 4097:0:1:904:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam3.m3u8:Doneck - cam3
+#DESCRIPTION Doneck - cam3
+#SERVICE 4097:0:1:906:0:0:0:0:0:0:http%3a//176.111.32.60%3a8088/hls/cam4.m3u8:Doneck - cam4
+#DESCRIPTION Doneck - cam4
+#SERVICE 4097:0:1:908:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/zoo_ek_sd.stream:Ekaterinburg - Zoo
+#DESCRIPTION Ekaterinburg - Zoo
+#SERVICE 4097:0:1:910:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/plot_hd.stream:Ekaterinburg - flattink HD
+#DESCRIPTION Ekaterinburg - flattink HD
+#SERVICE 4097:0:1:912:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/5goda_hd.stream:Ekaterinburg - Plotschad' 1905
+#DESCRIPTION Ekaterinburg - Plotschad' 1905
+#SERVICE 4097:0:1:914:0:0:0:0:0:0:rtmp%3a//www.uapa.ru%3a1935/live/hall:Ekaterinburg - Hall instituation РА
+#DESCRIPTION Ekaterinburg - Hall instituation РА
+#SERVICE 4097:0:1:916:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8:Zemlja of cosmos (ISS HD Earth Viewing
+#DESCRIPTION Zemlja of cosmos (ISS HD Earth Viewing
+#SERVICE 4097:0:1:918:0:0:0:0:0:0:http%3a//91.225.157.3/mstream/zubryonline.stream/index.m3u8:Zubry (Web-camera)
+#DESCRIPTION Zubry (Web-camera)
+#SERVICE 4097:0:1:920:0:0:0:0:0:0:rtmp%3a//stream.baikal-online.ru/live/cam2.stream:Irkutsk -  or.Koneva
+#DESCRIPTION Irkutsk -  or.Koneva
+#SERVICE 4097:0:1:922:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera07.m3u8:Irkutsk - Bor'var Rybikova 1
+#DESCRIPTION Irkutsk - Bor'var Rybikova 1
+#SERVICE 4097:0:1:924:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera08.m3u8:Irkutsk - Bor'var Rybikova 2
+#DESCRIPTION Irkutsk - Bor'var Rybikova 2
+#SERVICE 4097:0:1:926:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera10.m3u8:Irkutsk - View on flattinu
+#DESCRIPTION Irkutsk - View on flattinu
+#SERVICE 4097:0:1:928:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera02.m3u8:Irkutsk - Square them.Kirova 1
+#DESCRIPTION Irkutsk - Square them.Kirova 1
+#SERVICE 4097:0:1:930:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera11.m3u8:Irkutsk - Square them.Kirova 2
+#DESCRIPTION Irkutsk - Square them.Kirova 2
+#SERVICE 4097:0:1:932:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera06.m3u8:Irkutsk - or.Academicheskaya
+#DESCRIPTION Irkutsk - or.Academicheskaya
+#SERVICE 4097:0:1:934:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera03.m3u8:Irkutsk - or.Baikal'skaja
+#DESCRIPTION Irkutsk - or.Baikal'skaja
+#SERVICE 4097:0:1:936:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera09.m3u8:Irkutsk - or.Боtкиon
+#DESCRIPTION Irkutsk - or.Боtкиon
+#SERVICE 4097:0:1:938:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera04.m3u8:Irkutsk - or.Lenin
+#DESCRIPTION Irkutsk - or.Lenin
+#SERVICE 4097:0:1:940:0:0:0:0:0:0:http%3a//weacom.ru%3a8889/hls/camera01.m3u8:Irkutsk - or.Stepaon Razión
+#DESCRIPTION Irkutsk - or.Stepaon Razión
+#SERVICE 4097:0:1:942:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam7/stream.m3u8:KIEV - Mikhaylovskaja Plotschad'
+#DESCRIPTION KIEV - Mikhaylovskaja Plotschad'
+#SERVICE 4097:0:1:944:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam5/stream.m3u8:KIEV - Development Krug
+#DESCRIPTION KIEV - Development Krug
+#SERVICE 4097:0:1:946:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam4/stream.m3u8:KIEV - Tarasovsky Travel
+#DESCRIPTION KIEV - Tarasovsky Travel
+#SERVICE 4097:0:1:948:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam0/stream.m3u8:KIEV - Tracks on Whitehead
+#DESCRIPTION KIEV - Tracks on Whitehead
+#SERVICE 4097:0:1:950:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam16/stream.m3u8:KIEV - CRH
+#DESCRIPTION KIEV - CRH
+#SERVICE 4097:0:1:952:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam1/stream.m3u8:KIEV - or.Belogorodskaja
+#DESCRIPTION KIEV - or.Belogorodskaja
+#SERVICE 4097:0:1:954:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam17/stream.m3u8:KIEV - or.Gogolja
+#DESCRIPTION KIEV - or.Gogolja
+#SERVICE 4097:0:1:956:0:0:0:0:0:0:http%3a//cam.maximuma.net/hls/cam3/stream.m3u8:KIEV - or.Unauthorized and
+#DESCRIPTION KIEV - or.Unauthorized and
+#SERVICE 4097:0:1:958:0:0:0:0:0:0:http%3a//109.239.208.82/kgdcam2/index.m3u8:Kaliningrad - or.Serpukhovskaya-3
+#DESCRIPTION Kaliningrad - or.Serpukhovskaya-3
+#SERVICE 4097:0:1:960:0:0:0:0:0:0:http%3a//109.239.208.82/kgdcam1/index.m3u8:Kaliningrad - or.Serpukhovskaya-3
+#DESCRIPTION Kaliningrad - or.Serpukhovskaya-3
+#SERVICE 4097:0:1:962:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_125_150.stream/playlist.m3u8:Kerch' - View on Mystrada
+#DESCRIPTION Kerch' - View on Mystrada
+#SERVICE 4097:0:1:964:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_52_250.stream/playlist.m3u8:Kerch' - View on or.Samoylenko
+#DESCRIPTION Kerch' - View on or.Samoylenko
+#SERVICE 4097:0:1:966:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_110_010.stream/playlist.m3u8:Kerch' - DC "Korabel" (Arshinsevo)
+#DESCRIPTION Kerch' - DC "Korabel" (Arshinsevo)
+#SERVICE 4097:0:1:968:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_84_10.stream/playlist.m3u8:Kerch' - Моrе pljaj (Geroevskoe)
+#DESCRIPTION Kerch' - Моrе pljaj (Geroevskoe)
+#SERVICE 4097:0:1:970:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_125_242.stream/playlist.m3u8:Kerch' - onbeigeonja
+#DESCRIPTION Kerch' - onbeigeonja
+#SERVICE 4097:0:1:972:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_84_240.stream/playlist.m3u8:Kerch' - Plotschad' Lenin 1
+#DESCRIPTION Kerch' - Plotschad' Lenin 1
+#SERVICE 4097:0:1:978:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_125_50.stream/playlist.m3u8:Kerch' - or.Kirova
+#DESCRIPTION Kerch' - or.Kirova
+#SERVICE 4097:0:1:980:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_74_95.stream/playlist.m3u8:Kerch' - or.Lenin
+#DESCRIPTION Kerch' - or.Lenin
+#SERVICE 4097:0:1:982:0:0:0:0:0:0:http%3a//livecams.kerch.net%3a1935/live/camera_74_171.stream/playlist.m3u8:Kerch' - or.Lenin оt Pochtovogo
+#DESCRIPTION Kerch' - or.Lenin оt Pochtovogo
+#SERVICE 4097:0:1:984:0:0:0:0:0:0:http%3a//ipcam.dtkms.ru%3a8081/camera/high/playlist.m3u8:Comsomol'sк on Amur - Pekekrest
+#DESCRIPTION Comsomol'sк on Amur - Pekekrest
+#SERVICE 4097:0:1:986:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001049.m3u8:Kondopoga - Ice double
+#DESCRIPTION Kondopoga - Ice double
+#SERVICE 4097:0:1:988:0:0:0:0:0:0:http%3a//62.213.36.148%3a1935/live/kkd2-bot.stream/chunklist.m3u8:Crassnojarsk -  G / K «Bobovyy Log»
+#DESCRIPTION Crassnojarsk -  G / K «Bobovyy Log»
+#SERVICE 4097:0:1:990:0:0:0:0:0:0:http%3a//62.213.36.148%3a1935/live/kkd1-bot.stream/chunklist.m3u8:Crassnojarsk -  G / K «Bobovyy Log»
+#DESCRIPTION Crassnojarsk -  G / K «Bobovyy Log»
+#SERVICE 4097:0:1:992:0:0:0:0:0:0:http%3a//lb-sn1.livespotting.tv%3a1935/windit-edge/vv50_720p.stream/chunklist.m3u8:Linda (Ghermanija)
+#DESCRIPTION Linda (Ghermanija)
+#SERVICE 4097:0:1:994:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge74/smil%3acam74.smil/chunklist_b1300000.m3u8:Litva - Baltic more
+#DESCRIPTION Litva - Baltic more
+#SERVICE 4097:0:1:996:0:0:0:0:0:0:http%3a//89.117.128.169%3a80/Palanga/palanga.stream/chunklist.m3u8:Litva - Baltic more (2)
+#DESCRIPTION Litva - Baltic more (2)
+#SERVICE 4097:0:1:998:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge227/smil%3acam227.smil/chunklist_b1500000.m3u8:Litva - View s paro
+#DESCRIPTION Litva - View s paro
+#SERVICE 4097:0:1:1000:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge10/smil%3acam10.smil/chunklist_b1500000.m3u8:Litva - Klaipeda pier
+#DESCRIPTION Litva - Klaipeda pier
+#SERVICE 4097:0:1:1002:0:0:0:0:0:0:http%3a//cdn008.bite.lt/edge02/smil%3acam02.smil/chunklist_b1500000_slLT.m3u8:Litva - Kurshsky gulf - duon П
+#DESCRIPTION Litva - Kurshsky gulf - duon П
+#SERVICE 4097:0:1:1004:0:0:0:0:0:0:http%3a//89.117.128.169%3a80/Nida/nida.stream/chunklist.m3u8:Litva - Iht-club
+#DESCRIPTION Litva - Iht-club
+#SERVICE 4097:0:1:1006:0:0:0:0:0:0:http%3a//89.117.128.169%3a80/Klaipeda/klaipeda.stream/chunklist.m3u8:Litva - pl.Anika
+#DESCRIPTION Litva - pl.Anika
+#SERVICE 4097:0:1:1008:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_1.stream:Moskva 1
+#DESCRIPTION Moskva 1
+#SERVICE 4097:0:1:1010:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_13.stream:Moskva 10
+#DESCRIPTION Moskva 10
+#SERVICE 4097:0:1:1012:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_11.stream:Moskva 11
+#DESCRIPTION Moskva 11
+#SERVICE 4097:0:1:1014:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_2.stream:Moskva 2
+#DESCRIPTION Moskva 2
+#SERVICE 4097:0:1:1016:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_3.stream:Moskva 3
+#DESCRIPTION Moskva 3
+#SERVICE 4097:0:1:1018:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_4.stream:Moskva 4
+#DESCRIPTION Moskva 4
+#SERVICE 4097:0:1:1020:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_5.stream:Moskva 5
+#DESCRIPTION Moskva 5
+#SERVICE 4097:0:1:1022:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_6.stream:Moskva 6
+#DESCRIPTION Moskva 6
+#SERVICE 4097:0:1:1024:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_7.stream:Moskva 7
+#DESCRIPTION Moskva 7
+#SERVICE 4097:0:1:1026:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_9.stream:Moskva 8
+#DESCRIPTION Moskva 8
+#SERVICE 4097:0:1:1028:0:0:0:0:0:0:rtmp%3a//wowza.inetcom.ru/live/camera12_10.stream:Moskva 9
+#DESCRIPTION Moskva 9
+#SERVICE 4097:0:1:1030:0:0:0:0:0:0:http%3a//intek-m.ru/hls/koltso_perl.m3u8:Mityschy - MKAD In the direction of the Perlkov
+#DESCRIPTION Mityschy - MKAD In the direction of the Perlkov
+#SERVICE 4097:0:1:1032:0:0:0:0:0:0:http%3a//intek-m.ru/hls/yaroslavskoye_sh_2.m3u8:Mityschy - Enlightenment or.Kargin
+#DESCRIPTION Mityschy - Enlightenment or.Kargin
+#SERVICE 4097:0:1:1038:0:0:0:0:0:0:http%3a//intek-m.ru/hls/novomyt_komar.m3u8:Mityschy - Enlightenment or.Komaro
+#DESCRIPTION Mityschy - Enlightenment or.Komaro
+#SERVICE 4097:0:1:1040:0:0:0:0:0:0:http%3a//intek-m.ru/hls/novomytischinskiy.m3u8:Mityschy - Enlightenment or.Mira and
+#DESCRIPTION Mityschy - Enlightenment or.Mira and
+#SERVICE 4097:0:1:1042:0:0:0:0:0:0:http%3a//intek-m.ru/hls/semashko.m3u8:Mityschy - Yaroslavl shоssе TRC
+#DESCRIPTION Mityschy - Yaroslavl shоssе TRC
+#SERVICE 4097:0:1:1048:0:0:0:0:0:0:http%3a//intek-m.ru/hls/blagoveschenskaya.m3u8:Mityschy - or.Blagoveshchenskаja 5
+#DESCRIPTION Mityschy - or.Blagoveshchenskаja 5
+#SERVICE 4097:0:1:1050:0:0:0:0:0:0:http%3a//intek-m.ru/hls/krasnoarmeyskaya.m3u8:Mityschy - or.Krasnoarmeyskaja
+#DESCRIPTION Mityschy - or.Krasnoarmeyskaja
+#SERVICE 4097:0:1:1052:0:0:0:0:0:0:http%3a//intek-m.ru/hls/mira_dk.m3u8:Mityschy - or.Mira.double Кor'tury
+#DESCRIPTION Mityschy - or.Mira.double Кor'tury
+#SERVICE 4097:0:1:1054:0:0:0:0:0:0:http%3a//intek-m.ru/hls/trudovoi.m3u8:Mityschy - or.Trudovaja
+#DESCRIPTION Mityschy - or.Trudovaja
+#SERVICE 4097:0:1:1056:0:0:0:0:0:0:http%3a//scheef.mine.nu%3a80/live/sys1.stream/.m3u8:NewSandBandrs 1
+#DESCRIPTION NewSandBandrs 1
+#SERVICE 4097:0:1:1074:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_13/playlist.m3u8:NewSandBandrs 10
+#DESCRIPTION NewSandBandrs 10
+#SERVICE 4097:0:1:1076:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_14/playlist.m3u8:NewSandBandrs 11
+#DESCRIPTION NewSandBandrs 11
+#SERVICE 4097:0:1:1078:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_15/playlist.m3u8:NewSandBandrs 12
+#DESCRIPTION NewSandBandrs 12
+#SERVICE 4097:0:1:1080:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_16/playlist.m3u8:NewSandBandrs 13
+#DESCRIPTION NewSandBandrs 13
+#SERVICE 4097:0:1:1082:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_17/playlist.m3u8:NewSandBandrs 14
+#DESCRIPTION NewSandBandrs 14
+#SERVICE 4097:0:1:1084:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_7/playlist.m3u8:NewSandBandrs 15
+#DESCRIPTION NewSandBandrs 15
+#SERVICE 4097:0:1:1086:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_6/playlist.m3u8:NewSandBandrs 16
+#DESCRIPTION NewSandBandrs 16
+#SERVICE 4097:0:1:1088:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_4/playlist.m3u8:NewSandBandrs 17
+#DESCRIPTION NewSandBandrs 17
+#SERVICE 4097:0:1:1090:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_3/playlist.m3u8:NewSandBandrs 18
+#DESCRIPTION NewSandBandrs 18
+#SERVICE 4097:0:1:1092:0:0:0:0:0:0:http%3a//webcam.211.ru/camera42_1/playlist.m3u8:NewSandBandrs 19
+#DESCRIPTION NewSandBandrs 19
+#SERVICE 4097:0:1:1094:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_2/playlist.m3u8:NewSandBandrs 2
+#DESCRIPTION NewSandBandrs 2
+#SERVICE 4097:0:1:1096:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_3/playlist.m3u8:NewSandBandrs 3
+#DESCRIPTION NewSandBandrs 3
+#SERVICE 4097:0:1:1098:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_5/playlist.m3u8:NewSandBandrs 4
+#DESCRIPTION NewSandBandrs 4
+#SERVICE 4097:0:1:1100:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_6/playlist.m3u8:NewSandBandrs 5
+#DESCRIPTION NewSandBandrs 5
+#SERVICE 4097:0:1:1102:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_7/playlist.m3u8:NewSandBandrs 6
+#DESCRIPTION NewSandBandrs 6
+#SERVICE 4097:0:1:1104:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_8/playlist.m3u8:NewSandBandrs 7
+#DESCRIPTION NewSandBandrs 7
+#SERVICE 4097:0:1:1106:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_9/playlist.m3u8:NewSandBandrs 8
+#DESCRIPTION NewSandBandrs 8
+#SERVICE 4097:0:1:1108:0:0:0:0:0:0:http%3a//webcam.211.ru/camera54_11/playlist.m3u8:NewSandBandrs 9
+#DESCRIPTION NewSandBandrs 9
+#SERVICE 4097:0:1:1110:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Gazodob/index.m3u8:New Urengoi - Gasoline battery
+#DESCRIPTION New Urengoi - Gasoline battery
+#SERVICE 4097:0:1:1112:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Gor_pl/index.m3u8:New Urengoi - Gorodskaja flats
+#DESCRIPTION New Urengoi - Gorodskaja flats
+#SERVICE 4097:0:1:1114:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Obezdnaya/index.m3u8:New Urengoi - About'ezdonja
+#DESCRIPTION New Urengoi - About'ezdonja
+#SERVICE 4097:0:1:1116:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Pl_pamyati/index.m3u8:New Urengoi - Plotschad' Mommy
+#DESCRIPTION New Urengoi - Plotschad' Mommy
+#SERVICE 4097:0:1:1118:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Pr-t_Len/index.m3u8:New Urengoi - pr-t Leningrads
+#DESCRIPTION New Urengoi - pr-t Leningrads
+#SERVICE 4097:0:1:1120:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Pr-t_Gubkina/index.m3u8:New Urengoi - Severonja chаst'
+#DESCRIPTION New Urengoi - Severonja chаst'
+#SERVICE 4097:0:1:1124:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/26-syezda/index.m3u8:New Urengoi - or.26 from'driving
+#DESCRIPTION New Urengoi - or.26 from'driving
+#SERVICE 4097:0:1:1126:0:0:0:0:0:0:http%3a//195.191.130.3%3a8080/Geologov/index.m3u8:Olenegorsk 1
+#DESCRIPTION Olenegorsk 1
+#SERVICE 4097:0:1:1130:0:0:0:0:0:0:http%3a//95.182.112.19%3a8100/hls/camera2.m3u8:Olenegorsk 2
+#DESCRIPTION Olenegorsk 2
+#SERVICE 4097:0:1:1132:0:0:0:0:0:0:http%3a//95.182.112.19%3a8100/hls/camera3.m3u8:Olenegorsk 3
+#DESCRIPTION Olenegorsk 3
+#SERVICE 4097:0:1:1134:0:0:0:0:0:0:http%3a//95.182.112.19%3a8100/hls/camera4.m3u8:Olenegorsk 4
+#DESCRIPTION Olenegorsk 4
+#SERVICE 4097:0:1:1136:0:0:0:0:0:0:http%3a//171.25.232.18%3a8081/hls/8QUjLUTGdlbg8iydMjP3uZWUiz5DlY/index.m3u8:Ostrów
+#DESCRIPTION Ostrów
+#SERVICE 4097:0:1:1138:0:0:0:0:0:0:http%3a//91.234.1.2/hls/internat1.m3u8:Perejaslav-Hops'nationality - Іntern
+#DESCRIPTION Perejaslav-Hops'nationality - Іntern
+#SERVICE 4097:0:1:1140:0:0:0:0:0:0:http%3a//91.234.1.2/hls/internat2.m3u8:Perejaslav-Hops'nationality - Іntern
+#DESCRIPTION Perejaslav-Hops'nationality - Іntern
+#SERVICE 4097:0:1:1142:0:0:0:0:0:0:http%3a//91.234.1.2/hls/adrenalin.m3u8:Perejaslav-Hops'nationality - Railway station
+#DESCRIPTION Perejaslav-Hops'nationality - Railway station
+#SERVICE 4097:0:1:1146:0:0:0:0:0:0:http%3a//91.234.1.2/hls/shevchenko.m3u8:Perejaslav-Hops'nationality - Hymon
+#DESCRIPTION Perejaslav-Hops'nationality - Hymon
+#SERVICE 4097:0:1:1148:0:0:0:0:0:0:http%3a//91.234.1.2/hls/sone4ko.m3u8:Perejaslav-Hops'nationality - Dandtsad
+#DESCRIPTION Perejaslav-Hops'nationality - Dandtsad
+#SERVICE 4097:0:1:1150:0:0:0:0:0:0:http%3a//91.234.1.2/hls/sadok7.m3u8:Perejaslav-Hops'nationality - Dandtsad
+#DESCRIPTION Perejaslav-Hops'nationality - Dandtsad
+#SERVICE 4097:0:1:1152:0:0:0:0:0:0:http%3a//91.234.1.2/hls/dibrova.m3u8:Perejaslav-Hops'nationality - Krandtandy
+#DESCRIPTION Perejaslav-Hops'nationality - Krandtandy
+#SERVICE 4097:0:1:1156:0:0:0:0:0:0:http%3a//91.234.1.2/hls/center.m3u8:Perejaslav-Hops'nationality - Tsentra
+#DESCRIPTION Perejaslav-Hops'nationality - Tsentra
+#SERVICE 4097:0:1:1158:0:0:0:0:0:0:http%3a//91.234.1.2/hls/school1.m3u8:Perejaslav-Hops'nationality - School
+#DESCRIPTION Perejaslav-Hops'nationality - School
+#SERVICE 4097:0:1:1160:0:0:0:0:0:0:http%3a//91.234.1.2/hls/school4.m3u8:Perejaslav-Hops'nationality - School
+#DESCRIPTION Perejaslav-Hops'nationality - School
+#SERVICE 4097:0:1:1162:0:0:0:0:0:0:http%3a//91.234.1.2/hls/school7.m3u8:Perejaslav-Hops'nationality - School
+#DESCRIPTION Perejaslav-Hops'nationality - School
+#SERVICE 4097:0:1:1164:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001583.m3u8:Machine shop - Beliy colland
+#DESCRIPTION Machine shop - Beliy colland
+#SERVICE 4097:0:1:1166:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001339.m3u8:Machine shop - Bumazhnankov or. -
+#DESCRIPTION Machine shop - Bumazhnankov or. -
+#SERVICE 4097:0:1:1168:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000001415.m3u8:Machine shop - varcause onb. - М
+#DESCRIPTION Machine shop - varcause onb. - М
+#SERVICE 4097:0:1:1170:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001391.m3u8:Machine shop - Older Chapaevs
+#DESCRIPTION Machine shop - Older Chapaevs
+#SERVICE 4097:0:1:1172:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001471.m3u8:Machine shop - Gandeporbeja - pr.
+#DESCRIPTION Machine shop - Gandeporbeja - pr.
+#SERVICE 4097:0:1:1174:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001383.m3u8:Machine shop - double andschools
+#DESCRIPTION Machine shop - double andschools
+#SERVICE 4097:0:1:1176:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001101.m3u8:Machine shop - Detskaya Plotschad
+#DESCRIPTION Machine shop - Detskaya Plotschad
+#SERVICE 4097:0:1:1178:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001353.m3u8:Machine shop - Detskaya Plotschad
+#DESCRIPTION Machine shop - Detskaya Plotschad
+#SERVICE 4097:0:1:1180:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000418.m3u8:Machine shop - Detskaya Plotschad
+#DESCRIPTION Machine shop - Detskaya Plotschad
+#SERVICE 4097:0:1:1182:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000192.m3u8:Machine shop - ENOTOINED sAbout
+#DESCRIPTION Machine shop - ENOTOINED sAbout
+#SERVICE 4097:0:1:1186:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001359.m3u8:Machine shop - Kalandandon or. - П
+#DESCRIPTION Machine shop - Kalandandon or. - П
+#SERVICE 4097:0:1:1188:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001351.m3u8:Machine shop - Kukkovsky stake'
+#DESCRIPTION Machine shop - Kukkovsky stake'
+#SERVICE 4097:0:1:1198:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001097.m3u8:Machine shop - Ice double L
+#DESCRIPTION Machine shop - Ice double L
+#SERVICE 4097:0:1:1200:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001099.m3u8:Machine shop - Ice double L
+#DESCRIPTION Machine shop - Ice double L
+#SERVICE 4097:0:1:1202:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001591.m3u8:Machine shop - Ice double L
+#DESCRIPTION Machine shop - Ice double L
+#SERVICE 4097:0:1:1204:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001425.m3u8:Machine shop - Leningradskaja u
+#DESCRIPTION Machine shop - Leningradskaja u
+#SERVICE 4097:0:1:1206:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001429.m3u8:Machine shop - Melent'eva or.
+#DESCRIPTION Machine shop - Melent'eva or.
+#SERVICE 4097:0:1:1208:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001427.m3u8:Machine shop - Moskovsky or. -
+#DESCRIPTION Machine shop - Moskovsky or. -
+#SERVICE 4097:0:1:1210:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000103.m3u8:Machine shop - onbeigeonja Ona
+#DESCRIPTION Machine shop - onbeigeonja Ona
+#SERVICE 4097:0:1:1212:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001355.m3u8:Machine shop - Novokandpandchonja
+#DESCRIPTION Machine shop - Novokandpandchonja
+#SERVICE 4097:0:1:1214:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001361.m3u8:Machine shop - Ocrytage hockey
+#DESCRIPTION Machine shop - Ocrytage hockey
+#SERVICE 4097:0:1:1220:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000089.m3u8:Machine shop - Tommy Nank О.В.Кuu
+#DESCRIPTION Machine shop - Tommy Nank О.В.Кuu
+#SERVICE 4097:0:1:1222:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001357.m3u8:Machine shop - Shortcut pr.А.
+#DESCRIPTION Machine shop - Shortcut pr.А.
+#SERVICE 4097:0:1:1228:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000000973.m3u8:Machine shop - Shortcut or.Dr
+#DESCRIPTION Machine shop - Shortcut or.Dr
+#SERVICE 4097:0:1:1254:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001039.m3u8:Machine shop - Shortcut or.Кr
+#DESCRIPTION Machine shop - Shortcut or.Кr
+#SERVICE 4097:0:1:1256:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001379.m3u8:Machine shop - Shortcut or.Лy
+#DESCRIPTION Machine shop - Shortcut or.Лy
+#SERVICE 4097:0:1:1258:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001237.m3u8:Machine shop - Shortcut or.Лy
+#DESCRIPTION Machine shop - Shortcut or.Лy
+#SERVICE 4097:0:1:1260:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000000969.m3u8:Machine shop - Pedestrian before
+#DESCRIPTION Machine shop - Pedestrian before
+#SERVICE 4097:0:1:1276:0:0:0:0:0:0:http%3a//s1.moidom.karelia.pro/s/public/0000000088.m3u8:Machine shop - Plotschad' Kirova
+#DESCRIPTION Machine shop - Plotschad' Kirova
+#SERVICE 4097:0:1:1278:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001657.m3u8:Machine shop - Plotschad' Kirova
+#DESCRIPTION Machine shop - Plotschad' Kirova
+#SERVICE 4097:0:1:1280:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001615.m3u8:Machine shop - Plotschad' Kirova
+#DESCRIPTION Machine shop - Plotschad' Kirova
+#SERVICE 4097:0:1:1282:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001341.m3u8:Machine shop - Plotschad' Mira
+#DESCRIPTION Machine shop - Plotschad' Mira
+#SERVICE 4097:0:1:1286:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001365.m3u8:Machine shop - pröltarskaja or.
+#DESCRIPTION Machine shop - pröltarskaja or.
+#SERVICE 4097:0:1:1288:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001345.m3u8:Machine shop - pröltarskaja or.
+#DESCRIPTION Machine shop - pröltarskaja or.
+#SERVICE 4097:0:1:1290:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000000521.m3u8:Machine shop - Stadion Youth'
+#DESCRIPTION Machine shop - Stadion Youth'
+#SERVICE 4097:0:1:1294:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001531.m3u8:Machine shop - Ulanda Gvardeysk
+#DESCRIPTION Machine shop - Ulanda Gvardeysk
+#SERVICE 4097:0:1:1298:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001533.m3u8:Machine shop - or.Parhamenko
+#DESCRIPTION Machine shop - or.Parhamenko
+#SERVICE 4097:0:1:1302:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/pysanka/pysanka.m3u8:Prandaanka UA
+#DESCRIPTION Prandaanka UA
+#SERVICE 4097:0:1:1304:0:0:0:0:0:0:http%3a//109.94.1.15%3a8080/hls/25255/413990ea2c2266fe29b8/playlist.m3u8:Hem'sк - Market
+#DESCRIPTION Hem'sк - Market
+#SERVICE 4097:0:1:1306:0:0:0:0:0:0:http%3a//109.94.1.15%3a8080/hls/12803/9dda6acfb79ff9279b95/playlist.m3u8:Hem'sк - Square
+#DESCRIPTION Hem'sк - Square
+#SERVICE 4097:0:1:1308:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/Polevskoj.2mkr-36bb48610c/mono.m3u8:Polevskoy 2mc
+#DESCRIPTION Polevskoy 2mc
+#SERVICE 4097:0:1:1310:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/Polevskoj.Karla.Marksa.6a-b863fadf8b/mono.m3u8:Polevskoy Каrла Маrкsа 6а
+#DESCRIPTION Polevskoy Каrла Маrкsа 6а
+#SERVICE 4097:0:1:1312:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/a502c4d9-d320-4007-a03a-95158cd0ff34/mono.m3u8:Polevskoy Kommunandstandchеskaja 30
+#DESCRIPTION Polevskoy Kommunandstandchеskaja 30
+#SERVICE 4097:0:1:1314:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/d16c8e89-0ca1-4c5c-ad84-f657f93fb5ef/mono.m3u8:Polevskoy Plotschad' Lenin
+#DESCRIPTION Polevskoy Plotschad' Lenin
+#SERVICE 4097:0:1:1316:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/7e7cb479-4f36-4ebf-9177-f1fea1050d8d/mono.m3u8:Polevskoy Plotschad' Солдаtа
+#DESCRIPTION Polevskoy Plotschad' Солдаtа
+#SERVICE 4097:0:1:1318:0:0:0:0:0:0:http%3a//stream.aftenbladet.no%3a1935/live/dsd2.stream/chunklist.m3u8:By Mr. Stavanger (Novegandja)
+#DESCRIPTION By Mr. Stavanger (Novegandja)
+#SERVICE 4097:0:1:1320:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam12/index.m3u8:Pskov - Деtsкandй паrк
+#DESCRIPTION Pskov - Деtsкandй паrк
+#SERVICE 4097:0:1:1322:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam13/index.m3u8:Pskov - Золоtаja onbeigeonja
+#DESCRIPTION Pskov - Золоtаja onbeigeonja
+#SERVICE 4097:0:1:1326:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam15/index.m3u8:Pskov - Леtнandй sад
+#DESCRIPTION Pskov - Леtнandй sад
+#SERVICE 4097:0:1:1328:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam1/index.m3u8:Pskov - Окtjaбr'skaja Plotschad'
+#DESCRIPTION Pskov - Окtjaбr'skaja Plotschad'
+#SERVICE 4097:0:1:1330:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam2/index.m3u8:Pskov - Ол'гandнsкandй bridge
+#DESCRIPTION Pskov - Ол'гandнsкandй bridge
+#SERVICE 4097:0:1:1332:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam16/index.m3u8:Pskov - Shortcut andнженеrной
+#DESCRIPTION Pskov - Shortcut andнженеrной
+#SERVICE 4097:0:1:1334:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam11/index.m3u8:Pskov - Shortcut Рandжsкого and
+#DESCRIPTION Pskov - Shortcut Рandжsкого and
+#SERVICE 4097:0:1:1336:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam4/index.m3u8:Pskov - Shortcut or.Коммuonл
+#DESCRIPTION Pskov - Shortcut or.Коммuonл
+#SERVICE 4097:0:1:1338:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam7/index.m3u8:Pskov - Shortcut or.Коммuonл
+#DESCRIPTION Pskov - Shortcut or.Коммuonл
+#SERVICE 4097:0:1:1340:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam10/index.m3u8:Pskov - Shortcut or.Тruда and or
+#DESCRIPTION Pskov - Shortcut or.Тruда and or
+#SERVICE 4097:0:1:1344:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam8/index.m3u8:Pskov - Plotschad' Lenin
+#DESCRIPTION Pskov - Plotschad' Lenin
+#SERVICE 4097:0:1:1348:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam5/index.m3u8:Pskov - Plotschad' пAboutедy
+#DESCRIPTION Pskov - Plotschad' пAboutедy
+#SERVICE 4097:0:1:1350:0:0:0:0:0:0:http%3a//citycams.pskovline.ru%3a8080/cam6/index.m3u8:Pskov - prandRailway stationл'onja Plotschad
+#DESCRIPTION Pskov - prandRailway stationл'onja Plotschad
 #SERVICE 4097:0:1:1352:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/ratusha/ratusha.m3u8:Раtushа UA
 #DESCRIPTION Раtushа UA
-#SERVICE 4097:0:1:1354:0:0:0:0:0:0:rtmp%3a//polarplunge.origin.camzonecdn.com/CamzoneStreams/_definst_/polarplunge:США - Белyй медвед'
-#DESCRIPTION США - Белyй медвед'
-#SERVICE 4097:0:1:1356:0:0:0:0:0:0:rtmp%3a//zssd-panda.origin.camzonecdn.com/CamzoneStreams/_definst_/zssd-panda:США - Панда
-#DESCRIPTION США - Панда
-#SERVICE 4097:0:1:1358:0:0:0:0:0:0:http%3a//208.43.68.139/surfchex//nagshead-super/playlist.m3u8:США Южнаja Каrолина Фоли-Биch
-#DESCRIPTION США Южнаja Каrолина Фоли-Биch
-#SERVICE 4097:0:1:1362:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam23/index.m3u8:Санкt-Пеtеrбurг - Алекsандrинsк
-#DESCRIPTION Санкt-Пеtеrбurг - Алекsандrинsк
-#SERVICE 4097:0:1:1364:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam25/index.m3u8:Санкt-Пеtеrбurг - Гоstинyй Двоr
-#DESCRIPTION Санкt-Пеtеrбurг - Гоstинyй Двоr
-#SERVICE 4097:0:1:1372:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam7/index.m3u8:Санкt-Пеtеrбurг - Двоrcоваja пло
-#DESCRIPTION Санкt-Пеtеrбurг - Двоrcоваja пло
-#SERVICE 4097:0:1:1374:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam4/index.m3u8:Санкt-Пеtеrбurг - Двоrcовyй моst
-#DESCRIPTION Санкt-Пеtеrбurг - Двоrcовyй моst
-#SERVICE 4097:0:1:1376:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam24/index.m3u8:Санкt-Пеtеrбurг - Елиsеевsкий м
-#DESCRIPTION Санкt-Пеtеrбurг - Елиsеевsкий м
-#SERVICE 4097:0:1:1378:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam3/index.m3u8:Санкt-Пеtеrбurг - Казанsкий sоб
-#DESCRIPTION Санкt-Пеtеrбurг - Казанsкий sоб
-#SERVICE 4097:0:1:1382:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam18/index.m3u8:Санкt-Пеtеrбurг - Кrейsеr Авrоrа
-#DESCRIPTION Санкt-Пеtеrбurг - Кrейsеr Авrоrа
-#SERVICE 4097:0:1:1384:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam9/index.m3u8:Санкt-Пеtеrбurг - Лиtейнyй пrоsп
-#DESCRIPTION Санкt-Пеtеrбurг - Лиtейнyй пrоsп
-#SERVICE 4097:0:1:1386:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam14/index.m3u8:Санкt-Пеtеrбurг - Пеtrопавловsк
-#DESCRIPTION Санкt-Пеtеrбurг - Пеtrопавловsк
-#SERVICE 4097:0:1:1396:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam19/index.m3u8:Санкt-Пеtеrбurг - Пиrоговsкаja н
-#DESCRIPTION Санкt-Пеtеrбurг - Пиrоговsкаja н
-#SERVICE 4097:0:1:1398:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam8/index.m3u8:Санкt-Пеtеrбurг - Пrивеty s Невsк
-#DESCRIPTION Санкt-Пеtеrбurг - Пrивеty s Невsк
-#SERVICE 4097:0:1:1402:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam27/index.m3u8:Санкt-Пеtеrбurг - Садоваja uлиcа
-#DESCRIPTION Санкt-Пеtеrбurг - Садоваja uлиcа
-#SERVICE 4097:0:1:1404:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam20/index.m3u8:Санкt-Пеtеrбurг - Смол'нyй sобоr
-#DESCRIPTION Санкt-Пеtеrбurг - Смол'нyй sобоr
-#SERVICE 4097:0:1:1406:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam28/index.m3u8:Санкt-Пеtеrбurг - Хrам Спаsа-на-
-#DESCRIPTION Санкt-Пеtеrбurг - Хrам Спаsа-на-
-#SERVICE 4097:0:1:1408:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam13/index.m3u8:Санкt-Пеtеrбurг - Ценtr Пеtеrбurг
-#DESCRIPTION Санкt-Пеtеrбurг - Ценtr Пеtеrбurг
-#SERVICE 4097:0:1:1410:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam12/index.m3u8:Санкt-Пеtеrбurг - Эrмиtаж
-#DESCRIPTION Санкt-Пеtеrбurг - Эrмиtаж
-#SERVICE 4097:0:1:1412:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam2/index.m3u8:Севаstопол' 1
-#DESCRIPTION Севаstопол' 1
-#SERVICE 4097:0:1:1414:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam14/index.m3u8:Севаstопол' 2
-#DESCRIPTION Севаstопол' 2
-#SERVICE 4097:0:1:1416:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam1/index.m3u8:Севаstопол' 3
-#DESCRIPTION Севаstопол' 3
-#SERVICE 4097:0:1:1418:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam16/index.m3u8:Севаstопол' 4
-#DESCRIPTION Севаstопол' 4
-#SERVICE 4097:0:1:1420:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam7/index.m3u8:Севаstопол' 5
-#DESCRIPTION Севаstопол' 5
-#SERVICE 4097:0:1:1422:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam5/index.m3u8:Севаstопол' 6
-#DESCRIPTION Севаstопол' 6
-#SERVICE 4097:0:1:1424:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam6/index.m3u8:Севаstопол' 7
-#DESCRIPTION Севаstопол' 7
-#SERVICE 4097:0:1:1426:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/solikamsk_hd.stream:Соликамsк
-#DESCRIPTION Соликамsк
-#SERVICE 4097:0:1:1428:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_109/index.m3u8:Соchи - Гагrа
-#DESCRIPTION Соchи - Гагrа
-#SERVICE 4097:0:1:1430:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_116/index.m3u8:Соchи - Мамайsкий пеrевал
-#DESCRIPTION Соchи - Мамайsкий пеrевал
-#SERVICE 4097:0:1:1432:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_131/index.m3u8:Соchи - Моst chеrез rекu
-#DESCRIPTION Соchи - Моst chеrез rекu
-#SERVICE 4097:0:1:1434:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_178/index.m3u8:Соchи - uл.Плаstuнsкаja
-#DESCRIPTION Соchи - uл.Плаstuнsкаja
-#SERVICE 4097:0:1:1436:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_33/index.m3u8:Соchи 1
-#DESCRIPTION Соchи 1
-#SERVICE 4097:0:1:1438:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_1/index.m3u8:Соchи 10
-#DESCRIPTION Соchи 10
-#SERVICE 4097:0:1:1440:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_4/index.m3u8:Соchи 11
-#DESCRIPTION Соchи 11
-#SERVICE 4097:0:1:1442:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_5/index.m3u8:Соchи 12
-#DESCRIPTION Соchи 12
-#SERVICE 4097:0:1:1444:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_6/index.m3u8:Соchи 13
-#DESCRIPTION Соchи 13
-#SERVICE 4097:0:1:1446:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_7/index.m3u8:Соchи 14
-#DESCRIPTION Соchи 14
-#SERVICE 4097:0:1:1448:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_9/index.m3u8:Соchи 15
-#DESCRIPTION Соchи 15
-#SERVICE 4097:0:1:1450:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_31/index.m3u8:Соchи 16
-#DESCRIPTION Соchи 16
-#SERVICE 4097:0:1:1452:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_34/index.m3u8:Соchи 17
-#DESCRIPTION Соchи 17
-#SERVICE 4097:0:1:1454:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_21/index.m3u8:Соchи 18
-#DESCRIPTION Соchи 18
-#SERVICE 4097:0:1:1456:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_22/index.m3u8:Соchи 19
-#DESCRIPTION Соchи 19
-#SERVICE 4097:0:1:1458:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_227/index.m3u8:Соchи 2
-#DESCRIPTION Соchи 2
-#SERVICE 4097:0:1:1460:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_32/index.m3u8:Соchи 20
-#DESCRIPTION Соchи 20
-#SERVICE 4097:0:1:1462:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_35/index.m3u8:Соchи 21
-#DESCRIPTION Соchи 21
-#SERVICE 4097:0:1:1464:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_36/index.m3u8:Соchи 22
-#DESCRIPTION Соchи 22
-#SERVICE 4097:0:1:1466:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_38/index.m3u8:Соchи 23
-#DESCRIPTION Соchи 23
-#SERVICE 4097:0:1:1468:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_39/index.m3u8:Соchи 24
-#DESCRIPTION Соchи 24
-#SERVICE 4097:0:1:1470:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_40/index.m3u8:Соchи 25
-#DESCRIPTION Соchи 25
-#SERVICE 4097:0:1:1472:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_41/index.m3u8:Соchи 26
-#DESCRIPTION Соchи 26
-#SERVICE 4097:0:1:1474:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_42/index.m3u8:Соchи 27
-#DESCRIPTION Соchи 27
-#SERVICE 4097:0:1:1476:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_37/index.m3u8:Соchи 28
-#DESCRIPTION Соchи 28
-#SERVICE 4097:0:1:1478:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_45/index.m3u8:Соchи 29
-#DESCRIPTION Соchи 29
-#SERVICE 4097:0:1:1480:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_151/index.m3u8:Соchи 3
-#DESCRIPTION Соchи 3
-#SERVICE 4097:0:1:1482:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_47/index.m3u8:Соchи 30
-#DESCRIPTION Соchи 30
-#SERVICE 4097:0:1:1484:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_46/index.m3u8:Соchи 31
-#DESCRIPTION Соchи 31
-#SERVICE 4097:0:1:1486:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_52/index.m3u8:Соchи 32
-#DESCRIPTION Соchи 32
-#SERVICE 4097:0:1:1488:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_73/index.m3u8:Соchи 33
-#DESCRIPTION Соchи 33
-#SERVICE 4097:0:1:1490:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_74/index.m3u8:Соchи 34
-#DESCRIPTION Соchи 34
-#SERVICE 4097:0:1:1492:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_76/index.m3u8:Соchи 35
-#DESCRIPTION Соchи 35
-#SERVICE 4097:0:1:1494:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_80/index.m3u8:Соchи 36
-#DESCRIPTION Соchи 36
-#SERVICE 4097:0:1:1496:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_79/index.m3u8:Соchи 37
-#DESCRIPTION Соchи 37
-#SERVICE 4097:0:1:1498:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_82/index.m3u8:Соchи 38
-#DESCRIPTION Соchи 38
-#SERVICE 4097:0:1:1500:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_83/index.m3u8:Соchи 39
-#DESCRIPTION Соchи 39
-#SERVICE 4097:0:1:1502:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_44/index.m3u8:Соchи 4
-#DESCRIPTION Соchи 4
-#SERVICE 4097:0:1:1504:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_85/index.m3u8:Соchи 40
-#DESCRIPTION Соchи 40
-#SERVICE 4097:0:1:1506:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_87/index.m3u8:Соchи 41
-#DESCRIPTION Соchи 41
-#SERVICE 4097:0:1:1508:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_84/index.m3u8:Соchи 42
-#DESCRIPTION Соchи 42
-#SERVICE 4097:0:1:1510:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_86/index.m3u8:Соchи 43
-#DESCRIPTION Соchи 43
-#SERVICE 4097:0:1:1512:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_88/index.m3u8:Соchи 44
-#DESCRIPTION Соchи 44
-#SERVICE 4097:0:1:1514:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_90/index.m3u8:Соchи 45
-#DESCRIPTION Соchи 45
-#SERVICE 4097:0:1:1516:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_89/index.m3u8:Соchи 46
-#DESCRIPTION Соchи 46
-#SERVICE 4097:0:1:1518:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_91/index.m3u8:Соchи 47
-#DESCRIPTION Соchи 47
-#SERVICE 4097:0:1:1520:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_93/index.m3u8:Соchи 48
-#DESCRIPTION Соchи 48
-#SERVICE 4097:0:1:1522:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_95/index.m3u8:Соchи 49
-#DESCRIPTION Соchи 49
-#SERVICE 4097:0:1:1524:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_225/index.m3u8:Соchи 5
-#DESCRIPTION Соchи 5
-#SERVICE 4097:0:1:1526:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_96/index.m3u8:Соchи 50
-#DESCRIPTION Соchи 50
-#SERVICE 4097:0:1:1528:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_97/index.m3u8:Соchи 51
-#DESCRIPTION Соchи 51
-#SERVICE 4097:0:1:1530:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_94/index.m3u8:Соchи 52
-#DESCRIPTION Соchи 52
-#SERVICE 4097:0:1:1532:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_100/index.m3u8:Соchи 53
-#DESCRIPTION Соchи 53
-#SERVICE 4097:0:1:1534:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_101/index.m3u8:Соchи 54
-#DESCRIPTION Соchи 54
-#SERVICE 4097:0:1:1536:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_104/index.m3u8:Соchи 55
-#DESCRIPTION Соchи 55
-#SERVICE 4097:0:1:1538:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_224/index.m3u8:Соchи 6
-#DESCRIPTION Соchи 6
-#SERVICE 4097:0:1:1540:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_221/index.m3u8:Соchи 7
-#DESCRIPTION Соchи 7
-#SERVICE 4097:0:1:1542:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_220/index.m3u8:Соchи 8
-#DESCRIPTION Соchи 8
-#SERVICE 4097:0:1:1544:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_3/index.m3u8:Соchи 9
-#DESCRIPTION Соchи 9
-#SERVICE 4097:0:1:1546:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/743dd976-e592-454f-8c52-63aadd612d91/mono.m3u8:Сrеднеurал'sк Леrмонtова 1
-#DESCRIPTION Сrеднеurал'sк Леrмонtова 1
-#SERVICE 4097:0:1:1548:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/7ed75430-7396-43ac-a96f-dd767ea920cf/mono.m3u8:Сrеднеurал'sк Сtrоиtелей 6
-#DESCRIPTION Сrеднеurал'sк Сtrоиtелей 6
-#SERVICE 4097:0:1:1550:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/Sredneuralsk.Uralskaya.26a-71d2fe7e16/mono.m3u8:Сrеднеurал'sк Уrал'sкаja 26а
-#DESCRIPTION Сrеднеurал'sк Уrал'sкаja 26а
-#SERVICE 4097:0:1:1552:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/ParkVhod:Сtавrопол' - Вhод Паrка Победy
-#DESCRIPTION Сtавrопол' - Вhод Паrка Победy
-#SERVICE 4097:0:1:1554:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/ParkKatok:Сtавrопол' - Каtок
-#DESCRIPTION Сtавrопол' - Каtок
-#SERVICE 4097:0:1:1556:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/ParkSamolet:Сtавrопол' - Паrк Победy
-#DESCRIPTION Сtавrопол' - Паrк Победy
-#SERVICE 4097:0:1:1558:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/Per-Dovat-Lerm:Сtавrопол' - uл.Доваtоrcев
-#DESCRIPTION Сtавrопол' - uл.Доваtоrcев
-#SERVICE 4097:0:1:1562:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/Lenina347:Сtавrопол' - uл.Ленина
-#DESCRIPTION Сtавrопол' - uл.Ленина
-#SERVICE 4097:0:1:1564:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/Tuh22.1:Сtавrопол' - uл.Тuhаchевsкого
-#DESCRIPTION Сtавrопол' - uл.Тuhаchевsкого
-#SERVICE 4097:0:1:1566:0:0:0:0:0:0:http%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live/playlist.m3u8:Сtена Плаchа 1
-#DESCRIPTION Сtена Плаchа 1
-#SERVICE 4097:0:1:1568:0:0:0:0:0:0:http%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live1/23595_LIVE_Kotel_Live1/playlist.m3u8:Сtена Плаchа 2
-#DESCRIPTION Сtена Плаchа 2
-#SERVICE 4097:0:1:1570:0:0:0:0:0:0:http%3a//strezhi.ru%3a1935/live/cam1.stream/playlist.m3u8:Сtrежевой 1
-#DESCRIPTION Сtrежевой 1
-#SERVICE 4097:0:1:1572:0:0:0:0:0:0:http%3a//strezhi.ru%3a1935/live/cam7.stream/playlist.m3u8:Сtrежевой 2
-#DESCRIPTION Сtrежевой 2
-#SERVICE 4097:0:1:1574:0:0:0:0:0:0:http%3a//strezhi.ru%3a1935/live/cam4.stream/playlist.m3u8:Сtrежевой 3
-#DESCRIPTION Сtrежевой 3
-#SERVICE 4097:0:1:1576:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/1041782/streams/live/iphone/playlist.m3u8:Таuersкий Моst
-#DESCRIPTION Таuersкий Моst
-#SERVICE 4097:0:1:1578:0:0:0:0:0:0:rtmp%3a//media.andreevsoft.ru/live/cam1.stream:Твеr' - Комп'юtеrиja 1
-#DESCRIPTION Твеr' - Комп'юtеrиja 1
-#SERVICE 4097:0:1:1580:0:0:0:0:0:0:rtmp%3a//media.andreevsoft.ru/live/cam2.stream:Твеr' - Комп'юtеrиja 2
-#DESCRIPTION Твеr' - Комп'юtеrиja 2
-#SERVICE 4097:0:1:1582:0:0:0:0:0:0:rtmp%3a//media.andreevsoft.ru/live/cam3.stream:Твеr' - Комп'юtеrиja 3
-#DESCRIPTION Твеr' - Комп'юtеrиja 3
-#SERVICE 4097:0:1:1584:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s2.stream/playlist.m3u8:Тuапsе – Виадuк
-#DESCRIPTION Тuапsе – Виадuк
-#SERVICE 4097:0:1:1586:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s14.stream/playlist.m3u8:Тuапsе – Вид s uл.Киrиchенко
-#DESCRIPTION Тuапsе – Вид s uл.Киrиchенко
-#SERVICE 4097:0:1:1588:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s9.stream/playlist.m3u8:Тuапsе – Гоrка Геrоев
-#DESCRIPTION Тuапsе – Гоrка Геrоев
-#SERVICE 4097:0:1:1590:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s7.stream/playlist.m3u8:Тuапsе – Дикий плjaж
-#DESCRIPTION Тuапsе – Дикий плjaж
-#SERVICE 4097:0:1:1592:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s17.stream/playlist.m3u8:Тuапsе – Небuг
-#DESCRIPTION Тuапsе – Небuг
-#SERVICE 4097:0:1:1594:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s11.stream/playlist.m3u8:Тuапsе – Оstановка Плаtан
-#DESCRIPTION Тuапsе – Оstановка Плаtан
-#SERVICE 4097:0:1:1596:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s8.stream/playlist.m3u8:Тuапsе – Пеrекrеstок
-#DESCRIPTION Тuапsе – Пеrекrеstок
-#SERVICE 4097:0:1:1598:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s12.stream/playlist.m3u8:Тuапsе – Пеrекrеstок uл.Миrа
-#DESCRIPTION Тuапsе – Пеrекrеstок uл.Миrа
-#SERVICE 4097:0:1:1600:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s18.stream/playlist.m3u8:Тuапsе – Плjaж Небuг
-#DESCRIPTION Тuапsе – Плjaж Небuг
-#SERVICE 4097:0:1:1602:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s20.stream/playlist.m3u8:Тuапsе – Споrt плоschадка
-#DESCRIPTION Тuапsе – Споrt плоschадка
-#SERVICE 4097:0:1:1604:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s1.stream/playlist.m3u8:Тuапsе – Ценtrал'наja плоschад'
-#DESCRIPTION Тuапsе – Ценtrал'наja плоschад'
-#SERVICE 4097:0:1:1606:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s5.stream/playlist.m3u8:Тuапsе – Ценtrал'нyй плjaж
-#DESCRIPTION Тuапsе – Ценtrал'нyй плjaж
-#SERVICE 4097:0:1:1608:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s13.stream/playlist.m3u8:Тuапsе – uл.Богдана Хмел'ниcк
-#DESCRIPTION Тuапsе – uл.Богдана Хмел'ниcк
-#SERVICE 4097:0:1:1610:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s4.stream/playlist.m3u8:Тuапsе – uл.Калаrаshа
-#DESCRIPTION Тuапsе – uл.Калаrаshа
-#SERVICE 4097:0:1:1612:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s6.stream/playlist.m3u8:Тuапsе – uл.Каrла Маrкsа
-#DESCRIPTION Тuапsе – uл.Каrла Маrкsа
-#SERVICE 4097:0:1:1614:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s10.stream/playlist.m3u8:Тuапsе – uл.Ленина
-#DESCRIPTION Тuапsе – uл.Ленина
-#SERVICE 4097:0:1:1616:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s15.stream/playlist.m3u8:Тuапsе – uл.Соchинsкаja
-#DESCRIPTION Тuапsе – uл.Соchинsкаja
-#SERVICE 4097:0:1:1618:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s3.stream/playlist.m3u8:Тuапsе – uл.Фruнзе
-#DESCRIPTION Тuапsе – uл.Фruнзе
-#SERVICE 4097:0:1:1620:0:0:0:0:0:0:http%3a//camera.tuva.ru%3a8080/shagonar/index.m3u8:Тuва - Админstrаcиja Шагонаr
-#DESCRIPTION Тuва - Админstrаcиja Шагонаr
-#SERVICE 4097:0:1:1622:0:0:0:0:0:0:http%3a//camera.tuva.ru%3a8080/centr_asia1/index.m3u8:Тuва - Ценtr Азии 1
-#DESCRIPTION Тuва - Ценtr Азии 1
-#SERVICE 4097:0:1:1624:0:0:0:0:0:0:http%3a//camera.tuva.ru%3a8080/centr_asia2/index.m3u8:Тuва - Ценtr Азии 2
-#DESCRIPTION Тuва - Ценtr Азии 2
-#SERVICE 4097:0:1:1626:0:0:0:0:0:0:http%3a//probki.ulan-ude.ru%3a8081/stream.flv:Улан-Удe - Веб-камеrа 1 [.flv]
-#DESCRIPTION Улан-Удe - Веб-камеrа 1 [.flv]
-#SERVICE 4097:0:1:1628:0:0:0:0:0:0:http%3a//probki.ulan-ude.ru%3a8085/stream.flv:Улан-Удe - Веб-камеrа 2 [.flv]
-#DESCRIPTION Улан-Удe - Веб-камеrа 2 [.flv]
-#SERVICE 4097:0:1:1630:0:0:0:0:0:0:http%3a//probki.ulan-ude.ru%3a8083/stream.flv:Улан-Удe - Веб-камеrа 3 [.flv]
-#DESCRIPTION Улан-Удe - Веб-камеrа 3 [.flv]
-#SERVICE 4097:0:1:1632:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam8/index.m3u8:Улан-Удe - Рussкий дrамаtиchеsки
-#DESCRIPTION Улан-Удe - Рussкий дrамаtиchеsки
-#SERVICE 4097:0:1:1634:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam36/index.m3u8:Улан-Удe - Селенгинsкий моst
-#DESCRIPTION Улан-Удe - Селенгинsкий моst
-#SERVICE 4097:0:1:1636:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam11/index.m3u8:Улан-Удe - пл. Совеtов
-#DESCRIPTION Улан-Удe - пл. Совеtов
-#SERVICE 4097:0:1:1638:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam6/index.m3u8:Улан-Удe - пr. 50 леt Окtjaбrja
-#DESCRIPTION Улан-Удe - пr. 50 леt Окtjaбrja
-#SERVICE 4097:0:1:1640:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam35/index.m3u8:Улан-Удe - пr. Авtомобилиstов -
-#DESCRIPTION Улан-Удe - пr. Авtомобилиstов -
-#SERVICE 4097:0:1:1642:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam9/index.m3u8:Улан-Удe - uл. Бабushкина - Теrеs
-#DESCRIPTION Улан-Удe - uл. Бабushкина - Теrеs
-#SERVICE 4097:0:1:1644:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam7/index.m3u8:Улан-Удe - uл. Боrsоева
-#DESCRIPTION Улан-Удe - uл. Боrsоева
-#SERVICE 4097:0:1:1646:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam3/index.m3u8:Улан-Удe - uл. Еrбанова - Боrsое
-#DESCRIPTION Улан-Удe - uл. Еrбанова - Боrsое
-#SERVICE 4097:0:1:1648:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam4/index.m3u8:Финлjaндиja - rайон Калаsаtама
-#DESCRIPTION Финлjaндиja - rайон Калаsаtама
-#SERVICE 4097:0:1:1652:0:0:0:0:0:0:rtmp%3a//lies.symbolos.fi/ek//ek:ХАРЬКОВ ККЗ
-#DESCRIPTION ХАРЬКОВ ККЗ
-#SERVICE 4097:0:1:1656:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17980668/streams/live/iphone/playlist.m3u8:Хаr'ков 602мr
-#DESCRIPTION Хаr'ков 602мr
-#SERVICE 4097:0:1:1660:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/19983671/streams/live/iphone/playlist.m3u8:Хаr'ков Плоschад' Свободy
-#DESCRIPTION Хаr'ков Плоschад' Свободy
-#SERVICE 4097:0:1:1664:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/19983544/streams/live/iphone/playlist.m3u8:Хаr'ков ШИРОНИНЦЕВ БЛЮХЕРА
-#DESCRIPTION Хаr'ков ШИРОНИНЦЕВ БЛЮХЕРА
-#SERVICE 4097:0:1:1666:0:0:0:0:0:0:http%3a//91.214.176.84%3a8088/hls/ch01/index.m3u8:Хеrsон - Авtовокзал
-#DESCRIPTION Хеrsон - Авtовокзал
-#SERVICE 4097:0:1:1668:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch01.m3u8:Хеrsон - Вид на гоrодsкой sовеt
-#DESCRIPTION Хеrsон - Вид на гоrодsкой sовеt
-#SERVICE 4097:0:1:1670:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch06.m3u8:Хеrsон - Железнyй поrt(Плjaж)
-#DESCRIPTION Хеrsон - Железнyй поrt(Плjaж)
-#SERVICE 4097:0:1:1672:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch16.m3u8:Хеrsон - КПП Каланchак
-#DESCRIPTION Хеrsон - КПП Каланchак
-#SERVICE 4097:0:1:1674:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch17.m3u8:Хеrsон - КПП Чаплyнка
-#DESCRIPTION Хеrsон - КПП Чаплyнка
-#SERVICE 4097:0:1:1676:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch18.m3u8:Хеrsон - КПП Чонгаr
-#DESCRIPTION Хеrsон - КПП Чонгаr
-#SERVICE 4097:0:1:1678:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch03.m3u8:Хеrsон - Набеrежнаja
-#DESCRIPTION Хеrsон - Набеrежнаja
-#SERVICE 4097:0:1:1680:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch12.m3u8:Хеrsон - Паrк Днепrовsкий
-#DESCRIPTION Хеrsон - Паrк Днепrовsкий
-#SERVICE 4097:0:1:1682:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch07.m3u8:Хеrsон - Плоschад' Победy
-#DESCRIPTION Хеrsон - Плоschад' Победy
-#SERVICE 4097:0:1:1684:0:0:0:0:0:0:http%3a//91.214.176.84%3a8088/hls/ch02/index.m3u8:Хеrsон - Пrоsпекt Днепrовsкий
-#DESCRIPTION Хеrsон - Пrоsпекt Днепrовsкий
-#SERVICE 4097:0:1:1686:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch13.m3u8:Хеrsон - Пrоsпекt Победy
-#DESCRIPTION Хеrsон - Пrоsпекt Победy
-#SERVICE 4097:0:1:1688:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch15.m3u8:Хеrsон - пrоsпекt Миrа
-#DESCRIPTION Хеrsон - пrоsпекt Миrа
-#SERVICE 4097:0:1:1690:0:0:0:0:0:0:http%3a//91.214.176.84%3a8088/hls/ch03/index.m3u8:Хеrsон - uл.Пеrмомайsкаja
-#DESCRIPTION Хеrsон - uл.Пеrмомайsкаja
-#SERVICE 4097:0:1:1692:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch09.m3u8:Хеrsон - uл.Сuвоrова
-#DESCRIPTION Хеrsон - uл.Сuвоrова
-#SERVICE 4097:0:1:1694:0:0:0:0:0:0:http%3a//stream1.ic.km.ua%3a8090/webcam.flv:Хмел'ниcк
-#DESCRIPTION Хмел'ниcк
-#SERVICE 4097:0:1:1696:0:0:0:0:0:0:http%3a//89.188.106.154%3a1930/live/450p.stream/chunklist.m3u8:Чеrеповеc - Кrаsноаrмейsкаja пл
-#DESCRIPTION Чеrеповеc - Кrаsноаrмейsкаja пл
-#SERVICE 4097:0:1:1702:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis7_1920x1080.stream/playlist.m3u8:Чеrеповеc - Окtjaбr'sкий моst
-#DESCRIPTION Чеrеповеc - Окtjaбr'sкий моst
-#SERVICE 4097:0:1:1704:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis3_1920x1080.stream/playlist.m3u8:Чеrеповеc - Окtjaбr'sкий моst 2
-#DESCRIPTION Чеrеповеc - Окtjaбr'sкий моst 2
-#SERVICE 4097:0:1:1706:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/rvi2_1920x1080.stream/playlist.m3u8:Чеrеповеc - Паrковка
-#DESCRIPTION Чеrеповеc - Паrковка
-#SERVICE 4097:0:1:1708:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis2_800x600.stream/playlist.m3u8:Чеrеповеc - Пеrекrеstок Гоголja
-#DESCRIPTION Чеrеповеc - Пеrекrеstок Гоголja
-#SERVICE 4097:0:1:1710:0:0:0:0:0:0:http%3a//live.cmirit.ru/live/smart4_1920x1080.stream/playlist.m3u8:Чеrеповеc - Пеrекrеstок пr.Побе
-#DESCRIPTION Чеrеповеc - Пеrекrеstок пr.Побе
-#SERVICE 4097:0:1:1712:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/smart3_1920x1080.stream/playlist.m3u8:Чеrеповеc - Пеrекrеstок uл.Лени
-#DESCRIPTION Чеrеповеc - Пеrекrеstок uл.Лени
-#SERVICE 4097:0:1:1714:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/smart1_1920x1080.stream/playlist.m3u8:Чеrеповеc - Сквеr Веrеschагина
-#DESCRIPTION Чеrеповеc - Сквеr Веrеschагина
-#SERVICE 4097:0:1:1716:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis11_1920x1080.stream/playlist.m3u8:Чеrеповеc - Совеtsкий пrоsпекt
-#DESCRIPTION Чеrеповеc - Совеtsкий пrоsпекt
-#SERVICE 4097:0:1:1718:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis10_704x576.stream/playlist.m3u8:Чеrеповеc - С'езд на uл.Паrковu
-#DESCRIPTION Чеrеповеc - С'езд на uл.Паrковu
-#SERVICE 4097:0:1:1720:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis12_704x576.stream/playlist.m3u8:Чеrеповеc - Ягоrбsкий моst
-#DESCRIPTION Чеrеповеc - Ягоrбsкий моst
-#SERVICE 4097:0:1:1722:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis1_800x600.stream/playlist.m3u8:Чеrеповеc - Ягоrбsкий моst 2
-#DESCRIPTION Чеrеповеc - Ягоrбsкий моst 2
-#SERVICE 4097:0:1:1724:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis6_704x576.stream/playlist.m3u8:Чеrеповеc - Ягоrбsкий моst 3
-#DESCRIPTION Чеrеповеc - Ягоrбsкий моst 3
-#SERVICE 4097:0:1:1726:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/rvi1_1920x1080.stream/playlist.m3u8:Чеrеповеc - пл.Меtаллurгов
-#DESCRIPTION Чеrеповеc - пл.Меtаллurгов
-#SERVICE 4097:0:1:1728:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/smart2_1920x1080.stream/playlist.m3u8:Чеrеповеc - пл.Меtаллurгов 2
-#DESCRIPTION Чеrеповеc - пл.Меtаллurгов 2
-#SERVICE 4097:0:1:1730:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/yaga1_1920x1080.stream/playlist.m3u8:Чеrеповеc - uл.Набеrежнаja
-#DESCRIPTION Чеrеповеc - uл.Набеrежнаja
-#SERVICE 4097:0:1:1732:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hyljes.m3u8:Эstониja 1
-#DESCRIPTION Эstониja 1
-#SERVICE 4097:0:1:1734:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/kuressaare-live.m3u8:Эstониja 10
-#DESCRIPTION Эstониja 10
-#SERVICE 4097:0:1:1736:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/tallinnakalevi-live.m3u8:Эstониja 11
-#DESCRIPTION Эstониja 11
-#SERVICE 4097:0:1:1738:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/marientali-live.m3u8:Эstониja 12
-#DESCRIPTION Эstониja 12
-#SERVICE 4097:0:1:1740:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/skatepark-live.m3u8:Эstониja 13
-#DESCRIPTION Эstониja 13
-#SERVICE 4097:0:1:1742:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/jahisadam-live.m3u8:Эstониja 15
-#DESCRIPTION Эstониja 15
-#SERVICE 4097:0:1:1744:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/roomassaare-live.m3u8:Эstониja 16
-#DESCRIPTION Эstониja 16
-#SERVICE 4097:0:1:1746:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/roomassaare-jahisadam-live.m3u8:Эstониja 17
-#DESCRIPTION Эstониja 17
-#SERVICE 4097:0:1:1748:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/lossihoov-live.m3u8:Эstониja 18
-#DESCRIPTION Эstониja 18
-#SERVICE 4097:0:1:1750:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/haigur.m3u8:Эstониja 2
-#DESCRIPTION Эstониja 2
-#SERVICE 4097:0:1:1752:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Эstониja 3
-#DESCRIPTION Эstониja 3
-#SERVICE 4097:0:1:1754:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Эstониja 4
-#DESCRIPTION Эstониja 4
-#SERVICE 4097:0:1:1756:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Эstониja 5
-#DESCRIPTION Эstониja 5
-#SERVICE 4097:0:1:1758:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/konnakotkas.m3u8:Эstониja 6
-#DESCRIPTION Эstониja 6
-#SERVICE 4097:0:1:1760:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Эstониja 7
-#DESCRIPTION Эstониja 7
-#SERVICE 4097:0:1:1762:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Эstониja 8
-#DESCRIPTION Эstониja 8
-#SERVICE 4097:0:1:1764:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/pesakast-live.m3u8:Эstониja 9
-#DESCRIPTION Эstониja 9
+#SERVICE 4097:0:1:1354:0:0:0:0:0:0:rtmp%3a//polarplunge.origin.camzonecdn.com/CamzoneStreams/_definst_/polarplunge:США - Beliy медвед'
+#DESCRIPTION USA - Beliy bear'
+#SERVICE 4097:0:1:1356:0:0:0:0:0:0:rtmp%3a//zssd-panda.origin.camzonecdn.com/CamzoneStreams/_definst_/zssd-panda:USA - Панда
+#DESCRIPTION USA - Panda
+#SERVICE 4097:0:1:1358:0:0:0:0:0:0:http%3a//208.43.68.139/surfchex//nagshead-super/playlist.m3u8:USA Yuzhonja Каrолandon Фолand-Бandch
+#DESCRIPTION USA Yuzhonja Каrолandon Фолand-Бandch
+#SERVICE 4097:0:1:1362:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam23/index.m3u8:Sankt-Peeterburg - АлекsанDrandнsк
+#DESCRIPTION Sankt-Peeterburg - АлекsанDrandнsк
+#SERVICE 4097:0:1:1364:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam25/index.m3u8:Sankt-Peeterburg - Гоstandнyй Двоr
+#DESCRIPTION Sankt-Peeterburg - Гоstandнyй Двоr
+#SERVICE 4097:0:1:1372:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam7/index.m3u8:Sankt-Peeterburg - Двоrcоваja flat
+#DESCRIPTION Sankt-Peeterburg - Двоrcоваja flat
+#SERVICE 4097:0:1:1374:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam4/index.m3u8:Sankt-Peeterburg - Двоrcовyй bridge
+#DESCRIPTION Sankt-Peeterburg - Двоrcовyй bridge
+#SERVICE 4097:0:1:1376:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam24/index.m3u8:Sankt-Peeterburg - Елandsеевsкandй м
+#DESCRIPTION Sankt-Peeterburg - Елandsеевsкandй м
+#SERVICE 4097:0:1:1378:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam3/index.m3u8:Sankt-Peeterburg - Казанsкandй sAbout
+#DESCRIPTION Sankt-Peeterburg - Казанsкandй sAbout
+#SERVICE 4097:0:1:1382:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam18/index.m3u8:Sankt-Peeterburg - Кrейsеr Авrоrа
+#DESCRIPTION Sankt-Peeterburg - Кrейsеr Авrоrа
+#SERVICE 4097:0:1:1384:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam9/index.m3u8:Sankt-Peeterburg - Лandtейнyй prоsп
+#DESCRIPTION Sankt-Peeterburg - Лandtейнyй prоsп
+#SERVICE 4097:0:1:1386:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam14/index.m3u8:Sankt-Peeterburg - Пеtrопавловsк
+#DESCRIPTION Sankt-Peeterburg - Пеtrопавловsк
+#SERVICE 4097:0:1:1396:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam19/index.m3u8:Sankt-Peeterburg - Пandrоговskaja н
+#DESCRIPTION Sankt-Peeterburg - Пandrоговskaja н
+#SERVICE 4097:0:1:1398:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam8/index.m3u8:Sankt-Peeterburg - prandвеty s Невsк
+#DESCRIPTION Sankt-Peeterburg - prandвеty s Невsк
+#SERVICE 4097:0:1:1402:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam27/index.m3u8:Sankt-Peeterburg - Садоваja orandcа
+#DESCRIPTION Sankt-Peeterburg - Садоваja orandcа
+#SERVICE 4097:0:1:1404:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam20/index.m3u8:Sankt-Peeterburg - Сpier'нyй sAboutоr
+#DESCRIPTION Sankt-Peeterburg - Сpier'нyй sAboutоr
+#SERVICE 4097:0:1:1406:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam28/index.m3u8:Sankt-Peeterburg - Хrам Спаsа-on-
+#DESCRIPTION Sankt-Peeterburg - Хrам Спаsа-on-
+#SERVICE 4097:0:1:1408:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam13/index.m3u8:Sankt-Peeterburg - Ценtr Peeterburg
+#DESCRIPTION Sankt-Peeterburg - Ценtr Peeterburg
+#SERVICE 4097:0:1:1410:0:0:0:0:0:0:http%3a//195.154.163.4%3a8080/httplivestream/cam12/index.m3u8:Sankt-Peeterburg - Эrмandtаж
+#DESCRIPTION Sankt-Peeterburg - Эrмandtаж
+#SERVICE 4097:0:1:1412:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam2/index.m3u8:Sevastopol' 1
+#DESCRIPTION Sevastopol' 1
+#SERVICE 4097:0:1:1414:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam14/index.m3u8:Sevastopol' 2
+#DESCRIPTION Sevastopol' 2
+#SERVICE 4097:0:1:1416:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam1/index.m3u8:Sevastopol' 3
+#DESCRIPTION Sevastopol' 3
+#SERVICE 4097:0:1:1418:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam16/index.m3u8:Sevastopol' 4
+#DESCRIPTION Sevastopol' 4
+#SERVICE 4097:0:1:1420:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam7/index.m3u8:Sevastopol' 5
+#DESCRIPTION Sevastopol' 5
+#SERVICE 4097:0:1:1422:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam5/index.m3u8:Sevastopol' 6
+#DESCRIPTION Sevastopol' 6
+#SERVICE 4097:0:1:1424:0:0:0:0:0:0:http%3a//stream.infosevas.ru/cam6/index.m3u8:Sevastopol' 7
+#DESCRIPTION Sevastopol' 7
+#SERVICE 4097:0:1:1426:0:0:0:0:0:0:rtmp%3a//80.78.116.125%3a1935/rtplive/solikamsk_hd.stream:Solandkamsk
+#DESCRIPTION Solandkamsk
+#SERVICE 4097:0:1:1428:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_109/index.m3u8:Sochand - Гагrа
+#DESCRIPTION Sochand - Гагrа
+#SERVICE 4097:0:1:1430:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_116/index.m3u8:Sochand - МаMaysкandй beforeвал
+#DESCRIPTION Sochand - МаMaysкandй beforeвал
+#SERVICE 4097:0:1:1432:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_131/index.m3u8:Sochand - bridge chеrез rекu
+#DESCRIPTION Sochand - bridge chеrез rекu
+#SERVICE 4097:0:1:1434:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_178/index.m3u8:Sochand - or.plаstuнskaja
+#DESCRIPTION Sochand - or.plаstuнskaja
+#SERVICE 4097:0:1:1436:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_33/index.m3u8:Sochand 1
+#DESCRIPTION Sochand 1
+#SERVICE 4097:0:1:1438:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_1/index.m3u8:Sochand 10
+#DESCRIPTION Sochand 10
+#SERVICE 4097:0:1:1440:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_4/index.m3u8:Sochand 11
+#DESCRIPTION Sochand 11
+#SERVICE 4097:0:1:1442:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_5/index.m3u8:Sochand 12
+#DESCRIPTION Sochand 12
+#SERVICE 4097:0:1:1444:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_6/index.m3u8:Sochand 13
+#DESCRIPTION Sochand 13
+#SERVICE 4097:0:1:1446:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_7/index.m3u8:Sochand 14
+#DESCRIPTION Sochand 14
+#SERVICE 4097:0:1:1448:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_9/index.m3u8:Sochand 15
+#DESCRIPTION Sochand 15
+#SERVICE 4097:0:1:1450:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_31/index.m3u8:Sochand 16
+#DESCRIPTION Sochand 16
+#SERVICE 4097:0:1:1452:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_34/index.m3u8:Sochand 17
+#DESCRIPTION Sochand 17
+#SERVICE 4097:0:1:1454:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_21/index.m3u8:Sochand 18
+#DESCRIPTION Sochand 18
+#SERVICE 4097:0:1:1456:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_22/index.m3u8:Sochand 19
+#DESCRIPTION Sochand 19
+#SERVICE 4097:0:1:1458:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_227/index.m3u8:Sochand 2
+#DESCRIPTION Sochand 2
+#SERVICE 4097:0:1:1460:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_32/index.m3u8:Sochand 20
+#DESCRIPTION Sochand 20
+#SERVICE 4097:0:1:1462:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_35/index.m3u8:Sochand 21
+#DESCRIPTION Sochand 21
+#SERVICE 4097:0:1:1464:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_36/index.m3u8:Sochand 22
+#DESCRIPTION Sochand 22
+#SERVICE 4097:0:1:1466:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_38/index.m3u8:Sochand 23
+#DESCRIPTION Sochand 23
+#SERVICE 4097:0:1:1468:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_39/index.m3u8:Sochand 24
+#DESCRIPTION Sochand 24
+#SERVICE 4097:0:1:1470:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_40/index.m3u8:Sochand 25
+#DESCRIPTION Sochand 25
+#SERVICE 4097:0:1:1472:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_41/index.m3u8:Sochand 26
+#DESCRIPTION Sochand 26
+#SERVICE 4097:0:1:1474:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_42/index.m3u8:Sochand 27
+#DESCRIPTION Sochand 27
+#SERVICE 4097:0:1:1476:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_37/index.m3u8:Sochand 28
+#DESCRIPTION Sochand 28
+#SERVICE 4097:0:1:1478:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_45/index.m3u8:Sochand 29
+#DESCRIPTION Sochand 29
+#SERVICE 4097:0:1:1480:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_151/index.m3u8:Sochand 3
+#DESCRIPTION Sochand 3
+#SERVICE 4097:0:1:1482:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_47/index.m3u8:Sochand 30
+#DESCRIPTION Sochand 30
+#SERVICE 4097:0:1:1484:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_46/index.m3u8:Sochand 31
+#DESCRIPTION Sochand 31
+#SERVICE 4097:0:1:1486:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_52/index.m3u8:Sochand 32
+#DESCRIPTION Sochand 32
+#SERVICE 4097:0:1:1488:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_73/index.m3u8:Sochand 33
+#DESCRIPTION Sochand 33
+#SERVICE 4097:0:1:1490:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_74/index.m3u8:Sochand 34
+#DESCRIPTION Sochand 34
+#SERVICE 4097:0:1:1492:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_76/index.m3u8:Sochand 35
+#DESCRIPTION Sochand 35
+#SERVICE 4097:0:1:1494:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_80/index.m3u8:Sochand 36
+#DESCRIPTION Sochand 36
+#SERVICE 4097:0:1:1496:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_79/index.m3u8:Sochand 37
+#DESCRIPTION Sochand 37
+#SERVICE 4097:0:1:1498:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_82/index.m3u8:Sochand 38
+#DESCRIPTION Sochand 38
+#SERVICE 4097:0:1:1500:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_83/index.m3u8:Sochand 39
+#DESCRIPTION Sochand 39
+#SERVICE 4097:0:1:1502:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_44/index.m3u8:Sochand 4
+#DESCRIPTION Sochand 4
+#SERVICE 4097:0:1:1504:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_85/index.m3u8:Sochand 40
+#DESCRIPTION Sochand 40
+#SERVICE 4097:0:1:1506:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_87/index.m3u8:Sochand 41
+#DESCRIPTION Sochand 41
+#SERVICE 4097:0:1:1508:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_84/index.m3u8:Sochand 42
+#DESCRIPTION Sochand 42
+#SERVICE 4097:0:1:1510:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_86/index.m3u8:Sochand 43
+#DESCRIPTION Sochand 43
+#SERVICE 4097:0:1:1512:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_88/index.m3u8:Sochand 44
+#DESCRIPTION Sochand 44
+#SERVICE 4097:0:1:1514:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_90/index.m3u8:Sochand 45
+#DESCRIPTION Sochand 45
+#SERVICE 4097:0:1:1516:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_89/index.m3u8:Sochand 46
+#DESCRIPTION Sochand 46
+#SERVICE 4097:0:1:1518:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_91/index.m3u8:Sochand 47
+#DESCRIPTION Sochand 47
+#SERVICE 4097:0:1:1520:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_93/index.m3u8:Sochand 48
+#DESCRIPTION Sochand 48
+#SERVICE 4097:0:1:1522:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_95/index.m3u8:Sochand 49
+#DESCRIPTION Sochand 49
+#SERVICE 4097:0:1:1524:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_225/index.m3u8:Sochand 5
+#DESCRIPTION Sochand 5
+#SERVICE 4097:0:1:1526:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_96/index.m3u8:Sochand 50
+#DESCRIPTION Sochand 50
+#SERVICE 4097:0:1:1528:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_97/index.m3u8:Sochand 51
+#DESCRIPTION Sochand 51
+#SERVICE 4097:0:1:1530:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_94/index.m3u8:Sochand 52
+#DESCRIPTION Sochand 52
+#SERVICE 4097:0:1:1532:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_100/index.m3u8:Sochand 53
+#DESCRIPTION Sochand 53
+#SERVICE 4097:0:1:1534:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_101/index.m3u8:Sochand 54
+#DESCRIPTION Sochand 54
+#SERVICE 4097:0:1:1536:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_104/index.m3u8:Sochand 55
+#DESCRIPTION Sochand 55
+#SERVICE 4097:0:1:1538:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_224/index.m3u8:Sochand 6
+#DESCRIPTION Sochand 6
+#SERVICE 4097:0:1:1540:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_221/index.m3u8:Sochand 7
+#DESCRIPTION Sochand 7
+#SERVICE 4097:0:1:1542:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_220/index.m3u8:Sochand 8
+#DESCRIPTION Sochand 8
+#SERVICE 4097:0:1:1544:0:0:0:0:0:0:http%3a//sochi.camera%3a8080/cam_3/index.m3u8:Sochand 9
+#DESCRIPTION Sochand 9
+#SERVICE 4097:0:1:1546:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/743dd976-e592-454f-8c52-63aadd612d91/mono.m3u8:Sredneurale'sк Leermontov 1
+#DESCRIPTION Sredneurale'sк Leermontov 1
+#SERVICE 4097:0:1:1548:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/7ed75430-7396-43ac-a96f-dd767ea920cf/mono.m3u8:Sredneurale'sк Сtrоandtелей 6
+#DESCRIPTION Sredneurale'sк Сtrоandtелей 6
+#SERVICE 4097:0:1:1550:0:0:0:0:0:0:http%3a//31.131.80.2%3a8080/Sredneuralsk.Uralskaya.26a-71d2fe7e16/mono.m3u8:Sredneurale'sк Уrал'skaja 26а
+#DESCRIPTION Sredneurale'sк Уrал'skaja 26а
+#SERVICE 4097:0:1:1552:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/ParkVhod:Stavropol' - Вhод Паrка Paboutedy
+#DESCRIPTION Stavropol' - Вhод Паrка Paboutedy
+#SERVICE 4097:0:1:1554:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/ParkKatok:Stavropol' - Cautoc
+#DESCRIPTION Stavropol' - Cautoc
+#SERVICE 4097:0:1:1556:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/ParkSamolet:Stavropol' - Паrк Paboutedy
+#DESCRIPTION Stavropol' - Паrк Paboutedy
+#SERVICE 4097:0:1:1558:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/Per-Dovat-Lerm:Stavropol' - or.Доваtоrcев
+#DESCRIPTION Stavropol' - or.Доваtоrcев
+#SERVICE 4097:0:1:1562:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/Lenina347:Stavropol' - or.Lenin
+#DESCRIPTION Stavropol' - or.Lenin
+#SERVICE 4097:0:1:1564:0:0:0:0:0:0:rtmp%3a//stream.iformula.ru%3a1935/rtmp/Tuh22.1:Stavropol' - or.Тuhаchевsкого
+#DESCRIPTION Stavropol' - or.Тuhаchевsкого
+#SERVICE 4097:0:1:1566:0:0:0:0:0:0:http%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live/playlist.m3u8:Steeon plаchа 1
+#DESCRIPTION Steeon plаchа 1
+#SERVICE 4097:0:1:1568:0:0:0:0:0:0:http%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live1/23595_LIVE_Kotel_Live1/playlist.m3u8:Steeon plаchа 2
+#DESCRIPTION Steeon plаchа 2
+#SERVICE 4097:0:1:1570:0:0:0:0:0:0:http%3a//strezhi.ru%3a1935/live/cam1.stream/playlist.m3u8:Strezheva 1
+#DESCRIPTION Strezheva 1
+#SERVICE 4097:0:1:1572:0:0:0:0:0:0:http%3a//strezhi.ru%3a1935/live/cam7.stream/playlist.m3u8:Strezheva 2
+#DESCRIPTION Strezheva 2
+#SERVICE 4097:0:1:1574:0:0:0:0:0:0:http%3a//strezhi.ru%3a1935/live/cam4.stream/playlist.m3u8:Strezheva 3
+#DESCRIPTION Strezheva 3
+#SERVICE 4097:0:1:1576:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/1041782/streams/live/iphone/playlist.m3u8:Tauerskandy bridge
+#DESCRIPTION Tauerskandy bridge
+#SERVICE 4097:0:1:1578:0:0:0:0:0:0:rtmp%3a//media.andreevsoft.ru/live/cam1.stream:Твеr' - comp'yttriand 1
+#DESCRIPTION Твеr' - comp'yttriand 1
+#SERVICE 4097:0:1:1580:0:0:0:0:0:0:rtmp%3a//media.andreevsoft.ru/live/cam2.stream:Твеr' - comp'yttriand 2
+#DESCRIPTION Твеr' - comp'yttriand 2
+#SERVICE 4097:0:1:1582:0:0:0:0:0:0:rtmp%3a//media.andreevsoft.ru/live/cam3.stream:Твеr' - comp'yttriand 3
+#DESCRIPTION Твеr' - comp'yttriand 3
+#SERVICE 4097:0:1:1584:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s2.stream/playlist.m3u8:Tuapse – Вandадuк
+#DESCRIPTION Tuapse – Вandадuк
+#SERVICE 4097:0:1:1586:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s14.stream/playlist.m3u8:Tuapse – View s or.Кandrandchенко
+#DESCRIPTION Tuapse – View s or.Кandrandchенко
+#SERVICE 4097:0:1:1588:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s9.stream/playlist.m3u8:Tuapse – Гоrка Geroev
+#DESCRIPTION Tuapse – Гоrка Geroev
+#SERVICE 4097:0:1:1590:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s7.stream/playlist.m3u8:Tuapse – Дandкandй pljaj
+#DESCRIPTION Tuapse – Дandкandй pljaj
+#SERVICE 4097:0:1:1592:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s17.stream/playlist.m3u8:Tuapse – Небuг
+#DESCRIPTION Tuapse – Небuг
+#SERVICE 4097:0:1:1594:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s11.stream/playlist.m3u8:Tuapse – Оapartmentовка plаtан
+#DESCRIPTION Tuapse – Оapartmentовка plаtан
+#SERVICE 4097:0:1:1596:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s8.stream/playlist.m3u8:Tuapse – Shortcut
+#DESCRIPTION Tuapse – Shortcut
+#SERVICE 4097:0:1:1598:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s12.stream/playlist.m3u8:Tuapse – Shortcut or.Mira
+#DESCRIPTION Tuapse – Shortcut or.Mira
+#SERVICE 4097:0:1:1600:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s18.stream/playlist.m3u8:Tuapse – pljaj Небuг
+#DESCRIPTION Tuapse – pljaj Небuг
+#SERVICE 4097:0:1:1602:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s20.stream/playlist.m3u8:Tuapse – Споrt Plotschadка
+#DESCRIPTION Tuapse – Споrt Plotschadка
+#SERVICE 4097:0:1:1604:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s1.stream/playlist.m3u8:Tuapse – Tsentraл'onja Plotschad'
+#DESCRIPTION Tuapse – Tsentraл'onja Plotschad'
+#SERVICE 4097:0:1:1606:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s5.stream/playlist.m3u8:Tuapse – Tsentraл'нyй pljaj
+#DESCRIPTION Tuapse – Tsentraл'нyй pljaj
+#SERVICE 4097:0:1:1608:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s13.stream/playlist.m3u8:Tuapse – or.Богдаon Hops'нandcк
+#DESCRIPTION Tuapse – or.Богдаon Hops'нandcк
+#SERVICE 4097:0:1:1610:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s4.stream/playlist.m3u8:Tuapse – or.Калаrаshа
+#DESCRIPTION Tuapse – or.Калаrаshа
+#SERVICE 4097:0:1:1612:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s6.stream/playlist.m3u8:Tuapse – or.Каrла Маrкsа
+#DESCRIPTION Tuapse – or.Каrла Маrкsа
+#SERVICE 4097:0:1:1614:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s10.stream/playlist.m3u8:Tuapse – or.Lenin
+#DESCRIPTION Tuapse – or.Lenin
+#SERVICE 4097:0:1:1616:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s15.stream/playlist.m3u8:Tuapse – or.Sochandнskaja
+#DESCRIPTION Tuapse – or.Sochandнskaja
+#SERVICE 4097:0:1:1618:0:0:0:0:0:0:http%3a//83.234.210.22%3a1935/live/s3.stream/playlist.m3u8:Tuapse – or.Фruнзе
+#DESCRIPTION Tuapse – or.Фruнзе
+#SERVICE 4097:0:1:1620:0:0:0:0:0:0:http%3a//camera.tuva.ru%3a8080/shagonar/index.m3u8:Tuva - Адмandнstrаcandja Шагоonr
+#DESCRIPTION Tuva - Адмandнstrаcandja Шагоonr
+#SERVICE 4097:0:1:1622:0:0:0:0:0:0:http%3a//camera.tuva.ru%3a8080/centr_asia1/index.m3u8:Tuva - Ценtr Азandand 1
+#DESCRIPTION Tuva - Ценtr Азandand 1
+#SERVICE 4097:0:1:1624:0:0:0:0:0:0:http%3a//camera.tuva.ru%3a8080/centr_asia2/index.m3u8:Tuva - Ценtr Азandand 2
+#DESCRIPTION Tuva - Ценtr Азandand 2
+#SERVICE 4097:0:1:1626:0:0:0:0:0:0:http%3a//probki.ulan-ude.ru%3a8081/stream.flv:Ulan-Ude - Web-camera 1 [.flv]
+#DESCRIPTION Ulan-Ude - Web-camera 1 [.flv]
+#SERVICE 4097:0:1:1628:0:0:0:0:0:0:http%3a//probki.ulan-ude.ru%3a8085/stream.flv:Ulan-Ude - Web-camera 2 [.flv]
+#DESCRIPTION Ulan-Ude - Web-camera 2 [.flv]
+#SERVICE 4097:0:1:1630:0:0:0:0:0:0:http%3a//probki.ulan-ude.ru%3a8083/stream.flv:Ulan-Ude - Web-camera 3 [.flv]
+#DESCRIPTION Ulan-Ude - Web-camera 3 [.flv]
+#SERVICE 4097:0:1:1632:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam8/index.m3u8:Ulan-Ude - Рussкandй Drамаtandchеsкand
+#DESCRIPTION Ulan-Ude - Рussкandй Drамаtandchеsкand
+#SERVICE 4097:0:1:1634:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam36/index.m3u8:Ulan-Ude - Селенгandнsкandй bridge
+#DESCRIPTION Ulan-Ude - Селенгandнsкandй bridge
+#SERVICE 4097:0:1:1636:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam11/index.m3u8:Ulan-Ude - pl. Совеtов
+#DESCRIPTION Ulan-Ude - pl. Совеtов
+#SERVICE 4097:0:1:1638:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam6/index.m3u8:Ulan-Ude - pr. 50 леt Окtjaбrja
+#DESCRIPTION Ulan-Ude - pr. 50 леt Окtjaбrja
+#SERVICE 4097:0:1:1640:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam35/index.m3u8:Ulan-Ude - pr. АвtомAboutandлandstов -
+#DESCRIPTION Ulan-Ude - pr. АвtомAboutandлandstов -
+#SERVICE 4097:0:1:1642:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam9/index.m3u8:Ulan-Ude - or. Бабushкandon - Теrеs
+#DESCRIPTION Ulan-Ude - or. Бабushкandon - Теrеs
+#SERVICE 4097:0:1:1644:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam7/index.m3u8:Ulan-Ude - or. Боrsоева
+#DESCRIPTION Ulan-Ude - or. Боrsоева
+#SERVICE 4097:0:1:1646:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam3/index.m3u8:Ulan-Ude - or. Еrбанова - Боrsое
+#DESCRIPTION Ulan-Ude - or. Еrбанова - Боrsое
+#SERVICE 4097:0:1:1648:0:0:0:0:0:0:http%3a//stream.trafjam.ru/cam4/index.m3u8:Fandnljandandja - rайон Калаsаtама
+#DESCRIPTION Fandnljandandja - rайон Калаsаtама
+#SERVICE 4097:0:1:1652:0:0:0:0:0:0:rtmp%3a//lies.symbolos.fi/ek//ek:KHARKIV ККЗ
+#DESCRIPTION KHARKIV ККЗ
+#SERVICE 4097:0:1:1656:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17980668/streams/live/iphone/playlist.m3u8:Har'koy 602мr
+#DESCRIPTION Har'koy 602мr
+#SERVICE 4097:0:1:1660:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/19983671/streams/live/iphone/playlist.m3u8:Har'koy Plotschad' СвAboutодy
+#DESCRIPTION Har'koy Plotschad' СвAboutодy
+#SERVICE 4097:0:1:1664:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/19983544/streams/live/iphone/playlist.m3u8:Har'koy ШandРОНandНЦЕВ БЛЮХЕРА
+#DESCRIPTION Har'koy ШandРОНandНЦЕВ БЛЮХЕРА
+#SERVICE 4097:0:1:1666:0:0:0:0:0:0:http%3a//91.214.176.84%3a8088/hls/ch01/index.m3u8:Herson - АвtоRailway stationл
+#DESCRIPTION Herson - АвtоRailway stationл
+#SERVICE 4097:0:1:1668:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch01.m3u8:Herson - View on гоrодsкой sовеt
+#DESCRIPTION Herson - View on гоrодsкой sовеt
+#SERVICE 4097:0:1:1670:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch06.m3u8:Herson - Железнyй поrt(pljaj)
+#DESCRIPTION Herson - Железнyй поrt(pljaj)
+#SERVICE 4097:0:1:1672:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch16.m3u8:Herson - PPC Каланchак
+#DESCRIPTION Herson - PPC Каланchак
+#SERVICE 4097:0:1:1674:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch17.m3u8:Herson - PPC Чаplyнка
+#DESCRIPTION Herson - PPC Чаplyнка
+#SERVICE 4097:0:1:1676:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch18.m3u8:Herson - PPC Чонгаr
+#DESCRIPTION Herson - PPC Чонгаr
+#SERVICE 4097:0:1:1678:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch03.m3u8:Herson - onbeigeonja
+#DESCRIPTION Herson - onbeigeonja
+#SERVICE 4097:0:1:1680:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch12.m3u8:Herson - park Dneprovskandy
+#DESCRIPTION Herson - park Dneprovskandy
+#SERVICE 4097:0:1:1682:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch07.m3u8:Herson - Plotschad' Paboutedy
+#DESCRIPTION Herson - Plotschad' Paboutedy
+#SERVICE 4097:0:1:1684:0:0:0:0:0:0:http%3a//91.214.176.84%3a8088/hls/ch02/index.m3u8:Herson - prospekt Dneprovskandy
+#DESCRIPTION Herson - prospekt Dneprovskandy
+#SERVICE 4097:0:1:1686:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch13.m3u8:Herson - prospekt Paboutedy
+#DESCRIPTION Herson - prospekt Paboutedy
+#SERVICE 4097:0:1:1688:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch15.m3u8:Herson - prospekt Mira
+#DESCRIPTION Herson - prospekt Mira
+#SERVICE 4097:0:1:1690:0:0:0:0:0:0:http%3a//91.214.176.84%3a8088/hls/ch03/index.m3u8:Herson - or.PermoMayskaja
+#DESCRIPTION Herson - or.PermoMayskaja
+#SERVICE 4097:0:1:1692:0:0:0:0:0:0:https%3a//webcams.ks.ua/hls/ch09.m3u8:Herson - or.Сuвоrова
+#DESCRIPTION Herson - or.Сuвоrова
+#SERVICE 4097:0:1:1694:0:0:0:0:0:0:http%3a//stream1.ic.km.ua%3a8090/webcam.flv:Hops'нandcк
+#DESCRIPTION Hops'нandcк
+#SERVICE 4097:0:1:1696:0:0:0:0:0:0:http%3a//89.188.106.154%3a1930/live/450p.stream/chunklist.m3u8:Cherepovec - Krasnoarmeyskaja pl
+#DESCRIPTION Cherepovec - Krasnoarmeyskaja pl
+#SERVICE 4097:0:1:1702:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis7_1920x1080.stream/playlist.m3u8:Cherepovec - Oktjabr'skandy bridge
+#DESCRIPTION Cherepovec - Oktjabr'skandy bridge
+#SERVICE 4097:0:1:1704:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis3_1920x1080.stream/playlist.m3u8:Cherepovec - Oktjabr'skandy bridge 2
+#DESCRIPTION Cherepovec - Oktjabr'skandy bridge 2
+#SERVICE 4097:0:1:1706:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/rvi2_1920x1080.stream/playlist.m3u8:Cherepovec - Паrkoyка
+#DESCRIPTION Cherepovec - Паrkoyка
+#SERVICE 4097:0:1:1708:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis2_800x600.stream/playlist.m3u8:Cherepovec - Shortcut Gogolja
+#DESCRIPTION Cherepovec - Shortcut Gogolja
+#SERVICE 4097:0:1:1710:0:0:0:0:0:0:http%3a//live.cmirit.ru/live/smart4_1920x1080.stream/playlist.m3u8:Cherepovec - Shortcut pr.ПAboutе
+#DESCRIPTION Cherepovec - Shortcut pr.ПAboutе
+#SERVICE 4097:0:1:1712:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/smart3_1920x1080.stream/playlist.m3u8:Cherepovec - Shortcut or.Leni
+#DESCRIPTION Cherepovec - Shortcut or.Leni
+#SERVICE 4097:0:1:1714:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/smart1_1920x1080.stream/playlist.m3u8:Cherepovec - Square Веrеschагandon
+#DESCRIPTION Cherepovec - Square Веrеschагandon
+#SERVICE 4097:0:1:1716:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis11_1920x1080.stream/playlist.m3u8:Cherepovec - Sovetskandy prospekt
+#DESCRIPTION Cherepovec - Sovetskandy prospekt
+#SERVICE 4097:0:1:1718:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis10_704x576.stream/playlist.m3u8:Cherepovec - Congress on or.Parkoyu
+#DESCRIPTION Cherepovec - Congress on or.Parkoyu
+#SERVICE 4097:0:1:1720:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis12_704x576.stream/playlist.m3u8:Cherepovec - Yagorbskandy bridge
+#DESCRIPTION Cherepovec - Yagorbskandy bridge
+#SERVICE 4097:0:1:1722:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis1_800x600.stream/playlist.m3u8:Cherepovec - Yagorbskandy bridge 2
+#DESCRIPTION Cherepovec - Yagorbskandy bridge 2
+#SERVICE 4097:0:1:1724:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/axis6_704x576.stream/playlist.m3u8:Cherepovec - Yagorbskandy bridge 3
+#DESCRIPTION Cherepovec - Yagorbskandy bridge 3
+#SERVICE 4097:0:1:1726:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/rvi1_1920x1080.stream/playlist.m3u8:Cherepovec - pl.Metallurgov
+#DESCRIPTION Cherepovec - pl.Metallurgov
+#SERVICE 4097:0:1:1728:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/smart2_1920x1080.stream/playlist.m3u8:Cherepovec - pl.Metallurgov 2
+#DESCRIPTION Cherepovec - pl.Metallurgov 2
+#SERVICE 4097:0:1:1730:0:0:0:0:0:0:http%3a//live.cmirit.ru%3a1935/live/yaga1_1920x1080.stream/playlist.m3u8:Cherepovec - or.onbeigeonja
+#DESCRIPTION Cherepovec - or.onbeigeonja
+#SERVICE 4097:0:1:1732:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hyljes.m3u8:Estonia 1
+#DESCRIPTION Estonia 1
+#SERVICE 4097:0:1:1734:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/kuressaare-live.m3u8:Estonia 10
+#DESCRIPTION Estonia 10
+#SERVICE 4097:0:1:1736:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/tallinnakalevi-live.m3u8:Estonia 11
+#DESCRIPTION Estonia 11
+#SERVICE 4097:0:1:1738:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/marientali-live.m3u8:Estonia 12
+#DESCRIPTION Estonia 12
+#SERVICE 4097:0:1:1740:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/skatepark-live.m3u8:Estonia 13
+#DESCRIPTION Estonia 13
+#SERVICE 4097:0:1:1742:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/jahisadam-live.m3u8:Estonia 15
+#DESCRIPTION Estonia 15
+#SERVICE 4097:0:1:1744:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/roomassaare-live.m3u8:Estonia 16
+#DESCRIPTION Estonia 16
+#SERVICE 4097:0:1:1746:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/roomassaare-jahisadam-live.m3u8:Estonia 17
+#DESCRIPTION Estonia 17
+#SERVICE 4097:0:1:1748:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/lossihoov-live.m3u8:Estonia 18
+#DESCRIPTION Estonia 18
+#SERVICE 4097:0:1:1750:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/haigur.m3u8:Estonia 2
+#DESCRIPTION Estonia 2
+#SERVICE 4097:0:1:1752:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Estonia 3
+#DESCRIPTION Estonia 3
+#SERVICE 4097:0:1:1754:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Estonia 4
+#DESCRIPTION Estonia 4
+#SERVICE 4097:0:1:1756:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Estonia 5
+#DESCRIPTION Estonia 5
+#SERVICE 4097:0:1:1758:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/konnakotkas.m3u8:Estonia 6
+#DESCRIPTION Estonia 6
+#SERVICE 4097:0:1:1760:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Estonia 7
+#DESCRIPTION Estonia 7
+#SERVICE 4097:0:1:1762:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Estonia 8
+#DESCRIPTION Estonia 8
+#SERVICE 4097:0:1:1764:0:0:0:0:0:0:http%3a//webcam.tt.ee/live/pesakast-live.m3u8:Estonia 9
+#DESCRIPTION Estonia 9
