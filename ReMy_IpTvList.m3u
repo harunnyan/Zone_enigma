@@ -237,6 +237,28 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:0,Arena Sport4
 http://46.40.5.99:8000/arena_4_high
+#EXTINF:-1,Eurosport
+http://164.132.136.176:8000/0157
+#EXTINF:-1,Eurosport2
+http://164.132.136.176:8000/0158
+#EXTINF:-1,ARENA SPORT 1 NEW
+http://164.132.136.176:8000/0159
+#EXTINF:-1,M4 Sport Hd
+http://164.132.136.176:8000/0149
+#EXTINF:-1,Sport2
+http://164.132.136.176:8000/0155
+#EXTINF:-1,Sport5
+http://164.132.136.176:8000/0156
+#EXTINF:-1,Extreme Sports Channel
+http://164.132.136.176:8000/0127
+#EXTINF:-1,RTL GOLD
+http://164.132.136.176:8000/0152
+#EXTINF:-1,CBS REALITY
+http://164.132.136.176:8000/0153
+#EXTINF:-1,P PRIME
+http://164.132.136.176:8000/0154
+#EXTINF:-1,MTV
+http://164.132.136.176:8000/0161
 #EXTINF:0,TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:0,FB TV
