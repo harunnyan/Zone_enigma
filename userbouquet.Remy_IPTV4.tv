@@ -15,6 +15,10 @@
 #DESCRIPTION Miami TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.111.128.190/miamitv/smil%3amiamitvspain/playlist.m3u8:Miami tv 3
 #DESCRIPTION Miami tv 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de-origin-live.3qsdn.com%3a1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8:BS 24 LIVE
+#DESCRIPTION BS 24 LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil%3a2346-mbr.smil/playlist.m3u8:Babestation Germany
+#DESCRIPTION Babestation Germany
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8:Studio 66
 #DESCRIPTION Studio 66
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8:Studio 66
@@ -27,90 +31,24 @@
 #DESCRIPTION Visit-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de-origin-live.3qsdn.com%3a1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8:BS 24 LIVE
-#DESCRIPTION BS 24 LIVE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil%3a2346-mbr.smil/playlist.m3u8:Babestation Germany
-#DESCRIPTION Babestation Germany
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.fundorado.com%3a80/fundoradotv//live.stream:Fundorado TV
-#DESCRIPTION Fundorado TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.77%3a8888:Penthouse
-#DESCRIPTION Penthouse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.53.73.2%3a8000/play/mezzo:Private TV HD
-#DESCRIPTION Private TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3 TV HD
-#DESCRIPTION 1-2-3 TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8:EROX HD
-#DESCRIPTION EROX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/142/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/264/index.m3u8:Nuart TV
-#DESCRIPTION Nuart TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/266/index.m3u8:Русская Ночь
-#DESCRIPTION Русская Ночь
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/267/index.m3u8:Эгоист
-#DESCRIPTION Эгоист
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/268/index.m3u8:Blue Hustler
-#DESCRIPTION Blue Hustler
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/346/index.m3u8:Brazzers TV Europe
-#DESCRIPTION Brazzers TV Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/354/index.m3u8:Private TV HD
-#DESCRIPTION Private TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/358/index.m3u8:Ev*lAng*lTV
-#DESCRIPTION Ev*lAng*lTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/359/index.m3u8:DUSK
-#DESCRIPTION DUSK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/360/index.m3u8:SCT
-#DESCRIPTION SCT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/361/index.m3u8:C*nto X C*nto
-#DESCRIPTION C*nto X C*nto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/362/index.m3u8:S*sto S*nso
-#DESCRIPTION S*sto S*nso
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/363/index.m3u8:PassionX**
-#DESCRIPTION PassionX**
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/364/index.m3u8:Livechannel
-#DESCRIPTION Livechannel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/365/index.m3u8:Pink O TV
-#DESCRIPTION Pink O TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/500/index.m3u8:XXL
-#DESCRIPTION XXL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/500/index.m3u8:XXL
-#DESCRIPTION XXL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/501/index.m3u8:Redlight HD
-#DESCRIPTION Redlight HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/502/index.m3u8:Hustler HD
-#DESCRIPTION Hustler HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/754/index.m3u8:Vivid TV Europe
-#DESCRIPTION Vivid TV Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/755/index.m3u8:Brazzers TV CZ
-#DESCRIPTION Brazzers TV CZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/851/index.m3u8:Dorcel TV HD
-#DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/852/index.m3u8:Dorcel TV HD
-#DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/853/index.m3u8:Dorcel TV HD
-#DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/854/index.m3u8:Dorcel TV HD
-#DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8:Zest TV
-#DESCRIPTION Zest TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/142/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/266/index.m3u8:Русская Ночь
-#DESCRIPTION Русская Ночь
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Passion_X/index.m3u8:Passion_X
-#DESCRIPTION Passion_X
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/SCT/index.m3u8:SCT
-#DESCRIPTION SCT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Visit-X_HD/index.m3u8:Visit-X_HD
-#DESCRIPTION Visit-X_HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.124.244.77%3a81/udp/239.195.5.33%3a1234:O-la-la
+#DESCRIPTION O-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.124.240.59%3a81/udp/239.195.5.33%3a1234:O-la-la
+#DESCRIPTION O-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.124.241.22%3a81/udp/239.195.5.33%3a1234:O-la-la
+#DESCRIPTION O-la-la
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Brazzers_TV/index.m3u8:Brazzers_TV
 #DESCRIPTION Brazzers_TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.208.71%3a8080/Dorcel_HD/index.m3u8:Dorcel_HD
+#DESCRIPTION Dorcel_HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/FRENCHLOVER/index.m3u8:FRENCHLOVER
 #DESCRIPTION FRENCHLOVER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Hustler_HD/index.m3u8:Hustler_HD
 #DESCRIPTION Hustler_HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/O-la-la/index.m3u8:O-la-la
 #DESCRIPTION O-la-la
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Passion_X/index.m3u8:Passion_X
+#DESCRIPTION Passion_X
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Penthouse_HD_1/index.m3u8:Penthouse_HD_1
 #DESCRIPTION Penthouse_HD_1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Penthouse_HD_2/index.m3u8:Penthouse_HD_2
@@ -125,6 +63,70 @@
 #DESCRIPTION Redlight_HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Russkaya_noch/index.m3u8:Russkaya_noch
 #DESCRIPTION Russkaya_noch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/SCT/index.m3u8:SCT
+#DESCRIPTION SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Visit-X_HD/index.m3u8:Visit-X_HD
+#DESCRIPTION Visit-X_HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3 TV HD
+#DESCRIPTION 1-2-3 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/268/index.m3u8:HUSTLER TV
+#DESCRIPTION HUSTLER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/755/index.m3u8:HUSTLER TV
+#DESCRIPTION HUSTLER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/346/index.m3u8:Brazzers TV Europe
+#DESCRIPTION Brazzers TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/361/index.m3u8:Cento X Cento TV
+#DESCRIPTION Cento X Cento TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/851/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/852/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/853/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/854/index.m3u8:Dorcel TV HD
+#DESCRIPTION Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/359/index.m3u8:DUSK
+#DESCRIPTION DUSK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8:EROX HD
+#DESCRIPTION EROX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/358/index.m3u8:SEXT6 SENSO ITALIA
+#DESCRIPTION SEXT6 SENSO ITALIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/502/index.m3u8:Hustler HD
+#DESCRIPTION Hustler HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/364/index.m3u8:Livechannel
+#DESCRIPTION Livechannel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/264/index.m3u8:nuart.
+#DESCRIPTION nuart.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/362/index.m3u8:PASSIONXXX
+#DESCRIPTION PASSIONXXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/365/index.m3u8:Pink O TV
+#DESCRIPTION Pink O TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/142/index.m3u8:Playboy
+#DESCRIPTION Playboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/142/index.m3u8:Playboy
+#DESCRIPTION Playboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/354/index.m3u8:Private TV HD
+#DESCRIPTION Private TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/266/index.m3u8:Русская Ночь
+#DESCRIPTION Русская Ночь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/266/index.m3u8:Русская Ночь
+#DESCRIPTION Русская Ночь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/501/index.m3u8:Redlight HD
+#DESCRIPTION Redlight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/360/index.m3u8:SCT
+#DESCRIPTION SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/363/index.m3u8:Xmuvi
+#DESCRIPTION Xmuvi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/500/index.m3u8:XXL
+#DESCRIPTION XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/500/index.m3u8:XXL
+#DESCRIPTION XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/754/index.m3u8:Vivid TV Europe
+#DESCRIPTION Vivid TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8:Zest TV
+#DESCRIPTION Zest TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/267/index.m3u8:SHOT TV
+#DESCRIPTION SHOT TV
 #SERVICE 1:64:94:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
 #DESCRIPTION :::__18_YOGA.COM__:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
