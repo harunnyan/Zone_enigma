@@ -229,6 +229,22 @@ http://5.63.160.25:9002/play/a00b
 http://5.63.160.25:9002/play/a010
 #EXTINF:-1,KHL HD
 http://5.63.160.25:9002/play/a00z
+#EXTINF:0,PREMIERE CLUBES
+http://paraisotv.ddns.net:80/097/myStream/live.m3u8
+#EXTINF:-1,PREMIERE
+http://dp01-trwj4dm.stackpathdns.com/097/myStream/playlist.m3u8
+#EXTINF:-1,PREMIERE 3
+http://dp01-trwj4dm.stackpathdns.com/042/myStream/playlist.m3u8
+#EXTINF:0,PREMIERE 4
+http://paraisotv.ddns.net:80/110/myStream/live.m3u8
+#EXTINF:0,PREMIERE 5
+http://paraisotv.ddns.net:80/044/myStream/live.m3u8
+#EXTINF:-1,PREMIERE 6
+http://paraisotv.ddns.net/042/myStream/playlist.m3u8
+#EXTINF:-1,PREMIERE 7
+http://paraisotv.ddns.net/043/myStream/playlist.m3u8
+#EXTINF:-1,PREMIERE 8
+http://paraisotv.ddns.net/041/myStream/playlist.m3u8
 #EXTINF:0,Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:0,Arena Sport2
