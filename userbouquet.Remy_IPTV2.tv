@@ -385,22 +385,6 @@
 #DESCRIPTION sk3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00b:sky calsio hd
 #DESCRIPTION sky calsio hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//paraisotv.ddns.net%3a80/097/myStream/live.m3u8:PREMIERE CLUBES
-#DESCRIPTION PREMIERE CLUBES
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dp01-trwj4dm.stackpathdns.com/097/myStream/playlist.m3u8:PREMIERE
-#DESCRIPTION PREMIERE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dp01-trwj4dm.stackpathdns.com/042/myStream/playlist.m3u8:PREMIERE 3
-#DESCRIPTION PREMIERE 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//paraisotv.ddns.net%3a80/110/myStream/live.m3u8:PREMIERE 4
-#DESCRIPTION PREMIERE 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//paraisotv.ddns.net%3a80/044/myStream/live.m3u8:PREMIERE 5
-#DESCRIPTION PREMIERE 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//paraisotv.ddns.net/042/myStream/playlist.m3u8:PREMIERE 6
-#DESCRIPTION PREMIERE 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//paraisotv.ddns.net/043/myStream/playlist.m3u8:PREMIERE 7
-#DESCRIPTION PREMIERE 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//paraisotv.ddns.net/041/myStream/playlist.m3u8:PREMIERE 8
-#DESCRIPTION PREMIERE 8
 #SERVICE 1:64:A2:0:0:0:0:0:0:0::ONLY BEST SPORT
 #DESCRIPTION ONLY BEST SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/248/index.m3u8:Auto Plus
