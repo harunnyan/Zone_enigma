@@ -77,6 +77,26 @@
 #DESCRIPTION Kiss TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/magictv/playlist.m3u8:Magic TV
 #DESCRIPTION Magic TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10024.m3u8:1 HD
+#DESCRIPTION 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10260.m3u8:Europa plus
+#DESCRIPTION Europa plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/384.m3u8:HEAT HD
+#DESCRIPTION HEAT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10286.m3u8:HEAT HD
+#DESCRIPTION HEAT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10226.m3u8:MTV
+#DESCRIPTION MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10208.m3u8:MTV Hits
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10031.m3u8:MTV Hits
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10289.m3u8:MTV LIVE HD
+#DESCRIPTION MTV LIVE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10227.m3u8:MTV Rocks
+#DESCRIPTION MTV Rocks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10207.m3u8:MYZ TV
+#DESCRIPTION MYZ TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:D-HOT
 #DESCRIPTION D-HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT HOT
