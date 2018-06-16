@@ -229,22 +229,6 @@ http://5.63.160.25:9002/play/a00b
 http://5.63.160.25:9002/play/a010
 #EXTINF:-1,KHL HD
 http://5.63.160.25:9002/play/a00z
-#EXTINF:0,PREMIERE CLUBES
-http://paraisotv.ddns.net:80/097/myStream/live.m3u8
-#EXTINF:-1,PREMIERE
-http://dp01-trwj4dm.stackpathdns.com/097/myStream/playlist.m3u8
-#EXTINF:-1,PREMIERE 3
-http://dp01-trwj4dm.stackpathdns.com/042/myStream/playlist.m3u8
-#EXTINF:0,PREMIERE 4
-http://paraisotv.ddns.net:80/110/myStream/live.m3u8
-#EXTINF:0,PREMIERE 5
-http://paraisotv.ddns.net:80/044/myStream/live.m3u8
-#EXTINF:-1,PREMIERE 6
-http://paraisotv.ddns.net/042/myStream/playlist.m3u8
-#EXTINF:-1,PREMIERE 7
-http://paraisotv.ddns.net/043/myStream/playlist.m3u8
-#EXTINF:-1,PREMIERE 8
-http://paraisotv.ddns.net/041/myStream/playlist.m3u8
 #EXTINF:0,Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:0,Arena Sport2
@@ -747,8 +731,6 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0,TRT OKUL
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:0,Lyubimoe TV
-http://wse.planeta-online.tv:1935/live/channel_6/chunklist_w160323439.m3u8
 #EXTINF:0, Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0, Smile of a Child
@@ -793,6 +775,26 @@ http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 #EXTINF:0,****((ReMy_WORLD))****
 ****((ReMy_WORLD))****
+#EXTINF:0,Agro TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,6TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,Bollywood Classic
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,Bollywood Classic
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,Credo TV 
+http://telekomtv.ro.edgesuite.net/shls/LIVE$CredoTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,Erdely TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,Inedit TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$IneditTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,Speranta TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,Travel Mix
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,TV CITY
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Nat Geo Wild
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
 #EXTINF:-1,UNICABLE
@@ -827,7 +829,7 @@ http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8
 #EXTINF:-1,DISTRITO COMEDIA SD
 http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(01)/index.m3u8
-#EXTINF:-1,ESPN https://www.iptvbin.com
+#EXTINF:-1,ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
 #EXTINF:-1,NATGEO WILD 
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8
@@ -891,20 +893,24 @@ https://ovh.easyview.eu/hls/challenge.m3u8
 https://ovh.easyview.eu/hls/4seven.m3u8
 #EXTINF:-1,5 USA
 https://ovh.easyview.eu/hls/5usa.m3u8
+#EXTINF:-1,BBC PARLIAMENT
+https://ovh.easyview.eu/hls/bbc_parliament.m3u8
 #EXTINF:-1,BET
 https://ovh.easyview.eu/hls/betblackenttv.m3u8
+#EXTINF:-1,CBBC
+https://ovh.easyview.eu/hls/cbbc.m3u8
+#EXTINF:-1,Cbeebies
+https://ovh.easyview.eu/hls/cbeebies.m3u8
 #EXTINF:-1,YESTERDAY
 https://ovh.easyview.eu/hls/yesterday.m3u8
 #EXTINF:-1,YESTERDAY +1
 https://ovh.easyview.eu/hls/yesterdayplus1.m3u8
-#EXTINF:-1,VH1 EUROPE
-http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2329.m3u8
 #EXTINF:-1,BBC NEWS
 https://ovh.easyview.eu/hls/bbcnews.m3u8
 #EXTINF:-1,SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,BBC PARLIAMENT
-https://ovh.easyview.eu/hls/bbc_parliament.m3u8
+#EXTINF:-1,VH1 EUROPE
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2329.m3u8
 #EXTINF:-1,CNN
 http://188.93.238.205:8000/play/CNN
 #EXTINF:-1,RTE ONE
@@ -915,46 +921,56 @@ http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1,FRANCE 24 FR
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
-#EXTINF:-1,CBBC
-https://ovh.easyview.eu/hls/cbbc.m3u8
-#EXTINF:-1,Cbeebies
-https://ovh.easyview.eu/hls/cbeebies.m3u8
+#EXTINF:0,TV21
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 #EXTINF:0,Alsat M
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
-#EXTINF:0,21
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
-#EXTINF:0,Shenja
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
-#EXTINF:0,Sutel
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
 #EXTINF:0,Alfa
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
-#EXTINF:0,Sitel 3
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel_3)/index.m3u8
-#EXTINF:0,Nasa
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
 #EXTINF:0,Mrt 3
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:0,Nasa
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
+#EXTINF:0,Shenja
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:0,Sitel 3
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel_3)/index.m3u8
+#EXTINF:0,Sutel
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:0,BR HD
+http://85.144.43.35:3002/play/a00o
+#EXTINF:0,Comedy Central
+http://85.144.43.35:3002/play/a01h
+#EXTINF:0,DMAX
+http://85.144.43.35:3002/play/a016
+#EXTINF:0,kabel eins HD
+http://85.144.43.35:3002/play/a00g
+#EXTINF:0,N24 Doku
+http://85.144.43.35:3002/play/a01e
+#EXTINF:0,NDR HD
+http://85.144.43.35:3002/play/a00p
+#EXTINF:0,Phoenix HD
+http://85.144.43.35:3002/play/a00q
+#EXTINF:0,sixx
+http://85.144.43.35:3002/play/a01c
+#EXTINF:0,SWR HD
+http://85.144.43.35:3002/play/a00m
+#EXTINF:0,TELE 5
+http://85.144.43.35:3002/play/a015
 #EXTINF:0,1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:0,ABC TV
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:0,AR TV
 http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u
-#EXTINF:0,BR HD
-http://85.144.43.35:3002/play/a00o
 #EXTINF:0,CACAVISION
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:0,CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 #EXTINF:0,CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-#EXTINF:0,Comedy Central
-http://85.144.43.35:3002/play/a01h
 #EXTINF:0,Das Erste
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
-#EXTINF:0,DMAX
-http://85.144.43.35:3002/play/a016
 #EXTINF:0,DW
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:0,FATIMA TV
@@ -967,26 +983,34 @@ http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/4085.m3u8
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:0,kabel eins
 http://109.164.249.60:25000/play/a01c
-#EXTINF:0,kabel eins HD
-http://85.144.43.35:3002/play/a00g
 #EXTINF:0,KURIAKOS CINE
-http://c2.manasat.com:1935/kcine/kcine3/TeamBlue.m3u8
+http://c2.manasat.com:1935/kcine/kcine3/remy.m3u8
 #EXTINF:0,KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
+http://c2.manasat.com:1935/kkids/kkids3/remy.m3u8
 #EXTINF:0,KURIAKOS MUSIC
-http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
+http://c2.manasat.com:1935/kmusic/kmusic3/remy.m3u8
 #EXTINF:0,KURIAKOS TV
-http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
-#EXTINF:0,N24 Doku
-http://85.144.43.35:3002/play/a01e
-#EXTINF:0,NDR HD
-http://85.144.43.35:3002/play/a00p
+http://195.22.11.11:1935/ktv/ktv1/remy.m3u8
+#EXTINF:0,Lyubimoe TV
+http://wse.planeta-online.tv:1935/live/channel_6/chunklist_w160323439.m3u8
+#EXTINF:0,Diving TV
+http://wse.planeta-online.tv:1935/live/channel_130/chunklist_w1338041556.m3u8
+#EXTINF:0,Doctor Gradus
+http://wse.planeta-online.tv:1935/live/channel_22/chunklist_w1324524581.m3u8
+#EXTINF:0,Kabbala TV
+http://wse.planeta-online.tv:1935/live/kabbala.stream/chunklist_w1144336278.m3u8
+#EXTINF:0,TV TUR
+http://wse.planeta-online.tv:1935/live/channel_2/chunklist_w1838022782.m3u8
+#EXTINF:0,PlanetE
+http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
+#EXTINF:0,Premera TV
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist_w1736880322.m3u8
+#EXTINF:0,UNION
+http://wse.planeta-online.tv:1935/live/soyuz.stream/chunklist_w738961195.m3u8
 #EXTINF:0,ONE
 http://213.215.84.17:8000/play/orf1/index.m3u8
 #EXTINF:0,ORF 2
 http://orf2.orf.cdn.ors.at/orf2/q4a.sdp/chunklist.m3u8
-#EXTINF:0,Phoenix HD
-http://85.144.43.35:3002/play/a00q
 #EXTINF:0,ProSieben
 http://213.215.84.17:8000/play/prosieben/index.m3u8
 #EXTINF:0,rbb
@@ -999,16 +1023,10 @@ http://213.215.84.17:8000/play/sat1/index.m3u8
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:0,SIC MULHER
 http://asdp.ddns.net:8000/live/adriano/adriano/360.m3u8
-#EXTINF:0,sixx
-http://85.144.43.35:3002/play/a01c
-#EXTINF:0,SWR HD
-http://85.144.43.35:3002/play/a00m
 #EXTINF:0,tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:0,TCV
-http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
-#EXTINF:0,TELE 5
-http://85.144.43.35:3002/play/a015
+http://213.13.26.11:1935/live/rtc_teste/remy.m3u8
 #EXTINF:0,TELECINE CULT
 http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3899.m3u8
 #EXTINF:0,TELECINE FUN
@@ -1045,8 +1063,6 @@ http://player.tvnet.lv/live/amlst:11/playlist.m3u8
 http://br.watcha.live/ch12/hi720.m3u8
 #EXTINF:0,360 TV LATINO
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:0,6TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,8 TV LATINO
 rtmp://178.33.113.212/8TV/8aldia-directe
 #EXTINF:0,8TV
@@ -1055,8 +1071,6 @@ http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
 #EXTINF:0,A3S
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Agro TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,ALAZEERA (Documentary)
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:0,ALFA OMEGA
@@ -1089,10 +1103,6 @@ http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 mms://bnptv.info:10801
 #EXTINF:0,Blizz
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-#EXTINF:0,Bollywood Classic
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,Bollywood Classic
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:0,C5N HD
@@ -1129,10 +1139,6 @@ https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
 #EXTINF:0,CN23 HD
 http://br.watcha.live/ch11/hiSD.m3u8
-#EXTINF:0,Credo TV 
-http://telekomtv.ro.edgesuite.net/shls/LIVE$CredoTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,Dessau
-rtmp://62.113.210.250/medienasa-live/ok-dessau_high
 #EXTINF:0,Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&
 #EXTINF:0,Drenthe
@@ -1153,10 +1159,6 @@ http://edge76.rcs-rds.ro/digi24edge/digi24timislivehls/chunklist_w2016306342.m3u
 http://edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8
 #EXTINF:0,DIPUTADOS TV
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
-#EXTINF:0,Diving TV
-http://wse.planeta-online.tv:1935/live/channel_130/chunklist_w1338041556.m3u8
-#EXTINF:0,Doctor Gradus
-http://wse.planeta-online.tv:1935/live/channel_22/chunklist_w1324524581.m3u8
 #EXTINF:0,Donau TV 
 rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 
 #EXTINF:0,Dragon Ball Z
@@ -1169,8 +1171,6 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
 #EXTINF:0,EL PINGOINO
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
-#EXTINF:0,Erdely TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,ETB SAT
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0,Extrema TV
@@ -1209,8 +1209,6 @@ http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 http://80.91.115.211:1935/live/livestream/playlist.m3u8
 #EXTINF:0,ILTV 
 rtmp://str81.creacast.com:80/iltv/high
-#EXTINF:0,Inedit TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$IneditTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,Israel 2
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:0,ITV Patagonia 
@@ -1221,8 +1219,6 @@ http://http-stream.joj.sk/joj/joj/index-hq.m3u8
 http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
 #EXTINF:0,JUG TV
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:0,Kabbala TV
-http://wse.planeta-online.tv:1935/live/kabbala.stream/chunklist_w1144336278.m3u8
 #EXTINF:0,Klipkar TV
 http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
 #EXTINF:0,KOHA
@@ -1251,8 +1247,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:0,LUX
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
-#EXTINF:0,MAGDEBURG
-http://62.113.210.250/medienasa-live/ok-magdeburg_high/ReMy.m3u8?bitrate=800
 #EXTINF:0,Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:0,MBC 2
@@ -1263,8 +1257,18 @@ http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:0,MBC MAX
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0,Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:0,MAGDEBURG
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/ReMy.m3u8?bitrate=800
+#EXTINF:0,Merseburg
+http://62.113.210.250/medienasa-live/ok-merseburg_high/ReMy.m3u8?bitrate=800
 #EXTINF:0,MDF.1
 http://62.113.210.250/medienasa-live/mdf1_high/remy.m3u8
+#EXTINF:0,PUNKTum
+http://62.113.210.250/medienasa-live/punktum_high/ReMy.m3u8
+#EXTINF:0,rbw
+http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
 #EXTINF:0,Media TV
 http://mediatv.novanet.ro/mediatv/mediatv.m3u8
 #EXTINF:0,Mediaset
@@ -1275,8 +1279,6 @@ https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
 https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
 #EXTINF:0,Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
-#EXTINF:0,Merseburg
-rtmp://62.113.210.250/medienasa-live/ok-merseburg_high3u8
 #EXTINF:0,MIS PELICULAS
 https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
 #EXTINF:0,Moldova 1
@@ -1327,8 +1329,6 @@ http://77.92.76.135:1935/orler/livestream/playlist.m3u8
 https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
 #EXTINF:0,PANICO
 https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
-#EXTINF:0,PlanetE
-http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
 #EXTINF:0,PASIONES HD
 https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
 #EXTINF:0,PAT LATINO
@@ -1338,19 +1338,15 @@ rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
 #EXTINF:0,Peliculas Icreme_Dreams
 https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
 #EXTINF:0,Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/remy.m3u8
 #EXTINF:0,PORTO CANAL
-http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
-#EXTINF:0,Premera TV
-http://wse.planeta-online.tv:1935/live/channel_5/chunklist_w1736880322.m3u8
+http://213.13.26.11:1935/live/portocanal/remy.m3u8
 #EXTINF:0,PROMAR TV
 http://edge.wms28.lorini.net/promar/promar/live.m3u8
 #EXTINF:0,Promar TV  LATINO
 http://edge.wms28.lorini.net/promar/promar/remy.m3u8
 #EXTINF:0,Publica TV
 http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:0,PUNKTum
-http://62.113.210.250/medienasa-live/punktum_high/ReMy.m3u8
 #EXTINF:0,ROZAFA (4:3)
 http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0,RTK1 (4:3)
@@ -1373,8 +1369,6 @@ http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 #EXTINF:0,RAI5
 http://stream12.rai.it/live/smil:rai5.smil/master.m3u8
-#EXTINF:0,rbw
-rtmp://62.113.210.250/medienasa-live/rbw_high
 #EXTINF:0,RCG Televisión LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
 #EXTINF:0,RETE 55
@@ -1389,8 +1383,6 @@ http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/200/index.m3u8?token=null
 http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/231/index.m3u8?token=null 
 #EXTINF:0,RT doc
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:0,Speranta TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?Cultura.m3u8?
 #EXTINF:0,TBS BRASIL TV
@@ -1435,8 +1427,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:0,Travel HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?hash=?
-#EXTINF:0,Travel Mix
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
 #EXTINF:0,TravelHD
@@ -1449,22 +1439,16 @@ rtmp://vod.tv7.fi/tv7plus-web/_definst_/mp4:tv7plus.stream_360p
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w1665390578_b1392000.m3u8
 #EXTINF:0,TV BLUE
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w1665390578_b2292000.m3u8
-#EXTINF:0,TV CITY
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,TV PUBLICA FHD
 http://ar.watcha.live/ch4/full.m3u8
 #EXTINF:0,TV PUBLICA HD
 http://ar.watcha.live/ch4/hi.m3u8
-#EXTINF:0,TV TUR
-http://wse.planeta-online.tv:1935/live/channel_2/chunklist_w1838022782.m3u8
 #EXTINF:0,UNIMAS
 http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
 #EXTINF:0,UNICANAL
 http://strm.unicanal.com.py/live/unicanal_src.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:0,UNICANAL 
 http://strm.unicanal.com.py/live/unicanal_mid.m3u8
-#EXTINF:0,UNION
-http://wse.planeta-online.tv:1935/live/soyuz.stream/chunklist_w738961195.m3u8
 #EXTINF:0,WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
 #EXTINF:0,Welt Der Wunder
@@ -3093,6 +3077,10 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
 #EXTINF:0,tvfilopoli
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:0,cannali Platinum
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:0,LampsiTV
+http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0,hellastv FASHION GREEK
 http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
 #EXTINF:0,kontratv
@@ -3105,8 +3093,6 @@ http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:0,greektv
 http://138.197.136.102:8081/live/greektv/playlist.m3u8
-#EXTINF:0,cannali Platinum
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:0,iasis tv
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:0,tv100
@@ -3121,8 +3107,6 @@ http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
 #EXTINF:0,8EKAA
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:0,LampsiTV
-http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
 #EXTINF:0,music1
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:0,ionian
@@ -3458,6 +3442,10 @@ http://95.211.162.32:8008
 http://dinle.slowkaradenizfm.com:9578/;
 #EXTINF:0,BesteFM
 http://188.138.1.52:17732
+#EXTINF:0,Radyo Arabesk
+http://37.247.101.101:5934
+#EXTINF:0,Radyo Derman
+http://sunucu2.radyolarburada.com:3636/;stream.mp3
 #EXTINF:0,JoyTurk Akustik
 https://17753.live.streamtheworld.com/JOYTURK_AKUSTIK128AC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=128eb247-8725-40da-df6f-c986c80bd8f8
 #EXTINF:0,Efkar
@@ -3468,11 +3456,7 @@ https://17773.live.streamtheworld.com/GONUL128AAC.aac?tdsdk=js-2.9&pname=TDSdk&p
 https://19993.live.streamtheworld.com/SC3_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=55cb3a47-f75b-469f-b4ca-a63833def139
 #EXTINF:0,RetroTurk
 https://17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933
-#EXTINF:0,Radyo Arabesk
-http://37.247.101.101:5934
-#EXTINF:0,Radyo Derman
-http://sunucu2.radyolarburada.com:3636/;stream.mp3
-#EXTINF:0,Ankaral
+#EXTINF:0,Ankarali
 https://19643.live.streamtheworld.com/SC6_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=ccf11eb9-8c91-4773-cab9-ff9a255e22d8
 #EXTINF:0,Pop90
 https://17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6
