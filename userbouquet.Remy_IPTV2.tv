@@ -9,16 +9,14 @@
 #DESCRIPTION Bein Sports 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3 HD
 #DESCRIPTION Bein Sports 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.whostreams.net%3a8081/wsedge/251vc5h9/chunks.m3u8?nimblesessionid=735910&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDE4IDg6NTI6NDEgUE0maGFzaF92YWx1ZT1aTU1TcUN1Vlg5TXRYY0w1TExPQjNBPT0mdmFsaWRtaW51dGVzPTIw:Bein Sports 4 HD
-#DESCRIPTION Bein Sports 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDlhNGQwMzExMTk1ZDkxZTBkNTRjYjk4M2FkNDEyOTQ=/g10/SkyFootball.m3u8:SkyFootball
 #DESCRIPTION SkyFootball
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8080/sport1.ts:Bein FOOTBALL
+#DESCRIPTION Bein FOOTBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
+#DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
 #DESCRIPTION S sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8080/sport1.ts:Bein Sports 1 HD
-#DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein Sports1 HD
-#DESCRIPTION Bein Sports1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8:Bursaspor TV
@@ -769,6 +767,16 @@
 #DESCRIPTION FRANCE 24 EN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8:FRANCE 24 FR
 #DESCRIPTION FRANCE 24 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/1998784340?ticket=d32507fe9cdabfbdf10b41801d61adcbd5ef6d88&profile=pass:ITV 1 HD
+#DESCRIPTION ITV 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/474779145?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITV +1
+#DESCRIPTION ITV +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/2139720971?ticket=310b38a8e6001d033b7e4163437091cc57a09348&profile=pass:ITV 2 HD
+#DESCRIPTION ITV 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/250554185?ticket=361621a960db4ed3498c9eadab81fb7e96b129d7&profile=pass:ITV4
+#DESCRIPTION ITV4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/1533292070?ticket=dead46b09dbd231c7d606e253ef2ff26f73cdab2&profile=pass:ITVBe
+#DESCRIPTION ITVBe
 #SERVICE 1:64:A6:0:0:0:0:0:0:0::ONLY BEST IPTV
 #DESCRIPTION ONLY BEST IPTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/157/index.m3u8:1 HD (0h)
