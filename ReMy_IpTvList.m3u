@@ -613,8 +613,6 @@ http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/44/index
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/75/index.m3u8
 #EXTINF:0,Viasat Sport HD
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/76/index.m3u8
-#EXTINF:0,SuperTennis
-http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
 #EXTINF:0,Arena Sport 1 HR
 http://sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
 #EXTINF:0,Arena Sport 2 HR
@@ -625,14 +623,48 @@ http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSpo
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
 #EXTINF:0,Arena Sport 5 SRP
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
+#EXTINF:-1,BT SPORT 1 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g2/BTSport1.m3u8
+#EXTINF:-1,BT SPORT 2 HD
+http://sportsbar.pw/lba/MDhkMzkyN2YwYWYzZjQ4YWZmYjkxNjQ1MGJmMjJkMjA=/g3/BTSport2.m3u8
+#EXTINF:-1,BT SPORT 3 HD
+http://sportsbar.pw/lba/123/g4/BTSport3.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsportespn.m3u8
+#EXTINF:0,DigiRo1
+http://sportsbar.pw/lba/NzNlNTk3NTdiODE4ZTE5MDRjMGI4Yzg4MjIyMGJiZGQ=/g4/DigiRo1.m3u8
+#EXTINF:0,DigiRo2
+http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g1/DigiRo2.m3u8
 #EXTINF:0,SK 1 SRP
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
 #EXTINF:0,SK 2 SRP
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
 #EXTINF:0,SK 3 HR
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
-#EXTINF:0,Bein Sports 1 HD
-http://sportsbar.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
+#EXTINF:0,SkyFootball
+http://sportsbar.pw/lba/NzNlNTk3NTdiODE4ZTE5MDRjMGI4Yzg4MjIyMGJiZGQ=/g10/SkyFootball.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
+#EXTINF:0,SuperTennis
+http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+https://sportsbar.pw/lba/123/g5/SportTV1.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g7/Sport2PT.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
+#EXTINF:-1,TSN 1
+http://sportsbar.pw/lba/ODgxYTM0ZGI5MTkzYjIwMWZlOGYwYTQ5NDE3NWU3OGM=/g2/TSN1.m3u8
+#EXTINF:0,UA Football 1
+http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g3/UAFootball1.m3u8
+#EXTINF:0,ViasatBaltic
+http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g8/ViasatBaltic.m3u8
 #EXTINF:0,Arena Sport 1 HR
 http://sport7.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
 #EXTINF:0,Arena Sport 2 HR
@@ -651,59 +683,9 @@ http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
 http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
 #EXTINF:0,SuperTennis
 http://sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
-#EXTINF:0,Bein Sports 1 HD
-http://sport7.pw/lba/ZTMxMjgzMWI4ZjI1MzBjYTU4NWEwMWUzZWMzYzZmMDc=/g6/bein1tk.m3u8
-#EXTINF:0,SuperTennis
-http://sportsbar.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
-#EXTINF:0,Arena Sport 1 HR
-http://sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
-#EXTINF:0,Arena Sport 2 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8
-#EXTINF:0,Arena Sport 3 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g6/arenaSport3.m3u8
-#EXTINF:0,Arena Sport 4 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g3/arenaSport4.m3u8
-#EXTINF:0,Arena Sport 5 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g7/ArenaSport5.m3u8
-#EXTINF:0,SK 1 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
-#EXTINF:0,SK 2 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
-#EXTINF:0,SK 3 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g7/Sport2PT.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
-#EXTINF:-1,SPORT TV 4 HD
-http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
-#EXTINF:0,UAFootball 1
-http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g3/UAFootball1.m3u8
-#EXTINF:0,DigiRo1
-http://sportsbar.pw/lba/NzNlNTk3NTdiODE4ZTE5MDRjMGI4Yzg4MjIyMGJiZGQ=/g4/DigiRo1.m3u8
-#EXTINF:0,DigiRo2
-http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g1/DigiRo2.m3u8
-#EXTINF:0,SkyFootball
-http://sportsbar.pw/lba/NzNlNTk3NTdiODE4ZTE5MDRjMGI4Yzg4MjIyMGJiZGQ=/g10/SkyFootball.m3u8
-#EXTINF:0,ViasatBaltic
-http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g8/ViasatBaltic.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
-#EXTINF:-1,SKY SPORTS ACTION
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g5/SkyAction.m3u8
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
-#EXTINF:-1,BT SPORT 1 HD
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g2/BTSport1.m3u8
-#EXTINF:-1,BT SPORT ESPN HD
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g6/btsportespn.m3u8
 #EXTINF:0, KHL
 http://51.15.42.158:8081/tv/khl/playlist.m3u8
-#EXTINF:0, TNT
+#EXTINF:0, THT
 http://51.15.42.158:8081/tv/tnt/playlist.m3u8
 #EXTINF:0, Eurosport 1
 http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
@@ -803,48 +785,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?star
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0,TV CITY
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Nat Geo Wild
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,UNICABLE
-http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
-#EXTINF:-1,ESPN
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
-#EXTINF:-1,SPACE HD
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1,TNT HD
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-#EXTINF:-1,AMC
-http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
-#EXTINF:-1,NAT GEO
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
-#EXTINF:-1,FORO TV
-http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
-#EXTINF:-1,GOLDEN PLUS
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
-#EXTINF:-1,NAT_GEO
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-#EXTINF:-1,El Gourmet
-http://189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
-#EXTINF:-1,ESPN 2 OK
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,ESPN2 HD PLANETFOOLS
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8
-#EXTINF:-1,Satellite
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8
-#EXTINF:-1,TDN SD
-http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8
-#EXTINF:-1,DISTRITO COMEDIA SD
-http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(01)/index.m3u8
-#EXTINF:-1,ESPN
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,NATGEO WILD 
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8
-#EXTINF:-1,UNICALE PLANETFOOLS
-http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(05)/index.m3u8
-#EXTINF:-1,NAT GEO
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(06)/index.m3u8
 #EXTINF:0,BBC
 http://185.59.221.136:9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&profile=pass
 #EXTINF:0,BBC2 HD
