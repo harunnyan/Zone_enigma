@@ -15,6 +15,8 @@
 #DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-02.nyc.dailymotion.com/52/dm/3/x21oo10/live-3.m3u8:FB TV
+#DESCRIPTION FB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
 #DESCRIPTION S sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
@@ -31,8 +33,6 @@
 #DESCRIPTION TRT Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
 #DESCRIPTION TJK TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8?t=1524729896&h=F4Z7fodN5TzgFXOGrVCEHA==:CBC SPORT
-#DESCRIPTION CBC SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.olympicchannel.com/ocs/channel01b/master.m3u8:Olympic Channel HD
 #DESCRIPTION Olympic Channel HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8:Olympic Channel 1
@@ -63,14 +63,24 @@
 #DESCRIPTION AD Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:AD Sports 2 HD
 #DESCRIPTION AD Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_1_high:Arena Sport1
-#DESCRIPTION Arena Sport1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_2_high:Arena Sport2
-#DESCRIPTION Arena Sport2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_3_high:Arena Sport3
-#DESCRIPTION Arena Sport3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_4_high:Arena Sport4
-#DESCRIPTION Arena Sport4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1:Al Kass Sports 1
+#DESCRIPTION Al Kass Sports 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2:Al Kass Sports 2
+#DESCRIPTION Al Kass Sports 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3:Al Kass Sports 3
+#DESCRIPTION Al Kass Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4:Al Kass Sports 4
+#DESCRIPTION Al Kass Sports 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5:Al Kass Sports 5
+#DESCRIPTION Al Kass Sports 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_1_high:Arena Sport1 high
+#DESCRIPTION Arena Sport1 high
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_2_high:Arena Sport2 high
+#DESCRIPTION Arena Sport2 high
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_3_high:Arena Sport3 high
+#DESCRIPTION Arena Sport3 high
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_4_high:Arena Sport4 high
+#DESCRIPTION Arena Sport4 high
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//65.254.55.10%3a4000/live/197/197.m3u8:Eurosport 1
 #DESCRIPTION Eurosport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a8001/eurosport2hd:Eurosport 2
@@ -85,16 +95,6 @@
 #DESCRIPTION DUBAI SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmi.mangomolo.com%3a1935/dubaisports/smil%3adubaisports.smil/master.m3u8:Dubai Sports
 #DESCRIPTION Dubai Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1:Al Kass Sports 1
-#DESCRIPTION Al Kass Sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2:Al Kass Sports 2
-#DESCRIPTION Al Kass Sports 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3:Al Kass Sports 3
-#DESCRIPTION Al Kass Sports 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4:Al Kass Sports 4
-#DESCRIPTION Al Kass Sports 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5:Al Kass Sports 5
-#DESCRIPTION Al Kass Sports 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.30%3a1935/live/omantv2/playlist.m3u8:OMAN TV 2
 #DESCRIPTION OMAN TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8:CableOnda Sports
@@ -131,8 +131,6 @@
 #DESCRIPTION LIVE MOTOR SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8080:FOX SPORT 506
 #DESCRIPTION FOX SPORT 506
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.142.232.246%3a1935/live/efir_live720p/playlist.m3u8:Xsport UA
-#DESCRIPTION Xsport UA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.200.102.3%3a5000/udp/239.99.99.99%3a23999:Partizan Tv
 #DESCRIPTION Partizan Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8:R.Betis TV
@@ -163,10 +161,6 @@
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deporte TV
 #DESCRIPTION Todo Deporte TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8:ESPN2_HD
-#DESCRIPTION ESPN2_HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/99.m3u8:Extreme Sports
 #DESCRIPTION Extreme Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10309.m3u8:Extreme Sports
@@ -315,6 +309,8 @@
 #DESCRIPTION DigiRo1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g1/DigiRo2.m3u8:DigiRo2
 #DESCRIPTION DigiRo2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YjRhN2RlYjAxNWM2ZjIzYzM5ZjRmZmFmODEzOGQ3NGE=/g6/Setanta.m3u8:Setanta
+#DESCRIPTION Setanta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8:SK 1 SRP
 #DESCRIPTION SK 1 SRP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8:SK 2 SRP
@@ -383,38 +379,68 @@
 #DESCRIPTION BesTV 1   2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8:KBVR-TV Orange Media Network (Oregon)
 #DESCRIPTION KBVR-TV Orange Media Network (Oregon)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00f:gs tv
-#DESCRIPTION gs tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00e:bein sports 1
-#DESCRIPTION bein sports 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a001:bein1
-#DESCRIPTION bein1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a002:bein2
-#DESCRIPTION bein2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a003:bein3
-#DESCRIPTION bein3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a004:bein4
-#DESCRIPTION bein4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a005:bein5
-#DESCRIPTION bein5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a006:bein6
-#DESCRIPTION bein6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a007:bein7
-#DESCRIPTION bein7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00g:bein8
-#DESCRIPTION bein8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a009:Bein10
-#DESCRIPTION Bein10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00a:bein13
-#DESCRIPTION bein13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a008:MATCH 4
-#DESCRIPTION MATCH 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00c:sk1
-#DESCRIPTION sk1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00d:sk3
-#DESCRIPTION sk3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.63.160.25%3a9002/play/a00b:sky calsio hd
-#DESCRIPTION sky calsio hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/68.ts:Arena1
+#DESCRIPTION Arena1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/69.ts:Arena2
+#DESCRIPTION Arena2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/70.ts:Arena3
+#DESCRIPTION Arena3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/60.ts:Arena4
+#DESCRIPTION Arena4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/59.ts:Arena5
+#DESCRIPTION Arena5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/66.ts:Eurosport 1
+#DESCRIPTION Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/65.ts:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/64.ts:Ksport1
+#DESCRIPTION Ksport1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/63.ts:Ksport2
+#DESCRIPTION Ksport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/62.ts:Ksport3
+#DESCRIPTION Ksport3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/61.ts:Ksport4
+#DESCRIPTION Ksport4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/71.ts:SportKlub 1
+#DESCRIPTION SportKlub 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/72.ts:SportKlub 2
+#DESCRIPTION SportKlub 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/67.ts:SportKlub 3
+#DESCRIPTION SportKlub 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/55.ts:SS1
+#DESCRIPTION SS1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/28.ts:SS2
+#DESCRIPTION SS2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/56.ts:SS3
+#DESCRIPTION SS3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/57.ts:SS4
+#DESCRIPTION SS4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/43.ts:Telesport
+#DESCRIPTION Telesport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/76.ts:TS1
+#DESCRIPTION TS1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/75.ts:TS2
+#DESCRIPTION TS2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/74.ts:TS3
+#DESCRIPTION TS3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/73.ts:TS4
+#DESCRIPTION TS4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.226.139.178%3a2457/live/sv5/5sv/58.ts:Tsnews
+#DESCRIPTION Tsnews
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0157:Eurosport
+#DESCRIPTION Eurosport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0158:Eurosport2
+#DESCRIPTION Eurosport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0159:BCTV
+#DESCRIPTION BCTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0149:M4 Sport Hd
+#DESCRIPTION M4 Sport Hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0155:Sport2
+#DESCRIPTION Sport2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0156:Sport5
+#DESCRIPTION Sport5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0127:Extreme Sports Channel
+#DESCRIPTION Extreme Sports Channel
 #SERVICE 1:64:A2:0:0:0:0:0:0:0::ONLY BEST SPORT
 #DESCRIPTION ONLY BEST SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/248/index.m3u8:Auto Plus
@@ -1115,46 +1141,20 @@
 #DESCRIPTION VOX HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/459/index.m3u8:Zee One
 #DESCRIPTION Zee One
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::SPANISH_189.216.247.113
-#DESCRIPTION SPANISH_189.216.247.113
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(01)/index.m3u8:DISTRITO COMEDIA SD
-#DESCRIPTION DISTRITO COMEDIA SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8:El Gourmet
-#DESCRIPTION El Gourmet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8:ESPN
-#DESCRIPTION ESPN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8:ESPN 2 OK
-#DESCRIPTION ESPN 2 OK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8:ESPN2 HD PLANETFOOLS
-#DESCRIPTION ESPN2 HD PLANETFOOLS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8:GOLDEN PLUS
-#DESCRIPTION GOLDEN PLUS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8:Nat Geo Wild
-#DESCRIPTION Nat Geo Wild
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8:Nat Geo Wild
-#DESCRIPTION Nat Geo Wild
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8:NATGEO WILD
-#DESCRIPTION NATGEO WILD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8:Satellite
-#DESCRIPTION Satellite
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8:SPACE HD
-#DESCRIPTION SPACE HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8:TDN SD
-#DESCRIPTION TDN SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8:TNT HD
-#DESCRIPTION TNT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8:UNICABLE
-#DESCRIPTION UNICABLE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(05)/index.m3u8:UNICALE PLANETFOOLS
-#DESCRIPTION UNICALE PLANETFOOLS
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::::::_REMY|WORLD_MIX_IPTV_:::::
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::::::_REMY|WORLD_MIX_IPTV_:::::
 #DESCRIPTION ::::_REMY|WORLD_MIX_IPTV_:::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//play.lanet.tv/live/2009.m3u8:SOMINE KEYFI HD
 #DESCRIPTION SOMINE KEYFI HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8:SOMINE KEYFI MUSIC
 #DESCRIPTION SOMINE KEYFI MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0152:RTL GOLD
+#DESCRIPTION RTL GOLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0153:CBS REALITY
+#DESCRIPTION CBS REALITY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0154:P PRIME
+#DESCRIPTION P PRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0161:MTV
+#DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10021.m3u8:1 RU
 #DESCRIPTION 1 RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10211.m3u8:2x2 HD
@@ -2415,7 +2415,7 @@
 #DESCRIPTION ZEELAND TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8:Zeeland TV
 #DESCRIPTION Zeeland TV
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★N1 | PAKETI★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★N1 | PAKETI★★ ====
 #DESCRIPTION === ★★N1 | PAKETI★★ ====
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1srb?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 SRB
 #DESCRIPTION N1 SRB
@@ -2453,7 +2453,7 @@
 #DESCRIPTION History Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.82%3a8888:Eurosport HD
 #DESCRIPTION Eurosport HD
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
 #DESCRIPTION === ★★EX YU | PAKETI★★ ====
 #SERVICE 4097:0:1:87:0:0:0:0:0:0:rtmp%3a//video.radio-banovina.hr/live/myStream:Banovina TV
 #DESCRIPTION Banovina TV
@@ -2513,7 +2513,7 @@
 #DESCRIPTION TV Leskovac
 #SERVICE 4097:0:1:67:0:0:0:0:0:0:http%3a//v.tf.rs/liveedge/smil%3alivestream.smil/chunklist_w2119200807_b1396000.m3u8:Telegraf Tv
 #DESCRIPTION Telegraf Tv
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::== ★★Moldova-Slovakia-Romania | PAKETI★★ =
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::== ★★Moldova-Slovakia-Romania | PAKETI★★ =
 #DESCRIPTION == ★★Moldova-Slovakia-Romania | PAKETI★★ =
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pstv.krasmix.ru/tv/7ka/playlist.m3u8:7ka
 #DESCRIPTION 7ka
@@ -2689,7 +2689,7 @@
 #DESCRIPTION X Sport
 #SERVICE 4097:0:1:469:0:0:0:0:0:0:rtmp%3a//s1.media-planet.sk%3a80/liverepeater/zilina1:Žilinská Televízia (ZTV)
 #DESCRIPTION Žilinská Televízia (ZTV)
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.27.116.54%3a1935/live/anb.stream_360p/chunklist_w163760174.m3u8:AL Ahd
 #DESCRIPTION AL Ahd
@@ -2729,7 +2729,7 @@
 #DESCRIPTION Sharqiya News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8:TRT Kurdi
 #DESCRIPTION TRT Kurdi
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
 #DESCRIPTION === ★★FilmOn Tv-WebSocket★★ ===
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/bbc-news:BBC NEWS
 #DESCRIPTION BBC NEWS
@@ -2881,7 +2881,7 @@
 #DESCRIPTION bikini-teevee
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/miamitv:miamitv
 #DESCRIPTION miamitv
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
 #DESCRIPTION Star TV HD
@@ -2927,7 +2927,7 @@
 #DESCRIPTION NYC skyline from the Empire State
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&rebase=on:ABC News-Yahoo!
 #DESCRIPTION ABC News-Yahoo!
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::_:::_FILM_BELGESEL_EGLENCE_:::_
 #DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.youtube.com/watch?v=egnRjRmuWMQ:Justice izle 2018
 #DESCRIPTION Justice izle 2018
@@ -2963,7 +2963,7 @@
 #DESCRIPTION Kuantum Mekaniği
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=LQcnazP_Qkk:Yeralti Şehirleri Anadolu
 #DESCRIPTION Yeralti Şehirleri Anadolu
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::+18 | FUNY CLIP_ VIDEOS _ MUSIC
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::+18 | FUNY CLIP_ VIDEOS _ MUSIC
 #DESCRIPTION +18 | FUNY CLIP_ VIDEOS _ MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L_OElzCMPHc:Asok , Silom ( Taniya , Patpong , soi Cowboy )
 #DESCRIPTION Asok , Silom ( Taniya , Patpong , soi Cowboy )
@@ -3025,7 +3025,7 @@
 #DESCRIPTION thaıwan2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=il8BfvP0McY:Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
 #DESCRIPTION Dans 3 Serisi 3 2017 MiNi-NonStop Vol.7
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::Hottest | Sports Illustrated Swimsuit
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::Hottest | Sports Illustrated Swimsuit
 #DESCRIPTION Hottest | Sports Illustrated Swimsuit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=eBZdmQ58n0s:Ashley Graham Hottest Moments: Curvy Cover Model,
 #DESCRIPTION Ashley Graham Hottest Moments: Curvy Cover Model,
@@ -3135,7 +3135,7 @@
 #DESCRIPTION Victoria Secret 2015 swimsuit show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6nnAlNA_PTs:Victoria's Secret Swim 2013
 #DESCRIPTION Victoria's Secret Swim 2013
-#SERVICE 1:64:B2:0:0:0:0:0:0:0:::::::::::::_WebCam_Live_Turkey_::::::::::
+#SERVICE 1:64:B1:0:0:0:0:0:0:0:::::::::::::_WebCam_Live_Turkey_::::::::::
 #DESCRIPTION :::::::::::_WebCam_Live_Turkey_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/297.stream/chunklist_w1890125726.m3u8:Taksim Canlı Mobesa Kamera
 #DESCRIPTION Taksim Canlı Mobesa Kamera
@@ -3161,7 +3161,7 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-i.mncdn.com/sivasbel_tv_live/sivasbel_medrese/chunklist_w1270909238.m3u8:Sivas Kent Meydanı Canlı Mobese
 #DESCRIPTION Sivas Kent Meydanı Canlı Mobese
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::* * * Novi Sad Live * * *
+#SERVICE 1:64:B2:0:0:0:0:0:0:0::* * * Novi Sad Live * * *
 #DESCRIPTION * * * Novi Sad Live * * *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
 #DESCRIPTION NoviSad - Trg Slobode
@@ -3175,7 +3175,7 @@
 #DESCRIPTION Novi Sad Tvrdjava 3
 #SERVICE 4097:0:1:11:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//Tvrdjava.5.stream:Novi Sad Tvrdjava 5
 #DESCRIPTION Novi Sad Tvrdjava 5
-#SERVICE 1:64:B4:0:0:0:0:0:0:0::* * * Ostale kamere Live * * *
+#SERVICE 1:64:B3:0:0:0:0:0:0:0::* * * Ostale kamere Live * * *
 #DESCRIPTION * * * Ostale kamere Live * * *
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//109.94.224.254/video1.mjpg:Zrenjanin
 #DESCRIPTION Zrenjanin
@@ -3183,7 +3183,7 @@
 #DESCRIPTION Makarska
 #SERVICE 4097:0:1:6:0:0:0:0:0:0:rtmp%3a//cdn-01.whatsupcams.com/live/si_golte2:Skijalište Golte - Uspinjača
 #DESCRIPTION Skijalište Golte - Uspinjača
-#SERVICE 1:64:B5:0:0:0:0:0:0:0::* * *  Switzerland * * *
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::* * *  Switzerland * * *
 #DESCRIPTION * * *  Switzerland * * *
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam01luganoch:Switzerland - Lugano - Piazza Riforma
 #DESCRIPTION Switzerland - Lugano - Piazza Riforma
@@ -3199,11 +3199,11 @@
 #DESCRIPTION Switzerland - Lugano - Monte Bré - Ristorante Vet
 #SERVICE 4097:0:1:15:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge//vv78_720p.stream?sa=windit.de:Switzerland - Zürich Zoo Cam 1
 #DESCRIPTION Switzerland - Zürich Zoo Cam 1
-#SERVICE 1:64:B6:0:0:0:0:0:0:0::* * * WEBCAM Germany * * *
+#SERVICE 1:64:B5:0:0:0:0:0:0:0::* * * WEBCAM Germany * * *
 #DESCRIPTION * * * WEBCAM Germany * * *
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream:Köln Heumarkt (Rhein- Domblick)
 #DESCRIPTION Köln Heumarkt (Rhein- Domblick)
-#SERVICE 1:64:B7:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
+#SERVICE 1:64:B6:0:0:0:0:0:0:0::* * * WEBCAM livespotting * * *
 #DESCRIPTION * * * WEBCAM livespotting * * *
 #SERVICE 4097:0:1:75:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv102_720p.stream:Aachen - Drehturm Belvedere Lousberg
 #DESCRIPTION Aachen - Drehturm Belvedere Lousberg
@@ -3465,7 +3465,7 @@
 #DESCRIPTION Zürich - Zoo Cam 3
 #SERVICE 4097:0:1:333:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv65_720p.stream:Zürich - Uetliberg
 #DESCRIPTION Zürich - Uetliberg
-#SERVICE 1:64:B8:0:0:0:0:0:0:0::* * * New York Webcam * * *
+#SERVICE 1:64:B7:0:0:0:0:0:0:0::* * * New York Webcam * * *
 #DESCRIPTION * * * New York Webcam * * *
 #SERVICE 4097:0:1:385:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/4717.flv/playlist.m3u8:New York City Times Square - Crossroads
 #DESCRIPTION New York City Times Square - Crossroads
@@ -3487,7 +3487,7 @@
 #DESCRIPTION New York City - High Line
 #SERVICE 4097:0:1:403:0:0:0:0:0:0:rtmp%3a//video4.earthcam.com/fecnetwork/6427.flv/playlist.m3u8:New York City - Circle Cam
 #DESCRIPTION New York City - Circle Cam
-#SERVICE 1:64:B9:0:0:0:0:0:0:0::* * * World other * * *
+#SERVICE 1:64:B8:0:0:0:0:0:0:0::* * * World other * * *
 #DESCRIPTION * * * World other * * *
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/sedonawebcam.flv/playlist.m3u8:Arizona - Sedona
 #DESCRIPTION Arizona - Sedona
@@ -3509,9 +3509,9 @@
 #DESCRIPTION Ireland Dublin pub cam
 #SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/7393.flv/playlist.m3u8:Anguilla Cam - Aleta Pool
 #DESCRIPTION Anguilla Cam - Aleta Pool
-#SERVICE 1:64:BA:0:0:0:0:0:0:0::*** World Cams USA ***
+#SERVICE 1:64:B9:0:0:0:0:0:0:0::*** World Cams USA ***
 #DESCRIPTION *** World Cams USA ***
-#SERVICE 1:64:BB:0:0:0:0:0:0:0::*** Arizona ***
+#SERVICE 1:64:BA:0:0:0:0:0:0:0::*** Arizona ***
 #DESCRIPTION *** Arizona ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8620.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/arizona/sedona/gateway/:Sedona Gateway Cam
 #DESCRIPTION Sedona Gateway Cam
@@ -3519,7 +3519,7 @@
 #DESCRIPTION Sedona Red Rock Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5805.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/arizona/sedona/sevenarches/?cam=sedona7:Sedona Seven Arches Cam
 #DESCRIPTION Sedona Seven Arches Cam
-#SERVICE 1:64:BC:0:0:0:0:0:0:0::*** California ***
+#SERVICE 1:64:BB:0:0:0:0:0:0:0::*** California ***
 #DESCRIPTION *** California ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6175.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/california/venicebeach/:Venice Beach Cam
 #DESCRIPTION Venice Beach Cam
@@ -3535,13 +3535,13 @@
 #DESCRIPTION Hollywood Blvd Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5023.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/california/laguna/index.php?cam=vskimboardstcl:Aliso Beach Cam
 #DESCRIPTION Aliso Beach Cam
-#SERVICE 1:64:BD:0:0:0:0:0:0:0::*** Colorado ***
+#SERVICE 1:64:BC:0:0:0:0:0:0:0::*** Colorado ***
 #DESCRIPTION *** Colorado ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7300.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/colorado/breckenridge/:Breckenridge Ski Cam
 #DESCRIPTION Breckenridge Ski Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=wolfcreek.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/colorado/pagosasprings/:Wolf Creek Ski Cam
 #DESCRIPTION Wolf Creek Ski Cam
-#SERVICE 1:64:BE:0:0:0:0:0:0:0::District of Columbia
+#SERVICE 1:64:BD:0:0:0:0:0:0:0::District of Columbia
 #DESCRIPTION District of Columbia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4356.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/dc/cherryblossoms/:Cherry Blossoms Cam
 #DESCRIPTION Cherry Blossoms Cam
@@ -3551,7 +3551,7 @@
 #DESCRIPTION WAMO Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4356.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/dc/?cam=washdc:Washington D.C. Cam
 #DESCRIPTION Washington D.C. Cam
-#SERVICE 1:64:BF:0:0:0:0:0:0:0::*** Florida ***
+#SERVICE 1:64:BE:0:0:0:0:0:0:0::*** Florida ***
 #DESCRIPTION *** Florida ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=3275.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/miamiandthebeaches/?cam=miamibeach3:Coconut Grove Marina Cam
 #DESCRIPTION Coconut Grove Marina Cam
@@ -3603,7 +3603,7 @@
 #DESCRIPTION Sunny Isles Beach Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6649.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/treasureisland/sunsetbeach/:Sunset Beach Cam
 #DESCRIPTION Sunset Beach Cam
-#SERVICE 1:64:C0:0:0:0:0:0:0:0::*** Hawaii ***
+#SERVICE 1:64:BF:0:0:0:0:0:0:0::*** Hawaii ***
 #DESCRIPTION *** Hawaii ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5204.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/hawaii/kauai/koloa/:Hawaii Surf Cam
 #DESCRIPTION Hawaii Surf Cam
@@ -3613,27 +3613,27 @@
 #DESCRIPTION Maui Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5758.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/hawaii/bigisland/waikoloa/:Waikoloa Cam
 #DESCRIPTION Waikoloa Cam
-#SERVICE 1:64:C1:0:0:0:0:0:0:0::*** Illinois ***
+#SERVICE 1:64:C0:0:0:0:0:0:0:0::*** Illinois ***
 #DESCRIPTION *** Illinois ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5187.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/illinois/chicago/field/:Chicago Cam
 #DESCRIPTION Chicago Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=3186.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd:Wrigley Field Cam
 #DESCRIPTION Wrigley Field Cam
-#SERVICE 1:64:C2:0:0:0:0:0:0:0::*** Indiana ***
+#SERVICE 1:64:C1:0:0:0:0:0:0:0::*** Indiana ***
 #DESCRIPTION *** Indiana ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7962.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/indiana/notredame/:Notre Dame Cam
 #DESCRIPTION Notre Dame Cam
-#SERVICE 1:64:C3:0:0:0:0:0:0:0::*** Maryland ***
+#SERVICE 1:64:C2:0:0:0:0:0:0:0::*** Maryland ***
 #DESCRIPTION *** Maryland ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6998.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/maryland/baltimore/fortmchenry/?cam=fortmchenry2:Fort McHenry Cam - Fort View
 #DESCRIPTION Fort McHenry Cam - Fort View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6999.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/maryland/baltimore/fortmchenry/?cam=fortmchenry1:Fort McHenry Cam - Rampart View
 #DESCRIPTION Fort McHenry Cam - Rampart View
-#SERVICE 1:64:C4:0:0:0:0:0:0:0::*** Massachusetts ***
+#SERVICE 1:64:C3:0:0:0:0:0:0:0::*** Massachusetts ***
 #DESCRIPTION *** Massachusetts ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4049sonesta.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/massachusetts/boston/?cam=boston_hd:Boston Cam
 #DESCRIPTION Boston Cam
-#SERVICE 1:64:C5:0:0:0:0:0:0:0::*** Michigan***
+#SERVICE 1:64:C4:0:0:0:0:0:0:0::*** Michigan***
 #DESCRIPTION *** Michigan***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4465.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/michigan/grandhaven/lakemichigan/:Lake Michigan Cam
 #DESCRIPTION Lake Michigan Cam
@@ -3643,27 +3643,27 @@
 #DESCRIPTION Silver Lake Sand Dunes Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7484.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/michigan/stjoseph/?cam=stjoelighthouse:St. Joseph Lighthouse Cam
 #DESCRIPTION St. Joseph Lighthouse Cam
-#SERVICE 1:64:C6:0:0:0:0:0:0:0::*** Minnesota ***
+#SERVICE 1:64:C5:0:0:0:0:0:0:0::*** Minnesota ***
 #DESCRIPTION *** Minnesota ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7945.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/minnesota/saintpaul/:Saint Paul Cam
 #DESCRIPTION Saint Paul Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com/fecnetwork playpath=7649.flv swfUrl=https%3a//www.earthcam.com/swf/streaming/client_video_player.swf?v4 pageUrl=http%3a//www.earthcam.net/projects/common/js/embedviewer.php?ver=cvp&type=h264&vid=7649&w=auto&z=false&fs=false&adcfs=true&audio=0:Minnesota Vikings Stadium
 #DESCRIPTION Minnesota Vikings Stadium
-#SERVICE 1:64:C7:0:0:0:0:0:0:0::*** Missouri ***
+#SERVICE 1:64:C6:0:0:0:0:0:0:0::*** Missouri ***
 #DESCRIPTION *** Missouri ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video4.earthcam.com%3a1935/archives playpath=/permanent/stlouis/2013/06/05/1300.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/missouri/stlouis/?cam=eadsbridge:Eads Bridge Cam
 #DESCRIPTION Eads Bridge Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=meprd_garch.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/missouri/stlouis/?cam=arch_riverview:St. Louis Arch Cam
 #DESCRIPTION St. Louis Arch Cam
-#SERVICE 1:64:C8:0:0:0:0:0:0:0::*** Nevada ***
+#SERVICE 1:64:C7:0:0:0:0:0:0:0::*** Nevada ***
 #DESCRIPTION *** Nevada ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=eclasvegas.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/nevada/lasvegas/index.php?cam=sign_hd:Welcome to Fabulous Las Vegas
 #DESCRIPTION Welcome to Fabulous Las Vegas
-#SERVICE 1:64:C9:0:0:0:0:0:0:0::*** New Hampshire***
+#SERVICE 1:64:C8:0:0:0:0:0:0:0::*** New Hampshire***
 #DESCRIPTION *** New Hampshire***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=hampton-beach-cam.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newhampshire/hamptonbeach/?cam=hamptonbeach:Hampton Beach Cam
 #DESCRIPTION Hampton Beach Cam
-#SERVICE 1:64:CA:0:0:0:0:0:0:0::*** New Jersey ***
+#SERVICE 1:64:C9:0:0:0:0:0:0:0::*** New Jersey ***
 #DESCRIPTION *** New Jersey ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4544.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/skyline/?cam=hyatthd:New York Skyline Cam HD
 #DESCRIPTION New York Skyline Cam HD
@@ -3683,13 +3683,13 @@
 #DESCRIPTION Seaside Park Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video4.earthcam.com%3a1935/archives playpath=network/5732/2016/05/11/1301.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newjersey/wildwood/:Wildwood Cam
 #DESCRIPTION Wildwood Cam
-#SERVICE 1:64:CB:0:0:0:0:0:0:0::*** New Mexico ***
+#SERVICE 1:64:CA:0:0:0:0:0:0:0::*** New Mexico ***
 #DESCRIPTION *** New Mexico ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5465.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newmexico/lasvegas/:Las Vegas, New Mexico Cam
 #DESCRIPTION Las Vegas, New Mexico Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4831.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newmexico/santafe/:Santa Fe Cam
 #DESCRIPTION Santa Fe Cam
-#SERVICE 1:64:CC:0:0:0:0:0:0:0::*** New York ***
+#SERVICE 1:64:CB:0:0:0:0:0:0:0::*** New York ***
 #DESCRIPTION *** New York ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=fridays_5th.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/fifthave/?cam=nyc5th_str:5th Avenue Cam
 #DESCRIPTION 5th Avenue Cam
@@ -3725,27 +3725,27 @@
 #DESCRIPTION Times Square North View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4017timessquare.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd:Times Square South View
 #DESCRIPTION Times Square South View
-#SERVICE 1:64:CD:0:0:0:0:0:0:0::*** North Carolina ***
+#SERVICE 1:64:CC:0:0:0:0:0:0:0::*** North Carolina ***
 #DESCRIPTION *** North Carolina ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5324.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northcarolina/belmont/:Belmont Cam
 #DESCRIPTION Belmont Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4904.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northcarolina/supply/holden/:Holden Beach Cam
 #DESCRIPTION Holden Beach Cam
-#SERVICE 1:64:CE:0:0:0:0:0:0:0::*** North Dakota ***
+#SERVICE 1:64:CD:0:0:0:0:0:0:0::*** North Dakota ***
 #DESCRIPTION *** North Dakota ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6698.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northdakota/cavalier/:City of Cavalier Cam
 #DESCRIPTION City of Cavalier Cam
-#SERVICE 1:64:CF:0:0:0:0:0:0:0::*** Ohio ***
+#SERVICE 1:64:CE:0:0:0:0:0:0:0::*** Ohio ***
 #DESCRIPTION *** Ohio ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8939.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/ohio/cleveland/:Cleveland Cam
 #DESCRIPTION Cleveland Cam
-#SERVICE 1:64:D0:0:0:0:0:0:0:0::*** Oklahoma ***
+#SERVICE 1:64:CF:0:0:0:0:0:0:0::*** Oklahoma ***
 #DESCRIPTION *** Oklahoma ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=8471.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/oklahoma/vinita/?cam=route66east:Route 66 Cam - East View
 #DESCRIPTION Route 66 Cam - East View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8470.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/oklahoma/vinita/?cam=route66west:Route 66 Cam - WestView
 #DESCRIPTION Route 66 Cam - WestView
-#SERVICE 1:64:D1:0:0:0:0:0:0:0::*** Pennsylvania ***
+#SERVICE 1:64:D0:0:0:0:0:0:0:0::*** Pennsylvania ***
 #DESCRIPTION *** Pennsylvania ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5595.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/?cam=warhol_figmentstream:Andy Warhol FigmentCam
 #DESCRIPTION Andy Warhol FigmentCam
@@ -3753,7 +3753,7 @@
 #DESCRIPTION Steamtown Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5536.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/pennsylvania/gettysburg/?cam=gettysburg:Gettysburg Battlefield Cam
 #DESCRIPTION Gettysburg Battlefield Cam
-#SERVICE 1:64:D2:0:0:0:0:0:0:0::*** South Carolina ***
+#SERVICE 1:64:D1:0:0:0:0:0:0:0::*** South Carolina ***
 #DESCRIPTION *** South Carolina ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6320.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawahisland:Kiawah Island Beach
 #DESCRIPTION Kiawah Island Beach
@@ -3763,7 +3763,7 @@
 #DESCRIPTION Myrtle Beach Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4387.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/southcarolina/spartanburg/:Pacolet River
 #DESCRIPTION Pacolet River
-#SERVICE 1:64:D3:0:0:0:0:0:0:0::*** Texas ***
+#SERVICE 1:64:D2:0:0:0:0:0:0:0::*** Texas ***
 #DESCRIPTION *** Texas ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=paradiseon6.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/texas/austin/:Austin Cam
 #DESCRIPTION Austin Cam
@@ -3777,15 +3777,15 @@
 #DESCRIPTION San Jacinto Monument Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5666.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/texas/snyder/:Snyder, TX Cam
 #DESCRIPTION Snyder, TX Cam
-#SERVICE 1:64:D4:0:0:0:0:0:0:0::*** Vermont ***
+#SERVICE 1:64:D3:0:0:0:0:0:0:0::*** Vermont ***
 #DESCRIPTION *** Vermont ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8078.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/vermont/burlington/:University of Vermont Cam
 #DESCRIPTION University of Vermont Cam
-#SERVICE 1:64:D5:0:0:0:0:0:0:0::*** Virginia ***
+#SERVICE 1:64:D4:0:0:0:0:0:0:0::*** Virginia ***
 #DESCRIPTION *** Virginia ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=8048.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/virginia/virginiabeach/?cam=virginiabeach:Virginia Beach Cam
 #DESCRIPTION Virginia Beach Cam
-#SERVICE 1:64:D6:0:0:0:0:0:0:0::*** Washington ***
+#SERVICE 1:64:D5:0:0:0:0:0:0:0::*** Washington ***
 #DESCRIPTION *** Washington ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6172.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/washington/oakharbor/?cam=oakharbor:Oak Harbor Cam
 #DESCRIPTION Oak Harbor Cam
@@ -3795,13 +3795,13 @@
 #DESCRIPTION Washington Vineyard Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7254.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/washington/seattle/?cam=seattlespaceneedle:Seattle Space Needle Cam
 #DESCRIPTION Seattle Space Needle Cam
-#SERVICE 1:64:D7:0:0:0:0:0:0:0::*** Wyoming ***
+#SERVICE 1:64:D6:0:0:0:0:0:0:0::*** Wyoming ***
 #DESCRIPTION *** Wyoming ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6954.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/wyoming/jackson/:Jackson Hole Cam
 #DESCRIPTION Jackson Hole Cam
-#SERVICE 1:64:D8:0:0:0:0:0:0:0::*** World Cams DE ***
+#SERVICE 1:64:D7:0:0:0:0:0:0:0::*** World Cams DE ***
 #DESCRIPTION *** World Cams DE ***
-#SERVICE 1:64:D9:0:0:0:0:0:0:0::*** Meer ***
+#SERVICE 1:64:D8:0:0:0:0:0:0:0::*** Meer ***
 #DESCRIPTION *** Meer ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//edge30.fms.stream24.net%3a443/osltv7/_definst_/ playpath=mp4%3abinz.stream?id=10654-7-live swfUrl=http%3a//player.mdn.stream24.net/video/resources/vdm/jw6.12/jwplayer.flash.swf pageUrl=http%3a//player.mdn.stream24.net/video/livestream.php?cam=binz&autostart=true:Binz
 #DESCRIPTION Binz
@@ -3869,7 +3869,7 @@
 #DESCRIPTION Wiek 2 RÃ¼gen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//edge30.fms.stream24.net%3a443/osltv3/_definst_/ playpath=mp4%3azinnowitz.stream?id=10654-3-live swfUrl=http%3a//player.mdn.stream24.net/video/resources/vdm/jw6.12/jwplayer.flash.swf pageUrl=http%3a//player.mdn.stream24.net/video/livestream.php?cam=zinnowitz&autostart=true:Zinnowitz
 #DESCRIPTION Zinnowitz
-#SERVICE 1:64:DA:0:0:0:0:0:0:0::*** Berge ***
+#SERVICE 1:64:D9:0:0:0:0:0:0:0::*** Berge ***
 #DESCRIPTION *** Berge ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv126_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_4c122:Achensee-Tirol
 #DESCRIPTION Achensee-Tirol
@@ -3893,7 +3893,7 @@
 #DESCRIPTION St. Anton
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv65_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_a1ea5:Zurich
 #DESCRIPTION Zurich
-#SERVICE 1:64:DB:0:0:0:0:0:0:0::*** StÃ¤dte ***
+#SERVICE 1:64:DA:0:0:0:0:0:0:0::*** StÃ¤dte ***
 #DESCRIPTION *** StÃ¤dte ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv102_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_50e56:Aachen
 #DESCRIPTION Aachen
@@ -4005,7 +4005,7 @@
 #DESCRIPTION Wuppertal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/ playpath=vv70_720p.stream?sa=windit.de swfUrl=http%3a//player.livespotting.tv/static/player/flash/LSPlayerVideo.swf?v=2.1.72 pageUrl=http%3a//player.livespotting.tv/?alias=PS_67c7a&ch=LS_5834c:Wurzburg
 #DESCRIPTION Wurzburg
-#SERVICE 1:64:DC:0:0:0:0:0:0:0::*** World Cams Bars ***
+#SERVICE 1:64:DB:0:0:0:0:0:0:0::*** World Cams Bars ***
 #DESCRIPTION *** World Cams Bars ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//94.228.215.67%3a1935/live/ playpath=livecam025.stream swfUrl=https%3a//livecam-pro.com/jwplayer7/jwplayer.flash.swf pageUrl=https%3a//livecam-pro.com/fileadmin/templates/assets/_html/livecamX.025.html:E Barcelona - Terra d'Escudella
 #DESCRIPTION E Barcelona - Terra d'Escudella
