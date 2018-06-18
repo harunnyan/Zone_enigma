@@ -193,54 +193,6 @@ http://sport7.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g4/bein1tk.m3u
 http://sportsbar.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g6/bein2tk.m3u8
 #EXTINF:0,Bein Sports3 HD
 http://sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8
-#EXTINF:0,Arena1
-http://5.226.139.178:2457/live/sv5/5sv/68.ts
-#EXTINF:0,Arena2
-http://5.226.139.178:2457/live/sv5/5sv/69.ts
-#EXTINF:0,Arena3
-http://5.226.139.178:2457/live/sv5/5sv/70.ts
-#EXTINF:0,Arena4
-http://5.226.139.178:2457/live/sv5/5sv/60.ts
-#EXTINF:0,Arena5
-http://5.226.139.178:2457/live/sv5/5sv/59.ts
-#EXTINF:0,Eurosport 1
-http://5.226.139.178:2457/live/sv5/5sv/66.ts
-#EXTINF:0,Eurosport 2
-http://5.226.139.178:2457/live/sv5/5sv/65.ts
-#EXTINF:0,Ksport1
-http://5.226.139.178:2457/live/sv5/5sv/64.ts
-#EXTINF:0,Ksport2
-http://5.226.139.178:2457/live/sv5/5sv/63.ts
-#EXTINF:0,Ksport3
-http://5.226.139.178:2457/live/sv5/5sv/62.ts
-#EXTINF:0,Ksport4
-http://5.226.139.178:2457/live/sv5/5sv/61.ts
-#EXTINF:0,SportKlub 1
-http://5.226.139.178:2457/live/sv5/5sv/71.ts
-#EXTINF:0,SportKlub 2
-http://5.226.139.178:2457/live/sv5/5sv/72.ts
-#EXTINF:0,SportKlub 3
-http://5.226.139.178:2457/live/sv5/5sv/67.ts
-#EXTINF:0,SS1
-http://5.226.139.178:2457/live/sv5/5sv/55.ts
-#EXTINF:0,SS2
-http://5.226.139.178:2457/live/sv5/5sv/28.ts
-#EXTINF:0,SS3
-http://5.226.139.178:2457/live/sv5/5sv/56.ts
-#EXTINF:0,SS4
-http://5.226.139.178:2457/live/sv5/5sv/57.ts
-#EXTINF:0,Telesport
-http://5.226.139.178:2457/live/sv5/5sv/43.ts
-#EXTINF:0,TS1
-http://5.226.139.178:2457/live/sv5/5sv/76.ts
-#EXTINF:0,TS2
-http://5.226.139.178:2457/live/sv5/5sv/75.ts
-#EXTINF:0,TS3
-http://5.226.139.178:2457/live/sv5/5sv/74.ts
-#EXTINF:0,TS4
-http://5.226.139.178:2457/live/sv5/5sv/73.ts
-#EXTINF:0,Tsnews
-http://5.226.139.178:2457/live/sv5/5sv/58.ts
 #EXTINF:0,Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:0,Arena Sport2
@@ -725,6 +677,16 @@ http://51.15.42.158:8081/tv/match-arena/playlist.m3u8
 http://51.15.42.158:8081/tv/match-nash-sport/playlist.m3u8
 #EXTINF:0, Our Football
 http://51.15.42.158:8081/tv/nash-futboll/playlist.m3u8
+#EXTINF:0 group-title="SPORTS",SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="SPORTS",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:0,****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:0,DISNEY CHANNEL
@@ -823,54 +785,86 @@ http://185.59.221.136:9981/stream/channelid/2139720971
 http://185.227.241.19:8000/play/a02a/index.m3u8
 #EXTINF:-1,ITV 4 HD
 http://185.227.241.19:8000/play/a02b/index.m3u8
+#EXTINF:-1,BBC RED BUTTON
+https://ovh.easyview.eu/hls/bbcredbutton.m3u8
+#EXTINF:-1,BBC NEWS
+https://ovh.easyview.eu/hls/bbcnews.m3u8
+#EXTINF:-1,BBC PARLIAMENT
+https://ovh.easyview.eu/hls/bbc_parliament.m3u8
 #EXTINF:-1,BBC ONE
 https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1,BBC TWO
 https://ovh.easyview.eu/hls/bbc2.m3u8
-#EXTINF:-1,ITV
-https://ovh.easyview.eu/hls/itv.m3u8
-#EXTINF:-1,CHANNEL 4
-https://ovh.easyview.eu/hls/channel4.m3u8
-#EXTINF:-1,CHANNEL 5
-https://ovh.easyview.eu/hls/five.m3u8
-#EXTINF:-1,E4
-https://ovh.easyview.eu/hls/e4.m3u8
+#EXTINF:-1,BBC THREE (OFF-AIR)
+https://ovh.easyview.eu/hls/bbc3.m3u8
 #EXTINF:-1,BBC FOUR
 https://ovh.easyview.eu/hls/bbc4.m3u8
+#EXTINF:-1,CBBC
+https://ovh.easyview.eu/hls/cbbc.m3u8
+#EXTINF:-1,CBEEBIES
+https://ovh.easyview.eu/hls/cbeebies.m3u8
+#EXTINF:-1,ITV 1
+https://ovh.easyview.eu/hls/itv.m3u8
 #EXTINF:-1,ITV 2
 https://ovh.easyview.eu/hls/itv2.m3u8
 #EXTINF:-1,ITV 3
 https://ovh.easyview.eu/hls/itv3.m3u8
 #EXTINF:-1,ITV 4
 https://ovh.easyview.eu/hls/itv4.m3u8
+#EXTINF:-1,CITV
+https://ovh.easyview.eu/hls/citv.m3u8
 #EXTINF:-1,ITVBe
 https://ovh.easyview.eu/hls/itvbe.m3u8
-#EXTINF:-1,DAVE
-https://ovh.easyview.eu/hls/dave.m3u8
-#EXTINF:-1,DRAMA
-https://ovh.easyview.eu/hls/drama.m3u8
-#EXTINF:-1,REALLY
-https://ovh.easyview.eu/hls/really.m3u8
-#EXTINF:-1,CHALLENGE
-https://ovh.easyview.eu/hls/challenge.m3u8
+#EXTINF:-1,ITV Encore
+https://ovh.easyview.eu/hls/itvencore.m3u8
+#EXTINF:-1,CHANNEL 4
+https://ovh.easyview.eu/hls/channel4.m3u8
+#EXTINF:-1,FILM 4
+https://ovh.easyview.eu/hls/film4.m3u8
+#EXTINF:-1,E4
+https://ovh.easyview.eu/hls/e4.m3u8
 #EXTINF:-1,4Seven
 https://ovh.easyview.eu/hls/4seven.m3u8
-#EXTINF:-1,5 USA
-https://ovh.easyview.eu/hls/5usa.m3u8
-#EXTINF:-1,BBC PARLIAMENT
-https://ovh.easyview.eu/hls/bbc_parliament.m3u8
-#EXTINF:-1,BET
-https://ovh.easyview.eu/hls/betblackenttv.m3u8
-#EXTINF:-1,CBBC
-https://ovh.easyview.eu/hls/cbbc.m3u8
-#EXTINF:-1,Cbeebies
-https://ovh.easyview.eu/hls/cbeebies.m3u8
+#EXTINF:-1,More 4
+https://ovh.easyview.eu/hls/more4.m3u8
+#EXTINF:-1,FIVE
+https://ovh.easyview.eu/hls/five.m3u8
+#EXTINF:-1,DAVE
+https://ovh.easyview.eu/hls/dave.m3u8
+#EXTINF:-1,DAVE JA VU
+https://ovh.easyview.eu/hls/davejavu.m3u8
+#EXTINF:-1,GOLD
+https://ovh.easyview.eu/hls/gold.m3u8
+#EXTINF:-1,CHALLENGE
+https://ovh.easyview.eu/hls/challenge.m3u8
+#EXTINF:-1,REALLY
+https://ovh.easyview.eu/hls/really.m3u8
 #EXTINF:-1,YESTERDAY
 https://ovh.easyview.eu/hls/yesterday.m3u8
-#EXTINF:-1,YESTERDAY +1
-https://ovh.easyview.eu/hls/yesterdayplus1.m3u8
-#EXTINF:-1,BBC NEWS
-https://ovh.easyview.eu/hls/bbcnews.m3u8
+#EXTINF:-1,DRAMA
+https://ovh.easyview.eu/hls/drama.m3u8
+#EXTINF:-1,QUEST
+https://ovh.easyview.eu/hls/quest.m3u8
+#EXTINF:-1,QUEST RED
+https://ovh.easyview.eu/hls/questred.m3u8
+#EXTINF:-1,FOOD NETWORK +1
+https://ovh.easyview.eu/hls/foodnetworkplus1.m3u8
+#EXTINF:-1,TRAVEL CHANNEL +1
+https://ovh.easyview.eu/hls/travelchannelplus1.m3u8
+#EXTINF:-1,BET
+https://ovh.easyview.eu/hls/betblackenttv.m3u8
+#EXTINF:-1,FASHION TV
+https://ovh.easyview.eu/hls/fashiontv.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1,TLC HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
 #EXTINF:-1,SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,VH1 EUROPE
