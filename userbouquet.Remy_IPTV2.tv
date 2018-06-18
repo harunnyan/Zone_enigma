@@ -15,10 +15,12 @@
 #DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-02.nyc.dailymotion.com/52/dm/3/x21oo10/live-3.m3u8:FB TV
-#DESCRIPTION FB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
 #DESCRIPTION S sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-02.nyc.dailymotion.com/52/dm/3/x21oo10/live-3.m3u8:FB TV
+#DESCRIPTION FB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-05.dc3.dailymotion.com/21/dm/3/x31omum/live-4.m3u8:BJK TV
+#DESCRIPTION BJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
 #DESCRIPTION BURSASPOR TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8:Bursaspor TV

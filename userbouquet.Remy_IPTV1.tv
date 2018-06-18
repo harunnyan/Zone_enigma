@@ -9,6 +9,8 @@
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8:KANAL D
+#DESCRIPTION KANAL D
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8:KANAL D HD
 #DESCRIPTION KANAL D HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.86.107.169/iphone/live.m3u8:EURO D
@@ -33,30 +35,6 @@
 #DESCRIPTION CNN Turk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.81.184%3a8080/atv/index.m3u8:ATV HD az
 #DESCRIPTION ATV HD az
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt1/index.m3u8:TRT1
-#DESCRIPTION TRT1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/ntv_spor_hd/index.m3u8:DMAX
-#DESCRIPTION DMAX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/tv8_hd/index.m3u8:TV8_hd
-#DESCRIPTION TV8_hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/a_haber_hd/index.m3u8:A_HABER_hd
-#DESCRIPTION A_HABER_hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt_spor/index.m3u8:TRT_spor
-#DESCRIPTION TRT_spor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt_haber/index.m3u8:TRT_haber
-#DESCRIPTION TRT_haber
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/trt_belgesel/index.m3u8:TRT_belgesel
-#DESCRIPTION TRT_belgesel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/minika_cocuk/index.m3u8:minika_cocuk
-#DESCRIPTION minika_cocuk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/dream_tv/index.m3u8:dream_tv
-#DESCRIPTION dream_tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/dream_turk/index.m3u8:dream_turk
-#DESCRIPTION dream_turk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/disney/index.m3u8:disney
-#DESCRIPTION disney
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.kovalchuk.me/turk/cartoon_network/index.m3u8:cartoon_network
-#DESCRIPTION cartoon_network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canli2.tvnet.tv.tr/live/smil%3antvspor.smil/master.m3u8:DMAX
 #DESCRIPTION DMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8:TLC TV HD
@@ -85,6 +63,8 @@
 #DESCRIPTION TEMPO TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8?wowzasessionid=1804484551?sd=0&rebase=on:KOY TV
 #DESCRIPTION KOY TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.arkumedia.com%3a1935/aturknewstv/aturknewstv/playlist.m3u8:ATürk TV
+#DESCRIPTION ATürk TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//151.80.102.86/ciftcitv/bant1:CIFTCI TV
 #DESCRIPTION CIFTCI TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.taksimbilisim.com/ciftcitv/bant1:CIFTCI TV
@@ -203,10 +183,6 @@
 #DESCRIPTION BLOOMBERG HT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8:CNN TURK
 #DESCRIPTION CNN TURK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-p.m3u8?sd=10&rebase=on:TRT AVAZ
-#DESCRIPTION TRT AVAZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8:TRT TBMM
-#DESCRIPTION TRT TBMM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8:TRT TURK
 #DESCRIPTION TRT TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on:TRT6
