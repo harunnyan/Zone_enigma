@@ -323,10 +323,14 @@
 #DESCRIPTION Visual Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
 #DESCRIPTION Voice of America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:XITE
-#DESCRIPTION XITE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:XITE NL
-#DESCRIPTION XITE NL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd2/livestream/index.m3u8:Xite NL2
+#DESCRIPTION Xite NL2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:Xite NL4
+#DESCRIPTION Xite NL4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:Xite NL5
+#DESCRIPTION Xite NL5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8:Xite NL6
+#DESCRIPTION Xite NL6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
 #DESCRIPTION DHTV denhaag tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD  open-tv
