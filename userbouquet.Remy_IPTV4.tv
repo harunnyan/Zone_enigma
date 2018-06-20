@@ -33,8 +33,6 @@
 #DESCRIPTION VISIT-X.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Brazzers_TV/index.m3u8:Brazzers_TV
 #DESCRIPTION Brazzers_TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.208.71%3a8080/Dorcel_HD/index.m3u8:Dorcel_HD
-#DESCRIPTION Dorcel_HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/FRENCHLOVER/index.m3u8:FRENCHLOVER
 #DESCRIPTION FRENCHLOVER
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Hustler_HD/index.m3u8:Hustler_HD
@@ -61,294 +59,66 @@
 #DESCRIPTION SCT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.177.254.23%3a9996/play/Visit-X_HD/index.m3u8:Visit-X_HD
 #DESCRIPTION Visit-X_HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8:1-2-3 TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/450/index.m3u8:1-2-3 TV HD
 #DESCRIPTION 1-2-3 TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/268/index.m3u8:HUSTLER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/268/index.m3u8:HUSTLER TV
 #DESCRIPTION HUSTLER TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/755/index.m3u8:HUSTLER TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/755/index.m3u8:HUSTLER TV
 #DESCRIPTION HUSTLER TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/346/index.m3u8:Brazzers TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/346/index.m3u8:Brazzers TV Europe
 #DESCRIPTION Brazzers TV Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/361/index.m3u8:Cento X Cento TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/361/index.m3u8:Cento X Cento TV
 #DESCRIPTION Cento X Cento TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/851/index.m3u8:Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/851/index.m3u8:Dorcel TV HD
 #DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/852/index.m3u8:Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/852/index.m3u8:Dorcel TV HD
 #DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/853/index.m3u8:Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/853/index.m3u8:Dorcel TV HD
 #DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/854/index.m3u8:Dorcel TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/854/index.m3u8:Dorcel TV HD
 #DESCRIPTION Dorcel TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/359/index.m3u8:DUSK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/359/index.m3u8:DUSK
 #DESCRIPTION DUSK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/866/index.m3u8:EROX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/866/index.m3u8:EROX HD
 #DESCRIPTION EROX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/358/index.m3u8:SEXT6 SENSO ITALIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/358/index.m3u8:SEXT6 SENSO ITALIA
 #DESCRIPTION SEXT6 SENSO ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/502/index.m3u8:Hustler HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/502/index.m3u8:Hustler HD
 #DESCRIPTION Hustler HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/364/index.m3u8:Livechannel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/364/index.m3u8:Livechannel
 #DESCRIPTION Livechannel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/264/index.m3u8:nuart.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/264/index.m3u8:nuart.
 #DESCRIPTION nuart.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/362/index.m3u8:PASSIONXXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/362/index.m3u8:PASSIONXXX
 #DESCRIPTION PASSIONXXX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/365/index.m3u8:Pink O TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/365/index.m3u8:Pink O TV
 #DESCRIPTION Pink O TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/142/index.m3u8:Playboy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/142/index.m3u8:Playboy
 #DESCRIPTION Playboy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/142/index.m3u8:Playboy
 #DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/354/index.m3u8:Private TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/354/index.m3u8:Private TV HD
 #DESCRIPTION Private TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/266/index.m3u8:Русская Ночь
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/266/index.m3u8:Русская Ночь
 #DESCRIPTION Русская Ночь
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/266/index.m3u8:Русская Ночь
 #DESCRIPTION Русская Ночь
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/501/index.m3u8:Redlight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/501/index.m3u8:Redlight HD
 #DESCRIPTION Redlight HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/360/index.m3u8:SCT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/360/index.m3u8:SCT
 #DESCRIPTION SCT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/363/index.m3u8:Xmuvi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/363/index.m3u8:Xmuvi
 #DESCRIPTION Xmuvi
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/3dfec4b56a6fbb4052ceb76274060617/500/index.m3u8:XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/500/index.m3u8:XXL
 #DESCRIPTION XXL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/500/index.m3u8:XXL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/500/index.m3u8:XXL
 #DESCRIPTION XXL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/754/index.m3u8:Vivid TV Europe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/754/index.m3u8:Vivid TV Europe
 #DESCRIPTION Vivid TV Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/855/index.m3u8:Zest TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/855/index.m3u8:Zest TV
 #DESCRIPTION Zest TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/94bae21bfa64d6a1d8829eeacca38569/267/index.m3u8:SHOT TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/267/index.m3u8:SHOT TV
 #DESCRIPTION SHOT TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13403.m3u8:Brazzers (18+) US
-#DESCRIPTION Brazzers (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5533.m3u8:Brazzers Tv (18+) US
-#DESCRIPTION Brazzers Tv (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19674.m3u8:PlayBoy TV HD (18+)
-#DESCRIPTION PlayBoy TV HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/17717.m3u8:Play Boy CA (+18)
-#DESCRIPTION Play Boy CA (+18)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19673.m3u8:PlayBoy.Tv (18+)
-#DESCRIPTION PlayBoy.Tv (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5512.m3u8:Playboy (18+) ES
-#DESCRIPTION Playboy (18+) ES
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/16348.m3u8:Pink' o TV (18+) IT
-#DESCRIPTION Pink' o TV (18+) IT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5521.m3u8:Pink Erotic 1 (18+) EX-YU
-#DESCRIPTION Pink Erotic 1 (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5520.m3u8:Pink Erotic 2 (18+) EX-YU
-#DESCRIPTION Pink Erotic 2 (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5519.m3u8:Pink Erotic 3 (18+) EX-YU
-#DESCRIPTION Pink Erotic 3 (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5518.m3u8:Pink Erotic 4 (18+) EX-YU
-#DESCRIPTION Pink Erotic 4 (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5517.m3u8:Pink Erotic 5 (18+) EX-YU
-#DESCRIPTION Pink Erotic 5 (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5516.m3u8:Pink Erotic 6 (18+) EX-YU
-#DESCRIPTION Pink Erotic 6 (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5515.m3u8:Pink Erotic 7 FHD (18+) EX-YU
-#DESCRIPTION Pink Erotic 7 FHD (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5514.m3u8:Pink Erotic 8 (18+) EX-YU
-#DESCRIPTION Pink Erotic 8 (18+) EX-YU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5494.m3u8:Porn 1 (18+)
-#DESCRIPTION Porn 1 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5493.m3u8:Porn 2 (18+)
-#DESCRIPTION Porn 2 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5492.m3u8:Porn 3 (18+)
-#DESCRIPTION Porn 3 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5491.m3u8:Porn 4 (18+)
-#DESCRIPTION Porn 4 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5490.m3u8:Porn 5 (18+)
-#DESCRIPTION Porn 5 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5489.m3u8:Porn 6 (18+)
-#DESCRIPTION Porn 6 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5488.m3u8:Porn 7 HD (18+)
-#DESCRIPTION Porn 7 HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5487.m3u8:Porn 8 (18+)
-#DESCRIPTION Porn 8 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5486.m3u8:Porn 9 (18+)
-#DESCRIPTION Porn 9 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5485.m3u8:Porn 10 FHD (18+)
-#DESCRIPTION Porn 10 FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5511.m3u8:Primafila Hot Club 1 (18+)
-#DESCRIPTION Primafila Hot Club 1 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5509.m3u8:Primafila Hot Club 2 HD (18+)
-#DESCRIPTION Primafila Hot Club 2 HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5508.m3u8:Primafila Hot Club 3 HD (18+)
-#DESCRIPTION Primafila Hot Club 3 HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5507.m3u8:Primafila Hot Club 4 FHD (18+)
-#DESCRIPTION Primafila Hot Club 4 FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5506.m3u8:Primafila Hot Club 5 (18+)
-#DESCRIPTION Primafila Hot Club 5 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5505.m3u8:Primafila Hot Club 6 FHD (18+)
-#DESCRIPTION Primafila Hot Club 6 FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5504.m3u8:Primafila Hot Club 7 (18+)
-#DESCRIPTION Primafila Hot Club 7 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5503.m3u8:Primafila Hot Club 8 FHD (18+)
-#DESCRIPTION Primafila Hot Club 8 FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5502.m3u8:Primafila Hot Club 9 FHD (18+)
-#DESCRIPTION Primafila Hot Club 9 FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5510.m3u8:Primafila Hot Club 10 FHD (18+)
-#DESCRIPTION Primafila Hot Club 10 FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5495.m3u8:Blacked FHD (18+)
-#DESCRIPTION Blacked FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5532.m3u8:Bunga Bunga (18+)
-#DESCRIPTION Bunga Bunga (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19684.m3u8:ButGo (18+)
-#DESCRIPTION ButGo (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19683.m3u8:Candy (18+)
-#DESCRIPTION Candy (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19682.m3u8:Centoxcento TV (18+)
-#DESCRIPTION Centoxcento TV (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5531.m3u8:Cento Cento HD (18+) IT
-#DESCRIPTION Cento Cento HD (18+) IT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19680.m3u8:Daughter Swap (18+)
-#DESCRIPTION Daughter Swap (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5529.m3u8:Dorcel (18+) NL
-#DESCRIPTION Dorcel (18+) NL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13866.m3u8:EROXXX HD (18+)
-#DESCRIPTION EROXXX HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5528.m3u8:Dusk DeLuxe (18+) NL
-#DESCRIPTION Dusk DeLuxe (18+) NL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/16349.m3u8:Evil Angel TV (18+) US
-#DESCRIPTION Evil Angel TV (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5530.m3u8:Desire FHD (18+)
-#DESCRIPTION Desire FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13404.m3u8:Balkan Erotik (18+)
-#DESCRIPTION Balkan Erotik (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13397.m3u8:Hot HD (18+) PT
-#DESCRIPTION Hot HD (18+) PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5525.m3u8:Hustler FHD (18+) US
-#DESCRIPTION Hustler FHD (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5526.m3u8:Hot (18+) PT
-#DESCRIPTION Hot (18+) PT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5527.m3u8:Exotica (18+)
-#DESCRIPTION Exotica (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19679.m3u8:Dorcel (18+)
-#DESCRIPTION Dorcel (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19668.m3u8:LIVE STRIP CAM 2 (18 )
-#DESCRIPTION LIVE STRIP CAM 2 (18 )
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/16350.m3u8:Leo TV (18+) CZ
-#DESCRIPTION Leo TV (18+) CZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/16002.m3u8:Jasmin TV (18+)
-#DESCRIPTION Jasmin TV (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13867.m3u8:EROXX HD (18+)
-#DESCRIPTION EROXX HD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13402.m3u8:Passie (18+)
-#DESCRIPTION Passie (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5523.m3u8:O La La FHD (18+)
-#DESCRIPTION O La La FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19671.m3u8:Private (18+)
-#DESCRIPTION Private (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13863.m3u8:Penthouse 1 HD (18+) US
-#DESCRIPTION Penthouse 1 HD (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13401.m3u8:Moms Teach (18+)
-#DESCRIPTION Moms Teach (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5524.m3u8:Meiden van Holland Hard (18+) NL
-#DESCRIPTION Meiden van Holland Hard (18+) NL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19678.m3u8:Dusk (18+)
-#DESCRIPTION Dusk (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5522.m3u8:Penthouse FHD (18+) US
-#DESCRIPTION Penthouse FHD (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5513.m3u8:Platinum FHD (18+)
-#DESCRIPTION Platinum FHD (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5501.m3u8:Private (18+) NL
-#DESCRIPTION Private (18+) NL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13399.m3u8:Reality Kings (18+) US
-#DESCRIPTION Reality Kings (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19670.m3u8:Reality Sex (18+)
-#DESCRIPTION Reality Sex (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5500.m3u8:Red Light FHD (18+) NL
-#DESCRIPTION Red Light FHD (18+) NL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19667.m3u8:Russkaya Noch (18+)
-#DESCRIPTION Russkaya Noch (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19666.m3u8:SCT (18+)
-#DESCRIPTION SCT (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5499.m3u8:SCT 4 HD (18+) IT
-#DESCRIPTION SCT 4 HD (18+) IT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5498.m3u8:SCT HD (18+) IT
-#DESCRIPTION SCT HD (18+) IT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5497.m3u8:Sext Senso (18+) IT
-#DESCRIPTION Sext Senso (18+) IT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5536.m3u8:Sirina 1 (18+)
-#DESCRIPTION Sirina 1 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5535.m3u8:Sirina 2 (18+)
-#DESCRIPTION Sirina 2 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5534.m3u8:Sirina 3 (18+)
-#DESCRIPTION Sirina 3 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13862.m3u8:Penthouse 2 HD (18+) US
-#DESCRIPTION Penthouse 2 HD (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19672.m3u8:Pleasure (18+)
-#DESCRIPTION Pleasure (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13398.m3u8:TGirls (18+)
-#DESCRIPTION TGirls (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13864.m3u8:VIVID (18+) US
-#DESCRIPTION VIVID (18+) US
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/5496.m3u8:Venus (18+) AR
-#DESCRIPTION Venus (18+) AR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/16347.m3u8:SuperOne HD (18+) HU
-#DESCRIPTION SuperOne HD (18+) HU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19694.m3u8:Vod 1 (18+)
-#DESCRIPTION Vod 1 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19691.m3u8:Vod 2 (18+)
-#DESCRIPTION Vod 2 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19690.m3u8:Vod 3 (18+)
-#DESCRIPTION Vod 3 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19689.m3u8:Vod 4 (18+)
-#DESCRIPTION Vod 4 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19688.m3u8:Vod 5 (18+)
-#DESCRIPTION Vod 5 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19687.m3u8:Vod 6 (18+)
-#DESCRIPTION Vod 6 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19685.m3u8:Vod 8 (18+)
-#DESCRIPTION Vod 8 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19693.m3u8:Vod 10 (18+)
-#DESCRIPTION Vod 10 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19692.m3u8:Vod 11 (18+)
-#DESCRIPTION Vod 11 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19701.m3u8:Babes 2 (18+)
-#DESCRIPTION Babes 2 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19699.m3u8:Babes 4 (18+)
-#DESCRIPTION Babes 4 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19698.m3u8:Babes 5 (18+)
-#DESCRIPTION Babes 5 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19697.m3u8:Babes 6 (18+)
-#DESCRIPTION Babes 6 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19696.m3u8:Babes 8 (18+)
-#DESCRIPTION Babes 8 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19695.m3u8:Babes 9 (18+)
-#DESCRIPTION Babes 9 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19709.m3u8:Babes 10 (18+)
-#DESCRIPTION Babes 10 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19708.m3u8:Babes 11 (18+)
-#DESCRIPTION Babes 11 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19707.m3u8:Babes 12 (18+)
-#DESCRIPTION Babes 12 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19706.m3u8:Babes 13 (18+)
-#DESCRIPTION Babes 13 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19705.m3u8:Babes 14 (18+)
-#DESCRIPTION Babes 14 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19704.m3u8:Babes 16 (18+)
-#DESCRIPTION Babes 16 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19703.m3u8:Babes 17 (18+)
-#DESCRIPTION Babes 17 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/19702.m3u8:Babes 19 (18+)
-#DESCRIPTION Babes 19 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/13400.m3u8:Nubiles Casting (18+)
-#DESCRIPTION Nubiles Casting (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/10459.m3u8:Sinema Erotic 1 (18+) TR
-#DESCRIPTION Sinema Erotic 1 (18+) TR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/10458.m3u8:Sinema Erotic 2 FHD (18+) TR
-#DESCRIPTION Sinema Erotic 2 FHD (18+) TR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/10457.m3u8:Sinema Erotic 3 (18+) TR
-#DESCRIPTION Sinema Erotic 3 (18+) TR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/23177.m3u8:Erox (18+)
-#DESCRIPTION Erox (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/23178.m3u8:XXX* Adult 12 (18+)
-#DESCRIPTION XXX* Adult 12 (18+)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mypanel.tv%3a8080/live/nb/nb2017/23179.m3u8:Babestation Club (18+)
-#DESCRIPTION Babestation Club (18+)
 #SERVICE 1:64:94:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
 #DESCRIPTION :::__18_YOGA.COM__:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
