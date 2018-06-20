@@ -333,6 +333,14 @@
 #DESCRIPTION SPORT TV 5 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/ODgxYTM0ZGI5MTkzYjIwMWZlOGYwYTQ5NDE3NWU3OGM=/g2/TSN1.m3u8:TSN 1
 #DESCRIPTION TSN 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g2/TSN1.m3u8:TSN1
+#DESCRIPTION TSN1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g3/TSN2.m3u8:TSN2
+#DESCRIPTION TSN2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g1/TSN3.m3u8:TSN3
+#DESCRIPTION TSN3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g5/TSN4.m3u8:TSN4
+#DESCRIPTION TSN4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g3/UAFootball1.m3u8:UA Football 1
 #DESCRIPTION UA Football 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g8/ViasatBaltic.m3u8:ViasatBaltic
