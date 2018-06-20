@@ -627,6 +627,14 @@ http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT
 http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
 #EXTINF:0 group-title="SPORTS",TSN 1
 http://sportsbar.pw/lba/ODgxYTM0ZGI5MTkzYjIwMWZlOGYwYTQ5NDE3NWU3OGM=/g2/TSN1.m3u8
+#EXTINF:0 group-title="SPORTS",TSN1
+https://sportsbar.pw/lba/123/g2/TSN1.m3u8
+#EXTINF:0 group-title="SPORTS",TSN2
+https://sportsbar.pw/lba/123/g3/TSN2.m3u8
+#EXTINF:0 group-title="SPORTS",TSN3
+https://sportsbar.pw/lba/123/g1/TSN3.m3u8
+#EXTINF:0 group-title="SPORTS",TSN4
+https://sportsbar.pw/lba/123/g5/TSN4.m3u8
 #EXTINF:0 group-title="SPORTS",UA Football 1
 http://sportsbar.pw/lba/NTcwNmFlZjg0YWUzM2VlNGI0MjQ3ZGZmNThkMWQxY2Q=/g3/UAFootball1.m3u8
 #EXTINF:0 group-title="SPORTS",ViasatBaltic
