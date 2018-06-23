@@ -1,7 +1,7 @@
 #NAME **ReMy_IPTV_18+ADULT**
-#SERVICE 1:64:92:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
+#SERVICE 1:64:91:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
 #DESCRIPTION ::::::_E N I G M A__T U R K__T E A M_::::::
-#SERVICE 1:64:93:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
+#SERVICE 1:64:92:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
@@ -31,7 +31,7 @@
 #DESCRIPTION Visit-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.57.68.14/208/tracks-v1a1/index.m3u8:??????? ????
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.57.68.14/208/tracks-v1a1/index.m3u8:Russkaya_noch
 #DESCRIPTION Russkaya_noch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.80.211%3a3371/udp/239.195.2.4%3a1234:BRAZZERS TV 18+
 #DESCRIPTION BRAZZERS TV 18+
@@ -39,9 +39,9 @@
 #DESCRIPTION BRAZZERS TV 18+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.90.229%3a4022/udp/239.195.2.4%3a1234:BRAZZERS TV 18+
 #DESCRIPTION BRAZZERS TV 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.72.113%3a3371/udp/239.195.2.3%3a1234:??????? ????
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.72.113%3a3371/udp/239.195.2.3%3a1234:Russkaya_noch
 #DESCRIPTION Russkaya_noch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.80.211%3a3371/udp/239.195.2.3%3a1234:??????? ????
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.80.211%3a3371/udp/239.195.2.3%3a1234:Russkaya_noch
 #DESCRIPTION Russkaya_noch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.80.211%3a3371/udp/239.195.2.5%3a1234:PLAYBOY TV
 #DESCRIPTION PLAYBOY TV
@@ -49,7 +49,7 @@
 #DESCRIPTION Playboy TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.72.113%3a3371/udp/239.195.2.5%3a1234:Playboy TV
 #DESCRIPTION Playboy TV
-#SERVICE 1:64:94:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
+#SERVICE 1:64:93:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
 #DESCRIPTION :::__18_YOGA.COM__:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
 #DESCRIPTION XXX-18-Years.mp4
@@ -675,7 +675,7 @@
 #DESCRIPTION XXX-yarina_steaming_up_the_windows.mp4	2018-01-05
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-yarina_your_gentle_touch.mp4:XXX-yarina_your_gentle_touch.mp4
 #DESCRIPTION XXX-yarina_your_gentle_touch.mp4
-#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
+#SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -769,7 +769,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
+#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
 #DESCRIPTION 2017 Victoria’s Secret Fashion Show
@@ -1175,7 +1175,7 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
+#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -2633,7 +2633,7 @@
 #DESCRIPTION wild-city-girl-shower-masturbation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.155.129.196/flashfiles/flash/young-couples-private-tape-leaked.flv:young-couples-private-tape-leaked
 #DESCRIPTION young-couples-private-tape-leaked
-#SERVICE 1:64:98:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
+#SERVICE 1:64:97:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #DESCRIPTION OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
 #DESCRIPTION Adult 4K: VOD 1
