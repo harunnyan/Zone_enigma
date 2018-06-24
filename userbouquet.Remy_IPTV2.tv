@@ -401,40 +401,6 @@
 #DESCRIPTION Sport5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0127:Extreme Sports Channel
 #DESCRIPTION Extreme Sports Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3568:Match TV
-#DESCRIPTION Match TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=91:HD TV Match
-#DESCRIPTION HD TV Match
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3652:Match! Arena
-#DESCRIPTION Match! Arena
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3577:Match! Arena HD
-#DESCRIPTION Match! Arena HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=82:Match! Fighter
-#DESCRIPTION Match! Fighter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3672:Match! A game
-#DESCRIPTION Match! A game
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3572:Match! HD Game
-#DESCRIPTION Match! HD Game
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3669:Match! Our Sport
-#DESCRIPTION Match! Our Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3676:Match! Planet
-#DESCRIPTION Match! Planet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3679:Match! Football 1
-#DESCRIPTION Match! Football 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3569:Match! Football 1 HD
-#DESCRIPTION Match! Football 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3671:Match! Football 2
-#DESCRIPTION Match! Football 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3570:Match! Football 2 HD
-#DESCRIPTION Match! Football 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3681:Match! Football 3
-#DESCRIPTION Match! Football 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3571:Match! Football 3 HD
-#DESCRIPTION Match! Football 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3678:KHL HD
-#DESCRIPTION KHL HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.139.17.75%3a6689/stream?cid=3668:KHL TV
-#DESCRIPTION KHL TV
 #SERVICE 1:64:A1:0:0:0:0:0:0:0::::::_HABER/NEWS_::::
 #DESCRIPTION ::::_HABER/NEWS_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:Sky News
@@ -619,66 +585,6 @@
 #DESCRIPTION ITV 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.59.221.136%3a9981/stream/channelid/2139720971?ticket=310b38a8e6001d033b7e4163437091cc57a09348&profile=pass:ITV 2 HD
 #DESCRIPTION ITV 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.227.241.19%3a8000/play/a02a/index.m3u8:ITV 3 HD
-#DESCRIPTION ITV 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.227.241.19%3a8000/play/a02b/index.m3u8:ITV 4 HD
-#DESCRIPTION ITV 4 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/1632936979?ticket=f0e2faa5c7c9fd1f183306015dc7d8a4502bef15&profile=pass:BBC FOUR
-#DESCRIPTION BBC FOUR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/474779145?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITV +1
-#DESCRIPTION ITV +1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/250554185?ticket=361621a960db4ed3498c9eadab81fb7e96b129d7&profile=pass:ITV4
-#DESCRIPTION ITV4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/1533292070?ticket=dead46b09dbd231c7d606e253ef2ff26f73cdab2&profile=pass:ITVBe
-#DESCRIPTION ITVBe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/bbc1.m3u8:BBC ONE
-#DESCRIPTION BBC ONE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/bbc2.m3u8:BBC TWO
-#DESCRIPTION BBC TWO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/bbc4.m3u8:BBC FOUR
-#DESCRIPTION BBC FOUR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/bbcnews.m3u8:BBC NEWS
-#DESCRIPTION BBC NEWS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/bbc_parliament.m3u8:BBC PARLIAMENT
-#DESCRIPTION BBC PARLIAMENT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/betblackenttv.m3u8:BET
-#DESCRIPTION BET
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/cbbc.m3u8:CBBC
-#DESCRIPTION CBBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/cbeebies.m3u8:Cbeebies
-#DESCRIPTION Cbeebies
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/channel4.m3u8:CHANNEL 4
-#DESCRIPTION CHANNEL 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/five.m3u8:CHANNEL 5
-#DESCRIPTION CHANNEL 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/challenge.m3u8:CHALLENGE
-#DESCRIPTION CHALLENGE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/e4.m3u8:E4
-#DESCRIPTION E4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/itv.m3u8:ITV
-#DESCRIPTION ITV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/itv2.m3u8:ITV 2
-#DESCRIPTION ITV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/itv3.m3u8:ITV 3
-#DESCRIPTION ITV 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/itv4.m3u8:ITV 4
-#DESCRIPTION ITV 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/itvbe.m3u8:ITVBe
-#DESCRIPTION ITVBe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/dave.m3u8:DAVE
-#DESCRIPTION DAVE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/drama.m3u8:DRAMA
-#DESCRIPTION DRAMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/really.m3u8:REALLY
-#DESCRIPTION REALLY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/4seven.m3u8:4Seven
-#DESCRIPTION 4Seven
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/5usa.m3u8:5 USA
-#DESCRIPTION 5 USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/yesterday.m3u8:YESTERDAY
-#DESCRIPTION YESTERDAY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovh.easyview.eu/hls/yesterdayplus1.m3u8:YESTERDAY +1
-#DESCRIPTION YESTERDAY +1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns3074107.ip-217-182-173.eu%3a8000/live/micha/micha/2329.m3u8:VH1 EUROPE
 #DESCRIPTION VH1 EUROPE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:SKY NEWS
@@ -693,6 +599,14 @@
 #DESCRIPTION FRANCE 24 EN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8:FRANCE 24 FR
 #DESCRIPTION FRANCE 24 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/1632936979?ticket=f0e2faa5c7c9fd1f183306015dc7d8a4502bef15&profile=pass:BBC FOUR
+#DESCRIPTION BBC FOUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/474779145?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITV +1
+#DESCRIPTION ITV +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/250554185?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITV4
+#DESCRIPTION ITV4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/1533292070?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITVBe
+#DESCRIPTION ITVBe
 #SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
 #DESCRIPTION === ★★EX YU | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97/A1Balkan/tracks-v1a1/mono.m3u8:A1 BALKAN
