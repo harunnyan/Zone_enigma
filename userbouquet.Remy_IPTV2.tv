@@ -1,9 +1,9 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g4/bein1tk.m3u8:Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/NzNhNzM0NjQ4NGJlOWVmMzc5NTY0MjA4MjhmYzBhMjE=/g4/bein1tk.m3u8:Bein Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 1 HD
 #DESCRIPTION Bein Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDhkMzkyN2YwYWYzZjQ4YWZmYjkxNjQ1MGJmMjJkMjA=/g6/bein2tk.m3u8:Bein Sports 2 HD
 #DESCRIPTION Bein Sports 2 HD
@@ -11,12 +11,12 @@
 #DESCRIPTION Bein Sports 3 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDlhNGQwMzExMTk1ZDkxZTBkNTRjYjk4M2FkNDEyOTQ=/g10/SkyFootball.m3u8:SkyFootball
 #DESCRIPTION SkyFootball
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8080/sport1.ts:Bein FOOTBALL
-#DESCRIPTION Bein FOOTBALL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
-#DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
 #DESCRIPTION S sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
+#DESCRIPTION Bein FOOTBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8080/sport1.ts:Bein FOOTBALL
+#DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-02.nyc.dailymotion.com/52/dm/3/x21oo10/live-3.m3u8:FB TV
 #DESCRIPTION FB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-05.dc3.dailymotion.com/21/dm/3/x31omum/live-4.m3u8:BJK TV
@@ -551,6 +551,86 @@
 #DESCRIPTION ITV +1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/250554185?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITV4
 #DESCRIPTION ITV4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1473573505?ticket=5883537f656a44fd84506d6586cf1bbab6853c7f&amp;profile=pass:BBC ONE South
+#DESCRIPTION BBC ONE South
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1177105991?ticket=0b99f54bc910487c9e2b22063fe3b83384ed6ed0&amp;profile=pass:BBC TWO
+#DESCRIPTION BBC TWO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/415593063?ticket=65e3d94abdc9bd61bfff84b79ddf822bd5b320d0&amp;profile=pass:ITV
+#DESCRIPTION ITV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1230715909?ticket=190f5c5c135ccdf3213cbab526ec28ace2779315&amp;profile=pass:ITV2
+#DESCRIPTION ITV2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1567601792?ticket=fed719e7d8531d55ef000b6d34a46095823fb436&amp;profile=pass:ITV3
+#DESCRIPTION ITV3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1995846956?ticket=e95eb8fc569938c8a26cefc062ec093a77b1f88d&amp;profile=pass:ITV4
+#DESCRIPTION ITV4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1868763895?ticket=270ecda13015bbc0ae42dfb7035e3d36954d4732&amp;profile=pass:Channel 4
+#DESCRIPTION Channel 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1049634921?ticket=ba48fdbe436ff84884ec9a5ac3887579c2fc8f03&amp;profile=pass:Channel 5
+#DESCRIPTION Channel 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/338670697?ticket=daff194bc9b784fe9b0ad7d6e127d2afe4cd860b&amp;profile=pass:That's Hampshire
+#DESCRIPTION That's Hampshire
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1814605059?ticket=7121b6b185deb9e51ee6b1133db33119fad63bb7&amp;profile=pass:That's Thames Valley
+#DESCRIPTION That's Thames Valley
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1803859813?ticket=cfcb8369943180e14d1f7326c5c0c676d27ba38b&amp;profile=pass:BBC FOUR
+#DESCRIPTION BBC FOUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/2073693378?ticket=89dfefb5fd97bec03b456f44a2e7af53245f8d81&amp;profile=pass:Pick
+#DESCRIPTION Pick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1416931628?ticket=da96ed6d1364283844e93701e33cb53bb52bb8a9&amp;profile=pass:Dave
+#DESCRIPTION Dave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/2018947862?ticket=f49037dc1d6ab5553ecc904a4098b6a7b559b449&amp;profile=pass:Channel 4+1
+#DESCRIPTION Channel 4+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/369445699?ticket=2766096aff2893970eeceef9385f49d27112430c&amp;profile=pass:More 4
+#DESCRIPTION More 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1350188180?ticket=916367938ab1eaea4974a63c06b9d39b9e93df6a&amp;profile=pass:Film4
+#DESCRIPTION Film4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/740684037?ticket=d7bb4b64acb404019e7e9af3ae60ab6bf4c65855&amp;profile=pass:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1132781022?ticket=0a534b027db76a698471f4ef1f355e4fce16bee4&amp;profile=pass:Really
+#DESCRIPTION Really
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1984520568?ticket=cb42cf4ef1f6eddee1f19d6f7ae5d7eed919f013&amp;profile=pass:4Music
+#DESCRIPTION 4Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/833039933?ticket=d89c4f09c189117ca9ad3594882ced3be77070bf&amp;profile=pass:Yesterday
+#DESCRIPTION Yesterday
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1285589575?ticket=abf22818a5845a3d6c19c70b9bb11ac3f62d674f&amp;profile=pass:Drama
+#DESCRIPTION Drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/2037928882?ticket=5743b22b861ac0e21c0d11413cda0ecaf6237b65&amp;profile=pass:5 USA
+#DESCRIPTION 5 USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1012854014?ticket=b434ef8c19ed36b3bbdc9f303c817ed2db29ce05&amp;profile=pass:Ideal World
+#DESCRIPTION Ideal World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/709022827?ticket=792f87d25bbdf83fb7ef3ecd548c26d8102b8777&amp;profile=pass:Create &amp; Craft
+#DESCRIPTION Create &amp; Craft
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1223597287?ticket=9c054eafa2b19451792213a8459244c3c2e9df44&amp;profile=pass:Home
+#DESCRIPTION Home
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/547384092?ticket=1e71ea73a077a1a86ebeb1ad6c5ead2811f48a11&amp;profile=pass:ITVBe
+#DESCRIPTION ITVBe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/134226549?ticket=f3d5d277f7ecef8bf9665961b7b5d77f8545b7d3&amp;profile=pass:ITV2 +1
+#DESCRIPTION ITV2 +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1401002629?ticket=fa639e0fbbee66648434613c6cde88399c3caea9&amp;profile=pass:E4
+#DESCRIPTION E4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1660523200?ticket=365f8f50a4fd87b02dad4f24a0bbd0162a538ecd&amp;profile=pass:E4+1
+#DESCRIPTION E4+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1669151601?ticket=2eaa49bf831eb45e6c481981a79a8ed7869ee8f2&amp;profile=pass:5STAR
+#DESCRIPTION 5STAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1058942318?ticket=8fbe02b2271a66c5d2b2d493488bcef1b197fbcf&amp;profile=pass:5Spike
+#DESCRIPTION 5Spike
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1219174926?ticket=2aa8cdfc5f1105e991e24cbbe6d66f3b7a861cd0&amp;profile=pass:Sony Movie Ch
+#DESCRIPTION Sony Movie Ch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1810214901?ticket=7f3574fe8dd8f5ce19bd23eaf0aca13296313d66&amp;profile=pass:ITV +1
+#DESCRIPTION ITV +1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1116099466?ticket=3ff6ec6002a94b3d17f841d6b8c87562e2c22dee&amp;profile=pass:ITV3+1
+#DESCRIPTION ITV3+1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/438625209?ticket=d6eb00c039c2280866328767764914ac234707d8&amp;profile=pass:QVC Beauty
+#DESCRIPTION QVC Beauty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/862488806?ticket=13d2725b0fd52cd2eab70f2f15ce7fb97e94ceac&amp;profile=pass:QUEST
+#DESCRIPTION QUEST
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1152117635?ticket=cb4cabb7015a07cddf7385791779e9cb4c142788&amp;profile=pass:Quest Red
+#DESCRIPTION Quest Red
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/831707109?ticket=b58576724a6ea2ea36c21b42a8ac26b4c985c537&amp;profile=pass:CBS Action
+#DESCRIPTION CBS Action
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1627794550?ticket=bda8327aa3e2c9ce6cc3a0c8aba942aa5952b356&amp;profile=pass:Food Network
+#DESCRIPTION Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1642218060?ticket=8ae20c573156b98fc12c1a97dda9f7d722c2ecb7&amp;profile=pass:Travel Channel
+#DESCRIPTION Travel Channel
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
 #DESCRIPTION === ★★EX YU | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97/A1Balkan/tracks-v1a1/mono.m3u8:A1 BALKAN

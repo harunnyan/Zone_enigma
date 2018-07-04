@@ -1,20 +1,20 @@
 #NAME **ReMy_IPTV_18+ADULT**
-#SERVICE 1:64:91:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
+#SERVICE 1:64:90:0:0:0:0:0:0:0::::::::_E N I G M A__T U R K__T E A M_::::::
 #DESCRIPTION ::::::_E N I G M A__T U R K__T E A M_::::::
-#SERVICE 1:64:92:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
+#SERVICE 1:64:91:0:0:0:0:0:0:0:::::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #DESCRIPTION :::::::::::::::::::::_P R E M I U M__A D U L T_:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream:JASMIN TV
 #DESCRIPTION JASMIN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8:MIAMI TV
-#DESCRIPTION MIAMI TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/chunklist_w324994460_b1896000.m3u8:Miami Tv 1
-#DESCRIPTION Miami Tv 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//usaserver.miamitvchannel.com%3a1935/miamitv/smil%3amiamitv/playlist.m3u8?PEDROJUNIORTUTORIAIS:Miami TV 2
 #DESCRIPTION Miami TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.111.128.190/miamitv/smil%3amiamitvspain/playlist.m3u8:Miami tv 3
 #DESCRIPTION Miami tv 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8:MIAMI TV
+#DESCRIPTION MIAMI TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/chunklist_w324994460_b1896000.m3u8:Miami Tv 1
+#DESCRIPTION Miami Tv 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de-origin-live.3qsdn.com%3a1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8:BS 24 LIVE
 #DESCRIPTION BS 24 LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil%3a2346-mbr.smil/playlist.m3u8:Babestation Germany
@@ -31,25 +31,21 @@
 #DESCRIPTION Visit-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.57.68.14/208/tracks-v1a1/index.m3u8:Russkaya_noch
-#DESCRIPTION Russkaya_noch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.80.211%3a3371/udp/239.195.2.4%3a1234:BRAZZERS TV 18+
-#DESCRIPTION BRAZZERS TV 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.72.113%3a3371/udp/239.195.2.4%3a1234:BRAZZERS TV 18+
-#DESCRIPTION BRAZZERS TV 18+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.90.229%3a4022/udp/239.195.2.4%3a1234:BRAZZERS TV 18+
 #DESCRIPTION BRAZZERS TV 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.72.113%3a3371/udp/239.195.2.3%3a1234:Russkaya_noch
-#DESCRIPTION Russkaya_noch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.80.211%3a3371/udp/239.195.2.3%3a1234:Russkaya_noch
-#DESCRIPTION Russkaya_noch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.80.211%3a3371/udp/239.195.2.5%3a1234:PLAYBOY TV
-#DESCRIPTION PLAYBOY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.90.229%3a4022/udp/239.195.2.5%3a1234:Playboy TV
 #DESCRIPTION Playboy TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.72.113%3a3371/udp/239.195.2.5%3a1234:Playboy TV
-#DESCRIPTION Playboy TV
-#SERVICE 1:64:93:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/hust/index.m3u8:Hustler HD
+#DESCRIPTION Hustler HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/blue/index.m3u8:Blue Hustler
+#DESCRIPTION Blue Hustler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/red/index.m3u8:Redlight HD
+#DESCRIPTION Redlight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/braz/index.m3u8:Brazzers Europe TV
+#DESCRIPTION Brazzers Europe TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/pink/index.m3u8:Pinko
+#DESCRIPTION Pinko
+#SERVICE 1:64:92:0:0:0:0:0:0:0:::::__18_YOGA.COM__:::
 #DESCRIPTION :::__18_YOGA.COM__:::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
 #DESCRIPTION XXX-18-Years.mp4
@@ -313,27 +309,27 @@
 #DESCRIPTION XXX-Real.Pornstars.Of.Chatsworth.3D.XXX.SBS.720p.B
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Rita_Give_Me_All_You_Got.mp4:XXX-Rita_Give_Me_All_You_Got.mp4
 #DESCRIPTION XXX-Rita_Give_Me_All_You_Got.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Romi%20Rain%201.mp4:XXX-Romi Rain 1.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Romi Rain 1.mp4:XXX-Romi Rain 1.mp4
 #DESCRIPTION XXX-Romi Rain 1.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Romi%20Rain%202.mp4:XXX-Romi Rain 2.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Romi Rain 2.mp4:XXX-Romi Rain 2.mp4
 #DESCRIPTION XXX-Romi Rain 2.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Rose%20Valentina%20-%20BBWsGONEBLACK.wmv:XXX-Rose Valentina - BBWsGONEBLACK.wmv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Rose Valentina - BBWsGONEBLACK.wmv:XXX-Rose Valentina - BBWsGONEBLACK.wmv
 #DESCRIPTION XXX-Rose Valentina - BBWsGONEBLACK.wmv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Serika_Reloaded_Balls.mp4:XXX-Serika_Reloaded_Balls.mp4
 #DESCRIPTION XXX-Serika_Reloaded_Balls.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Serika_Want_Him_All_To_Myself.mp4:XXX-Serika_Want_Him_All_To_Myself.mp4
 #DESCRIPTION XXX-Serika_Want_Him_All_To_Myself.mp4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Service%20Animals%208%20-%20Shyla%20Stylez.mpg:XXX-Service Animals 8 - Shyla Stylez.mpg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Service Animals 8 - Shyla Stylez.mpg:XXX-Service Animals 8 - Shyla Stylez.mpg
 #DESCRIPTION XXX-Service Animals 8 - Shyla Stylez.mpg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Sexy_big_tit_bride_Devon_rides_a_big_dick_right_after_her_wedding-480p.mp4:XXX-Sexy_big_tit_bride_Devon_rides_a_big_dick_righ
 #DESCRIPTION XXX-Sexy_big_tit_bride_Devon_rides_a_big_dick_righ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Sexy%20teen%20Eva%20Lovia%20pounded%20in%20the%20car.mp4:XXX-Sexy teen Eva Lovia pounded in the car.mp4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Sexy teen Eva Lovia pounded in the car.mp4:XXX-Sexy teen Eva Lovia pounded in the car.mp4
 #DESCRIPTION XXX-Sexy teen Eva Lovia pounded in the car.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Small_titty_teens_massage-480p.mp4:XXX-Small_titty_teens_massage-480p.mp4
 #DESCRIPTION XXX-Small_titty_teens_massage-480p.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Stunning_milf_receives_gapeshot_with_stepteen-480p.mp4:XXX-Stunning_milf_receives_gapeshot_with_stepteen-
 #DESCRIPTION XXX-Stunning_milf_receives_gapeshot_with_stepteen-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Sugar%20Baby%20-%20Defloration.avi:XXX-Sugar Baby - Defloration.avi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Sugar Baby - Defloration.avi:XXX-Sugar Baby - Defloration.avi
 #DESCRIPTION XXX-Sugar Baby - Defloration.avi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Talia_A_Special_Request.mp4:XXX-Talia_A_Special_Request.mp4	2018-01-05 03:24
 #DESCRIPTION XXX-Talia_A_Special_Request.mp4	2018-01-05 03:24
@@ -345,7 +341,7 @@
 #DESCRIPTION XXX-Tattooed_guy_fucking_female_agent_on_couch-480
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Tori_Black_02-360p.mp4:XXX-Tori_Black_02-360p.mp4	2018-01-05 04:09 	127M
 #DESCRIPTION XXX-Tori_Black_02-360p.mp4	2018-01-05 04:09 	127M
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Tushy%20Siterip%20Oct-Nov%202016%201080p%20WEB-DL%20AAC2.0%20H.264.mp4:XXX-Tushy Siterip Oct-Nov 2016 1080p WEB-DL AAC2.0
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Tushy Siterip Oct-Nov 2016 1080p WEB-DL AAC2.0 H.264.mp4:XXX-Tushy Siterip Oct-Nov 2016 1080p WEB-DL AAC2.0
 #DESCRIPTION XXX-Tushy Siterip Oct-Nov 2016 1080p WEB-DL AAC2.0
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-Ulia_The_Giver.mp4:XXX-Ulia_The_Giver.mp4	2018-01-05 03:33 	900M
 #DESCRIPTION XXX-Ulia_The_Giver.mp4	2018-01-05 03:33 	900M
@@ -407,7 +403,7 @@
 #DESCRIPTION XXX-joymii.16.12.27.jane.playing.with.my.pussy.mp4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-joymii.16.12.30.julia.sex.on.the.beach.mp4:XXX-joymii.16.12.30.julia.sex.on.the.beach.mp4	201
 #DESCRIPTION XXX-joymii.16.12.30.julia.sex.on.the.beach.mp4	201
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-julia%20nosova.avi:XXX-julia nosova.avi	2018-01-05 03:52 	190M
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-julia nosova.avi:XXX-julia nosova.avi	2018-01-05 03:52 	190M
 #DESCRIPTION XXX-julia nosova.avi	2018-01-05 03:52 	190M
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-kaiya_tired_but_satisfied.mp4:XXX-kaiya_tired_but_satisfied.mp4	2018-01-05 03:03
 #DESCRIPTION XXX-kaiya_tired_but_satisfied.mp4	2018-01-05 03:03
@@ -675,7 +671,7 @@
 #DESCRIPTION XXX-yarina_steaming_up_the_windows.mp4	2018-01-05
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-yarina_your_gentle_touch.mp4:XXX-yarina_your_gentle_touch.mp4
 #DESCRIPTION XXX-yarina_your_gentle_touch.mp4
-#SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
+#SERVICE 1:64:93:0:0:0:0:0:0:0:::::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #DESCRIPTION :::::::::::::::::::::_S E X Y__C L I P S_:::::::::
 #SERVICE 4097:0:1:244:0:0:0:0:0:0:http%3a//zazax1.ru/video/barto.mp4:barto
 #DESCRIPTION barto
@@ -769,7 +765,7 @@
 #DESCRIPTION 3xru.ru/celebrities/viva-bianca-nude-scenes-sparta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zazax1.ru/newvid/tashpro.mp4:3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
 #DESCRIPTION 3xru.ru/nudetv/prokachali-tachku-goloj-vedushhej
-#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
+#SERVICE 1:64:94:0:0:0:0:0:0:0:::::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #DESCRIPTION :::::::::::::::::::::_NAKED_SEXY_FUNNY_VIDEOS_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dm.victoriassecret.com/appfeatures/1268131403489/VS-download_2000Kbps_720p_desktop.mp4:2017 Victoria’s Secret Fashion Show
 #DESCRIPTION 2017 Victoria’s Secret Fashion Show
@@ -1175,7 +1171,7 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
+#SERVICE 1:64:95:0:0:0:0:0:0:0:::::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #DESCRIPTION :::::::::::::::::::::_V I D E O__C L I P S_:::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn3.servitubes.com/videos/6/f/7/6/4/6f764267353d6fa9108aa3518c817cb195db672a.mp4:69 increibles posturas mas actos bisexuales
 #DESCRIPTION 69 increibles posturas mas actos bisexuales
@@ -1755,184 +1751,14 @@
 #DESCRIPTION VOD_X 155
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.48.92.204/tjoobuploads/xxxtions/NjUyNTUwNmFuaW0yNTA0NA==.mp4:VOD_X 157
 #DESCRIPTION VOD_X 157
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/1270.mp4:VOD xxx
-#DESCRIPTION VOD xxx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/46411.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25373.mp4:VOD xxx
 #DESCRIPTION VOD xxx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25649.mp4:VOD xxx
 #DESCRIPTION VOD xxx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/29558.mp4:VOD xxx
 #DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/725268.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/808641.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/901617.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1373744.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/565457.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.144.160/absoluporn2/c6b9f6bfb130713becfbbd629b5a6b51/1161904.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.136.183/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/27859.mp4:GIRL & GIRL 19
-#DESCRIPTION GIRL & GIRL 19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.136.183/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25088.mp4:GIRL & GIRL 20
-#DESCRIPTION GIRL & GIRL 20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.63.131/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/44073.mp4:X13
 #DESCRIPTION X13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.63.131/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/44072.mp4:X14
-#DESCRIPTION X14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.63.131/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/44071.mp4:X15
-#DESCRIPTION X15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/26239.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/41202.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/45495.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.33.50.13/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/24569.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/552.mp4:GIRL & GIRL 21
-#DESCRIPTION GIRL & GIRL 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21999.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21998.mp4:X2
-#DESCRIPTION X2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21997.mp4:X3
-#DESCRIPTION X3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21996.mp4:X4
-#DESCRIPTION X4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21995.mp4:X5
-#DESCRIPTION X5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21994.mp4:X6
-#DESCRIPTION X6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21993.mp4:X7
-#DESCRIPTION X7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21992.mp4:X8
-#DESCRIPTION X8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21991.mp4:X9
-#DESCRIPTION X9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21990.mp4:X10
-#DESCRIPTION X10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21989.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21988.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21987.mp4:X1
-#DESCRIPTION X1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21986.mp4:X2
-#DESCRIPTION X2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21985.mp4:X3
-#DESCRIPTION X3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21984.mp4:X4
-#DESCRIPTION X4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21983.mp4:X5
-#DESCRIPTION X5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21982.mp4:X6
-#DESCRIPTION X6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21981.mp4:X7
-#DESCRIPTION X7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21980.mp4:X8
-#DESCRIPTION X8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21979.mp4:X9
-#DESCRIPTION X9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21978.mp4:X10
-#DESCRIPTION X10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21977.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21976.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21975.mp4:X9
-#DESCRIPTION X9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21974.mp4:X10
-#DESCRIPTION X10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21973.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21972.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21971.mp4:X9
-#DESCRIPTION X9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21970.mp4:X10
-#DESCRIPTION X10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21969.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21968.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21967.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21965.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21964.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21963.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21962.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21961.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21960.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21959.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21958.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21957.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21956.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21955.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21953.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21952.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21951.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21950.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21949.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21948.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21947.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21946.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21945.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21943.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21942.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21941.mp4:X11
-#DESCRIPTION X11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21939.mp4:X12
-#DESCRIPTION X12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21852.mp4:X112
-#DESCRIPTION X112
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21851.mp4:X112
-#DESCRIPTION X112
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/21853.mp4:X112
-#DESCRIPTION X112
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/22572.mp4:GIRL & GIRL 3
-#DESCRIPTION GIRL & GIRL 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/22949.mp4:GIRL & GIRL 1
-#DESCRIPTION GIRL & GIRL 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/23785.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/39337.mp4:GIRL & GIRL 11
-#DESCRIPTION GIRL & GIRL 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/39825.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/43002.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.232.63/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/26761.mp4:VOD xxx
-#DESCRIPTION VOD xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.255.145/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/44660.mp4:VOD xxx
-#DESCRIPTION VOD xxx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4:La France à Poil 1
 #DESCRIPTION La France à Poil 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4:La France à Poil 2
@@ -1961,156 +1787,6 @@
 #DESCRIPTION SELEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4:SIGNORE SC@ND@LOSE DI PROVINCI@
 #DESCRIPTION SIGNORE SC@ND@LOSE DI PROVINCI@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/b/f/4/58bf485e5dc05.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/8/d/c/588dc4e1d8598.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/5/b/7/585b7a2f543b1.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/2/9/0/58290f6edbfc6.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/2/9/0/58290e9438383.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/2/8/f/5828f666c2f13.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/2/9/0/58290feaab245.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/2/8/f/5828fd5ade95a.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/2/9/3/582932dcadf9b.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/3/580739b000c99.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/1/58071ec1bf30f.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/4/5807409032586.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/4/58074ae7ee35d.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/4/58074798c60b0.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/5/58075436d8120.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/4/58074c2a81ce7.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/3/580736353dbd2.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/6/5807644f5bfd7.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/d/9/c/57d9c2ebd1a53.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/d/9/b/57d9bcb808ef3.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/c/0/3/57c0370e4861b.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02c2401a4c.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02cce80fc4.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/c/0/3/57c033f489cab.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/b/3/4/57b34cf66ec63.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/7/2/b/5772bdff5a62a.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/7/2/d/5772d8bca2374.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/7/2/e/5772ed455ac0d.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/7/2/8/5772812602d65.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/3/9/f/5739fd498a027.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/2/3/6/5723658c0d208.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/0/1/6/57016793cc276.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/0/1/7/570173d9de973.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/6/8/e/b/568eb95e59f89.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/6/7/a/c/567ace92dd29e.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/7/7/3/3/57733b810f22f.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/5/5807551809490.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/2/58072eb09f328.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tuboitaliano.xxx/media/videos/5/8/0/7/5/580751c28f7e0.mp4:VINTAGE FILM ITALIA
-#DESCRIPTION VINTAGE FILM ITALIA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/2/5/0/562503f05c990.mp4:B@gno c@ldo
-#DESCRIPTION B@gno c@ldo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/2/7/7/562777081b8e7.mp4:Il fuoco dell@ tr@sgressione
-#DESCRIPTION Il fuoco dell@ tr@sgressione
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/3/1/2/5631279b0e557.mp4:L'@mico di famigli@
-#DESCRIPTION L'@mico di famigli@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/2/a/3/562a37f5d9fdc.mp4:L'elettricist@ ti ric@ric@ il .....
-#DESCRIPTION L'elettricist@ ti ric@ric@ il .....
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/5/5/8/565582e84e062.mp4:Venere in pellicci@
-#DESCRIPTION Venere in pellicci@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/5/5/7/56557bb4a3b02.mp4:L@ sicili@n@
-#DESCRIPTION L@ sicili@n@
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/7/2/f/5572f86a809c0.mp4:Tubo Italiano XXX - VOD 01
-#DESCRIPTION Tubo Italiano XXX - VOD 01
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/6/c/0/556c07cb18cc0.mp4:Tubo Italiano XXX - VOD 02
-#DESCRIPTION Tubo Italiano XXX - VOD 02
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/1/4/0/561408bfc3dc1.mp4:Tubo Italiano XXX - VOD 03
-#DESCRIPTION Tubo Italiano XXX - VOD 03
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/1/7/b/5617b94dac6a4.mp4:Tubo Italiano XXX - VOD 04
-#DESCRIPTION Tubo Italiano XXX - VOD 04
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/1/d/2/561d234b4d3ad.mp4:Tubo Italiano XXX - VOD 05
-#DESCRIPTION Tubo Italiano XXX - VOD 05
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/4/8/9/5648923984ced.mp4:Tubo Italiano XXX - VOD 06
-#DESCRIPTION Tubo Italiano XXX - VOD 06
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/5/1/a/5651aa1a80ecf.mp4:Tubo Italiano XXX - VOD 07
-#DESCRIPTION Tubo Italiano XXX - VOD 07
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/6/a/2/556a2465e5c2b.mp4:Tubo Italiano XXX - VOD 08
-#DESCRIPTION Tubo Italiano XXX - VOD 08
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/6/a/c/556acaf32668d.mp4:Tubo Italiano XXX - VOD 09
-#DESCRIPTION Tubo Italiano XXX - VOD 09
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/8/9/b/5589bd59a6e6e.mp4:Tubo Italiano XXX - VOD 10
-#DESCRIPTION Tubo Italiano XXX - VOD 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/6/a/4/556a44ef99130.mp4:Tubo Italiano XXX - VOD 11
-#DESCRIPTION Tubo Italiano XXX - VOD 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/5/5/9/56559e9aa119e.mp4:Tubo Italiano XXX - VOD 12
-#DESCRIPTION Tubo Italiano XXX - VOD 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/9/4/1/5594130834415.mp4:Tubo Italiano XXX - VOD 13
-#DESCRIPTION Tubo Italiano XXX - VOD 13
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/9/7/f/5597f049e0408.mp4:Tubo Italiano XXX - VOD 14
-#DESCRIPTION Tubo Italiano XXX - VOD 14
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/8/6/a/5586a7d6be257.mp4:Tubo Italiano XXX - VOD 15
-#DESCRIPTION Tubo Italiano XXX - VOD 15
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/6/c/0/556c0bba3fa7f.mp4:Tubo Italiano XXX - VOD 16
-#DESCRIPTION Tubo Italiano XXX - VOD 16
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/6/9/d/5569db292d247.mp4:Tubo Italiano XXX - VOD 17
-#DESCRIPTION Tubo Italiano XXX - VOD 17
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/f/9/e/55f9ec921fa7d.mp4:Tubo Italiano XXX - VOD 18
-#DESCRIPTION Tubo Italiano XXX - VOD 18
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/f/d/3/55fd394c34f8f.mp4:Tubo Italiano XXX - VOD 19
-#DESCRIPTION Tubo Italiano XXX - VOD 19
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/0/2/d/5602db24c78cd.mp4:Tubo Italiano XXX - VOD 20
-#DESCRIPTION Tubo Italiano XXX - VOD 20
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/0/b/0/560b06193ab2c.mp4:Tubo Italiano XXX - VOD 21
-#DESCRIPTION Tubo Italiano XXX - VOD 21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/0/e/f/560ef318ba615.mp4:Tubo Italiano XXX - VOD 22
-#DESCRIPTION Tubo Italiano XXX - VOD 22
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/1/0/e/5610e9f88d07e.mp4:Tubo Italiano XXX - VOD 23
-#DESCRIPTION Tubo Italiano XXX - VOD 23
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/3/7/5/56375d0c81fdb.mp4:Tubo Italiano XXX - VOD 24
-#DESCRIPTION Tubo Italiano XXX - VOD 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/2/0/2/562024ae52ae4.mp4:Tubo Italiano XXX - VOD 25
-#DESCRIPTION Tubo Italiano XXX - VOD 25
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/2/f/d/562fd943cc83c.mp4:Tubo Italiano XXX - VOD 26
-#DESCRIPTION Tubo Italiano XXX - VOD 26
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/5/8/6/9/55869d0ed868d.mp4:Tubo Italiano XXX - VOD 27
-#DESCRIPTION Tubo Italiano XXX - VOD 27
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/2/b/d/562bd7b5262d5.mp4:Tubo Italiano XXX - VOD 28
-#DESCRIPTION Tubo Italiano XXX - VOD 28
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/3/a/3/563a391e49e4e.mp4:Tubo Italiano XXX - VOD 30
-#DESCRIPTION Tubo Italiano XXX - VOD 30
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media.tuboitaliano.xxx%3a81/videos/5/6/2/e/d/562ed8ef7b6cd.mp4:Tubo Italiano XXX - VOD 31
-#DESCRIPTION Tubo Italiano XXX - VOD 31
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/046/511/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 19
 #DESCRIPTION Adult 4K: VOD 19
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v.thebestvideocontentever.com/content/videos/000/046/514/panda/promo/tiny4k_promo_mp4_712_2500.mp4:Adult 4K: VOD 19
@@ -2633,7 +2309,7 @@
 #DESCRIPTION wild-city-girl-shower-masturbation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.155.129.196/flashfiles/flash/young-couples-private-tape-leaked.flv:young-couples-private-tape-leaked
 #DESCRIPTION young-couples-private-tape-leaked
-#SERVICE 1:64:97:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
+#SERVICE 1:64:96:0:0:0:0:0:0:0::OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #DESCRIPTION OpenVPN ILE ACILIR REMY TEAM_DEN INDIRINIZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4:Adult 4K: VOD 1
 #DESCRIPTION Adult 4K: VOD 1
