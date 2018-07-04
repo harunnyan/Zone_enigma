@@ -2715,6 +2715,16 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 rtmp://stream.visit-x.tv/vxtv//live_720p
 #EXTINF:0 group-title="ADULT" parent-code="1234",BS 24 LIVE
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:-1,Hustler HD 
+http://85.132.71.6/ru/hust/index.m3u8 
+#EXTINF:-1,Blue Hustler
+http://85.132.71.6/ru/blue/index.m3u8
+#EXTINF:-1,Redlight HD
+http://85.132.71.6/ru/red/index.m3u8
+#EXTINF:-1,Brazzers Europe TV
+http://85.132.71.6/ru/braz/index.m3u8 
+#EXTINF:-1,Pinko
+http://85.132.71.6/ru/pink/index.m3u8
 #EXTINF:0 group-title="ADULT" parent-code="1234",Russkaya_noch
 http://185.57.68.14/208/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
