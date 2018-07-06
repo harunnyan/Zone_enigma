@@ -2715,23 +2715,23 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 rtmp://stream.visit-x.tv/vxtv//live_720p
 #EXTINF:0 group-title="ADULT" parent-code="1234",BS 24 LIVE
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1,Hustler HD 
+#EXTINF:0 group-title="ADULT" parent-code="1234",Hustler HD 
 http://85.132.71.6/ru/hust/index.m3u8 
-#EXTINF:-1,Blue Hustler
+#EXTINF:0 group-title="ADULT" parent-code="1234",Blue Hustler
 http://85.132.71.6/ru/blue/index.m3u8
-#EXTINF:-1,Redlight HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Redlight HD
 http://85.132.71.6/ru/red/index.m3u8
-#EXTINF:-1,Brazzers Europe TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",Brazzers Europe TV
 http://85.132.71.6/ru/braz/index.m3u8 
-#EXTINF:-1,Pinko
+#EXTINF:0 group-title="ADULT" parent-code="1234",Pinko
 http://85.132.71.6/ru/pink/index.m3u8
-#EXTINF:-1,РУССКАЯ НОЧЬ
+#EXTINF:0 group-title="ADULT" parent-code="1234",POCKHCORN
 http://109.248.64.222:15999/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
+#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
 http://109.248.64.222:15999/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
 http://109.248.64.222:15999/udp/239.195.2.5:1234
-#EXTINF:-1,XXL
+#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
 http://109.248.64.222:15999/udp/239.195.2.1:1234
 #EXTINF:0 group-title="ADULT" parent-code="1234",Russkaya_noch
 http://185.57.68.14/208/tracks-v1a1/index.m3u8
