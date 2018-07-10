@@ -1,14 +1,22 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 1 HD
-#DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 1 HD
-#DESCRIPTION Bein Sports 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDhkMzkyN2YwYWYzZjQ4YWZmYjkxNjQ1MGJmMjJkMjA=/g6/bein2tk.m3u8:Bein Sports 2 HD
-#DESCRIPTION Bein Sports 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3 HD
-#DESCRIPTION Bein Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g4/bein1tk.m3u8:Bein Sports 1tk
+#DESCRIPTION Bein Sports 1tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g4/bein1tk.m3u8:Bein Sports 1tk
+#DESCRIPTION Bein Sports 1tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 2tk
+#DESCRIPTION Bein Sports 2tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 2tk
+#DESCRIPTION Bein Sports 2tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDhkMzkyN2YwYWYzZjQ4YWZmYjkxNjQ1MGJmMjJkMjA=/g6/bein2tk.m3u8:Bein Sports 2tk
+#DESCRIPTION Bein Sports 2tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g8/bein3tk.m3u8:Bein Sports 3tk
+#DESCRIPTION Bein Sports 3tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sport7.pw/lba/123/g8/bein3tk.m3u8:Bein Sports 3tk
+#DESCRIPTION Bein Sports 3tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3tk
+#DESCRIPTION Bein Sports 3tk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDlhNGQwMzExMTk1ZDkxZTBkNTRjYjk4M2FkNDEyOTQ=/g10/SkyFootball.m3u8:SkyFootball
 #DESCRIPTION SkyFootball
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
@@ -155,6 +163,16 @@
 #DESCRIPTION Sevilla FC TV
 #SERVICE 4097:0:1:210:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8:Sevilla FC TV
 #DESCRIPTION Sevilla FC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c5142d0a.kazmazpaz.ru/iptv/RXG34KTXV8ZVBC/144/index.m3u8:Extreme Sports
+#DESCRIPTION Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.202.107.118%3a8000/play/a002/index.m3u8:match_futbol3
+#DESCRIPTION match_futbol3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.202.107.118%3a8000/play/a001/index.m3u8:INTER
+#DESCRIPTION INTER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c5142d0a.kazmazpaz.ru/iptv/RXG34KTXV8ZVBC/208/index.m3u8:Viasat Sport
+#DESCRIPTION Viasat Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
+#DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms1.tacitus.com.br%3a1935/tvgeral/tvgeral/live.m3u8:TVGeral
 #DESCRIPTION TVGeral
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
@@ -181,8 +199,8 @@
 #DESCRIPTION Setanta Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10313.m3u8:Setanta Sports
 #DESCRIPTION Setanta Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10316.m3u8:Setanta Sport плюс
-#DESCRIPTION Setanta Sport плюс
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10316.m3u8:Setanta Sport плюs
+#DESCRIPTION Setanta Sport плюs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10249.m3u8:Viasat Sport
 #DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10249.m3u8:Viasat Sport
@@ -207,14 +225,14 @@
 #DESCRIPTION Match!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/1077.m3u8:Match!
 #DESCRIPTION Match!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/270.m3u8:Sports 1 (Украина)
-#DESCRIPTION Sports 1 (Украина)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/91.m3u8:Sports 2 (Украина)
-#DESCRIPTION Sports 2 (Украина)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/144.m3u8:Sports 2 (Украина)
-#DESCRIPTION Sports 2 (Украина)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/309.m3u8:Sports 2 (Украина)
-#DESCRIPTION Sports 2 (Украина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/270.m3u8:Sports 1 (Укrаина)
+#DESCRIPTION Sports 1 (Укrаина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/91.m3u8:Sports 2 (Укrаина)
+#DESCRIPTION Sports 2 (Укrаина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/144.m3u8:Sports 2 (Укrаина)
+#DESCRIPTION Sports 2 (Укrаина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/309.m3u8:Sports 2 (Укrаина)
+#DESCRIPTION Sports 2 (Укrаина)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/440.m3u8:Football
 #DESCRIPTION Football
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10254.m3u8:Belarus 5
@@ -971,12 +989,12 @@
 #DESCRIPTION FATIMA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream-1.hr.de%3a80/i/hr_fernsehen@75910/master.m3u8:hr
 #DESCRIPTION hr
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/1.ts:h1:Прилеп
-#DESCRIPTION h1:Прилеп
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/2.ts:h2:Прилеп
-#DESCRIPTION h2:Прилеп
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/3.ts:h3:Прилеп
-#DESCRIPTION h3:Прилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/1.ts:h1:Пrилеп
+#DESCRIPTION h1:Пrилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/2.ts:h2:Пrилеп
+#DESCRIPTION h2:Пrилеп
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/3.ts:h3:Пrилеп
+#DESCRIPTION h3:Пrилеп
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.144.43.35%3a3002/play/a00g:kabel eins HD
 #DESCRIPTION kabel eins HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c2.manasat.com%3a1935/kcine/kcine3/TeamBlue.m3u8:KURIAKOS CINE
@@ -2637,8 +2655,8 @@
 #DESCRIPTION Baci Lingerie Black Label 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=YvQOYaqOiIM:Baci Lingerie Black Label Full part 7
 #DESCRIPTION Baci Lingerie Black Label Full part 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CxhcJc02nSY:Baci Lingerie BL967 кимоно леопард
-#DESCRIPTION Baci Lingerie BL967 кимоно леопард
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CxhcJc02nSY:Baci Lingerie BL967 кимоно леопаrд
+#DESCRIPTION Baci Lingerie BL967 кимоно леопаrд
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HaZIFp6yJHc:Mapalé Lingerie 2017 Vol I
 #DESCRIPTION Mapalé Lingerie 2017 Vol I
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=WJu2G0SIVN8:Mapale Lingerie 2017 -2018 VOL II
