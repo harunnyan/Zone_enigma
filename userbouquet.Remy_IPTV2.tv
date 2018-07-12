@@ -1,24 +1,6 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g4/bein1tk.m3u8:Bein Sports 1tk
-#DESCRIPTION Bein Sports 1tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g4/bein1tk.m3u8:Bein Sports 1tk
-#DESCRIPTION Bein Sports 1tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 2tk
-#DESCRIPTION Bein Sports 2tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 2tk
-#DESCRIPTION Bein Sports 2tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDhkMzkyN2YwYWYzZjQ4YWZmYjkxNjQ1MGJmMjJkMjA=/g6/bein2tk.m3u8:Bein Sports 2tk
-#DESCRIPTION Bein Sports 2tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g8/bein3tk.m3u8:Bein Sports 3tk
-#DESCRIPTION Bein Sports 3tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sport7.pw/lba/123/g8/bein3tk.m3u8:Bein Sports 3tk
-#DESCRIPTION Bein Sports 3tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3tk
-#DESCRIPTION Bein Sports 3tk
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDlhNGQwMzExMTk1ZDkxZTBkNTRjYjk4M2FkNDEyOTQ=/g10/SkyFootball.m3u8:SkyFootball
-#DESCRIPTION SkyFootball
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
 #DESCRIPTION S sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
@@ -185,6 +167,12 @@
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deporte TV
 #DESCRIPTION Todo Deporte TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.130%3a36523/out/u/484_1.m3u8:ARENA SPORT 1HD LIVE 24/7
+#DESCRIPTION ARENA SPORT 1HD LIVE 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.130%3a36523/out/u/487_2.m3u8:ARENA SPORT 2HD LIVE 24/7
+#DESCRIPTION ARENA SPORT 2HD LIVE 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.135.92.130%3a36523/out/u/490_2.m3u8:ARENA SPORT 3HD LIVE 24/7
+#DESCRIPTION ARENA SPORT 3HD LIVE 24/7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/99.m3u8:Extreme Sports
 #DESCRIPTION Extreme Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10309.m3u8:Extreme Sports
@@ -279,6 +267,42 @@
 #DESCRIPTION VIASAT Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.bmx-tv.top%3a1935/live/2.smil/playlist.m3u8:FIGHT NETWORK
 #DESCRIPTION FIGHT NETWORK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/6431/299492/10267.m3u8:FOOTBALL 2
+#DESCRIPTION FOOTBALL 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/1912818513?ticket=34A20926439F4BD0B49F33DF2257D921CDD63B7B&profile=pass:GOLF KOREA
+#DESCRIPTION GOLF KOREA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/850332798?ticket=F41CF5C37204CC6D1D1028E7FD79D657C7D15BE5&profile=pass:SBS Golf
+#DESCRIPTION SBS Golf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8:SONY SIX HD
+#DESCRIPTION SONY SIX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8:SONY ESPN HD
+#DESCRIPTION SONY ESPN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8:SONY TEN 1 HD
+#DESCRIPTION SONY TEN 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8:SONY TEN 2 HD
+#DESCRIPTION SONY TEN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8:SONY TEN 3 HD
+#DESCRIPTION SONY TEN 3 HD
+#SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::_ASKIDA_::::
+#DESCRIPTION :::::_ASKIDA_::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g4/bein1tk.m3u8:Bein Sports 1tk
+#DESCRIPTION Bein Sports 1tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g4/bein1tk.m3u8:Bein Sports 1tk
+#DESCRIPTION Bein Sports 1tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 2tk
+#DESCRIPTION Bein Sports 2tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g6/bein2tk.m3u8:Bein Sports 2tk
+#DESCRIPTION Bein Sports 2tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDhkMzkyN2YwYWYzZjQ4YWZmYjkxNjQ1MGJmMjJkMjA=/g6/bein2tk.m3u8:Bein Sports 2tk
+#DESCRIPTION Bein Sports 2tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g8/bein3tk.m3u8:Bein Sports 3tk
+#DESCRIPTION Bein Sports 3tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sport7.pw/lba/123/g8/bein3tk.m3u8:Bein Sports 3tk
+#DESCRIPTION Bein Sports 3tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/YTk2ZjNiOTdjZjIxM2M0YzhjY2RiMGU0YjJmNWI2MDg=/g8/bein3tk.m3u8:Bein Sports 3tk
+#DESCRIPTION Bein Sports 3tk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MDlhNGQwMzExMTk1ZDkxZTBkNTRjYjk4M2FkNDEyOTQ=/g10/SkyFootball.m3u8:SkyFootball
+#DESCRIPTION SkyFootball
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8:Arena Sport 1 HR
 #DESCRIPTION Arena Sport 1 HR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g4/arenaSport2.m3u8:Arena Sport 2 HR
@@ -359,44 +383,12 @@
 #DESCRIPTION SK 3 HR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8:SuperTennis
 #DESCRIPTION SuperTennis
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/6431/299492/10267.m3u8:FOOTBALL 2
-#DESCRIPTION FOOTBALL 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/1912818513?ticket=34A20926439F4BD0B49F33DF2257D921CDD63B7B&profile=pass:GOLF KOREA
-#DESCRIPTION GOLF KOREA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/850332798?ticket=F41CF5C37204CC6D1D1028E7FD79D657C7D15BE5&profile=pass:SBS Golf
-#DESCRIPTION SBS Golf
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8:SONY SIX HD
-#DESCRIPTION SONY SIX HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8:SONY ESPN HD
-#DESCRIPTION SONY ESPN HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8:SONY TEN 1 HD
-#DESCRIPTION SONY TEN 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8:SONY TEN 2 HD
-#DESCRIPTION SONY TEN 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8:SONY TEN 3 HD
-#DESCRIPTION SONY TEN 3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.248.36/PLTV/2510088/224/3221227285/1.m3u8:CCTV-5+HD
-#DESCRIPTION CCTV-5+HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8:BesTV 1
-#DESCRIPTION BesTV 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8:BesTV 1   2
-#DESCRIPTION BesTV 1   2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0157:Eurosport
-#DESCRIPTION Eurosport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0158:Eurosport2
-#DESCRIPTION Eurosport2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0159:arena Sport1
-#DESCRIPTION arena Sport1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0149:M4 Sport Hd
-#DESCRIPTION M4 Sport Hd
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0155:Sport2
-#DESCRIPTION Sport2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0156:Sport5
-#DESCRIPTION Sport5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0127:Extreme Sports Channel
-#DESCRIPTION Extreme Sports Channel
 #SERVICE 1:64:A2:0:0:0:0:0:0:0::::::_HABER/NEWS_::::
 #DESCRIPTION ::::_HABER/NEWS_::::
+#SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
+#DESCRIPTION London Live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:SKY NEWS
+#DESCRIPTION SKY NEWS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8:SKY News
 #DESCRIPTION SKY News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8?sd=10&rebase=on:MSNBC
@@ -443,6 +435,10 @@
 #DESCRIPTION DW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8:France 24
 #DESCRIPTION France 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8:FRANCE 24 EN
+#DESCRIPTION FRANCE 24 EN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8:FRANCE 24 FR
+#DESCRIPTION FRANCE 24 FR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8:NHK World
 #DESCRIPTION NHK World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8:24 russia
@@ -471,6 +467,10 @@
 #DESCRIPTION russia24
 #SERVICE 1:64:A3:0:0:0:0:0:0:0:::::::_REMY| U.S.A_IPTV_:::::
 #DESCRIPTION :::::_REMY| U.S.A_IPTV_:::::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8:RTE ONE
+#DESCRIPTION RTE ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8:RTE TWO
+#DESCRIPTION RTE TWO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8:360 North
 #DESCRIPTION 360 North
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/master.m3u8:ABC News
@@ -551,104 +551,6 @@
 #DESCRIPTION WHOH TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8:WVIT 30 News (Hartford)
 #DESCRIPTION WVIT 30 News (Hartford)
-#SERVICE 1:64:A4:0:0:0:0:0:0:0:::::::_REMY| U.K_IPTV_::::
-#DESCRIPTION :::::_REMY| U.K_IPTV_::::
-#SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
-#DESCRIPTION London Live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:SKY NEWS
-#DESCRIPTION SKY NEWS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8:RTE ONE
-#DESCRIPTION RTE ONE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8:RTE TWO
-#DESCRIPTION RTE TWO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8:FRANCE 24 EN
-#DESCRIPTION FRANCE 24 EN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8:FRANCE 24 FR
-#DESCRIPTION FRANCE 24 FR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/474779145?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITV +1
-#DESCRIPTION ITV +1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.159.21.73%3a9981/stream/channelid/250554185?ticket=9d74ebe85036022162d22d9a2db2a8b24ee427bd&profile=pass:ITV4
-#DESCRIPTION ITV4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1473573505?ticket=5883537f656a44fd84506d6586cf1bbab6853c7f&amp;profile=pass:BBC ONE South
-#DESCRIPTION BBC ONE South
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1177105991?ticket=0b99f54bc910487c9e2b22063fe3b83384ed6ed0&amp;profile=pass:BBC TWO
-#DESCRIPTION BBC TWO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/415593063?ticket=65e3d94abdc9bd61bfff84b79ddf822bd5b320d0&amp;profile=pass:ITV
-#DESCRIPTION ITV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1230715909?ticket=190f5c5c135ccdf3213cbab526ec28ace2779315&amp;profile=pass:ITV2
-#DESCRIPTION ITV2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1567601792?ticket=fed719e7d8531d55ef000b6d34a46095823fb436&amp;profile=pass:ITV3
-#DESCRIPTION ITV3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1995846956?ticket=e95eb8fc569938c8a26cefc062ec093a77b1f88d&amp;profile=pass:ITV4
-#DESCRIPTION ITV4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1868763895?ticket=270ecda13015bbc0ae42dfb7035e3d36954d4732&amp;profile=pass:Channel 4
-#DESCRIPTION Channel 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1049634921?ticket=ba48fdbe436ff84884ec9a5ac3887579c2fc8f03&amp;profile=pass:Channel 5
-#DESCRIPTION Channel 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/338670697?ticket=daff194bc9b784fe9b0ad7d6e127d2afe4cd860b&amp;profile=pass:That's Hampshire
-#DESCRIPTION That's Hampshire
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1814605059?ticket=7121b6b185deb9e51ee6b1133db33119fad63bb7&amp;profile=pass:That's Thames Valley
-#DESCRIPTION That's Thames Valley
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1803859813?ticket=cfcb8369943180e14d1f7326c5c0c676d27ba38b&amp;profile=pass:BBC FOUR
-#DESCRIPTION BBC FOUR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/2073693378?ticket=89dfefb5fd97bec03b456f44a2e7af53245f8d81&amp;profile=pass:Pick
-#DESCRIPTION Pick
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1416931628?ticket=da96ed6d1364283844e93701e33cb53bb52bb8a9&amp;profile=pass:Dave
-#DESCRIPTION Dave
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/2018947862?ticket=f49037dc1d6ab5553ecc904a4098b6a7b559b449&amp;profile=pass:Channel 4+1
-#DESCRIPTION Channel 4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/369445699?ticket=2766096aff2893970eeceef9385f49d27112430c&amp;profile=pass:More 4
-#DESCRIPTION More 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1350188180?ticket=916367938ab1eaea4974a63c06b9d39b9e93df6a&amp;profile=pass:Film4
-#DESCRIPTION Film4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/740684037?ticket=d7bb4b64acb404019e7e9af3ae60ab6bf4c65855&amp;profile=pass:QVC
-#DESCRIPTION QVC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1132781022?ticket=0a534b027db76a698471f4ef1f355e4fce16bee4&amp;profile=pass:Really
-#DESCRIPTION Really
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1984520568?ticket=cb42cf4ef1f6eddee1f19d6f7ae5d7eed919f013&amp;profile=pass:4Music
-#DESCRIPTION 4Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/833039933?ticket=d89c4f09c189117ca9ad3594882ced3be77070bf&amp;profile=pass:Yesterday
-#DESCRIPTION Yesterday
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1285589575?ticket=abf22818a5845a3d6c19c70b9bb11ac3f62d674f&amp;profile=pass:Drama
-#DESCRIPTION Drama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/2037928882?ticket=5743b22b861ac0e21c0d11413cda0ecaf6237b65&amp;profile=pass:5 USA
-#DESCRIPTION 5 USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1012854014?ticket=b434ef8c19ed36b3bbdc9f303c817ed2db29ce05&amp;profile=pass:Ideal World
-#DESCRIPTION Ideal World
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/709022827?ticket=792f87d25bbdf83fb7ef3ecd548c26d8102b8777&amp;profile=pass:Create &amp; Craft
-#DESCRIPTION Create &amp; Craft
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1223597287?ticket=9c054eafa2b19451792213a8459244c3c2e9df44&amp;profile=pass:Home
-#DESCRIPTION Home
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/547384092?ticket=1e71ea73a077a1a86ebeb1ad6c5ead2811f48a11&amp;profile=pass:ITVBe
-#DESCRIPTION ITVBe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/134226549?ticket=f3d5d277f7ecef8bf9665961b7b5d77f8545b7d3&amp;profile=pass:ITV2 +1
-#DESCRIPTION ITV2 +1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1401002629?ticket=fa639e0fbbee66648434613c6cde88399c3caea9&amp;profile=pass:E4
-#DESCRIPTION E4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1660523200?ticket=365f8f50a4fd87b02dad4f24a0bbd0162a538ecd&amp;profile=pass:E4+1
-#DESCRIPTION E4+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1669151601?ticket=2eaa49bf831eb45e6c481981a79a8ed7869ee8f2&amp;profile=pass:5STAR
-#DESCRIPTION 5STAR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1058942318?ticket=8fbe02b2271a66c5d2b2d493488bcef1b197fbcf&amp;profile=pass:5Spike
-#DESCRIPTION 5Spike
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1219174926?ticket=2aa8cdfc5f1105e991e24cbbe6d66f3b7a861cd0&amp;profile=pass:Sony Movie Ch
-#DESCRIPTION Sony Movie Ch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1810214901?ticket=7f3574fe8dd8f5ce19bd23eaf0aca13296313d66&amp;profile=pass:ITV +1
-#DESCRIPTION ITV +1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1116099466?ticket=3ff6ec6002a94b3d17f841d6b8c87562e2c22dee&amp;profile=pass:ITV3+1
-#DESCRIPTION ITV3+1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/438625209?ticket=d6eb00c039c2280866328767764914ac234707d8&amp;profile=pass:QVC Beauty
-#DESCRIPTION QVC Beauty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/862488806?ticket=13d2725b0fd52cd2eab70f2f15ce7fb97e94ceac&amp;profile=pass:QUEST
-#DESCRIPTION QUEST
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1152117635?ticket=cb4cabb7015a07cddf7385791779e9cb4c142788&amp;profile=pass:Quest Red
-#DESCRIPTION Quest Red
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/831707109?ticket=b58576724a6ea2ea36c21b42a8ac26b4c985c537&amp;profile=pass:CBS Action
-#DESCRIPTION CBS Action
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1627794550?ticket=bda8327aa3e2c9ce6cc3a0c8aba942aa5952b356&amp;profile=pass:Food Network
-#DESCRIPTION Food Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.229.166.111%3a9981/stream/channelid/1642218060?ticket=8ae20c573156b98fc12c1a97dda9f7d722c2ecb7&amp;profile=pass:Travel Channel
-#DESCRIPTION Travel Channel
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
 #DESCRIPTION === ★★EX YU | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97/A1Balkan/tracks-v1a1/mono.m3u8:A1 BALKAN
@@ -881,16 +783,6 @@
 #DESCRIPTION CCTV 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8:CCTV-8
 #DESCRIPTION CCTV-8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8:China Mobile 1
-#DESCRIPTION China Mobile 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8:China Mobile 2
-#DESCRIPTION China Mobile 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8:China Mobile 3
-#DESCRIPTION China Mobile 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8:China Mobile 4
-#DESCRIPTION China Mobile 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8:China Mobile 5
-#DESCRIPTION China Mobile 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//223.110.245.171/PLTV/3/224/3221225536/index.m3u8:China Mobile 6
 #DESCRIPTION China Mobile 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cnn-i.akamaihd.net/hls/live/253953/dotcomlive_1/v2/master.m3u8?__b__=650:CNN Live Event
@@ -2009,6 +1901,64 @@
 #DESCRIPTION History Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.255.202.20%3a5050/udp/239.100.102.82%3a8888:Eurosport HD
 #DESCRIPTION Eurosport HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8:ANIPLUS
+#DESCRIPTION ANIPLUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8:ASTRO ARENA HD
+#DESCRIPTION ASTRO ARENA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8:ASTRO GO SHOP
+#DESCRIPTION ASTRO GO SHOP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8:AXN HD
+#DESCRIPTION AXN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8:CHANNEL 5
+#DESCRIPTION CHANNEL 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8:CHANNEL NEWS ASIA
+#DESCRIPTION CHANNEL NEWS ASIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.ninmedia.tv/live/nin-dtv.stream_nin/chunklist_w1072111297.m3u8:DIAMOND TV
+#DESCRIPTION DIAMOND TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8:DISCOVERY WORLD HD
+#DESCRIPTION DISCOVERY WORLD HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8:FOX ACTION MOVIES
+#DESCRIPTION FOX ACTION MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8:FOX FAMILY MOVIES
+#DESCRIPTION FOX FAMILY MOVIES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8:FOX MOVIE PREMIUM
+#DESCRIPTION FOX MOVIE PREMIUM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8:FOXLife
+#DESCRIPTION FOXLife
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8:K-DRAMA
+#DESCRIPTION K-DRAMA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8:KIX
+#DESCRIPTION KIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8:OKTO
+#DESCRIPTION OKTO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtm-live.glueapi.io/smil%3artmch001.smil/chunklist_b1064000_sleng.m3u8:RTM 1
+#DESCRIPTION RTM 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtm-live.glueapi.io/smil%3artmch002/chunklist_b1064000_sleng.m3u8:RTM 2
+#DESCRIPTION RTM 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8:SBSIN
+#DESCRIPTION SBSIN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8:SONY ESPN HD
+#DESCRIPTION SONY ESPN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8:SONY LE PLEX HD
+#DESCRIPTION SONY LE PLEX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8:SONY MAX HD
+#DESCRIPTION SONY MAX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8:SONY MIX
+#DESCRIPTION SONY MIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8:SONY ONE
+#DESCRIPTION SONY ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8:SONY PIX HD
+#DESCRIPTION SONY PIX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8:SONY TEN 2 HD
+#DESCRIPTION SONY TEN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8:SURIA
+#DESCRIPTION SURIA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8:THRILL
+#DESCRIPTION THRILL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8:TLC HD WORLD
+#DESCRIPTION TLC HD WORLD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtm-live.glueapi.io/smil%3artmch003.smil/chunklist_b1064000_sleng.m3u8:TV Okey
+#DESCRIPTION TV Okey
 #SERVICE 1:64:A8:0:0:0:0:0:0:0::== ★★Moldova-Slovakia-Romania | PAKETI★★ =
 #DESCRIPTION == ★★Moldova-Slovakia-Romania | PAKETI★★ =
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pstv.krasmix.ru/tv/7ka/playlist.m3u8:7ka
