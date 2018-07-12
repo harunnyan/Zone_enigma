@@ -439,6 +439,50 @@ http://persik.by/stream/2944/263250/10264.m3u8
 http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:0 group-title="SPORTS",FIGHT NETWORK
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+#EXTINF:0 group-title="SPORTS",SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:0 group-title="SPORTS",Match TV
+http://5.139.17.75:6689/stream?cid=3568
+#EXTINF:0 group-title="SPORTS",HD TV Match
+http://5.139.17.75:6689/stream?cid=91
+#EXTINF:0 group-title="SPORTS",Match! Arena
+http://5.139.17.75:6689/stream?cid=3652
+#EXTINF:0 group-title="SPORTS",Match! Arena HD
+http://5.139.17.75:6689/stream?cid=3577
+#EXTINF:0 group-title="SPORTS",Match! Fighter
+http://5.139.17.75:6689/stream?cid=82
+#EXTINF:0 group-title="SPORTS",Match! A game
+http://5.139.17.75:6689/stream?cid=3672
+#EXTINF:0 group-title="SPORTS",Match! HD Game
+http://5.139.17.75:6689/stream?cid=3572
+#EXTINF:0 group-title="SPORTS",Match! Our Sport
+http://5.139.17.75:6689/stream?cid=3669
+#EXTINF:0 group-title="SPORTS",Match! Planet
+http://5.139.17.75:6689/stream?cid=3676
+#EXTINF:0 group-title="SPORTS",Match! Football 1
+http://5.139.17.75:6689/stream?cid=3679
+#EXTINF:0 group-title="SPORTS",Match! Football 1 HD
+http://5.139.17.75:6689/stream?cid=3569
+#EXTINF:0 group-title="SPORTS",Match! Football 2
+http://5.139.17.75:6689/stream?cid=3671
+#EXTINF:0 group-title="SPORTS",Match! Football 2 HD
+http://5.139.17.75:6689/stream?cid=3570
+#EXTINF:0 group-title="SPORTS",Match! Football 3
+http://5.139.17.75:6689/stream?cid=3681
+#EXTINF:0 group-title="SPORTS",Match! Football 3 HD
+http://5.139.17.75:6689/stream?cid=3571
+#EXTINF:0 group-title="SPORTS",KHL HD
+http://5.139.17.75:6689/stream?cid=3678
+#EXTINF:0 group-title="SPORTS",KHL TV
+http://5.139.17.75:6689/stream?cid=3668
 #EXTINF:0 group-title="SPORTS",Arena Sport 1 HR
 http://sportsbar.pw/lba/MzM5YzVlM2EzYjIyYWRjZTk2MTdhZjI3NDVlMDQ0ZjY=/g7/ArenaSport1.m3u8
 #EXTINF:0 group-title="SPORTS",Arena Sport 2 HR
@@ -519,50 +563,6 @@ http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
 http://sport7.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
 #EXTINF:0 group-title="SPORTS",SuperTennis
 http://sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8
-#EXTINF:0 group-title="SPORTS",SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:0 group-title="SPORTS",Match TV
-http://5.139.17.75:6689/stream?cid=3568
-#EXTINF:0 group-title="SPORTS",HD TV Match
-http://5.139.17.75:6689/stream?cid=91
-#EXTINF:0 group-title="SPORTS",Match! Arena
-http://5.139.17.75:6689/stream?cid=3652
-#EXTINF:0 group-title="SPORTS",Match! Arena HD
-http://5.139.17.75:6689/stream?cid=3577
-#EXTINF:0 group-title="SPORTS",Match! Fighter
-http://5.139.17.75:6689/stream?cid=82
-#EXTINF:0 group-title="SPORTS",Match! A game
-http://5.139.17.75:6689/stream?cid=3672
-#EXTINF:0 group-title="SPORTS",Match! HD Game
-http://5.139.17.75:6689/stream?cid=3572
-#EXTINF:0 group-title="SPORTS",Match! Our Sport
-http://5.139.17.75:6689/stream?cid=3669
-#EXTINF:0 group-title="SPORTS",Match! Planet
-http://5.139.17.75:6689/stream?cid=3676
-#EXTINF:0 group-title="SPORTS",Match! Football 1
-http://5.139.17.75:6689/stream?cid=3679
-#EXTINF:0 group-title="SPORTS",Match! Football 1 HD
-http://5.139.17.75:6689/stream?cid=3569
-#EXTINF:0 group-title="SPORTS",Match! Football 2
-http://5.139.17.75:6689/stream?cid=3671
-#EXTINF:0 group-title="SPORTS",Match! Football 2 HD
-http://5.139.17.75:6689/stream?cid=3570
-#EXTINF:0 group-title="SPORTS",Match! Football 3
-http://5.139.17.75:6689/stream?cid=3681
-#EXTINF:0 group-title="SPORTS",Match! Football 3 HD
-http://5.139.17.75:6689/stream?cid=3571
-#EXTINF:0 group-title="SPORTS",KHL HD
-http://5.139.17.75:6689/stream?cid=3678
-#EXTINF:0 group-title="SPORTS",KHL TV
-http://5.139.17.75:6689/stream?cid=3668
 #EXTINF:0 group-title="KIDS",****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:0 group-title="KIDS",DISNEY CHANNEL
@@ -1485,6 +1485,64 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:0 group-title="LATINO",****((LATINO_CHANNELS))****
 ****((LATINO_CHANNELS))****
+#EXTINF:0,ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+#EXTINF:0,ASTRO ARENA HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:0,ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
+#EXTINF:0,AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:0,CHANNEL 5
+https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
+#EXTINF:0,CHANNEL NEWS ASIA
+https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+#EXTINF:0,DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/chunklist_w1072111297.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:0,FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:0,FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
+#EXTINF:0,FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:0,FOXLife
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:0,K-DRAMA 
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:0,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:0,OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+#EXTINF:0,RTM 1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0,RTM 2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:0,SBSIN 
+http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
+#EXTINF:0,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0,SONY LE PLEX HD
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
+#EXTINF:0,SONY MAX HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
+#EXTINF:0,SONY MIX
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:0,SONY ONE 
+http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
+#EXTINF:0,SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:0,SONY TEN 2 HD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
+#EXTINF:0,SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+#EXTINF:0,THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:0,TLC HD WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:0,TV Okey
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 group-title="LATINO",13 Max Digital
 http://coninfo.net:1935/13max/live/chunklist.m3u8
 #EXTINF:0 group-title="LATINO",34 Antena ESPANA
@@ -2751,3 +2809,117 @@ http://109.248.80.211:3371/udp/239.195.2.5:1234
 http://109.248.90.229:4022/udp/239.195.2.5:1234
 #EXTINF:0 group-title="ADULT" parent-code="1234",Playboy TV
 http://109.248.72.113:3371/udp/239.195.2.5:1234
+#EXTINF:-1,PlayBoy
+http://109.237.145.212:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://109.237.145.212:81/udp/239.1.6.40:1234
+#EXTINF:-1,O-la-la
+http://109.237.145.212:81/udp/239.1.6.34:1234
+#EXTINF:-1,??????? ????
+http://109.237.145.212:81/udp/239.1.6.32:1234
+#EXTINF:-1,Candyman
+http://109.237.145.212:81/udp/239.1.20.39:1234
+#EXTINF:-1,Hustler HD
+http://109.237.145.212:81/udp/239.1.6.35:1234
+#EXTINF:-1,?????? ????
+http://109.237.145.212:81/udp/239.1.6.33:1234
+#EXTINF:-1,Blue Hustler
+http://109.237.145.212:81/udp/239.1.6.36:1234
+#EXTINF:-1,Candy HD
+http://109.237.145.212:81/udp/239.1.19.143:1234
+#EXTINF:-1,Frenchlover
+http://109.237.145.212:81/udp/239.1.19.140:1234
+#EXTINF:-1,Playlist [16 ] DRM
+http://109.237.145.212:81/udp/239.1.31.206:1234
+#EXTINF:-1,O-la-la
+http://185.226.245.39:81/udp/239.195.5.33:1234
+#EXTINF:-1,?????? ????
+http://185.226.245.39:81/udp/239.195.4.109:1234
+#EXTINF:-1,O-la-la
+http://185.224.96.158:81/udp/239.195.5.33:1234
+#EXTINF:-1,?????? ????
+http://185.224.96.158:81/udp/239.195.4.109:1234
+#EXTINF:-1,O-la-la
+http://185.226.245.106:81/udp/239.195.5.33:1234
+#EXTINF:-1,?????? ????
+http://185.226.245.106:81/udp/239.195.4.109:1234
+#EXTINF:-1,O-la-la
+http://185.224.96.42:81/udp/239.195.5.33:1234
+#EXTINF:-1,?????? ????
+http://185.224.96.42:81/udp/239.195.4.109:1234
+#EXTINF:-1,O-la-la
+http://91.190.183.181:81/udp/239.195.5.33:1234
+#EXTINF:-1,?????? ????
+http://91.190.183.181:81/udp/239.195.4.109:1234
+#EXTINF:-1,??????? ????
+http://91.203.208.77:4022/udp/239.195.2.3:1234
+#EXTINF:-1,BRAZZERS TV 18+
+http://91.203.208.77:4022/udp/239.195.2.4:1234
+#EXTINF:-1,PLAYBOY TV
+http://91.203.208.77:4022/udp/239.195.2.5:1234
+#EXTINF:-1,XXL
+http://91.203.208.77:4022/udp/239.195.2.1:1234
+#EXTINF:-1,O-la-la
+http://176.118.13.36:81/udp/239.195.5.33:1234
+#EXTINF:-1,?????? ????
+http://176.118.13.36:81/udp/239.195.4.109:1234
+#EXTINF:-1,??????? ????
+http://109.248.82.79:4022/udp/239.195.2.3:1234
+#EXTINF:-1,BRAZZERS TV 18+
+http://109.248.82.79:4022/udp/239.195.2.4:1234
+#EXTINF:-1,PLAYBOY TV
+http://109.248.82.79:4022/udp/239.195.2.5:1234
+#EXTINF:-1,XXL
+http://109.248.82.79:4022/udp/239.195.2.1:1234
+#EXTINF:-1,??????? ????
+http://109.248.67.66:3371/udp/239.195.2.3:1234
+#EXTINF:-1,BRAZZERS TV 18+
+http://109.248.67.66:3371/udp/239.195.2.4:1234
+#EXTINF:-1,PLAYBOY TV
+http://109.248.67.66:3371/udp/239.195.2.5:1234
+#EXTINF:-1,XXL
+http://109.248.67.66:3371/udp/239.195.2.1:1234
+#EXTINF:-1,??????? ????
+http://109.248.82.155:3371/udp/239.195.2.3:1234
+#EXTINF:-1,BRAZZERS TV 18+
+http://109.248.82.155:3371/udp/239.195.2.4:1234
+#EXTINF:-1,PLAYBOY TV
+http://109.248.82.155:3371/udp/239.195.2.5:1234
+#EXTINF:-1,XXL
+http://109.248.82.155:3371/udp/239.195.2.1:1234
+#EXTINF:-1,??????? ????
+http://109.248.86.50:3371/udp/239.195.2.3:1234
+#EXTINF:-1,BRAZZERS TV 18+
+http://109.248.86.50:3371/udp/239.195.2.4:1234
+#EXTINF:-1,PLAYBOY TV
+http://109.248.86.50:3371/udp/239.195.2.5:1234
+#EXTINF:-1,XXL
+http://109.248.86.50:3371/udp/239.195.2.1:1234
+#EXTINF:-1,??????? ????
+http://109.248.75.38:3371/udp/239.195.2.3:1234
+#EXTINF:-1,BRAZZERS TV 18+
+http://109.248.75.38:3371/udp/239.195.2.4:1234
+#EXTINF:-1,PLAYBOY TV
+http://109.248.75.38:3371/udp/239.195.2.5:1234
+#EXTINF:-1,XXL
+http://109.248.75.38:3371/udp/239.195.2.1:1234
+#EXTINF:-1,PlayBoy
+http://94.230.118.22:81/udp/239.1.6.39:1234
+#EXTINF:-1,O-la-la
+http://94.230.118.22:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://94.230.118.22:81/udp/239.1.6.35:1234
+#EXTINF:-1,?????? ????
+http://94.230.118.22:81/udp/239.1.6.33:1234
+#EXTINF:-1,??????? ????
+http://94.230.118.22:81/udp/239.1.6.32:1234
+#EXTINF:-1,Candyman
+http://94.230.118.22:81/udp/239.1.20.39:1234
+#EXTINF:-1,Blue Hustler
+http://94.230.118.22:81/udp/239.1.6.36:1234
+#EXTINF:-1,Brazzers TV
+http://94.230.118.22:81/udp/239.1.6.40:1234
+#EXTINF:-1,Candy HD
+http://94.230.118.22:81/udp/239.1.19.143:1234
+#EXTINF:-1,Frenchlover
+http://94.230.118.22:81/udp/239.1.19.140:1234
