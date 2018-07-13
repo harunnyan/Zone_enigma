@@ -183,12 +183,12 @@
 #DESCRIPTION Extreme Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10314.m3u8:Setanta Sports HD
 #DESCRIPTION Setanta Sports HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10315.m3u8:Setanta Sports
-#DESCRIPTION Setanta Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10313.m3u8:Setanta Sports
 #DESCRIPTION Setanta Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10316.m3u8:Setanta Sport плюs
-#DESCRIPTION Setanta Sport плюs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10315.m3u8:Setanta Sports+
+#DESCRIPTION Setanta Sports+
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10316.m3u8:Setanta Sports+
+#DESCRIPTION Setanta Sports+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/3903/293564/10249.m3u8:Viasat Sport
 #DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/1418/252987/10249.m3u8:Viasat Sport
@@ -283,7 +283,7 @@
 #DESCRIPTION SONY TEN 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8:SONY TEN 3 HD
 #DESCRIPTION SONY TEN 3 HD
-#SERVICE 1:64:A1:0:0:0:0:0:0:0:::::::_ASKIDA_::::
+#SERVICE 1:64:A2:0:0:0:0:0:0:0:::::::_ASKIDA_::::
 #DESCRIPTION :::::_ASKIDA_::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sportsbar.pw/lba/123/g4/bein1tk.m3u8:Bein Sports 1tk
 #DESCRIPTION Bein Sports 1tk
@@ -383,7 +383,7 @@
 #DESCRIPTION SK 3 HR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8:SuperTennis
 #DESCRIPTION SuperTennis
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::::::_HABER/NEWS_::::
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::::::_HABER/NEWS_::::
 #DESCRIPTION ::::_HABER/NEWS_::::
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
 #DESCRIPTION London Live
@@ -465,7 +465,7 @@
 #DESCRIPTION Russia Today
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pstv.krasmix.ru/tv/russia24/playlist.m3u8:russia24
 #DESCRIPTION russia24
-#SERVICE 1:64:A3:0:0:0:0:0:0:0:::::::_REMY| U.S.A_IPTV_:::::
+#SERVICE 1:64:A4:0:0:0:0:0:0:0:::::::_REMY| U.S.A_IPTV_:::::
 #DESCRIPTION :::::_REMY| U.S.A_IPTV_:::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8:RTE ONE
 #DESCRIPTION RTE ONE

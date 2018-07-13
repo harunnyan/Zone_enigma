@@ -1,6 +1,6 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 1:64:DA:0:0:0:0:0:0:0:::::::::::::::::::::::_ReMy-Clubin_| Music_Channels
-#DESCRIPTION :::::::::::::::::::::_ReMy-Clubin_| Music_Channels
+#SERVICE 1:64:DA:0:0:0:0:0:0:0::::::::::::_ReMy-Clubin_| Music_Channels
+#DESCRIPTION ::::::::::_ReMy-Clubin_| Music_Channels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
@@ -73,14 +73,14 @@
 #DESCRIPTION NRJ Hist
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique_720p/playlist.m3u8:NRJ Hits HD
 #DESCRIPTION NRJ Hits HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd2/livestream/index.m3u8:Xite NL2
-#DESCRIPTION Xite NL2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:Xite NL4
-#DESCRIPTION Xite NL4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:Xite NL5
-#DESCRIPTION Xite NL5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8:Xite NL6
-#DESCRIPTION Xite NL6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd2/livestream/index.m3u8:Xite NL2 HD
+#DESCRIPTION Xite NL2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:Xite NL4 HD
+#DESCRIPTION Xite NL4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:Xite NL5 HD
+#DESCRIPTION Xite NL5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8:Xite NL6 HD
+#DESCRIPTION Xite NL6 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:D-HOT
 #DESCRIPTION D-HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT HOT
@@ -307,16 +307,16 @@
 #DESCRIPTION TVR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/a1vikom/tracks-v1a1/mono.m3u8:A1 Vikom
 #DESCRIPTION A1 Vikom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/RtvIliriaGjeneve/tracks-v1a1/mono.m3u8:ALBA SWISS
-#DESCRIPTION ALBA SWISS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/RtvIliriaGjeneve/tracks-v1a1/mono.m3u8:A1 SHQIPTARE HD
+#DESCRIPTION A1 SHQIPTARE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/_definst_/mp4%3aTODAYFM_TEST2/chunklist_w545248789.m3u8:CITY TV
 #DESCRIPTION CITY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/DashmaTV/tracks-v1a1/mono.m3u8:Dashma TV
 #DESCRIPTION Dashma TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/DMSAT/tracks-v1a1/mono.m3u8:DM SAT
 #DESCRIPTION DM SAT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/dugatv/tracks-v1a1/mono.m3u8:Duga TV
-#DESCRIPTION Duga TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/dugatv/tracks-v1a1/mono.m3u8:Duga +
+#DESCRIPTION Duga +
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//212.200.108.253/live/jefimija.flv:Jefimija HD
 #DESCRIPTION Jefimija HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/NTV101Prijedor/tracks-v1a1/mono.m3u8:NTV 101 Prijedor
@@ -325,40 +325,40 @@
 #DESCRIPTION NTV AMNA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/OTVValentino/tracks-v1a1/mono.m3u8:OTV Valentino
 #DESCRIPTION OTV Valentino
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/PrimeraMusic/tracks-v1a1/mono.m3u8:PREMIERA MUSIC
-#DESCRIPTION PREMIERA MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/TVPlisi/tracks-v1a1/mono.m3u8:PRIMERA HD
+#DESCRIPTION PRIMERA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/PrimeraMusic/tracks-v1a1/mono.m3u8:PRIMERA MUSIC
+#DESCRIPTION PRIMERA MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/a1vikommusic/tracks-v1a1/mono.m3u8:PRIMERA HD MUSIC
 #DESCRIPTION PRIMERA HD MUSIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SeharaTV/tracks-v1a1/mono.m3u8:SeharaTV
-#DESCRIPTION SeharaTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk TV
-#DESCRIPTION Sky Folk TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SkyFolkMakedonija/tracks-v1a1/mono.m3u8:Sky Folk Makedonija
-#DESCRIPTION Sky Folk Makedonija
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SpinTV/tracks-v1a1/mono.m3u8:SpinTV
-#DESCRIPTION SpinTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SYRIBLUEHDTV/tracks-v1a1/mono.m3u8:SYRI BLUE HD TV
-#DESCRIPTION SYRI BLUE HD TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SeharaTV/tracks-v1a1/mono.m3u8:Sehara HD
+#DESCRIPTION Sehara HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk
+#DESCRIPTION Sky Folk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SkyFolkMakedonija/tracks-v1a1/mono.m3u8:Sky Folk Makedonja
+#DESCRIPTION Sky Folk Makedonja
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SpinTV/tracks-v1a1/mono.m3u8:SpinTV HD
+#DESCRIPTION SpinTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/SYRIBLUEHDTV/tracks-v1a1/mono.m3u8:SYRI BLUE HD
+#DESCRIPTION SYRI BLUE HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.16.66.101%3a1935/livecast/_definst_/tvm3/playlist.m3u8:TVM3
 #DESCRIPTION TVM3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/TVDukagjini/tracks-v1a1/mono.m3u8:TV Dukagjini
 #DESCRIPTION TV Dukagjini
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/TVPlisi/tracks-v1a1/mono.m3u8:TV Plisi
-#DESCRIPTION TV Plisi
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/TV%3aSharriHD/tracks-v1a1/mono.m3u8:TV Sharri HD
 #DESCRIPTION TV Sharri HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//ip.tvtetova.net%3a5119/live/tvtetova:Tetova
-#DESCRIPTION Tetova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//ip.tvtetova.net%3a5119/live/tvtetova:TV Tetova
+#DESCRIPTION TV Tetova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/TVTetova/tracks-v1a1/mono.m3u8:TV Tetova
 #DESCRIPTION TV Tetova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/TVVogosca/tracks-v1a1/mono.m3u8:TV Vogosca
 #DESCRIPTION TV Vogosca
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8:UA TV
-#DESCRIPTION UA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8:UTV
 #DESCRIPTION UTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.218.223.86/live/_definst_/smil%3aVH_1.smil/playlist.m3u8:vh1
-#DESCRIPTION vh1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8:UA TV
+#DESCRIPTION UA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//83.218.223.86/live/_definst_/smil%3aVH_1.smil/playlist.m3u8:VH1
+#DESCRIPTION VH1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/virgin1/master.m3u8:Virgin Radio
 #DESCRIPTION Virgin Radio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8:Visual Radio
