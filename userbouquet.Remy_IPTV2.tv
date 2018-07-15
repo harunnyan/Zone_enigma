@@ -49,6 +49,10 @@
 #DESCRIPTION AD Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:AD Sports 2 HD
 #DESCRIPTION AD Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:AD Sports 1 HD
+#DESCRIPTION AD Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:AD Sports 2 HD
+#DESCRIPTION AD Sports 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1:Al Kass Sports 1
 #DESCRIPTION Al Kass Sports 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2:Al Kass Sports 2
@@ -73,10 +77,6 @@
 #DESCRIPTION Sporting Tv SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8:Sporting Tv SD
 #DESCRIPTION Sporting Tv SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:SPORT 1 HD
-#DESCRIPTION SPORT 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:SPORT 2 HD
-#DESCRIPTION SPORT 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.195.234.99%3a9981/stream/channelid/1989465340:SPORT TV 4K
 #DESCRIPTION SPORT TV 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.195.234.99%3a9981/stream/channelid/1195774359:SPORT TV 1
