@@ -5215,3 +5215,7 @@
 #DESCRIPTION SK 3 HR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sport7.pw/lba/NzBmNTljZDkxNjBjZDUzZWM0Y2FmMDhmM2VhMGM3NDc=/g5/supertennis.m3u8:SuperTennis
 #DESCRIPTION SuperTennis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2202.janjuaplayer.com%3a8088/live/livinsikeryayin/playlist.m3u8?id=82265&wowzasessionid=146580648&pk=425057baa527f73d5f6b379fbbc4a37d270bb74d5800da592a4b27beebb88473:SMART SPOR
+#DESCRIPTION SMART SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2d05.janjuaplayer.com%3a8088/live/livinsikeryayin/playlist.m3u8?id=82265&wowzasessionid=382358966&pk=425057baa527f73d5f6b379fbbc4a37d270bb74d5800da592a4b27beebb88473:SMART SPOR
+#DESCRIPTION SMART SPOR
