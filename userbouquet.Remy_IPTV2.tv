@@ -29,22 +29,6 @@
 #DESCRIPTION A1 SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
 #DESCRIPTION Türkmen Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.olympicchannel.com/ocs/channel01b/master.m3u8:Olympic Channel HD
-#DESCRIPTION Olympic Channel HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8:Olympic Channel 1
-#DESCRIPTION Olympic Channel 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_6_3514000.m3u8:Olympic Channel 2
-#DESCRIPTION Olympic Channel 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8:olympicchannel 1
-#DESCRIPTION olympicchannel 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel02b/NBC_OCS2_VIDEO_7_6064000.m3u8:olympicchannel 2
-#DESCRIPTION olympicchannel 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel03b/NBC_OCS3_VIDEO_7_6064000.m3u8:olympicchannel 3
-#DESCRIPTION olympicchannel 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel04b/NBC_OCS4_VIDEO_7_6064000.m3u8:olympicchannel 4
-#DESCRIPTION olympicchannel 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_7_6064000.m3u8:olympicchannel 5
-#DESCRIPTION olympicchannel 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1:AD Sports 1 HD
 #DESCRIPTION AD Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:AD Sports 2 HD
@@ -71,12 +55,6 @@
 #DESCRIPTION Arena Sport3 high
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_4_high:Arena Sport4 high
 #DESCRIPTION Arena Sport4 high
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8:Sporting Tv HD
-#DESCRIPTION Sporting Tv HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8:Sporting Tv SD
-#DESCRIPTION Sporting Tv SD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8:Sporting Tv SD
-#DESCRIPTION Sporting Tv SD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.195.234.99%3a9981/stream/channelid/1989465340:SPORT TV 4K
 #DESCRIPTION SPORT TV 4K
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.195.234.99%3a9981/stream/channelid/1195774359:SPORT TV 1
@@ -93,6 +71,26 @@
 #DESCRIPTION Eurosport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.206.253.157%3a8001/eurosport2hd:Eurosport 2
 #DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142%3a8098/digi_sport_1--:Digi Sport 1
+#DESCRIPTION Digi Sport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142%3a8093/digi_sport2--:Digi Sport 2
+#DESCRIPTION Digi Sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142%3a8096/digi_sport_3--:Digi Sport 3
+#DESCRIPTION Digi Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142%3a8093/digi_sport4_--:Digi Sport 4
+#DESCRIPTION Digi Sport 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 1 HD
+#DESCRIPTION Telekom Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/12.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 2 HD
+#DESCRIPTION Telekom Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/12.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 3 HD
+#DESCRIPTION Telekom Sport 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/12.m3u8/Level(3670016)?start=LIVE&end=END:Telekom Sport 4 HD
+#DESCRIPTION Telekom Sport 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&end=END:Eurosport 1
+#DESCRIPTION Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END:Eurosport 2
+#DESCRIPTION Eurosport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.22.187.253%3a1935/streaming-tv/mp4%3amyStream3/playlist.m3u8:Automoto
 #DESCRIPTION Automoto
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//564e2be0304b6.streamlock.net/DXTV/smil%3aDXTV/chunklist_w579935025_b542000_slesp.m3u8:DeporTv
@@ -105,10 +103,6 @@
 #DESCRIPTION Dubai Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.96.148.30%3a1935/live/omantv2/playlist.m3u8:OMAN TV 2
 #DESCRIPTION OMAN TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8:CableOnda Sports
-#DESCRIPTION CableOnda Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8:CableOnda Sports FC
-#DESCRIPTION CableOnda Sports FC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8:MLB Network
 #DESCRIPTION MLB Network
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8:MLB USA
@@ -157,24 +151,12 @@
 #DESCRIPTION Sevilla FC TV
 #SERVICE 4097:0:1:210:0:0:0:0:0:0:http%3a//sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8:Sevilla FC TV
 #DESCRIPTION Sevilla FC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c5142d0a.kazmazpaz.ru/iptv/RXG34KTXV8ZVBC/144/index.m3u8:Extreme Sports
-#DESCRIPTION Extreme Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.202.107.118%3a8000/play/a002/index.m3u8:match_futbol3
-#DESCRIPTION match_futbol3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.202.107.118%3a8000/play/a001/index.m3u8:INTER
-#DESCRIPTION INTER
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//c5142d0a.kazmazpaz.ru/iptv/RXG34KTXV8ZVBC/208/index.m3u8:Viasat Sport
-#DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
 #DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms1.tacitus.com.br%3a1935/tvgeral/tvgeral/live.m3u8:TVGeral
 #DESCRIPTION TVGeral
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//186.0.233.76%3a1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8:Garage TV
 #DESCRIPTION Garage TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8:SoS Kanal PLUS
-#DESCRIPTION SoS Kanal PLUS
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8:SoS Kanal PLUS
-#DESCRIPTION SoS Kanal PLUS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/sport/live/playlist.m3u8:Tele Romagna SPORT
 #DESCRIPTION Tele Romagna SPORT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.92.0.43%3a1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8:Todo Deporte TV
@@ -575,14 +557,124 @@
 #DESCRIPTION SOMINE KEYFI HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8:SOMINE KEYFI MUSIC
 #DESCRIPTION SOMINE KEYFI MUSIC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0153:CBS REALITY
-#DESCRIPTION CBS REALITY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0161:MTV
-#DESCRIPTION MTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0152:RTL GOLD
-#DESCRIPTION RTL GOLD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//164.132.136.176%3a8000/0154:P PRIME
-#DESCRIPTION P PRIME
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$AXN/6.m3u8/Level(545259)?start=LIVE&end=END:AXN
+#DESCRIPTION AXN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$AXNHD/12.m3u8/Level(3670016)?start=LIVE&end=END:AXN HD
+#DESCRIPTION AXN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$AXNBlack/6.m3u8/Level(545259)?start=LIVE&end=END:AXN Black
+#DESCRIPTION AXN Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$AXNWhite/6.m3u8/Level(545259)?start=LIVE&end=END:AXN White
+#DESCRIPTION AXN White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$AXNSPIN/6.m3u8/Level(545259)?start=LIVE&end=END:AXN Spin
+#DESCRIPTION AXN Spin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TV1000/6.m3u8/Level(545259)?start=LIVE&end=END:TV 1000
+#DESCRIPTION TV 1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TCM/6.m3u8/Level(1677721)?start=LIVE&end=END:TNT
+#DESCRIPTION TNT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TNTHD/12.m3u8/Level(3670016)?start=LIVE&end=END:TNT HD
+#DESCRIPTION TNT HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END:Bollywood TV
+#DESCRIPTION Bollywood TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END:Bollywood Clasic
+#DESCRIPTION Bollywood Clasic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Bollywood TV HD
+#DESCRIPTION Bollywood TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/12.m3u8/Level(3670016)?start=LIVE&end=END:HBO HD
+#DESCRIPTION HBO HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$HBO2HD/12.m3u8/Level(3670016)?start=LIVE&end=END:HBO 2 HD
+#DESCRIPTION HBO 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$HBO3HD/12.m3u8/Level(3670016)?start=LIVE&end=END:HBO 3 HD
+#DESCRIPTION HBO 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$HBO_Cinemax_HD/12.m3u8/Level(3670016)?start=LIVE&end=END:Cinemax HD
+#DESCRIPTION Cinemax HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/12.m3u8/Level(3670016)?start=LIVE&end=END:Cinemax 2 HD
+#DESCRIPTION Cinemax 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$CinemaratonHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Cinemaraton HD
+#DESCRIPTION Cinemaraton HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END:Comedy Central
+#DESCRIPTION Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END:Paramount Channel
+#DESCRIPTION Paramount Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$NasulTV/6.m3u8/Level(545259)?start=LIVE&end=END:Nasul TV
+#DESCRIPTION Nasul TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
+#DESCRIPTION Mooz RO!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Mooz Dance HD
+#DESCRIPTION Mooz Dance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Mooz HD
+#DESCRIPTION Mooz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Hits
+#DESCRIPTION Mooz Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$RockTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Rock TV HD
+#DESCRIPTION Rock TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ClassicaTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Classica HD
+#DESCRIPTION Classica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DjazzHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Djazz HD
+#DESCRIPTION Djazz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$VH1/12.m3u8/Level(1677721)?start=LIVE&end=END:VH 1
+#DESCRIPTION VH 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END:Boomerang
+#DESCRIPTION Boomerang
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$Nickelodeon/6.m3u8/Level(545259)?start=LIVE&end=END:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$NickelodeonHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Nickelodeon HD
+#DESCRIPTION Nickelodeon HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END:Disney Junior
+#DESCRIPTION Disney Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DisneyChannel/6.m3u8/Level(545259)?start=LIVE&end=END:Disney Channel
+#DESCRIPTION Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DuckTV/6.m3u8/Level(545259)?start=LIVE&end=END:Duck TV
+#DESCRIPTION Duck TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END:Nick Jr
+#DESCRIPTION Nick Jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END:BBC News HD
+#DESCRIPTION BBC News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END:BBC Earth HD
+#DESCRIPTION BBC Earth HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TLC/6.m3u8/Level(1677721)?start=LIVE&end=END:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END:History
+#DESCRIPTION History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHistory/6.m3u8/Level(1677721)?start=LIVE&end=END:Viasat History
+#DESCRIPTION Viasat History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ViasatNature/6.m3u8/Level(1677721)?start=LIVE&end=END:Viasat Nature
+#DESCRIPTION Viasat Nature
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ViasatExplorer/6.m3u8/Level(1677721)?start=LIVE&end=END:Viasat Explore
+#DESCRIPTION Viasat Explore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Viasat Nature HD
+#DESCRIPTION Viasat Nature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TravelChannel/6.m3u8/Level(1677721)?start=LIVE&end=END:Travel Channel
+#DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END:Travel Mix
+#DESCRIPTION Travel Mix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TVPaprika/6.m3u8/Level(1677721)?start=LIVE&end=END:TV Paprika
+#DESCRIPTION TV Paprika
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END:Food Network
+#DESCRIPTION Food Network
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(545259)?start=LIVE&end=END:AlfaOmegaTV
+#DESCRIPTION AlfaOmegaTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$BalkanikaTV/6.m3u8/Level(545259)?start=LIVE&end=END:Balkanika TV
+#DESCRIPTION Balkanika TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$AnimalPlanet/6.m3u8/Level(545259)?start=LIVE&end=END:Animal Planet
+#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DaVinci/6.m3u8/Level(545259)?start=LIVE&end=END:DaVinci
+#DESCRIPTION DaVinci
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(545259)?start=LIVE&end=END:Discovery
+#DESCRIPTION Discovery
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(545259)?start=LIVE&end=END:Discovery Science
+#DESCRIPTION Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END:Fashion TV HD
+#DESCRIPTION Fashion TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$FashionTV/6.m3u8/Level(545259)?start=LIVE&end=END:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$UEFA1/6.m3u8/Level(545259)?start=LIVE&end=END:UEFA 1
+#DESCRIPTION UEFA 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$UEFA2/6.m3u8/Level(545259)?start=LIVE&end=END:UEFA 2
+#DESCRIPTION UEFA 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$UEFA3/6.m3u8/Level(545259)?start=LIVE&end=END:UEFA 3
+#DESCRIPTION UEFA 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$RomaniaTV/6.m3u8/Level(545259)?start=LIVE&end=END:Romania TV
+#DESCRIPTION Romania TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10021.m3u8:1 RU
 #DESCRIPTION 1 RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10211.m3u8:2x2 HD
@@ -591,8 +683,6 @@
 #DESCRIPTION 365
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10288.m3u8:365
 #DESCRIPTION 365
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10201.m3u8:8 channel
-#DESCRIPTION 8 channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/257.m3u8:A1
 #DESCRIPTION A1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/447.m3u8:A2
@@ -849,10 +939,6 @@
 #DESCRIPTION 7(KZ)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//178.33.113.212/8TV/8aldia-directe:8 TV LATINO
 #DESCRIPTION 8 TV LATINO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.8tv.cat/8TV/8aldia-directe/.m3u8:8TV Esp
-#DESCRIPTION 8TV Esp
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//204.174.104.71%3a88/AABC_WEB_1201/aabc/index.m3u8:AABC TV
-#DESCRIPTION AABC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama:Abu Dhabi Drama (ar-eng)
 #DESCRIPTION Abu Dhabi Drama (ar-eng)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.protv.md/acasatv/acasatv.m3u8:Acasa TV
