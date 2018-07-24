@@ -265,25 +265,25 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:0 group-title="SPORTS",Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1,Digi Sport 1
+#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 1
 http://82.79.218.142:8098/digi_sport_1--
-#EXTINF:-1,Digi Sport 2
+#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 2
 http://82.79.218.142:8093/digi_sport2--
-#EXTINF:-1,Digi Sport 3
+#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 3
 http://82.79.218.142:8096/digi_sport_3--
-#EXTINF:-1,Digi Sport 4
+#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 4
 http://82.79.218.142:8093/digi_sport4_--
-#EXTINF:-1,Telekom Sport 1 HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 1 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Telekom Sport 2 HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 2 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Telekom Sport 3 HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 3 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Telekom Sport 4 HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 4 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Eurosport 1
+#EXTINF:0 group-title="ADULT" parent-code="1234",Eurosport 1
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Eurosport 2
+#EXTINF:0 group-title="ADULT" parent-code="1234",Eurosport 2
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="SPORTS",Depor TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
@@ -341,102 +341,6 @@ http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b
 http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="SPORTS",LIVE MOTOR SPORT
 http://45.58.62.92:8084
-#EXTINF:0 group-title="SPORTS",Extreme Sports
-http://persik.by/stream/3903/293564/99.m3u8
-#EXTINF:0 group-title="SPORTS",Extreme Sports
-http://persik.by/stream/3903/293564/10309.m3u8
-#EXTINF:0 group-title="SPORTS",Extreme Sports
-http://persik.by/stream/1418/252987/99.m3u8
-#EXTINF:0 group-title="SPORTS",Extreme Sports
-http://persik.by/stream/1418/252987/10309.m3u8
-#EXTINF:0 group-title="SPORTS",Setanta Sport 
-http://persik.by/stream/1418/252987/10316.m3u8
-#EXTINF:0 group-title="SPORTS",Setanta Sports
-http://persik.by/stream/1418/252987/10313.m3u8
-#EXTINF:0 group-title="SPORTS",Viasat Sport
-http://persik.by/stream/3903/293564/10249.m3u8
-#EXTINF:0 group-title="SPORTS",Viasat Sport
-http://persik.by/stream/1418/252987/10249.m3u8
-#EXTINF:0 group-title="SPORTS", fighter
-http://persik.by/stream/1418/252987/310.m3u8
-#EXTINF:0 group-title="SPORTS", fighter
-http://persik.by/stream/1418/252987/595.m3u8
-#EXTINF:0 group-title="SPORTS", Match!
-http://persik.by/stream/3903/293564/276.m3u8
-#EXTINF:0 group-title="SPORTS", Match!
-http://persik.by/stream/3903/293564/1077.m3u8
-#EXTINF:0 group-title="SPORTS", Match!
-http://persik.by/stream/1418/252987/276.m3u8
-#EXTINF:0 group-title="SPORTS", Match!
-http://persik.by/stream/1418/252987/1077.m3u8
-#EXTINF:0 group-title="SPORTS", Sports Player
-http://persik.by/stream/1418/252987/10315.m3u8
-#EXTINF:0 group-title="SPORTS", Sports Outdoor HD
-http://persik.by/stream/1418/252987/10314.m3u8
-#EXTINF:0 group-title="SPORTS", Sport 1 (Ukraine)
-http://persik.by/stream/1418/252987/270.m3u8
-#EXTINF:0 group-title="SPORTS", Sport 2 (Ukraine)
-http://persik.by/stream/1418/252987/91.m3u8
-#EXTINF:0 group-title="SPORTS", Sport 2 (Ukraine)
-http://persik.by/stream/1418/252987/144.m3u8
-#EXTINF:0 group-title="SPORTS", Sport 2 (Ukraine)
-http://persik.by/stream/1418/252987/309.m3u8
-#EXTINF:0 group-title="SPORTS", Football
-http://persik.by/stream/1418/252987/440.m3u8
-#EXTINF:0 group-title="SPORTS", KHL
-http://persik.by/stream/3903/293564/485.m3u8
-#EXTINF:0 group-title="SPORTS", KHL
-http://persik.by/stream/3903/293564/604.m3u8
-#EXTINF:0 group-title="SPORTS", KHL
-http://persik.by/stream/1418/252987/485.m3u8
-#EXTINF:0 group-title="SPORTS", KHL
-http://persik.by/stream/1418/252987/604.m3u8
-#EXTINF:0 group-title="SPORTS", KHL HD
-http://persik.by/stream/3903/293564/10242.m3u8
-#EXTINF:0 group-title="SPORTS", KHL HD
-http://persik.by/stream/1418/252987/10242.m3u8
-#EXTINF:0 group-title="SPORTS", Belarus 5
-http://persik.by/stream/3903/293564/10254.m3u8
-#EXTINF:0 group-title="SPORTS", Belarus 5
-http://persik.by/stream/3903/293564/10300.m3u8
-#EXTINF:0 group-title="SPORTS", Belarus 5
-http://persik.by/stream/2887/57172/10300.m3u8
-#EXTINF:0 group-title="SPORTS", Belarus 5
-http://persik.by/stream/1418/252987/932.m3u8
-#EXTINF:0 group-title="SPORTS",Extrime
-http://persik.by/stream/2944/263250/99.m3u8
-#EXTINF:0 group-title="SPORTS",Fighter
-http://persik.by/stream/2944/263250/310.m3u8
-#EXTINF:0 group-title="SPORTS",Fighter
-http://persik.by/stream/2944/263250/595.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH!
-http://persik.by/stream/2944/263250/276.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! arena
-http://persik.by/stream/2944/263250/261.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! a game
-http://persik.by/stream/2944/263250/10270.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! planet
-http://persik.by/stream/2944/263250/10269.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! football
-http://persik.by/stream/2944/263250/346.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! football 1
-http://persik.by/stream/2944/263250/10266.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! football 2
-http://persik.by/stream/2944/263250/10267.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! football 2
-http://persik.by/stream/2944/263250/10217.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! football 3
-http://persik.by/stream/2944/263250/10218.m3u8
-#EXTINF:0 group-title="SPORTS",MATCH! football 3
-http://persik.by/stream/2944/263250/10268.m3u8
-#EXTINF:0 group-title="SPORTS",OUR SPORT
-http://persik.by/stream/2944/263250/10271.m3u8
-#EXTINF:0 group-title="SPORTS",OUR Football
-http://persik.by/stream/2944/263250/10294.m3u8
-#EXTINF:0 group-title="SPORTS",OUR Football
-http://persik.by/stream/2944/263250/10264.m3u8
-#EXTINF:0 group-title="SPORTS",VIASAT Sport
-http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:0 group-title="SPORTS",FIGHT NETWORK
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",SONY ESPN HD
@@ -617,125 +521,125 @@ http://178.132.6.97:8080/TVVogosca/tracks-v1a1/mono.m3u8
 http://178.132.6.97:8080/DashmaTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",****((ReMy_WORLD))****
 ****((ReMy_WORLD))****
-#EXTINF:-1,AXN
+#EXTINF:0 group-title="ReMy_WORLD",AXN
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AXN/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,AXN HD
+#EXTINF:0 group-title="ReMy_WORLD",AXN HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,AXN Black
+#EXTINF:0 group-title="ReMy_WORLD",AXN Black
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNBlack/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,AXN White
+#EXTINF:0 group-title="ReMy_WORLD",AXN White
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNWhite/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,AXN Spin
+#EXTINF:0 group-title="ReMy_WORLD",AXN Spin
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNSPIN/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,TV 1000
+#EXTINF:0 group-title="ReMy_WORLD",TV 1000
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TV1000/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,TNT
+#EXTINF:0 group-title="ReMy_WORLD",TNT
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TCM/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,TNT HD
+#EXTINF:0 group-title="ReMy_WORLD",TNT HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TNTHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Bollywood TV
+#EXTINF:0 group-title="ReMy_WORLD",Bollywood TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Bollywood Clasic
+#EXTINF:0 group-title="ReMy_WORLD",Bollywood Clasic
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Bollywood TV HD
+#EXTINF:0 group-title="ReMy_WORLD",Bollywood TV HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,HBO HD
+#EXTINF:0 group-title="ReMy_WORLD",HBO HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,HBO 2 HD
+#EXTINF:0 group-title="ReMy_WORLD",HBO 2 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,HBO 3 HD
+#EXTINF:0 group-title="ReMy_WORLD",HBO 3 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO3HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Cinemax HD
+#EXTINF:0 group-title="ReMy_WORLD",Cinemax HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO_Cinemax_HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Cinemax 2 HD
+#EXTINF:0 group-title="ReMy_WORLD",Cinemax 2 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Happy Channel
+#EXTINF:0 group-title="ReMy_WORLD",Happy Channel
 http://main.web.xn--8oux7cpmf3du51f21q.xn--3ds443g:25461/live/ovidiuf13@gmail.com/5ykxe7QS17/11.m3u8
-#EXTINF:-1,Cinemaraton HD
+#EXTINF:0 group-title="ReMy_WORLD",Cinemaraton HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$CinemaratonHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Comedy Central
+#EXTINF:0 group-title="ReMy_WORLD",Comedy Central
 http://telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Paramount Channel
+#EXTINF:0 group-title="ReMy_WORLD",Paramount Channel
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Nasul TV
+#EXTINF:0 group-title="ReMy_WORLD",Nasul TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$NasulTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Mooz RO!
+#EXTINF:0 group-title="ReMy_WORLD",Mooz RO!
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Mooz Dance HD
+#EXTINF:0 group-title="ReMy_WORLD",Mooz Dance HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Mooz HD
+#EXTINF:0 group-title="ReMy_WORLD",Mooz HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Mooz Hits
+#EXTINF:0 group-title="ReMy_WORLD",Mooz Hits
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Rock TV HD
+#EXTINF:0 group-title="ReMy_WORLD",Rock TV HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$RockTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Classica HD
+#EXTINF:0 group-title="ReMy_WORLD",Classica HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$ClassicaTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Djazz HD
+#EXTINF:0 group-title="ReMy_WORLD",Djazz HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DjazzHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,VH 1
+#EXTINF:0 group-title="ReMy_WORLD",VH 1
 http://telekomtv.ro.edgesuite.net/shls/LIVE$VH1/12.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Boomerang
+#EXTINF:0 group-title="ReMy_WORLD",Boomerang
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Nickelodeon
+#EXTINF:0 group-title="ReMy_WORLD",Nickelodeon
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Nickelodeon/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:0 group-title="ReMy_WORLD",Nickelodeon HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$NickelodeonHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Disney Junior
+#EXTINF:0 group-title="ReMy_WORLD",Disney Junior
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Disney Channel
+#EXTINF:0 group-title="ReMy_WORLD",Disney Channel
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyChannel/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Duck TV
+#EXTINF:0 group-title="ReMy_WORLD",Duck TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DuckTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Nick Jr
+#EXTINF:0 group-title="ReMy_WORLD",Nick Jr
 http://telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,BBC News HD
+#EXTINF:0 group-title="ReMy_WORLD",BBC News HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,BBC Earth HD
+#EXTINF:0 group-title="ReMy_WORLD",BBC Earth HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,TLC
+#EXTINF:0 group-title="ReMy_WORLD",TLC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TLC/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,History
+#EXTINF:0 group-title="ReMy_WORLD",History
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Viasat History
+#EXTINF:0 group-title="ReMy_WORLD",Viasat History
 http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHistory/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Viasat Nature
+#EXTINF:0 group-title="ReMy_WORLD",Viasat Nature
 http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatNature/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Viasat Explore
+#EXTINF:0 group-title="ReMy_WORLD",Viasat Explore
 http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatExplorer/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Viasat Nature HD
+#EXTINF:0 group-title="ReMy_WORLD",Viasat Nature HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1,Travel Channel
+#EXTINF:0 group-title="ReMy_WORLD",Travel Channel
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Travel Mix
+#EXTINF:0 group-title="ReMy_WORLD",Travel Mix
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,TV Paprika
+#EXTINF:0 group-title="ReMy_WORLD",TV Paprika
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TVPaprika/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,Food Network
+#EXTINF:0 group-title="ReMy_WORLD",Food Network
 http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,AlfaOmegaTV
+#EXTINF:0 group-title="ReMy_WORLD",AlfaOmegaTV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Balkanika TV
+#EXTINF:0 group-title="ReMy_WORLD",Balkanika TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BalkanikaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Animal Planet
+#EXTINF:0 group-title="ReMy_WORLD",Animal Planet
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AnimalPlanet/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,DaVinci
+#EXTINF:0 group-title="ReMy_WORLD",DaVinci
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DaVinci/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Discovery
+#EXTINF:0 group-title="ReMy_WORLD",Discovery
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Discovery Science
+#EXTINF:0 group-title="ReMy_WORLD",Discovery Science
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Fashion TV HD
+#EXTINF:0 group-title="ReMy_WORLD",Fashion TV HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Fashion TV
+#EXTINF:0 group-title="ReMy_WORLD",Fashion TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,UEFA 1
+#EXTINF:0 group-title="ReMy_WORLD",UEFA 1
 http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA1/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,UEFA 2
+#EXTINF:0 group-title="ReMy_WORLD",UEFA 2
 http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA2/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,UEFA 3
+#EXTINF:0 group-title="ReMy_WORLD",UEFA 3
 http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA3/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Romania TV
+#EXTINF:0 group-title="ReMy_WORLD",Romania TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$RomaniaTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",Agro TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
@@ -877,86 +781,6 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel_3)/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Sutel
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",1RU
-http://persik.by/stream/2944/263250/10021.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",2x2 HD
-http://persik.by/stream/2944/263250/10211.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",365
-http://persik.by/stream/2944/263250/279.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",365
-http://persik.by/stream/2944/263250/10288.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",8 channel
-http://persik.by/stream/2944/263250/10201.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",A1
-http://persik.by/stream/2944/263250/257.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",A2
-http://persik.by/stream/2944/263250/447.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Carton
-http://persik.by/stream/2944/263250/32.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Che 35
-http://persik.by/stream/2944/263250/56.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CINEMA
-http://persik.by/stream/2944/263250/278.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CINEMA CODE
-http://persik.by/stream/2944/263250/292.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Cozy
-http://persik.by/stream/2944/263250/10230.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",FRIDAY!
-http://persik.by/stream/2944/263250/178.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",HD life
-http://persik.by/stream/2944/263250/10295.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",HISTORY HD
-http://persik.by/stream/2944/263250/10244.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",HISTORY HD
-http://persik.by/stream/2944/263250/879.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Kitchen TV
-http://persik.by/stream/2944/263250/383.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Kitchen TV
-http://persik.by/stream/2944/263250/10287.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Live
-http://persik.by/stream/2944/263250/10285.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Live
-http://persik.by/stream/2944/263250/511.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MOTHERFUL CINEMA
-http://persik.by/stream/2944/263250/312.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",National geographic HD
-http://persik.by/stream/2944/263250/10016.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",National geographic HD
-http://persik.by/stream/2944/263250/10243.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",NEWS ONE  HD
-http://persik.by/stream/2944/263250/10205.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",RT HD
-http://persik.by/stream/2944/263250/10202.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",RT HD
-http://persik.by/stream/2944/263250/10293.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",RU TV
-http://persik.by/stream/2944/263250/10261.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Russia To
-http://persik.by/stream/2944/263250/15.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Star
-http://persik.by/stream/2944/263250/10220.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TB3
-http://persik.by/stream/2944/263250/106.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TB3
-http://persik.by/stream/2944/263250/63.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",THT
-http://persik.by/stream/2944/263250/981.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",THT
-http://persik.by/stream/2944/263250/14.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",THT music
-http://persik.by/stream/2944/263250/10262.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",THT4
-http://persik.by/stream/2944/263250/476.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",THT4
-http://persik.by/stream/2944/263250/64.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",travel  HD
-http://persik.by/stream/2944/263250/88.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",travel HD
-http://persik.by/stream/2944/263250/880.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",travel HD
-http://persik.by/stream/2944/263250/886.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",VTV
-http://persik.by/stream/2944/263250/10263.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",ABC TV
@@ -1525,63 +1349,63 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:0 group-title="LATINO",****((LATINO_CHANNELS))****
 ****((LATINO_CHANNELS))****
-#EXTINF:0,ANIPLUS
+#EXTINF:0 group-title="LATINO",ANIPLUS
 http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
-#EXTINF:0,ASTRO ARENA HD
+#EXTINF:0 group-title="LATINO",ASTRO ARENA HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:0,ASTRO GO SHOP
+#EXTINF:0 group-title="LATINO",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
-#EXTINF:0,AXN HD
+#EXTINF:0 group-title="LATINO",AXN HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
-#EXTINF:0,CHANNEL 5
+#EXTINF:0 group-title="LATINO",CHANNEL 5
 https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-#EXTINF:0,CHANNEL NEWS ASIA
+#EXTINF:0 group-title="LATINO",CHANNEL NEWS ASIA
 https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
-#EXTINF:0,DIAMOND TV
+#EXTINF:0 group-title="LATINO",DIAMOND TV
 http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/chunklist_w1072111297.m3u8
-#EXTINF:0,DISCOVERY WORLD HD
+#EXTINF:0 group-title="LATINO",DISCOVERY WORLD HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:0,FOX ACTION MOVIES
+#EXTINF:0 group-title="LATINO",FOX ACTION MOVIES
 http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
-#EXTINF:0,FOX FAMILY MOVIES
+#EXTINF:0 group-title="LATINO",FOX FAMILY MOVIES
 http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
-#EXTINF:0,FOX MOVIE PREMIUM
+#EXTINF:0 group-title="LATINO",FOX MOVIE PREMIUM
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:0,FOXLife
+#EXTINF:0 group-title="LATINO",FOXLife
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:0,K-DRAMA 
+#EXTINF:0 group-title="LATINO",K-DRAMA 
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-#EXTINF:0,KIX
+#EXTINF:0 group-title="LATINO",KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:0,OKTO
+#EXTINF:0 group-title="LATINO",OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:0,RTM 1
+#EXTINF:0 group-title="LATINO",RTM 1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:0,RTM 2
+#EXTINF:0 group-title="LATINO",RTM 2
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:0,SBSIN 
+#EXTINF:0 group-title="LATINO",SBSIN 
 http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
-#EXTINF:0,SONY ESPN HD
+#EXTINF:0 group-title="LATINO",SONY ESPN HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0,SONY LE PLEX HD
+#EXTINF:0 group-title="LATINO",SONY LE PLEX HD
 http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:0,SONY MAX HD
+#EXTINF:0 group-title="LATINO",SONY MAX HD
 http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
-#EXTINF:0,SONY MIX
+#EXTINF:0 group-title="LATINO",SONY MIX
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8
-#EXTINF:0,SONY ONE 
+#EXTINF:0 group-title="LATINO",SONY ONE 
 http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
-#EXTINF:0,SONY PIX HD
+#EXTINF:0 group-title="LATINO",SONY PIX HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:0,SONY TEN 2 HD
+#EXTINF:0 group-title="LATINO",SONY TEN 2 HD
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
-#EXTINF:0,SURIA
+#EXTINF:0 group-title="LATINO",SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
-#EXTINF:0,THRILL
+#EXTINF:0 group-title="LATINO",THRILL
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:0,TLC HD WORLD
+#EXTINF:0 group-title="LATINO",TLC HD WORLD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:0,TV Okey
+#EXTINF:0 group-title="LATINO",TV Okey
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 group-title="LATINO",13 Max Digital
 http://coninfo.net:1935/13max/live/chunklist.m3u8
@@ -2253,42 +2077,12 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?sta
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="MUSIC",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="MUSIC",MTV LIVE
-http://playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/26/index.m3u8
-#EXTINF:0 group-title="MUSIC",MTV_Hits
-http://playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/229/index.m3u8
-#EXTINF:0 group-title="MUSIC",MTV_Dance
-http://playlist.onlybest.tv/ru/channel/58d4ad24ba410944def562b13e773829/228/index.m3u8
 #EXTINF:0 group-title="MUSIC",NRJ Hits HD
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 #EXTINF:0 group-title="MUSIC",NRJ HITS
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 #EXTINF:0 group-title="MUSIC",NRJ HITS TV
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="MUSIC",1 HD
-http://persik.by/stream/2944/263250/10024.m3u8
-#EXTINF:0 group-title="MUSIC",Europa plus
-http://persik.by/stream/2944/263250/10260.m3u8
-#EXTINF:0 group-title="MUSIC",FRIDAY!
-http://persik.by/stream/2944/263250/178.m3u8
-#EXTINF:0 group-title="MUSIC",HD life
-http://persik.by/stream/2944/263250/10295.m3u8
-#EXTINF:0 group-title="MUSIC",HEAT HD
-http://persik.by/stream/2944/263250/384.m3u8
-#EXTINF:0 group-title="MUSIC",HEAT HD
-http://persik.by/stream/2944/263250/10286.m3u8
-#EXTINF:0 group-title="MUSIC",MTV
-http://persik.by/stream/2944/263250/10226.m3u8
-#EXTINF:0 group-title="MUSIC",MTV Hits
-http://persik.by/stream/2944/263250/10208.m3u8
-#EXTINF:0 group-title="MUSIC",MTV Hits
-http://persik.by/stream/2944/263250/10031.m3u8
-#EXTINF:0 group-title="MUSIC",MTV LIVE HD
-http://persik.by/stream/2944/263250/10289.m3u8
-#EXTINF:0 group-title="MUSIC",MTV Rocks
-http://persik.by/stream/2944/263250/10227.m3u8
-#EXTINF:0 group-title="MUSIC",MYZ TV
-http://persik.by/stream/2944/263250/10207.m3u8
 #EXTINF:0 group-title="MUSIC",Utv
 http://edge126.rcs-rds.ro/utvedge/utvlivehls/chunklist_w686431265.m3u8
 #EXTINF:0 group-title="MUSIC",U TV
@@ -2849,117 +2643,117 @@ http://109.248.80.211:3371/udp/239.195.2.5:1234
 http://109.248.90.229:4022/udp/239.195.2.5:1234
 #EXTINF:0 group-title="ADULT" parent-code="1234",Playboy TV
 http://109.248.72.113:3371/udp/239.195.2.5:1234
-#EXTINF:-1,PlayBoy
+#EXTINF:0 group-title="ADULT" parent-code="1234",PlayBoy
 http://109.237.145.212:81/udp/239.1.6.39:1234
-#EXTINF:-1,Brazzers TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",Brazzers TV
 http://109.237.145.212:81/udp/239.1.6.40:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://109.237.145.212:81/udp/239.1.6.34:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://109.237.145.212:81/udp/239.1.6.32:1234
-#EXTINF:-1,Candyman
+#EXTINF:0 group-title="ADULT" parent-code="1234",Candyman
 http://109.237.145.212:81/udp/239.1.20.39:1234
-#EXTINF:-1,Hustler HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Hustler HD
 http://109.237.145.212:81/udp/239.1.6.35:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://109.237.145.212:81/udp/239.1.6.33:1234
-#EXTINF:-1,Blue Hustler
+#EXTINF:0 group-title="ADULT" parent-code="1234",Blue Hustler
 http://109.237.145.212:81/udp/239.1.6.36:1234
-#EXTINF:-1,Candy HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Candy HD
 http://109.237.145.212:81/udp/239.1.19.143:1234
-#EXTINF:-1,Frenchlover
+#EXTINF:0 group-title="ADULT" parent-code="1234",Frenchlover
 http://109.237.145.212:81/udp/239.1.19.140:1234
-#EXTINF:-1,Playlist [16 ] DRM
+#EXTINF:0 group-title="ADULT" parent-code="1234",Playlist [16 ] DRM
 http://109.237.145.212:81/udp/239.1.31.206:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://185.226.245.39:81/udp/239.195.5.33:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://185.226.245.39:81/udp/239.195.4.109:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://185.224.96.158:81/udp/239.195.5.33:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://185.224.96.158:81/udp/239.195.4.109:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://185.226.245.106:81/udp/239.195.5.33:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://185.226.245.106:81/udp/239.195.4.109:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://185.224.96.42:81/udp/239.195.5.33:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://185.224.96.42:81/udp/239.195.4.109:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://91.190.183.181:81/udp/239.195.5.33:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://91.190.183.181:81/udp/239.195.4.109:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://91.203.208.77:4022/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
+#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
 http://91.203.208.77:4022/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
 http://91.203.208.77:4022/udp/239.195.2.5:1234
-#EXTINF:-1,XXL
+#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
 http://91.203.208.77:4022/udp/239.195.2.1:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://176.118.13.36:81/udp/239.195.5.33:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://176.118.13.36:81/udp/239.195.4.109:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://109.248.82.79:4022/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
+#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
 http://109.248.82.79:4022/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
 http://109.248.82.79:4022/udp/239.195.2.5:1234
-#EXTINF:-1,XXL
+#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
 http://109.248.82.79:4022/udp/239.195.2.1:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://109.248.67.66:3371/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
+#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
 http://109.248.67.66:3371/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
 http://109.248.67.66:3371/udp/239.195.2.5:1234
-#EXTINF:-1,XXL
+#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
 http://109.248.67.66:3371/udp/239.195.2.1:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://109.248.82.155:3371/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
+#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
 http://109.248.82.155:3371/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
 http://109.248.82.155:3371/udp/239.195.2.5:1234
-#EXTINF:-1,XXL
+#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
 http://109.248.82.155:3371/udp/239.195.2.1:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://109.248.86.50:3371/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
+#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
 http://109.248.86.50:3371/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
 http://109.248.86.50:3371/udp/239.195.2.5:1234
-#EXTINF:-1,XXL
+#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
 http://109.248.86.50:3371/udp/239.195.2.1:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://109.248.75.38:3371/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
+#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
 http://109.248.75.38:3371/udp/239.195.2.4:1234
-#EXTINF:-1,PLAYBOY TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
 http://109.248.75.38:3371/udp/239.195.2.5:1234
-#EXTINF:-1,XXL
+#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
 http://109.248.75.38:3371/udp/239.195.2.1:1234
-#EXTINF:-1,PlayBoy
+#EXTINF:0 group-title="ADULT" parent-code="1234",PlayBoy
 http://94.230.118.22:81/udp/239.1.6.39:1234
-#EXTINF:-1,O-la-la
+#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
 http://94.230.118.22:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Hustler HD
 http://94.230.118.22:81/udp/239.1.6.35:1234
-#EXTINF:-1,?????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
 http://94.230.118.22:81/udp/239.1.6.33:1234
-#EXTINF:-1,??????? ????
+#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
 http://94.230.118.22:81/udp/239.1.6.32:1234
-#EXTINF:-1,Candyman
+#EXTINF:0 group-title="ADULT" parent-code="1234",Candyman
 http://94.230.118.22:81/udp/239.1.20.39:1234
-#EXTINF:-1,Blue Hustler
+#EXTINF:0 group-title="ADULT" parent-code="1234",Blue Hustler
 http://94.230.118.22:81/udp/239.1.6.36:1234
-#EXTINF:-1,Brazzers TV
+#EXTINF:0 group-title="ADULT" parent-code="1234",Brazzers TV
 http://94.230.118.22:81/udp/239.1.6.40:1234
-#EXTINF:-1,Candy HD
+#EXTINF:0 group-title="ADULT" parent-code="1234",Candy HD
 http://94.230.118.22:81/udp/239.1.19.143:1234
-#EXTINF:-1,Frenchlover
+#EXTINF:0 group-title="ADULT" parent-code="1234",Frenchlover
 http://94.230.118.22:81/udp/239.1.19.140:1234
