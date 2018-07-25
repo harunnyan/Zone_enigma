@@ -521,6 +521,112 @@ http://178.132.6.97:8080/TVVogosca/tracks-v1a1/mono.m3u8
 http://178.132.6.97:8080/DashmaTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",****((ReMy_WORLD))****
 ****((ReMy_WORLD))****
+#EXTINF:0 group-title="ReMy_WORLD",AXN HD
+http://145.129.238.137:8000/play/a045
+#EXTINF:0 group-title="ReMy_WORLD",BBC Earth HD
+http://145.129.238.137:8000/play/a06c
+#EXTINF:0 group-title="ReMy_WORLD",BBC HD
+http://145.129.238.137:8000/play/a06b
+#EXTINF:0 group-title="ReMy_WORLD",CI Polsat HD
+http://145.129.238.137:8000/play/a049
+#EXTINF:0 group-title="ReMy_WORLD",Cinemax 2 HD
+http://145.129.238.137:8000/play/a046
+#EXTINF:0 group-title="ReMy_WORLD",Cinemax HD
+http://145.129.238.137:8000/play/a03t
+#EXTINF:0 group-title="ReMy_WORLD",FOX HD
+http://145.129.238.137:8000/play/a047
+#EXTINF:0 group-title="ReMy_WORLD",Fox Comedy HD
+http://145.129.238.137:8000/play/a040
+#EXTINF:0 group-title="ReMy_WORLD",HBO2 HD
+http://145.129.238.137:8000/play/a05i
+#EXTINF:0 group-title="ReMy_WORLD",HBO3 HD
+http://145.129.238.137:8000/play/a05j
+#EXTINF:0 group-title="ReMy_WORLD",History HD
+http://145.129.238.137:8000/play/a048
+#EXTINF:0 group-title="ReMy_WORLD",KINO POLSKA
+http://145.129.238.137:8000/play/a03s
+#EXTINF:0 group-title="ReMy_WORLD",Kino Polska Muzyka
+http://145.129.238.137:8000/play/a059
+#EXTINF:0 group-title="ReMy_WORLD",Nat Geo Wild HD
+http://145.129.238.137:8000/play/a03u
+#EXTINF:0 group-title="ReMy_WORLD",Polsat 2 HD 
+http://145.129.238.137:8000/play/a06o
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Cafe HD
+http://145.129.238.137:8000/play/a06n
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Doku HD
+http://145.129.238.137:8000/play/a04a
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Film
+http://145.129.238.137:8000/play/a06k
+#EXTINF:0 group-title="ReMy_WORLD",Polsat HD
+http://145.129.238.137:8000/play/a06l
+#EXTINF:0 group-title="ReMy_WORLD",Polsat News 2
+http://145.129.238.137:8000/play/a06j
+#EXTINF:0 group-title="ReMy_WORLD",Polsat News HD
+http://145.129.238.137:8000/play/a06p
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Play HD
+http://145.129.238.137:8000/play/a06m
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Sport
+http://145.129.238.137:8000/play/a06h
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Sport Extra
+http://145.129.238.137:8000/play/a06i
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Sport Extra HD
+http://145.129.238.137:8000/play/a044
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Sport HD
+http://145.129.238.137:8000/play/a03z
+#EXTINF:0 group-title="ReMy_WORLD",Polsat Viasat History HD
+http://145.129.238.137:8000/play/a041
+#EXTINF:0 group-title="ReMy_WORLD",Sportklub HD
+http://145.129.238.137:8000/play/a06d
+#EXTINF:0 group-title="ReMy_WORLD",Super Polsat
+http://145.129.238.137:8000/play/a06q
+#EXTINF:0 group-title="ReMy_WORLD",TV4
+http://145.129.238.137:8000/play/a06g
+#EXTINF:0 group-title="ReMy_WORLD",TVP 2 HD
+http://145.129.238.137:8000/play/a042
+#EXTINF:0 group-title="ReMy_WORLD",TVP 3
+http://145.129.238.137:8000/play/a03x
+#EXTINF:0 group-title="ReMy_WORLD",TVP HD
+http://145.129.238.137:8000/play/a03v
+#EXTINF:0 group-title="ReMy_WORLD",TVP INFO HD
+http://145.129.238.137:8000/play/a03w
+#EXTINF:0 group-title="ReMy_WORLD",MBC Action +
+http://130.185.144.110:8081/AR/MBCACTION/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC Drama HD
+http://130.185.144.110:8081/AR/MBCDRAMA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC Bollywood +
+http://130.185.144.110:8081/AR/MBCBOLLYWOOD/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Rotana clip
+http://130.185.144.110:8081/AR/ROTANACLIP/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ROTANA music
+http://130.185.144.110:8081/AR/ROTANAMUSIC/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Rotana Drama
+http://130.185.144.110:8081/AR/ROTANAMASSRIA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Rotana Khalijia
+http://130.185.144.110:8081/AR/ROTANAKHALIJIA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Nile comedy
+http://130.185.144.110:8081/AR/NILECOMEDY/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD", cbc  dreame
+http://130.185.144.110:8081/AR/CBCDRAMA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ART AFLAm 2
+http://130.185.144.110:8081/AR/ARTAFLAM2/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ART CINEMA
+http://130.185.144.110:8081/AR/ARTCINEMA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ART HEKAYAT 1
+http://130.185.144.110:8081/AR/ARTHEKAYAT/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",nile drama+
+http://130.185.144.110:8081/AR/NILEDRAMA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Nile life +
+http://130.185.144.110:8081/AR/NILELIFE/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Nile comedy +
+http://130.185.144.110:8081/AR/NILECOMEDY/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Cbcdrama
+http://130.185.144.110:8081/AR/CBCDRAMA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",CBC EXTRA+
+http://130.185.144.110:8081/AR/CBCEXTRA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Cbc..sofra
+http://130.185.144.110:8081/AR/CBCSOFRA/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MELODY CLASSIC
+http://130.185.144.110:8081/AR/MELODYCLASSIC/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",AXN
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AXN/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",AXN HD
@@ -2617,143 +2723,13 @@ http://85.132.71.6/ru/red/index.m3u8
 http://85.132.71.6/ru/braz/index.m3u8 
 #EXTINF:0 group-title="ADULT" parent-code="1234",Pinko
 http://85.132.71.6/ru/pink/index.m3u8
-#EXTINF:0 group-title="ADULT" parent-code="1234",POCKHCORN
-http://109.248.64.222:15999/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.64.222:15999/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://109.248.64.222:15999/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
-http://109.248.64.222:15999/udp/239.195.2.1:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Russkaya_noch
-http://185.57.68.14/208/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.80.211:3371/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.72.113:3371/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.90.229:4022/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Russkaya_noch
-http://109.248.72.113:3371/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Russkaya_noch
-http://109.248.80.211:3371/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://109.248.80.211:3371/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Playboy TV
-http://109.248.90.229:4022/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Playboy TV
-http://109.248.72.113:3371/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PlayBoy
-http://109.237.145.212:81/udp/239.1.6.39:1234
+#EXTINF:0 group-title="ADULT" parent-code="1234",Playboy
+http://193.93.236.121:9991/play/Playboy/index.m3u8
 #EXTINF:0 group-title="ADULT" parent-code="1234",Brazzers TV
-http://109.237.145.212:81/udp/239.1.6.40:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://109.237.145.212:81/udp/239.1.6.34:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://109.237.145.212:81/udp/239.1.6.32:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Candyman
-http://109.237.145.212:81/udp/239.1.20.39:1234
+http://193.93.236.121:9991/play/Brazzers_TV_Europe/index.m3u8
 #EXTINF:0 group-title="ADULT" parent-code="1234",Hustler HD
-http://109.237.145.212:81/udp/239.1.6.35:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://109.237.145.212:81/udp/239.1.6.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Blue Hustler
-http://109.237.145.212:81/udp/239.1.6.36:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Candy HD
-http://109.237.145.212:81/udp/239.1.19.143:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Frenchlover
-http://109.237.145.212:81/udp/239.1.19.140:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Playlist [16 ] DRM
-http://109.237.145.212:81/udp/239.1.31.206:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://185.226.245.39:81/udp/239.195.5.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://185.226.245.39:81/udp/239.195.4.109:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://185.224.96.158:81/udp/239.195.5.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://185.224.96.158:81/udp/239.195.4.109:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://185.226.245.106:81/udp/239.195.5.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://185.226.245.106:81/udp/239.195.4.109:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://185.224.96.42:81/udp/239.195.5.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://185.224.96.42:81/udp/239.195.4.109:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://91.190.183.181:81/udp/239.195.5.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://91.190.183.181:81/udp/239.195.4.109:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://91.203.208.77:4022/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://91.203.208.77:4022/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://91.203.208.77:4022/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
-http://91.203.208.77:4022/udp/239.195.2.1:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://176.118.13.36:81/udp/239.195.5.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://176.118.13.36:81/udp/239.195.4.109:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://109.248.82.79:4022/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.82.79:4022/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://109.248.82.79:4022/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
-http://109.248.82.79:4022/udp/239.195.2.1:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://109.248.67.66:3371/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.67.66:3371/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://109.248.67.66:3371/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
-http://109.248.67.66:3371/udp/239.195.2.1:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://109.248.82.155:3371/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.82.155:3371/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://109.248.82.155:3371/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
-http://109.248.82.155:3371/udp/239.195.2.1:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://109.248.86.50:3371/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.86.50:3371/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://109.248.86.50:3371/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
-http://109.248.86.50:3371/udp/239.195.2.1:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://109.248.75.38:3371/udp/239.195.2.3:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",BRAZZERS TV 18+
-http://109.248.75.38:3371/udp/239.195.2.4:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PLAYBOY TV
-http://109.248.75.38:3371/udp/239.195.2.5:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",XXL
-http://109.248.75.38:3371/udp/239.195.2.1:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",PlayBoy
-http://94.230.118.22:81/udp/239.1.6.39:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",O-la-la
-http://94.230.118.22:81/udp/239.1.6.34:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Hustler HD
-http://94.230.118.22:81/udp/239.1.6.35:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",?????? ????
-http://94.230.118.22:81/udp/239.1.6.33:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",??????? ????
-http://94.230.118.22:81/udp/239.1.6.32:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Candyman
-http://94.230.118.22:81/udp/239.1.20.39:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Blue Hustler
-http://94.230.118.22:81/udp/239.1.6.36:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Brazzers TV
-http://94.230.118.22:81/udp/239.1.6.40:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Candy HD
-http://94.230.118.22:81/udp/239.1.19.143:1234
-#EXTINF:0 group-title="ADULT" parent-code="1234",Frenchlover
-http://94.230.118.22:81/udp/239.1.19.140:1234
+http://193.93.236.121:9991/play/Hustler_HD/index.m3u8
+#EXTINF:0 group-title="ADULT" parent-code="1234",Hustler_HD
+http://193.93.236.121:9991/play/Hustler_HD/index.m3u8
+#EXTINF:0 group-title="ADULT" parent-code="1234",Playboy
+http://193.93.236.121:9991/play/Playboy/index.m3u8
