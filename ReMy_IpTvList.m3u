@@ -265,25 +265,25 @@ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:0 group-title="SPORTS",Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 1
+#EXTINF:0 group-title="SPORTS",Digi Sport 1
 http://82.79.218.142:8098/digi_sport_1--
-#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 2
+#EXTINF:0 group-title="SPORTS",Digi Sport 2
 http://82.79.218.142:8093/digi_sport2--
-#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 3
+#EXTINF:0 group-title="SPORTS",Digi Sport 3
 http://82.79.218.142:8096/digi_sport_3--
-#EXTINF:0 group-title="ADULT" parent-code="1234",Digi Sport 4
+#EXTINF:0 group-title="SPORTS",Digi Sport 4
 http://82.79.218.142:8093/digi_sport4_--
-#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 1 HD
+#EXTINF:0 group-title="SPORTS",Telekom Sport 1 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 2 HD
+#EXTINF:0 group-title="SPORTS",Telekom Sport 2 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 3 HD
+#EXTINF:0 group-title="SPORTS",Telekom Sport 3 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="ADULT" parent-code="1234",Telekom Sport 4 HD
+#EXTINF:0 group-title="SPORTS",Telekom Sport 4 HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="ADULT" parent-code="1234",Eurosport 1
+#EXTINF:0 group-title="SPORTS",Eurosport 1
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="ADULT" parent-code="1234",Eurosport 2
+#EXTINF:0 group-title="SPORTS",Eurosport 2
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="SPORTS",Depor TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
@@ -353,40 +353,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
 #EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:0 group-title="SPORTS",Match TV
-http://5.139.17.75:6689/stream?cid=3568
-#EXTINF:0 group-title="SPORTS",HD TV Match
-http://5.139.17.75:6689/stream?cid=91
-#EXTINF:0 group-title="SPORTS",Match! Arena
-http://5.139.17.75:6689/stream?cid=3652
-#EXTINF:0 group-title="SPORTS",Match! Arena HD
-http://5.139.17.75:6689/stream?cid=3577
-#EXTINF:0 group-title="SPORTS",Match! Fighter
-http://5.139.17.75:6689/stream?cid=82
-#EXTINF:0 group-title="SPORTS",Match! A game
-http://5.139.17.75:6689/stream?cid=3672
-#EXTINF:0 group-title="SPORTS",Match! HD Game
-http://5.139.17.75:6689/stream?cid=3572
-#EXTINF:0 group-title="SPORTS",Match! Our Sport
-http://5.139.17.75:6689/stream?cid=3669
-#EXTINF:0 group-title="SPORTS",Match! Planet
-http://5.139.17.75:6689/stream?cid=3676
-#EXTINF:0 group-title="SPORTS",Match! Football 1
-http://5.139.17.75:6689/stream?cid=3679
-#EXTINF:0 group-title="SPORTS",Match! Football 1 HD
-http://5.139.17.75:6689/stream?cid=3569
-#EXTINF:0 group-title="SPORTS",Match! Football 2
-http://5.139.17.75:6689/stream?cid=3671
-#EXTINF:0 group-title="SPORTS",Match! Football 2 HD
-http://5.139.17.75:6689/stream?cid=3570
-#EXTINF:0 group-title="SPORTS",Match! Football 3
-http://5.139.17.75:6689/stream?cid=3681
-#EXTINF:0 group-title="SPORTS",Match! Football 3 HD
-http://5.139.17.75:6689/stream?cid=3571
-#EXTINF:0 group-title="SPORTS",KHL HD
-http://5.139.17.75:6689/stream?cid=3678
-#EXTINF:0 group-title="SPORTS",KHL TV
-http://5.139.17.75:6689/stream?cid=3668
 #EXTINF:0 group-title="KIDS",****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:0 group-title="KIDS",DISNEY CHANNEL
@@ -413,8 +379,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 group-title="KIDS", Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD_NEWS",****((ReMy_WORLD_NEWS))****
-****((ReMy_WORLD_NEWS))****
+#EXTINF:0 group-title="ReMy_WORLD_NEWS",****((ReMy-WORLD-NEWS))****
+****((ReMy-WORLD-NEWS))****
 #EXTINF:0 group-title="NEWS",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0 group-title="NEWS",BBC News
