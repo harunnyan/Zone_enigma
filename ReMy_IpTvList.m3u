@@ -179,28 +179,6 @@ http://46.40.5.99:8000/arena_2_high
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:0 group-title="SPORTS",Arena Sport4
 http://46.40.5.99:8000/arena_4_high
-#EXTINF:0 group-title="SPORTS",Eurosport
-http://164.132.136.176:8000/0157
-#EXTINF:0 group-title="SPORTS",Eurosport2
-http://164.132.136.176:8000/0158
-#EXTINF:0 group-title="SPORTS",BCTV
-http://164.132.136.176:8000/0159
-#EXTINF:0 group-title="SPORTS",M4 Sport Hd
-http://164.132.136.176:8000/0149
-#EXTINF:0 group-title="SPORTS",Sport2
-http://164.132.136.176:8000/0155
-#EXTINF:0 group-title="SPORTS",Sport5
-http://164.132.136.176:8000/0156
-#EXTINF:0 group-title="SPORTS",Extreme Sports Channel
-http://164.132.136.176:8000/0127
-#EXTINF:0 group-title="SPORTS",RTL GOLD
-http://164.132.136.176:8000/0152
-#EXTINF:0 group-title="SPORTS",CBS REALITY
-http://164.132.136.176:8000/0153
-#EXTINF:0 group-title="SPORTS",P PRIME
-http://164.132.136.176:8000/0154
-#EXTINF:0 group-title="SPORTS",MTV
-http://164.132.136.176:8000/0161
 #EXTINF:0 group-title="SPORTS",TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:0 group-title="SPORTS",FB TV
@@ -227,12 +205,8 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:0 group-title="SPORTS",Abu Dhabi Sports 2
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:0 group-title="SPORTS",Sporting Tv HD
-http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="SPORTS",SportsTV
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:0 group-title="SPORTS",DUBAI SPORT
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",FIGHT TV
 http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
 #EXTINF:0 group-title="SPORTS",REAL MADRID
@@ -241,6 +215,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:0 group-title="SPORTS",CHELSEA FC TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:0 group-title="SPORTS",Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
 #EXTINF:0 group-title="SPORTS",MLB USA
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:0 group-title="SPORTS",NFL NOW
@@ -287,6 +263,14 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="SPORTS",Depor TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
+#EXTINF:0 group-title="SPORTS",Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 group-title="SPORTS",DUBAI SPORT
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 group-title="SPORTS",DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0 group-title="SPORTS",DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:0 group-title="SPORTS",Sevilla TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-b.m3u8
 #EXTINF:0 group-title="SPORTS",Automoto
@@ -315,30 +299,12 @@ http://38.96.148.30:1935/live/omantv2/playlist.m3u8
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:0 group-title="SPORTS",Sos Kanal TV (Servië)
 http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
-#EXTINF:0 group-title="SPORTS",Sport 1
-http://str01.mediatech.by:9001/sport1mp4b1
-#EXTINF:0 group-title="SPORTS",Sport 1
-http://str01.mediatech.by:9001/sport1mp2b1
-#EXTINF:0 group-title="SPORTS",SPORT TV 4K
-http://85.195.234.99:9981/stream/channelid/1989465340
-#EXTINF:0 group-title="SPORTS",SPORT TV 1
-http://85.195.234.99:9981/stream/channelid/1195774359
-#EXTINF:0 group-title="SPORTS",SPORT TV 2
-http://85.195.234.99:9981/stream/channelid/1340136075
-#EXTINF:0 group-title="SPORTS",SPORT TV 3
-http://85.195.234.99:9981/stream/channelid/1409687705
-#EXTINF:0 group-title="SPORTS",SPORT TV 4
-http://85.195.234.99:9981/stream/channelid/1473048772
-#EXTINF:0 group-title="SPORTS",SPORT TV 5
-http://85.195.234.99:9981/stream/channelid/1793422726
 #EXTINF:0 group-title="SPORTS",Tele Romagna SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",Todo Deporte TV
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:0 group-title="SPORTS",Uni Sports
 http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
-#EXTINF:0 group-title="SPORTS",Sporting HD
-http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="SPORTS",LIVE MOTOR SPORT
 http://45.58.62.92:8084
 #EXTINF:0 group-title="SPORTS",FIGHT NETWORK
@@ -351,6 +317,8 @@ http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0 group-title="LATINO",SONY TEN 2 HD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:0 group-title="KIDS",****((COCUK_KANALLARI_KIDS))****
@@ -369,16 +337,16 @@ https://streaming.kovalchuk.me/turk/cartoon_network/index.m3u8
 http://85.132.71.6/turk/minika_cocuk/index.m3u8
 #EXTINF:0 group-title="TURKEY",minika_cocuk
 https://streaming.kovalchuk.me/turk/minika_cocuk/index.m3u8
-#EXTINF:0 group-title="KIDS",Neox Kids ESP
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8
 #EXTINF:0 group-title="KIDS",TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0 group-title="KIDS",TRT OKUL
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:0 group-title="KIDS", Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:0 group-title="KIDS", Smile of a Child
-http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD_NEWS",****((ReMy_WORLD_NEWS))****
+****((ReMy_WORLD_NEWS))****
+#EXTINF:0 group-title="NEWS",CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 group-title="NEWS",CNN Turkia
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0 group-title="NEWS",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0 group-title="NEWS",BBC News
@@ -417,32 +385,32 @@ http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",****((EX/YU-BALKAN))****
 ****((EX/YU-BALKAN))****
-#EXTINF:0 group-title="EX/YU-BALKAN",PINK DM SAT
-http://178.132.6.97:8080/DMSAT/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="EX/YU-BALKAN",PREMIERA MUSIC
-http://178.132.6.97:8080/PrimeraMusic/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",A1 BALKAN
 http://178.132.6.97/A1Balkan/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",A1 ISLAM
 http://178.132.6.97/A1Islam/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",A1 SPORT
 http://178.132.6.97/A1Sport/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="EX/YU-BALKAN",SMART TV BOSNIA HERZEGOVINA
-http://178.132.6.97/bs:SMARTTVTESANJ/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",A1 rtv novipazar
+http://178.132.6.97:8080/a1rtvnovipazar/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",A1 vikom
+http://178.132.6.97:8080/a1vikom/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",MAR TV
+http://178.132.6.97/martv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",PINK DM SAT
+http://178.132.6.97:8080/DMSAT/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",PRIMERA MUSIC
+http://178.132.6.97:8080/PrimeraMusic/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",PRIMERA HD MUSIC
+http://178.132.6.97:8080/a1vikommusic/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",PRIMERA HD PLUS TV
+http://178.132.6.97:8080/PLUSHDTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",RTV1 Vojvodina
 http://178.132.6.97:8080/RTV1Vojvodina/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",RTV2 Vojvodina
 http://178.132.6.97:8080/RTV2Vojvodina/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="EX/YU-BALKAN",a1 rtv novipazar
-http://178.132.6.97:8080/a1rtvnovipazar/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="EX/YU-BALKAN",PRIMERA HD PLUS TV
-http://178.132.6.97:8080/PLUSHDTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="EX/YU-BALKAN",MAR TV
-http://178.132.6.97/martv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="EX/YU-BALKAN",PRIMERA HD MUSIC
-http://178.132.6.97:8080/a1vikommusic/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="EX/YU-BALKAN",a1 vikom
-http://178.132.6.97:8080/a1vikom/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EX/YU-BALKAN",SMART TV BOSNIA HERZEGOVINA
+http://178.132.6.97/bs:SMARTTVTESANJ/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",SYRI BLUE HD TV
 http://178.132.6.97:8080/SYRIBLUEHDTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",TV Plisi
@@ -485,6 +453,16 @@ http://178.132.6.97:8080/TVVogosca/tracks-v1a1/mono.m3u8
 http://178.132.6.97:8080/DashmaTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",****((ReMy_WORLD))****
 ****((ReMy_WORLD))****
+#EXTINF:0 group-title="ReMy_WORLD",FashionID
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",H 3D Media
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",World Fashion
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",AXN HD
 http://145.129.238.137:8000/play/a045
 #EXTINF:0 group-title="ReMy_WORLD",BBC Earth HD
@@ -591,6 +569,10 @@ http://130.185.144.110:8081/AR/CBCEXTRA/playlist.m3u8
 http://130.185.144.110:8081/AR/CBCSOFRA/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",MELODY CLASSIC
 http://130.185.144.110:8081/AR/MELODYCLASSIC/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Fashion TV HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0 group-title="ReMy_WORLD",Fashion TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",AXN
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AXN/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",AXN HD
@@ -699,10 +681,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$DaVinci/6.m3u8/Level(545259)?start=L
 http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",Discovery Science
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="ReMy_WORLD",Fashion TV HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="ReMy_WORLD",Fashion TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",UEFA 1
 http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA1/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",UEFA 2
@@ -731,108 +709,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?star
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="ReMy_WORLD",TV CITY
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="ReMy_WORLD",BBC
-http://185.59.221.136:9981/stream/channelid/650783408?ticket=4c27bbdb52ebd57967b51edbffa595d54108058e&profile=pass
-#EXTINF:0 group-title="ReMy_WORLD",BBC2 HD
-http://185.59.221.136:9981/stream/channelid/382198530?ticket=b886e552fd3a08b70ed405147fb3d35b1a810e0f&profile=pass
-#EXTINF:0 group-title="ReMy_WORLD",ITV1 HD
-http://185.59.221.136:9981/stream/channelid/1998784340?ticket=0b47b025e7dfcfa70ee686f65356823b4696e9e2&profile=pass
-#EXTINF:0 group-title="ReMy_WORLD",ITV2 HD
-http://185.59.221.136:9981/stream/channelid/2139720971?ticket=5c8bd2021f95cb20b3a9fb025a136b06cfaaec7f&profile=pass
-#EXTINF:0 group-title="ReMy_WORLD",BBC ONE HD
-http://185.59.221.136:9981/stream/channelid/650783408
-#EXTINF:0 group-title="ReMy_WORLD",BBC TWO HD
-http://185.59.221.136:9981/stream/channelid/382198530
-#EXTINF:0 group-title="ReMy_WORLD",BBC FOUR HD
-http://185.227.241.19:8000/play/a01x/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITV HD
-http://185.59.221.136:9981/stream/channelid/1998784340
-#EXTINF:0 group-title="ReMy_WORLD",ITV 2 HD
-http://185.59.221.136:9981/stream/channelid/2139720971
-#EXTINF:0 group-title="ReMy_WORLD",ITV 3 HD
-http://185.227.241.19:8000/play/a02a/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITV 4 HD
-http://185.227.241.19:8000/play/a02b/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BBC RED BUTTON
-https://ovh.easyview.eu/hls/bbcredbutton.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BBC NEWS
-https://ovh.easyview.eu/hls/bbcnews.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BBC PARLIAMENT
-https://ovh.easyview.eu/hls/bbc_parliament.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BBC ONE
-https://ovh.easyview.eu/hls/bbc1.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BBC TWO
-https://ovh.easyview.eu/hls/bbc2.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BBC THREE (OFF-AIR)
-https://ovh.easyview.eu/hls/bbc3.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BBC FOUR
-https://ovh.easyview.eu/hls/bbc4.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CBBC
-https://ovh.easyview.eu/hls/cbbc.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CBEEBIES
-https://ovh.easyview.eu/hls/cbeebies.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITV 1
-https://ovh.easyview.eu/hls/itv.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITV 2
-https://ovh.easyview.eu/hls/itv2.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITV 3
-https://ovh.easyview.eu/hls/itv3.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITV 4
-https://ovh.easyview.eu/hls/itv4.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CITV
-https://ovh.easyview.eu/hls/citv.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITVBe
-https://ovh.easyview.eu/hls/itvbe.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ITV Encore
-https://ovh.easyview.eu/hls/itvencore.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CHANNEL 4
-https://ovh.easyview.eu/hls/channel4.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",FILM 4
-https://ovh.easyview.eu/hls/film4.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",E4
-https://ovh.easyview.eu/hls/e4.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",4Seven
-https://ovh.easyview.eu/hls/4seven.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",More 4
-https://ovh.easyview.eu/hls/more4.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",FIVE
-https://ovh.easyview.eu/hls/five.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",DAVE
-https://ovh.easyview.eu/hls/dave.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",DAVE JA VU
-https://ovh.easyview.eu/hls/davejavu.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",GOLD
-https://ovh.easyview.eu/hls/gold.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CHALLENGE
-https://ovh.easyview.eu/hls/challenge.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",REALLY
-https://ovh.easyview.eu/hls/really.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",YESTERDAY
-https://ovh.easyview.eu/hls/yesterday.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",DRAMA
-https://ovh.easyview.eu/hls/drama.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",QUEST
-https://ovh.easyview.eu/hls/quest.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",QUEST RED
-https://ovh.easyview.eu/hls/questred.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",FOOD NETWORK +1
-https://ovh.easyview.eu/hls/foodnetworkplus1.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TRAVEL CHANNEL +1
-https://ovh.easyview.eu/hls/travelchannelplus1.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BET
-https://ovh.easyview.eu/hls/betblackenttv.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",FASHION TV
-https://ovh.easyview.eu/hls/fashiontv.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ANIMAL PLANET HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",DISCOVERY HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",DISCOVERY TURBO
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",DISCOVERY SCIENCE
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TLC HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TV21
@@ -887,48 +763,20 @@ http://c2.manasat.com:1935/kmusic/kmusic3/remy.m3u8
 http://195.22.11.11:1935/ktv/ktv1/remy.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Lyubimoe TV
 http://wse.planeta-online.tv:1935/live/channel_6/chunklist_w160323439.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Diving TV
-http://wse.planeta-online.tv:1935/live/channel_130/chunklist_w1338041556.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Doctor Gradus
 http://wse.planeta-online.tv:1935/live/channel_22/chunklist_w1324524581.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Kabbala TV
 http://wse.planeta-online.tv:1935/live/kabbala.stream/chunklist_w1144336278.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TV TUR
 http://wse.planeta-online.tv:1935/live/channel_2/chunklist_w1838022782.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",PlanetE
-http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Premera TV
 http://wse.planeta-online.tv:1935/live/channel_5/chunklist_w1736880322.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",UNION
 http://wse.planeta-online.tv:1935/live/soyuz.stream/chunklist_w738961195.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ONE
-http://213.215.84.17:8000/play/orf1/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",ORF 2
 http://orf2.orf.cdn.ors.at/orf2/q4a.sdp/chunklist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ProSieben
-http://213.215.84.17:8000/play/prosieben/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",rbb
-http://213.215.84.17:8000/play/rbb/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",RTP AFRICA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:0 group-title="ReMy_WORLD",Sat.1
-http://213.215.84.17:8000/play/sat1/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",SIC
-http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",SIC MULHER
-http://asdp.ddns.net:8000/live/adriano/adriano/360.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TCV
-http://213.13.26.11:1935/live/rtc_teste/remy.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELECINE CULT
-http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3899.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELECINE FUN
-http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3897.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELECINE PIPOCA
-http://128.201.60.46:8000/play/001/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELECINE TOUCH
-http://br1.e-tv.xyz:8081/live/likefree/LURrCW3cTE/3891.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TV GALICIA
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TV RECORD HD
@@ -939,100 +787,36 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusin
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TVI HD
 http://62.28.213.14:9981/stream/channelid/1402355728
-#EXTINF:0 group-title="ReMy_WORLD",TVI24
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ZDF
-http://213.215.84.17:8000/play/zdf/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",zdf_neo
-http://213.215.84.17:8000/play/zdfneo/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",5-kanal
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/5-kanal.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",13 TV LATINO
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",24 Riga TV
 http://player.tvnet.lv/live/amlst:11/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",360 HD
-http://br.watcha.live/ch12/hi720.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",360 TV LATINO
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",8 TV LATINO
-rtmp://178.33.113.212/8TV/8aldia-directe
 #EXTINF:0 group-title="ReMy_WORLD",8TV
 http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",]RBC Online LATINO
 rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
-#EXTINF:0 group-title="ReMy_WORLD",A3S
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ReMy_WORLD",ALAZEERA (Documentary)
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ALFA OMEGA
-rtmp://s5.alfaomega.tv/alfaomega/alfaomega2.sdp 
 #EXTINF:0 group-title="ReMy_WORLD",Alsace20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Animax
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ReMy_WORLD",ANTENA 3 INT
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Aprende TV
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",ARD
 http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&
-#EXTINF:0 group-title="ReMy_WORLD",ATV Antwerpen
-http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/index_1_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0 group-title="ReMy_WORLD",AZTECA 7
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ReMy_WORLD",AZTEKA 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BFM
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",BNP TV
-mms://bnptv.info:10801
 #EXTINF:0 group-title="ReMy_WORLD",Blizz
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",C5N HD
-http://br.watcha.live/ch1/hi720.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CANAL +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",CANAL 13 ESPAÑA
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CANAL 13 MAX (Corrientes)
-http://coninfo.net:1935/13max/live/chunklist_w649322582.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Canal 22
-http://canal22santiago.cl/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Canal 38 Carnaval 
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8 
-#EXTINF:0 group-title="ReMy_WORLD",CANAL 9 FHD
-http://br.watcha.live/ch5/full.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CANAL 9 HD
-http://br.watcha.live/ch5/hi.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CGTN Documentary
-http://live.cgtn.com/cctv-d.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Chespirito TV
-https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CHESPIRITOMANIA  24/7
-https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CINE CALIDAD 24/7
-https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CINE MEXICANO
-https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CINE PLATINO
-https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CINE STAR 24/7
-https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CN23 HD
-http://br.watcha.live/ch11/hiSD.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&
 #EXTINF:0 group-title="ReMy_WORLD",Drenthe
@@ -1051,28 +835,18 @@ http://edge76.rcs-rds.ro/digi24edge/digi24oradealivehls/chunklist_w1425121180.m3
 http://edge76.rcs-rds.ro/digi24edge/digi24timislivehls/chunklist_w2016306342.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Digi24 
 http://edge76.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w499716744.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",DIPUTADOS TV
-http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Donau TV 
-rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 
-#EXTINF:0 group-title="ReMy_WORLD",Dragon Ball Z
-https://clutch.vaughnsoft.net/ord/vl/mega_animes.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",DW
 http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",DW Entretenimiento
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ReMy_WORLD",Efecto TV
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",EL PINGOINO
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",ETB SAT
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Evenaar
 https://urtmpkal-f.akamaihd.net/i/12qekz6vu_1@180481/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ReMy_WORLD",FashionID
-http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",FIX FOXI
@@ -1087,16 +861,10 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Grand Lille
 rtmp://str81.creacast.com/grandlilletv/high
-#EXTINF:0 group-title="ReMy_WORLD",H 3D Media
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",HistORY tv
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",History Lab
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ID Fashion
-http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",INDIES LIVE
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",INTV
@@ -1107,32 +875,16 @@ rtmp://str81.creacast.com:80/iltv/high
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",ITV Patagonia 
 http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",JOJ HD
-http://http-stream.joj.sk/joj/joj/index-hq.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",JOJ PLUS HD
-http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",JUG TV
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Klipkar TV
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",KOHA
 rtmp://live.tvkoha.tv/live/koha/livestream
 #EXTINF:0 group-title="ReMy_WORLD",Kronehit
 http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8?version=3#no_vod
 #EXTINF:0 group-title="ReMy_WORLD",KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ReMy_WORLD",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8?sd=10&amp;rebase=on
 #EXTINF:0 group-title="ReMy_WORLD",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",LAS ESTRELLAS SUR
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",lcreme_horror24/7
-https://clutch.vaughnsoft.net/ord/vl/lcreme_horror.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",LITUS TV SANTA FE
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Locomotion
@@ -1143,14 +895,6 @@ http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MBC 2
-http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MBC 4
-http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MBC ACTION
-http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MBC MAX
-http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Dessau
 rtmp://62.113.210.250/medienasa-live/ok-dessau_high
 #EXTINF:0 group-title="ReMy_WORLD",MAGDEBURG
@@ -1163,74 +907,26 @@ http://62.113.210.250/medienasa-live/mdf1_high/remy.m3u8
 http://62.113.210.250/medienasa-live/punktum_high/ReMy.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",rbw
 http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Media TV
-http://mediatv.novanet.ro/mediatv/mediatv.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Mediaset
-http://se-mi2-8.se.hlslive.msf.ticdn.it/hls/CH14/live_Layer3.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Mega Kids
-https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MEGA KIDS 24/7
-https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Mello TV
-http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MIS PELICULAS
-https://latamonly-lh.akamaihd.net/i/mispeliculas_1@321856/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Moldova 1
 http://live.trm.md:1935/live/M1Mlive/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Moldova 2
 http://live.trm.md:1935/live/M2Mlive/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Movistar DCine
-http://185.231.160.42/646/2/index.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Multi TV
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MULTICINEMA HD
-https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MultiPremier
-https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",MULTIPREMIER
-https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",NASA
-https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Nest TV
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Nitricka
 http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Niu TV 
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8 
-#EXTINF:0 group-title="ReMy_WORLD",Nova
-http://hls.frf.cdn.bg:2060/fls/ntv_1.stream/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Nova Era TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",NOVA TV
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",NRB
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",NRT 2
-http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Ntk
 http://ntk.cdnvideo.ru:1935/ntk-live//ntk.sdp/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Ocho TV LATINO
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ORLER CHANNEL
-http://77.92.76.135:1935/orler/livestream/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Panico HD
-https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",PANICO
-https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",PASIONES HD
-https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",PAT LATINO
-http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",PDVSA TV LATINO
-rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
-#EXTINF:0 group-title="ReMy_WORLD",Peliculas Icreme_Dreams
-https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/remy.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",PORTO CANAL
@@ -1247,8 +943,6 @@ http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",RAI 5
 http://stream12.rai.it/live/rai5.smil/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ReMy_WORLD",RAI Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="ReMy_WORLD",RAI Movie
@@ -1257,58 +951,22 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ReMy_WORLD",Rai Scuola
-http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Rai YoYo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",RAI5
-http://stream12.rai.it/live/smil:rai5.smil/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",RCG Televisión LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",RETE 55
-http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",ROSSIA1
-http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/504/index.m3u8?token=null
-#EXTINF:0 group-title="ReMy_WORLD",VIP COMEDY
-http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/200/index.m3u8?token=null
-#EXTINF:0 group-title="ReMy_WORLD",HISTORY
-http://31.3.245.58:80/iptv/3YUC4C9SA6ZANT/231/index.m3u8?token=null 
-#EXTINF:0 group-title="ReMy_WORLD",RT doc
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?Cultura.m3u8?
 #EXTINF:0 group-title="ReMy_WORLD",TBS BRASIL TV
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELEFE FHD
-http://ar.watcha.live/ch6/full.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELEFE HD
-http://ar.watcha.live/ch6/hi.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELEMUNDO 51
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TELEVESDRE
-http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Tirol
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TOP_CinemaHD
-http://topchantv.net:3456/live/topchantv.net/DlyaSaytaSrteam/1611.ts
-#EXTINF:0 group-title="ReMy_WORLD",TOPE STRADA TV
-rtmp://89.163.208.115/live/topestrada/livestream
 #EXTINF:0 group-title="ReMy_WORLD",TV 10
 rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
 #EXTINF:0 group-title="ReMy_WORLD",TV+
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TV1 (4:3)
-http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TV7
-http://62.210.204.108:1935/livtv7vo/myStream.smil/chunklist_w1048374224_b828000_slfra.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TVA
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TVC DEPORTES
-https://latamonly-lh.akamaihd.net/i/tvcdeporteshd_1@578064/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TV Partizan
 http://212.200.102.3:5000/udp/239.99.99.99:23999
 #EXTINF:0 group-title="ReMy_WORLD",TelePAVIA
@@ -1333,24 +991,12 @@ rtmp://vod.tv7.fi/tv7plus-web/_definst_/mp4:tv7plus.stream_360p
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w1665390578_b1392000.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",TV BLUE
 http://vtsstr4.sctv.vn:1935/testlive1/vtc5_SD.smil/chunklist_w1665390578_b2292000.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TV PUBLICA FHD
-http://ar.watcha.live/ch4/full.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",TV PUBLICA HD
-http://ar.watcha.live/ch4/hi.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",UNIMAS
-http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
-#EXTINF:0 group-title="ReMy_WORLD",UNICANAL
-http://strm.unicanal.com.py/live/unicanal_src.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",UNICANAL 
-http://strm.unicanal.com.py/live/unicanal_mid.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Welt Der Wunder
 http://live.vidoo.de/live/weltderwunder/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:0 group-title="ReMy_WORLD",World Fashion
-http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",ZEELAND TV
 rtmp://livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp
 #EXTINF:0 group-title="ReMy_WORLD",Wanasah
@@ -1419,22 +1065,34 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:0 group-title="LATINO",****((LATINO_CHANNELS))****
 ****((LATINO_CHANNELS))****
-#EXTINF:0 group-title="LATINO",ANIPLUS
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
-#EXTINF:0 group-title="LATINO",ASTRO ARENA HD
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:0 group-title="LATINO",ASTRO GO SHOP
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
 #EXTINF:0 group-title="LATINO",AXN HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
-#EXTINF:0 group-title="LATINO",CHANNEL 5
-https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-#EXTINF:0 group-title="LATINO",CHANNEL NEWS ASIA
-https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
-#EXTINF:0 group-title="LATINO",DIAMOND TV
-http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/chunklist_w1072111297.m3u8
 #EXTINF:0 group-title="LATINO",DISCOVERY WORLD HD
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ANIMAL PLANET HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",DISCOVERY HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",DISCOVERY TURBO
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",DISCOVERY SCIENCE
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",TLC HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+#EXTINF:0 group-title="LATINO",SONY ONE 
+http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
+#EXTINF:0 group-title="LATINO",SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0 group-title="LATINO",SONY LE PLEX HD
+http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
+#EXTINF:0 group-title="LATINO",SONY MAX HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
+#EXTINF:0 group-title="LATINO",SONY MIX
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:0 group-title="LATINO",SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:0 group-title="LATINO",TLC HD WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
 #EXTINF:0 group-title="LATINO",FOX ACTION MOVIES
 http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
 #EXTINF:0 group-title="LATINO",FOX FAMILY MOVIES
@@ -1447,6 +1105,18 @@ http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:0 group-title="LATINO",KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:0 group-title="LATINO",ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+#EXTINF:0 group-title="LATINO",ASTRO ARENA HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:0 group-title="LATINO",ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
+#EXTINF:0 group-title="LATINO",CHANNEL 5
+https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
+#EXTINF:0 group-title="LATINO",CHANNEL NEWS ASIA
+https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+#EXTINF:0 group-title="LATINO",DIAMOND TV
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/chunklist_w1072111297.m3u8
 #EXTINF:0 group-title="LATINO",OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:0 group-title="LATINO",RTM 1
@@ -1455,38 +1125,14 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 #EXTINF:0 group-title="LATINO",SBSIN 
 http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
-#EXTINF:0 group-title="LATINO",SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0 group-title="LATINO",SONY LE PLEX HD
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:0 group-title="LATINO",SONY MAX HD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
-#EXTINF:0 group-title="LATINO",SONY MIX
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8
-#EXTINF:0 group-title="LATINO",SONY ONE 
-http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
-#EXTINF:0 group-title="LATINO",SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:0 group-title="LATINO",SONY TEN 2 HD
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:0 group-title="LATINO",SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
 #EXTINF:0 group-title="LATINO",THRILL
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:0 group-title="LATINO",TLC HD WORLD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
 #EXTINF:0 group-title="LATINO",TV Okey
 http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:0 group-title="LATINO",13 Max Digital
-http://coninfo.net:1935/13max/live/chunklist.m3u8
-#EXTINF:0 group-title="LATINO",34 Antena ESPANA
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:0 group-title="LATINO",8 TV ESP
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
 #EXTINF:0 group-title="LATINO",A+
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-#EXTINF:0 group-title="LATINO",ACS Network
-http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8
 #EXTINF:0 group-title="LATINO",AD Sports 1 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:0 group-title="LATINO",AD Sports 1 HD
@@ -1496,81 +1142,35 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:0 group-title="LATINO",AD Sports 2 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:0 group-title="LATINO",ADN 40
-http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="LATINO",ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="LATINO",ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
 #EXTINF:0 group-title="LATINO",ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-#EXTINF:0 group-title="LATINO",AME 47
-http://domiradio.srfms.com:1935/domiradio/livestream/playlist.m3u8
 #EXTINF:0 group-title="LATINO",Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0 group-title="LATINO",ANTENA 3 ESP
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:0 group-title="LATINO",ANTENA3 ESPA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:0 group-title="LATINO",Atreseries ESPA
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:0 group-title="LATINO",ATRESERIES HD ESP
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="LATINO",ATV
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
-#EXTINF:0 group-title="LATINO",Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="LATINO",Azteca+ Plus
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="LATINO",BFM Sport
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
-#EXTINF:0 group-title="LATINO",Cable NOTICIAS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:0 group-title="LATINO",CableOnda Sports FC
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
 #EXTINF:0 group-title="LATINO",Cali Tv
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:0 group-title="LATINO",Camila
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_camila_031215_1000k.m3u8
-#EXTINF:0 group-title="LATINO",CANA U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:0 group-title="LATINO",CANAL 10 CHETUMAL
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:0 group-title="LATINO",CANAL 10 CHIAPAS
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
-#EXTINF:0 group-title="LATINO",Canal 11
-http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
 #EXTINF:0 group-title="LATINO",CANAL 11
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 #EXTINF:0 group-title="LATINO",CANAL 11
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
 #EXTINF:0 group-title="LATINO",CANAL 11 MEXICO
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
-#EXTINF:0 group-title="LATINO",Canal 11 Repretel
-http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/chunklist_b1098304_sles.m3u8
 #EXTINF:0 group-title="LATINO",Canal 13 Movil
 http://cdn.ztreaming.com/t13vivo3/mobile.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",CANAL 14 CALI
-http://181.143.238.252/live/livestream/index.m3u8
-#EXTINF:0 group-title="LATINO",Canal 2 Repretel
-http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
 #EXTINF:0 group-title="LATINO",Canal 2 Telpin Tv
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="LATINO",Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Canal 26 2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Canal 26 3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Canal 4 Jujuy
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Canal 5
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
-#EXTINF:0 group-title="LATINO",Canal 6 Repretel
-http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
 #EXTINF:0 group-title="LATINO",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Canal Antiestres
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="LATINO",Canal Capital
 http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="LATINO",Canal Capital HD
@@ -1583,20 +1183,12 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="LATINO",Canal Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:0 group-title="LATINO",Canal RPP
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",CANAL RPP
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
 #EXTINF:0 group-title="LATINO",Canal Trece
 http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 #EXTINF:0 group-title="LATINO",CANAL VASCO ESP
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0 group-title="LATINO",CANAL WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="LATINO",CANCIONERO TV
-http://89.140.99.41/hls/1080.m3u8
-#EXTINF:0 group-title="LATINO",Caracol
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?dl=1
 #EXTINF:0 group-title="LATINO",CDO DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:0 group-title="LATINO",Central TV Peru
@@ -1607,16 +1199,8 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 http://live.cgtn.com/cctv-e.m3u8
 #EXTINF:0 group-title="LATINO",ChapinTv 3
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u8
-#EXTINF:0 group-title="LATINO",CHAVO ANIMADO 24/7
-http://3.sendvid.com/y00xutjl.mp4/
-#EXTINF:0 group-title="LATINO",CHELSEA TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:0 group-title="LATINO",CHELSEA TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
-#EXTINF:0 group-title="LATINO",ciaremux
+#EXTINF:0 group-title="LATINO",Ciaremux
 https://cialivetec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8&ip=190.237.110.62&hash=0d04fddca63552542d7ce&width=700&height=395&hide=0&credentials=1&timestamp=1522721627&ttl=172800&cache=55773.054290047825
-#EXTINF:0 group-title="LATINO",CIBER VISION 3 NAGUA
-http://ss6.domint.net:2078/ctv_str/cibervision/chunklist_w1913971982.m3u8
 #EXTINF:0 group-title="LATINO",CIELO TV
 http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w146683974.m3u8
 #EXTINF:0 group-title="LATINO",CILENCE TV
@@ -1625,40 +1209,18 @@ http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:0 group-title="LATINO",CNC COLOMBIA QINDO
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
-#EXTINF:0 group-title="LATINO",CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",CNN Turkia
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0 group-title="LATINO",Cable Noticias
 http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",COLOSAL TV
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
-#EXTINF:0 group-title="LATINO",COLOSAL TV Ciudad Neily
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:0 group-title="LATINO",Cool 103.7
-http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:0 group-title="LATINO",COS CABLEONDA SPORT
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
-#EXTINF:0 group-title="LATINO",Cosmovision
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Deport Tv
-https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
 #EXTINF:0 group-title="LATINO",Digital Peru
 http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="LATINO",DJPanduroThe80sVideomixVolume1
 https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
-#EXTINF:0 group-title="LATINO",Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:0 group-title="LATINO",DW ESP
 http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
 #EXTINF:0 group-title="LATINO",DW Latino
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="LATINO",DW LATINOAMERICA
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:0 group-title="LATINO",DXTV DEPORTES
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:0 group-title="LATINO",DXTV DEPORTES
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:0 group-title="LATINO",Television Nacional
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="LATINO",TVS
@@ -1701,46 +1263,22 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
 #EXTINF:0 group-title="LATINO",COSTA RICA
 http://www.imagenesmedicas.cr/web/wp-content/uploads/2015/05/Teletica-1.jpg"
-#EXTINF:0 group-title="LATINO",HEARTY TV MUSIC
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0 group-title="LATINO",INFANTILES:AnimeXtv
-http://locomotiontv.com/envivo/test/animextv_alpha_131017.m3u8
 #EXTINF:0 group-title="LATINO",INFANTILES:Tacho Pistacho
 http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
 #EXTINF:0 group-title="LATINO",INFANTILES:Trailer Tv Kids
 http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
 #EXTINF:0 group-title="LATINO",Kurt Cobain: Montage of Heck
 https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
-#EXTINF:0 group-title="LATINO",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:0 group-title="LATINO",La Tele Tuya
-http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",La Tele Tuya
-http://enc-fwt.lorini.net/telet/telet/index.m3u8
-#EXTINF:0 group-title="LATINO",Las Estrellas -2hrs
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0 group-title="LATINO",Lifedesing
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="LATINO",Litus Tv
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:0 group-title="LATINO",LOCOMOTION
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:0 group-title="LATINO",LOGOS TV
-http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
-#EXTINF:0 group-title="LATINO",Los Bunkers
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_bunkers_031215_2200k.m3u8
-#EXTINF:0 group-title="LATINO",Los Jaivas
-https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_los_jaivas_031215_2200k.m3u8
 #EXTINF:0 group-title="LATINO",M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="LATINO",Manuel Garcia
 https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_manuel_garcia_031215_2200k.m3u8
 #EXTINF:0 group-title="LATINO",MEJOR LIGE BASSE BALL
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 group-title="LATINO",MI MUSICA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:0 group-title="LATINO",MIAMI TV
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8?CeceGeek.m3u8
 #EXTINF:0 group-title="LATINO",Milenio TV
 https://dl.dropboxusercontent.com/s/dh5k6plvgjwgbic/milenio.m3u8
 #EXTINF:0 group-title="LATINO",MILENIO TV
@@ -1875,30 +1413,14 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
 #EXTINF:0 group-title="LATINO",SON POPULAR
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
-#EXTINF:0 group-title="LATINO",Sporting Tv HD
-http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Sporting Tv SD
-http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",Sporting Tv SD
-http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream3/chunks.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 group-title="LATINO",SPORTS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 #EXTINF:0 group-title="LATINO",Sports Tv
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:0 group-title="LATINO",SUN CHANNEL
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
-#EXTINF:0 group-title="LATINO",SUN CHANNEL
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?
-#EXTINF:0 group-title="LATINO",Sun Channel
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?chile.m3u8?
 #EXTINF:0 group-title="LATINO",SUN CHANNEL OP 2
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
 #EXTINF:0 group-title="LATINO",Super 5
 http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
 #EXTINF:0 group-title="LATINO",SUPER 5 TV COSTA RICA
 http://k4.usastreams.com/superC/superC_1/playlist.m3u8
-#EXTINF:0 group-title="LATINO",TBN
-http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="LATINO",TC HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 #EXTINF:0 group-title="LATINO",TC HD COLOMBIA
@@ -2175,6 +1697,10 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0 group-title="MUSIC",CHAU Tv
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:0 group-title="MUSIC",COLOSAL TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
+#EXTINF:0 group-title="MUSIC",COLOSAL TV Ciudad Neily
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 #EXTINF:0 group-title="MUSIC",DJING
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:0 group-title="MUSIC",DJING HD
@@ -2209,6 +1735,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:0 group-title="MUSIC",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 group-title="MUSIC",HEARTY TV MUSIC
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0 group-title="MUSIC",HIT TV
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:0 group-title="MUSIC",Hit Music
