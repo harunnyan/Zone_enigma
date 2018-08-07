@@ -1,12 +1,32 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A0:0:0:0:0:0:0:0:::::::_REMY_ENIGMA|TURK_TEAM_::::
 #DESCRIPTION :::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
-#DESCRIPTION S sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8080/sport1.ts:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2d04.janjuaplayer.com%3a8088/adfree/futbolkafetivibu2/media_30.ts?id=82676&wowzasessionid=3556270445&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:TIVIBU SPOR
+#DESCRIPTION TIVIBU SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2201.janjuaplayer.com%3a8088/adfree/futbolkafetivibu3/playlist.m3u8?id=82677&wowzasessionid=3788191634&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:TIVIBU SPOR3
+#DESCRIPTION TIVIBU SPOR3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2201.janjuaplayer.com%3a8088/adfree/futbolkafetivibu4/playlist.m3u8?id=82674&wowzasessionid=3929971669&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:TIVIBU SPOR4
+#DESCRIPTION TIVIBU SPOR4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2d04.janjuaplayer.com%3a8088/adfree/futbolkafe4/playlist.m3u8?id=82682&wowzasessionid=433634172&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:BEIN SPOR
+#DESCRIPTION BEIN SPOR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2d03.janjuaplayer.com%3a8088/adfree/futbolkafe1/playlist.m3u8?id=82673&wowzasessionid=3902288147&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:BEIN SPOR1
+#DESCRIPTION BEIN SPOR1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2201.janjuaplayer.com%3a8088/adfree/futbolkafe2/playlist.m3u8?id=82665&wowzasessionid=282991585&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:BEIN SPOR2
+#DESCRIPTION BEIN SPOR2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2201.janjuaplayer.com%3a8088/adfree/futbolkafenbatv/playlist.m3u8?id=82681&wowzasessionid=3423485407&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:NBA TV
+#DESCRIPTION NBA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2d04.janjuaplayer.com%3a8088/adfree/futbolkafe1/playlist.m3u8?id=82673&wowzasessionid=38315870&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:BEIN-SMART DONGU
+#DESCRIPTION BEIN-SMART DONGU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2201.janjuaplayer.com%3a8088/adfree/saransport/playlist.m3u8?id=82675&wowzasessionid=431894697&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d:S SPORT
+#DESCRIPTION S SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canlimac.futbolcafetv12.org/kanallar/kanal1/ligtv.m3u8:S sport
+#DESCRIPTION S sport
+#SERVICE 1:0:1:1:0:0:0:0:0:0:https%3a//www.youtube.com/watch?v=hAfG9ZWsdTU:SporToto SüperLig Canlı
+#DESCRIPTION SporToto SüperLig Canlı
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-02.nyc.dailymotion.com/52/dm/3/x21oo10/live-3.m3u8:FB TV
 #DESCRIPTION FB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.yayindayiz.biz/Bursaspor/bursaspor/master.m3u8:BURSASPOR TV
