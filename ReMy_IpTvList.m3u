@@ -43,6 +43,10 @@ http://canli2.tvnet.tv.tr/live/smil:ntvspor.smil/master.m3u8
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 group-title="TURKEY",SONY CHANNEL TV
 http://ams.tvizlehd.com/live/sonychannel/playlist.m3u8
+#EXTINF:0 group-title="TURKEY",PLANET MUTFAK
+https://ams.tvizlehd.com/live/planetmutfak/chunks.m3u8
+#EXTINF:0 group-title="TURKEY",NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8?
 #EXTINF:0 group-title="TURKEY",Aile TV
 http://ms.n1.tvkur.noccdn.com/cdn/558d0f34918a2/playlist.m3u8
 #EXTINF:0 group-title="TURKEY",CIFTCI TV
@@ -1005,6 +1009,238 @@ http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 #EXTINF:0 group-title="ReMy_WORLD",CNBC Arabiya
 http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",AAA_FAMILY
+http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",AAA_FAMILY-2
+http://63.237.48.28/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",FARSI1
+http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",FACE2
+http://63.237.48.28/ios/FACE2/FACE2.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",GEM_USA
+http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC 2,
+http://63.237.48.28/ios/MBC2/MBC2.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC 4,
+http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC 4,
+http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC MAX,
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC MAX,
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC MAX2,
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC_ACTION,
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC_ACTION,
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC_MAX,
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MBC_MAX,
+http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",orbit Musalsalat hd 
+http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",orbot Cinema 1
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",seevii Music Now 
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",seevii FASHION BOX hd
+http://9886.akamai.live.selevision.com/live/9886/98862/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",seevii Jim&jam
+http://9886.akamai.live.selevision.com/live/9886/98866/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Seevii one HD
+http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",seevii Cw
+http://9886.akamai.live.selevision.com/live/9886/98860/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc 1
+http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc+ drama
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc masr
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc masr 2
+http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc variety hd
+http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc 4 hd
+http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc action hd
+http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc bollywood
+http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc 3
+http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc
+http://9886.akamai.live.selevision.com/live/9886/98867/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",B4u aflam
+http://selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZEE ALWAN
+http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Imagine Movies
+http://selevision9890-i.akamaihd.net/hls/live/219325/98908/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Nat geo ha
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Quest arabiya
+http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",bahrain sport 2
+http://9886.akamai.live.selevision.com/live/9886/98861/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",France 24 english
+http://9886.akamai.live.selevision.com/live/9886/98864/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Cbc +2
+http://9886.akamai.live.selevision.com/live/9886/98863/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Cbc sofra
+http://selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Panorama food
+http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",El nahar algeria
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Rotana Aflam
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Cima Habisha TV
+http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Toktok Cinema
+http://selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ELQAHIRA W EL NAS
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",elmasriya ONE
+http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Ad emarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Ad drama
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mtv lebanon
+http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Ldc
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Aljadeed
+http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Seevii drama sd
+http://9886.akamai.live.selevision.com/live/9886/98868/master.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Aljazairiya
+rtmp://82.212.74.100/live//8019
+#EXTINF:0 group-title="ReMy_WORLD",Tunis one
+http://s3.live-tv-direct.com:8005/WATANIYA1/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Tunisia 2
+http://s3.live-tv-direct.com:8005/WATANIYA2/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Aldafra
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Altase3a
+http://s3.live-tv-direct.com:8005/AttessiaTv/playlist.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Abc tv
+rtmp://82.212.74.98/live//7908
+#EXTINF:0 group-title="ReMy_WORLD",Almajd quran
+http://199.167.151.237:1935/live/dub_1_ch1279/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Tarteel
+rtmp://82.212.74.101/live//8043
+#EXTINF:0 group-title="ReMy_WORLD",Majid
+http://zona-live-tv.com/Channels/MajidTV.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Mbc3
+http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Jeem
+http://149.202.199.52:9000/live/1101510874/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODA2MTgxMjgsIm5iZiI6MTQ4MDYxODEyOH0.WVFLe4B1ipETFSYSPJ7IYSDQk6Rm-D2wlNc-EHxbqWc
+#EXTINF:0 group-title="ReMy_WORLD",Baraem
+http://149.202.199.52:9000/live/234638976/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODA2MTgxMjgsIm5iZiI6MTQ4MDYxODEyOH0.WVFLe4B1ipETFSYSPJ7IYSDQk6Rm-D2wlNc-EHxbqWc
+#EXTINF:0 group-title="ReMy_WORLD",Ayat
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Dzair
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1051600-audio_AACL_und_65200_120=65200.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Alerth
+rtmp://82.212.74.2/live//7207
+#EXTINF:0 group-title="ReMy_WORLD",Sudania
+rtmp://82.212.74.101/live//8036
+#EXTINF:0 group-title="ReMy_WORLD",Arab geographic
+rtmp://82.212.74.98/live//7905
+#EXTINF:0 group-title="ReMy_WORLD",Al sherooq
+rtmp://82.212.74.98/live//7913
+#EXTINF:0 group-title="ReMy_WORLD",Albilad
+rtmp://82.212.74.5/live//7613
+#EXTINF:0 group-title="ReMy_WORLD",Selah
+http://streamer11.elementssys.com:8080/selah/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",Karamesh
+rtmp://82.212.74.101/live//8049
+#EXTINF:0 group-title="ReMy_WORLD",African tv 4
+rtmp://82.212.74.101/live//8047
+#EXTINF:0 group-title="ReMy_WORLD",African tv3
+rtmp://82.212.74.101/live//8046
+#EXTINF:0 group-title="ReMy_WORLD",African tv 2
+rtmp://82.212.74.101/live//8045
+#EXTINF:0 group-title="ReMy_WORLD",African tv1
+rtmp://82.212.74.101/live//8044
+#EXTINF:0 group-title="ReMy_WORLD",Tarteel
+rtmp://82.212.74.101/live//8043
+#EXTINF:0 group-title="ReMy_WORLD",Tafawooq
+rtmp://82.212.74.101/live//8042
+#EXTINF:0 group-title="ReMy_WORLD",Om dorman
+rtmp://82.212.74.101/live//8041
+#EXTINF:0 group-title="ReMy_WORLD",African tv
+rtmp://82.212.74.101/live//8040
+#EXTINF:0 group-title="ReMy_WORLD",Almanal
+rtmp://82.212.74.101/live//8039
+#EXTINF:0 group-title="ReMy_WORLD",Tv
+rtmp://82.212.74.101/live//8038
+#EXTINF:0 group-title="ReMy_WORLD",Taiba
+rtmp://82.212.74.101/live//8037
+#EXTINF:0 group-title="ReMy_WORLD",S24
+rtmp://82.212.74.101/live//8036
+#EXTINF:0 group-title="ReMy_WORLD",Sudan
+rtmp://82.212.74.101/live//8035
+#EXTINF:0 group-title="ReMy_WORLD",Arab geo
+rtmp://82.212.74.98/live//7905
+#EXTINF:0 group-title="ReMy_WORLD",Sana
+rtmp://82.212.74.98/live//7901
+#EXTINF:0 group-title="ReMy_WORLD",Fan alhayah
+rtmp://82.212.74.98/live//7902
+#EXTINF:0 group-title="ReMy_WORLD",Almaher
+rtmp://82.212.74.98/live//7903
+#EXTINF:0 group-title="ReMy_WORLD",Falastini
+rtmp://82.212.74.98/live//7904
+#EXTINF:0 group-title="ReMy_WORLD",Tv
+rtmp://82.212.74.98/live//7909
+#EXTINF:0 group-title="ReMy_WORLD",Elsherooq
+rtmp://82.212.74.98/live//7913
+#EXTINF:0 group-title="ReMy_WORLD",Aljazairiya
+rtmp://82.212.74.100/live//8019
+#EXTINF:0 group-title="ReMy_WORLD",Jawhara tv
+rtmp://82.212.74.100/live//8017
+#EXTINF:0 group-title="ReMy_WORLD",Alerth
+rtmp://82.212.74.2/live//7207
+#EXTINF:0 group-title="ReMy_WORLD",Elqaseem
+rtmp://82.212.74.2/live//7206
+#EXTINF:0 group-title="ReMy_WORLD",Elwaqe3
+rtmp://82.212.74.2/live//7205
+#EXTINF:0 group-title="ReMy_WORLD",Alfursan
+rtmp://82.212.74.2/live//7204
+#EXTINF:0 group-title="ReMy_WORLD",Hindi 1
+rtmp://82.212.74.2/live//7208
+#EXTINF:0 group-title="ReMy_WORLD",Kaif
+rtmp://82.212.74.2/live//7211
+#EXTINF:0 group-title="ReMy_WORLD",Jeddah
+rtmp://82.212.74.2/live//7213
+#EXTINF:0 group-title="ReMy_WORLD",DMM
+rtmp://82.212.74.2/live//7214
+#EXTINF:0 group-title="ReMy_WORLD",Liwan
+rtmp://82.212.74.2/live//7216
+#EXTINF:0 group-title="ReMy_WORLD",Aldannah
+rtmp://82.212.74.2/live//7219
+#EXTINF:0 group-title="ReMy_WORLD",Libya news
+rtmp://82.212.74.2/live//7220
+#EXTINF:0 group-title="ReMy_WORLD",Albilad
+rtmp://82.212.74.5/live//7613
+#EXTINF:0 group-title="ReMy_WORLD",Alfiastinia
+rtmp://82.212.74.5/live//7614
+#EXTINF:0 group-title="ReMy_WORLD",NBC
+rtmp://82.212.74.5/live//7615
+#EXTINF:0 group-title="ReMy_WORLD",RTS deux
+http://s3.live-tv-direct.com:8005/RTS2/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",RTS DEUX
+http://racacaxtv.ga/allfrtvstrm/tkn/wil/eec3b8b8fed3d401bc0fb1fb5eae188b01f715c1/rts_deux_hd/8.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",RTS deux
+https://par-3.stream.firstonetv.eu/hls/10df0c92-4a5d-8fff-4d1b-1a2e244a74e7.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Al Arabiya*
@@ -2093,6 +2329,8 @@ http://91.121.59.45:8361/stream
 http://ice7.securenetsystems.net/KSOPFM
 #EXTINF:0 group-title="YEREL",****((YEREL_TURKEY))****
 ****((YEREL_TURKEY))****
+#EXTINF:0 group-title="YEREL",ONCU TV
+http://yayin3.canlitv.com:1935/live/oncutv/iptvdelisi.m3u8
 #EXTINF:0 group-title="YEREL",AKSU TV
 rtmp://stream.taksimbilisim.com/aksutv/bant1
 #EXTINF:0 group-title="YEREL",ALANYA ATV
