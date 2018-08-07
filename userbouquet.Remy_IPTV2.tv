@@ -2035,6 +2035,238 @@
 #DESCRIPTION Žilinská Televízia (ZTV)
 #SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8:AAA_FAMILY
+#DESCRIPTION AAA_FAMILY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/AAA_FAMILY/AAA_FAMILY.m3u8:AAA_FAMILY-2
+#DESCRIPTION AAA_FAMILY-2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/FARSI1/FARSI1.m3u8:FARSI1
+#DESCRIPTION FARSI1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/FACE2/FACE2.m3u8:FACE2
+#DESCRIPTION FACE2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/GEM_USA/GEM_USA.m3u8:GEM_USA
+#DESCRIPTION GEM_USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/MBC2/MBC2.m3u8:MBC 2
+#DESCRIPTION MBC 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/MBC_4/MBC_4.m3u8:MBC 4
+#DESCRIPTION MBC 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.3/ios/MBC_4/MBC_4.m3u8:MBC_4
+#DESCRIPTION MBC_4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8:MBC_MAX
+#DESCRIPTION MBC_MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8:MBC_MAX
+#DESCRIPTION MBC_MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8:MBC_MAX
+#DESCRIPTION MBC_MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8:MBC_ACTION
+#DESCRIPTION MBC_ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8:MBC_ACTION
+#DESCRIPTION MBC_ACTION
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8:MBC_MAX
+#DESCRIPTION MBC_MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8:MBC_MAX
+#DESCRIPTION MBC_MAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8:orbit Musalsalat hd
+#DESCRIPTION orbit Musalsalat hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8:orbot Cinema 1
+#DESCRIPTION orbot Cinema 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8:seevii Music Now
+#DESCRIPTION seevii Music Now
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98862/master.m3u8:seevii FASHION BOX hd
+#DESCRIPTION seevii FASHION BOX hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98866/master.m3u8:seevii Jim&amp;jam
+#DESCRIPTION seevii Jim&amp;jam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98865/master.m3u8:Seevii one HD
+#DESCRIPTION Seevii one HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98860/master.m3u8:seevii Cw
+#DESCRIPTION seevii Cw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8:Mbc 1
+#DESCRIPTION Mbc 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8:Mbc+ drama
+#DESCRIPTION Mbc+ drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8:Mbc drama
+#DESCRIPTION Mbc drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8:Mbc masr
+#DESCRIPTION Mbc masr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8:Mbc masr 2
+#DESCRIPTION Mbc masr 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8:Mbc variety hd
+#DESCRIPTION Mbc variety hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8:Mbc 4 hd
+#DESCRIPTION Mbc 4 hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8:Mbc action hd
+#DESCRIPTION Mbc action hd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8:Mbc bollywood
+#DESCRIPTION Mbc bollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8:Mbc 3
+#DESCRIPTION Mbc 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98867/master.m3u8:Mbc
+#DESCRIPTION Mbc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8:B4u aflam
+#DESCRIPTION B4u aflam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8:ZEE ALWAN
+#DESCRIPTION ZEE ALWAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9890-i.akamaihd.net/hls/live/219325/98908/master.m3u8:Imagine Movies
+#DESCRIPTION Imagine Movies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8:Nat geo ha
+#DESCRIPTION Nat geo ha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8:Quest arabiya
+#DESCRIPTION Quest arabiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98861/master.m3u8:bahrain sport 2
+#DESCRIPTION bahrain sport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98864/master.m3u8:France 24 english
+#DESCRIPTION France 24 english
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98863/master.m3u8:Cbc +2
+#DESCRIPTION Cbc +2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8:Cbc sofra
+#DESCRIPTION Cbc sofra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8:Panorama food
+#DESCRIPTION Panorama food
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8:El nahar algeria
+#DESCRIPTION El nahar algeria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8:Rotana Aflam
+#DESCRIPTION Rotana Aflam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8:Nile Cinema
+#DESCRIPTION Nile Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8:Cima Habisha TV
+#DESCRIPTION Cima Habisha TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8:Toktok Cinema
+#DESCRIPTION Toktok Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8:ELQAHIRA W EL NAS
+#DESCRIPTION ELQAHIRA W EL NAS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8:elmasriya ONE
+#DESCRIPTION elmasriya ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8:Ad emarat
+#DESCRIPTION Ad emarat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8:Ad drama
+#DESCRIPTION Ad drama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8:Mtv lebanon
+#DESCRIPTION Mtv lebanon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8:Ldc
+#DESCRIPTION Ldc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8:Aljadeed
+#DESCRIPTION Aljadeed
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9886.akamai.live.selevision.com/live/9886/98868/master.m3u8:Seevii drama sd
+#DESCRIPTION Seevii drama sd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.100/live//8019:Aljazairiya
+#DESCRIPTION Aljazairiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.live-tv-direct.com%3a8005/WATANIYA1/playlist.m3u8:Tunis one
+#DESCRIPTION Tunis one
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.live-tv-direct.com%3a8005/WATANIYA2/playlist.m3u8:Tunisia 2
+#DESCRIPTION Tunisia 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.aldafrah.tv%3a1935/live/myStream3/playlist.m3u8:Aldafra
+#DESCRIPTION Aldafra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.live-tv-direct.com%3a8005/AttessiaTv/playlist.m3u8:Altase3a
+#DESCRIPTION Altase3a
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7908:Abc tv
+#DESCRIPTION Abc tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//199.167.151.237%3a1935/live/dub_1_ch1279/index.m3u8:Almajd quran
+#DESCRIPTION Almajd quran
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8043:Tarteel
+#DESCRIPTION Tarteel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//zona-live-tv.com/Channels/MajidTV.m3u8:Majid
+#DESCRIPTION Majid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8:Mbc3
+#DESCRIPTION Mbc3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.199.52%3a9000/live/1101510874/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODA2MTgxMjgsIm5iZiI6MTQ4MDYxODEyOH0.WVFLe4B1ipETFSYSPJ7IYSDQk6Rm-D2wlNc-EHxbqWc:Jeem
+#DESCRIPTION Jeem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.199.52%3a9000/live/234638976/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjY4LCJpYXQiOjE0ODA2MTgxMjgsIm5iZiI6MTQ4MDYxODEyOH0.WVFLe4B1ipETFSYSPJ7IYSDQk6Rm-D2wlNc-EHxbqWc:Baraem
+#DESCRIPTION Baraem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//m.live.net.sa%3a1935/live/ayat/chunklist_w1642024713.m3u8:Ayat
+#DESCRIPTION Ayat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1051600-audio_AACL_und_65200_120=65200.m3u8:Dzair
+#DESCRIPTION Dzair
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth
+#DESCRIPTION Alerth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8036:Sudania
+#DESCRIPTION Sudania
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7905:Arab geographic
+#DESCRIPTION Arab geographic
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7913:Al sherooq
+#DESCRIPTION Al sherooq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.5/live//7613:Albilad
+#DESCRIPTION Albilad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer11.elementssys.com%3a8080/selah/index.m3u8:Selah
+#DESCRIPTION Selah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8049:Karamesh
+#DESCRIPTION Karamesh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8047:African tv 4
+#DESCRIPTION African tv 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8046:African tv3
+#DESCRIPTION African tv3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8045:African tv 2
+#DESCRIPTION African tv 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8044:African tv1
+#DESCRIPTION African tv1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8043:Tarteel
+#DESCRIPTION Tarteel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8042:Tafawooq
+#DESCRIPTION Tafawooq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8041:Om dorman
+#DESCRIPTION Om dorman
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8040:African tv
+#DESCRIPTION African tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8039:Almanal
+#DESCRIPTION Almanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8038:Tv
+#DESCRIPTION Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8037:Taiba
+#DESCRIPTION Taiba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8036:S24
+#DESCRIPTION S24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.101/live//8035:Sudan
+#DESCRIPTION Sudan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7905:Arab geo
+#DESCRIPTION Arab geo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7901:Sana
+#DESCRIPTION Sana
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7902:Fan alhayah
+#DESCRIPTION Fan alhayah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7903:Almaher
+#DESCRIPTION Almaher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7904:Falastini
+#DESCRIPTION Falastini
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7909:Tv
+#DESCRIPTION Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7913:Elsherooq
+#DESCRIPTION Elsherooq
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.100/live//8019:Aljazairiya
+#DESCRIPTION Aljazairiya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.100/live//8017:Jawhara tv
+#DESCRIPTION Jawhara tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7207:Alerth
+#DESCRIPTION Alerth
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7206:Elqaseem
+#DESCRIPTION Elqaseem
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7205:Elwaqe3
+#DESCRIPTION Elwaqe3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7204:Alfursan
+#DESCRIPTION Alfursan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7208:Hindi 1
+#DESCRIPTION Hindi 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7211:Kaif
+#DESCRIPTION Kaif
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7213:Jeddah
+#DESCRIPTION Jeddah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7214:DMM
+#DESCRIPTION DMM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7216:Liwan
+#DESCRIPTION Liwan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7219:Aldannah
+#DESCRIPTION Aldannah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.2/live//7220:Libya news
+#DESCRIPTION Libya news
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.5/live//7613:Albilad
+#DESCRIPTION Albilad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.5/live//7614:Alfiastinia
+#DESCRIPTION Alfiastinia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.5/live//7615:NBC
+#DESCRIPTION NBC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s3.live-tv-direct.com%3a8005/RTS2/index.m3u8:RTS deux
+#DESCRIPTION RTS deux
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//racacaxtv.ga/allfrtvstrm/tkn/wil/eec3b8b8fed3d401bc0fb1fb5eae188b01f715c1/rts_deux_hd/8.m3u8:RTS DEUX
+#DESCRIPTION RTS DEUX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//par-3.stream.firstonetv.eu/hls/10df0c92-4a5d-8fff-4d1b-1a2e244a74e7.m3u8:RTS deux
+#DESCRIPTION RTS deux
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.144.110%3a8081/AR/MBCACTION/playlist.m3u8:MBC Action +
 #DESCRIPTION MBC Action +
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.144.110%3a8081/AR/MBCDRAMA/playlist.m3u8:MBC Drama HD
@@ -2051,8 +2283,8 @@
 #DESCRIPTION Rotana Khalijia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.144.110%3a8081/AR/NILECOMEDY/playlist.m3u8:Nile comedy
 #DESCRIPTION Nile comedy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.144.110%3a8081/AR/CBCDRAMA/playlist.m3u8: cbc  dreame
-#DESCRIPTION  cbc  dreame
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.144.110%3a8081/AR/CBCDRAMA/playlist.m3u8:cbc  dreame
+#DESCRIPTION cbc  dreame
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.144.110%3a8081/AR/ARTAFLAM2/playlist.m3u8:ART AFLAm 2
 #DESCRIPTION ART AFLAm 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//130.185.144.110%3a8081/AR/ARTCINEMA/playlist.m3u8:ART CINEMA
