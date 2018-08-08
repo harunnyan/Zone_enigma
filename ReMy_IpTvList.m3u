@@ -171,10 +171,12 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
 ****((ReMy_SPORT))****
 #EXTINF:0 group-title="TURKEY",TRT_spor
 https://streaming.kovalchuk.me/turk/trt_spor/index.m3u8
+#EXTINF:0 group-title="SPORTS",Bein Sports1
+https://2202.janjuaplayer.com:8088/adfree/futbolkafe1/playlist.m3u8?id=82673&wowzasessionid=558802264&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d
 #EXTINF:0 group-title="SPORTS",Bein Sports1 HD
 http://87.98.162.77:7080/playlist
-#EXTINF:0 group-title="SPORTS",SMART SPOR
-https://2d05.janjuaplayer.com:8088/live/livinsikeryayin/playlist.m3u8?id=82265&wowzasessionid=7373400367&pk=425057baa527f73d5f6b379fbbc4a37d270bb74d5800da592a4b27beebb88473
+#EXTINF:0 group-title="SPORTS",S SPORT
+https://2d04.janjuaplayer.com:8088/adfree/saransport/playlist.m3u8?id=82675&wowzasessionid=3444827904&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d
 #EXTINF:0 group-title="SPORTS",Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:0 group-title="SPORTS",Arena Sport2
