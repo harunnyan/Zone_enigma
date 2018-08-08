@@ -169,14 +169,10 @@ http://bglive-a.bitgravity.com/ndtv/247hi/live/native
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
 #EXTINF:0 group-title="SPORTS",****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
-#EXTINF:0 group-title="TURKEY",TRT_spor
+#EXTINF:0 group-title="SPORTS",TRT_spor
 https://streaming.kovalchuk.me/turk/trt_spor/index.m3u8
-#EXTINF:0 group-title="SPORTS",Bein Sports1
-https://2202.janjuaplayer.com:8088/adfree/futbolkafe1/playlist.m3u8?id=82673&wowzasessionid=558802264&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d
 #EXTINF:0 group-title="SPORTS",Bein Sports1 HD
 http://87.98.162.77:7080/playlist
-#EXTINF:0 group-title="SPORTS",S SPORT
-https://2d04.janjuaplayer.com:8088/adfree/saransport/playlist.m3u8?id=82675&wowzasessionid=3444827904&pk=cdcbdc6b5913c38cdb851b56052bd0f80650d439db86bed2419c7b2bc66e234d
 #EXTINF:0 group-title="SPORTS",Arena Sport1 
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:0 group-title="SPORTS",Arena Sport2
@@ -317,8 +313,12 @@ http://45.58.62.92:8084
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",SONY ESPN HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
 #EXTINF:0 group-title="SPORTS",SONY SIX HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY SIX HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
 #EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
@@ -327,6 +327,10 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:0 group-title="SPORTS",NEO PRIME
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:0 group-title="SPORTS",NEO SPORTS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
 #EXTINF:0 group-title="KIDS",****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:0 group-title="KIDS",DISNEY CHANNEL
@@ -733,6 +737,158 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel_3)/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Sutel
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY ENTERTAINMENT HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MY GOOD TIME IN.
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225774/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",DK TV
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY MAX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",NDTV IN.
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225777/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",FLOWERS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225838/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",FOOD FOOD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY SAB
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY MIX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",TRAVEL XP SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY MAX2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY MAX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY ENTERTAINMENT
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",DISCOVERY TURBO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",NDTV PRIME
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225781/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",REPUBLIC.
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226000/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",BTVI INDIAN BORSA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226009/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",E24
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",QX JALWA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",KALINGA TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",QX TASHAN
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",NO1 MUSIC CH
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",INDIA MUSICA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226023/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ODISHATV IN.
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226024/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",QX JHAKAAS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",QX O
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",TITESH
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226029/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",NAMAP
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226032/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",GISIRI
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226033/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZINDIA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226042/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",&TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",&PICTURES
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",BBC WORLD NEWS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226051/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ABP
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226052/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",QX M
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",B4U MUSIC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226055/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",BHOJPURI
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226056/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",INDIA MUSIC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226064/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY YAY
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226065/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZEE CLASSIC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY BBC EARTH
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",AASTHA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226069/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",RCHR
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226070/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",INDIA TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226072/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZEE REALITY
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226074/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY SAB
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZING
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226080/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZEE CINEMA HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",&TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",INDIA HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226085/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",CHARDIKLA TIME HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226087/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MHONE INDIA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226089/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",INDIA SERIE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",INDIA CLASSICS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",JAYA TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",KAIRALI
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",TV9
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226094/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZEE TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",8B SAB GROUP
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226097/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",SONY KIDS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",JAYA MAX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",IBC 24
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226102/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",POLIMER
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",RANG
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226106/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZEE DRAMA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",NEWS LIVE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ALJAZEERA INDIA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",PRAG NEWS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226110/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",JANAM TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226111/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",V TV NEWS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",MH1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ANJAN
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",ZEE LOVE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",B4U MOVIES
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:0 group-title="ReMy_WORLD",PITARA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",ABC TV
