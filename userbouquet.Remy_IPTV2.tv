@@ -1,9 +1,15 @@
 #NAME **ReMy_PREMIUM_WORLD**
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a_REMY_ENIGMA|TURK_TEAM_%3a%3a%3a%3a
-#DESCRIPTION :::::_REMY_ENIGMA|TURK_TEAM_::::
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a7080/playlist:Bein FOOTBALL
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.239.252.15/live/hls/stream1_q2/index.m3u8
+#DESCRIPTION Look TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$LookTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#DESCRIPTION Look TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142:8096/look--
+#DESCRIPTION Look TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77:7080/playlist:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106%3a8080/sport1.ts:Bein FOOTBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106:8080/sport1.ts:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-02.nyc.dailymotion.com/52/dm/3/x21oo10/live-3.m3u8:FB TV
 #DESCRIPTION FB TV
@@ -163,8 +169,8 @@
 #DESCRIPTION NEO SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.129.238.137%3a8000/play/a06d:Sportklub HD
 #DESCRIPTION Sportklub HD
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::%3a%3a%3a%3a_HABER/NEWS_%3a%3a%3a%3a
-#DESCRIPTION ::::_HABER/NEWS_::::
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
 #DESCRIPTION London Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8:SKY NEWS
@@ -245,8 +251,8 @@
 #DESCRIPTION Russia Today
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pstv.krasmix.ru/tv/russia24/playlist.m3u8:russia24
 #DESCRIPTION russia24
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a_REMY| U.S.A_IPTV_%3a%3a%3a%3a%3a
-#DESCRIPTION :::::_REMY| U.S.A_IPTV_:::::
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
+#DESCRIPTION === ★★REMY | U.S.A_IPTV★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8:RTE ONE
 #DESCRIPTION RTE ONE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8:RTE TWO
@@ -569,10 +575,18 @@
 #DESCRIPTION HBO HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END:History
 #DESCRIPTION History
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Dance HD
+#DESCRIPTION Mooz Dance HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Mooz Dance HD
 #DESCRIPTION Mooz Dance HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz HD
+#DESCRIPTION Mooz HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Mooz HD
 #DESCRIPTION Mooz HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Hits
+#DESCRIPTION Mooz Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
+#DESCRIPTION Mooz RO!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$NasulTV/6.m3u8/Level(545259)?start=LIVE&end=END:Nasul TV
 #DESCRIPTION Nasul TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END:Nick Jr
@@ -615,6 +629,12 @@
 #DESCRIPTION Viasat Nature
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Viasat Nature HD
 #DESCRIPTION Viasat Nature HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$LookPlus/12.m3u8/Level(1677721)?start=LIVE&end=END
+#DESCRIPTION Look Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142:8096/look--
+#DESCRIPTION Look Plus HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142:8096/look_plus--
+#DESCRIPTION Look Plus HD
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
 #DESCRIPTION === ★★EX YU | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a80/A1Balkan/playlist.m3u8:A1Balkan HD
@@ -771,14 +791,6 @@
 #DESCRIPTION Moldova 1
 #SERVICE 4097:0:1:600:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.10%3a5656:Moldova 2
 #DESCRIPTION Moldova 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Dance HD
-#DESCRIPTION Mooz Dance HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz HD
-#DESCRIPTION Mooz HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz Hits
-#DESCRIPTION Mooz Hits
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
-#DESCRIPTION Mooz RO!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:Music Channel Ungaria
 #DESCRIPTION Music Channel Ungaria
 #SERVICE 4097:0:1:606:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.5%3a5656:N4
@@ -2267,8 +2279,8 @@
 #DESCRIPTION Xtremo channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp:ZEELAND TV
 #DESCRIPTION ZEELAND TV
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WEBSOCKET_LIVE_UPDATE_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
-#DESCRIPTION ::::::::::::_WEBSOCKET_LIVE_UPDATE_:::::::::::
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
+#DESCRIPTION === ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
 #DESCRIPTION Star TV HD
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT
@@ -2313,8 +2325,8 @@
 #DESCRIPTION NYC skyline from the Empire State
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&rebase=on:ABC News-Yahoo!
 #DESCRIPTION ABC News-Yahoo!
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::_%3a%3a%3a_FILM_BELGESEL_EGLENCE_%3a%3a%3a_
-#DESCRIPTION _:::_FILM_BELGESEL_EGLENCE_:::_
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★FILM_BELGESEL_EGLENCE★★ ====
+#DESCRIPTION _:::=== ★★FILM_BELGESEL_EGLENCE★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.youtube.com/watch?v=egnRjRmuWMQ:Justice izle 2018
 #DESCRIPTION Justice izle 2018
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=gsu5VsblZZo&t=245s:Frankenstein Ölümsüzlerin SavaSİ
@@ -2349,8 +2361,8 @@
 #DESCRIPTION Kuantum Mekaniği
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=LQcnazP_Qkk:Yeralti Şehirleri Anadolu
 #DESCRIPTION Yeralti Şehirleri Anadolu
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::+18 | FUNY CLIP_ VIDEOS _ MUSIC
-#DESCRIPTION +18 | FUNY CLIP_ VIDEOS _ MUSIC
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::+18=== ★★FUNY CLIP_EGLENCE | VIDEOS_MUSIC★★ ====
+#DESCRIPTION +18=== ★★FUNY CLIP_EGLENCE | VIDEOS_MUSIC★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=L_OElzCMPHc:Asok , Silom ( Taniya , Patpong , soi Cowboy )
 #DESCRIPTION Asok , Silom ( Taniya , Patpong , soi Cowboy )
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=0fogJYmZaac:Asok - Soi Cowboy 2017 , and more Bangkok , Thaila
@@ -2521,8 +2533,8 @@
 #DESCRIPTION Victoria Secret 2015 swimsuit show
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6nnAlNA_PTs:Victoria's Secret Swim 2013
 #DESCRIPTION Victoria's Secret Swim 2013
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a_WebCam_Live_Turkey_%3a%3a%3a%3a%3a%3a%3a%3a%3a%3a
-#DESCRIPTION :::::::::::_WebCam_Live_Turkey_::::::::::
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/297.stream/chunklist_w1890125726.m3u8:Taksim Canlı Mobesa Kamera
 #DESCRIPTION Taksim Canlı Mobesa Kamera
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media1.ibb.gov.tr%3a1935/live/297.stream/chunklist_w465599730.m3u8:Gezi Parkı Canlı Mobesa Kamera
@@ -2547,8 +2559,8 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-i.mncdn.com/sivasbel_tv_live/sivasbel_medrese/chunklist_w1270909238.m3u8:Sivas Kent Meydanı Canlı Mobese
 #DESCRIPTION Sivas Kent Meydanı Canlı Mobese
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::* * * Novi Sad Live * * *
-#DESCRIPTION * * * Novi Sad Live * * *
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★WebCam | Novi Sad Live★★ ====
+#DESCRIPTION === ★★WebCam | Novi Sad Live★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
 #DESCRIPTION NoviSad - Trg Slobode
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//BeogradskiKej.2.stream:Novi Sad - Beogradski kej 2
