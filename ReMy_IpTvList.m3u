@@ -99,7 +99,7 @@ http://85.132.71.6/turk/cnn/index.m3u8
 http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0 group-title="TURKEY",CNN TURK
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0 group-title="TURKEY",HABERTÜRK
+#EXTINF:0 group-title="TURKEY",HABERTÃœRK
 https://streaming.kovalchuk.me/turk/haber_turk/index.m3u8
 #EXTINF:0 group-title="TURKEY",Haber Turk
 http://85.132.71.6/turk/haber_turk/index.m3u8
@@ -137,9 +137,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:0 group-title="TURKEY",TRT Avaz
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/trt-avaz.m3u8
-#EXTINF:0 group-title="TURKEY",TRT KURDÎ HD
+#EXTINF:0 group-title="TURKEY",TRT KURDÃŽ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:0 group-title="TURKEY",TRT KURDÎ HD
+#EXTINF:0 group-title="TURKEY",TRT KURDÃŽ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="TURKEY",IMEDI TV
 http://185.36.100.33/imedi/lq/tracks-v1a1/index.m3u8
@@ -155,13 +155,13 @@ http://217.174.225.146/legacyhls/ch001_400/index.m3u8
 http://217.174.225.146/legacyhls/ch002_400/index.m3u8
 #EXTINF:0 group-title="TURKEY",Miras TV
 http://217.174.225.146/legacyhls/ch003_400/index.m3u8
-#EXTINF:0 group-title="TURKEY",Türkmen Sport
+#EXTINF:0 group-title="TURKEY",TÃ¼rkmen Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:0 group-title="TURKEY",Türkmen Avazi 
+#EXTINF:0 group-title="TURKEY",TÃ¼rkmen Avazi 
 http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 #EXTINF:0 group-title="TURKEY",Asgabat TV
 http://217.174.225.146/legacyhls/ch006_400/index.m3u8
-#EXTINF:0 group-title="TURKEY",Türkmenistan TV
+#EXTINF:0 group-title="TURKEY",TÃ¼rkmenistan TV
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:0 group-title="TURKEY",ND TV
 http://bglive-a.bitgravity.com/ndtv/247hi/live/native
@@ -171,6 +171,8 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
 ****((ReMy_SPORT))****
 #EXTINF:0 group-title="SPORTS",TRT_spor
 https://streaming.kovalchuk.me/turk/trt_spor/index.m3u8
+#EXTINF:0 group-title="SPORTS",Look TV HD
+http://193.239.252.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:0 group-title="SPORTS",Bein Sports1 HD
 http://87.98.162.77:7080/playlist
 #EXTINF:0 group-title="SPORTS",Arena Sport1 
@@ -307,7 +309,7 @@ rtmp://178.22.187.253:1935/streaming-tv/mp4
 http://38.96.148.30:1935/live/omantv2/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:0 group-title="SPORTS",Sos Kanal TV (Servië)
+#EXTINF:0 group-title="SPORTS",Sos Kanal TV (ServiÃ«)
 http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
 #EXTINF:0 group-title="SPORTS",Tele Romagna SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
@@ -1013,7 +1015,7 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8?JoCaRoIPTV.m3
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:0 group-title="ReMy_WORLD",CANAL 13 ESPAÑA
+#EXTINF:0 group-title="ReMy_WORLD",CANAL 13 ESPAÃ‘A
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
@@ -1151,7 +1153,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="ReMy_WORLD",RCG Televisión LATINO
+#EXTINF:0 group-title="ReMy_WORLD",RCG TelevisiÃ³n LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
 #EXTINF:0 group-title="ReMy_WORLD",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
@@ -2329,7 +2331,7 @@ http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
 http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
 #EXTINF:0 group-title="iTunes_Radio",FenomenTurk
 http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
-#EXTINF:0 group-title="iTunes_Radio",Virgin Radio Türkiye
+#EXTINF:0 group-title="iTunes_Radio",Virgin Radio TÃ¼rkiye
 http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
 #EXTINF:0 group-title="iTunes_Radio",Radyo Voyage AAC
 http://46.20.4.42/pozitif/smil:voyage.smil/media_w1726134719_b128000_14039.aac
@@ -2385,7 +2387,7 @@ https://20043.live.streamtheworld.com/SC5_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk
 https://17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc
 #EXTINF:0 group-title="iTunes_Radio",Radyo 34
 http://yayin1.canliyayin.org:7424/;
-#EXTINF:0 group-title="iTunes_Radio",Radyo Türkü-izmir
+#EXTINF:0 group-title="iTunes_Radio",Radyo TÃ¼rkÃ¼-izmir
 http://radioturku.com:9400/;
 #EXTINF:0 group-title="iTunes_Radio",Radyo Mydonose
 http://17753.live.streamtheworld.com:3690/RADIO_MYDONOSE_SC
