@@ -341,6 +341,18 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
 #EXTINF:0 group-title="SPORTS",NEO SPORTS
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1,futbol2
+http://hdtv-commpass.cdnvideo.ru/futbol2/hls-00/mono.m3u8?token=__zoomtv__abdbf67e2797b021638ebb17c39d796b
+#EXTINF:-1,futbol1
+http://hdtv-commpass.cdnvideo.ru/futbol1/hls-00/mono.m3u8?token=__zoomtv__abdbf67e2797b021638ebb17c39d796
+#EXTINF:-1,sporthit
+http://moscow-commpass.cdnvideo.ru:80/sporthit/hls-00/index.m3u8
+#EXTINF:-1,futbol2
+http://moscow-commpass.cdnvideo.ru:80/futbol2/hls-00/index.m3u8
+#EXTINF:-1,futbol1
+http://moscow-commpass.cdnvideo.ru:80/futbol1/hls-00/index.m3u8
+#EXTINF:-1,Матч Премьер HD
+http://moscow-commpass.cdnvideo.ru/nashfutbolhd/hls-00/index.m3u8
 #EXTINF:0 group-title="KIDS",****((COCUK_KANALLARI_KIDS))****
 ****((COCUK_KANALLARI_KIDS))****
 #EXTINF:0 group-title="KIDS",DISNEY CHANNEL
