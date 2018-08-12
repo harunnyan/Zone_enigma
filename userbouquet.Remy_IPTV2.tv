@@ -5,11 +5,11 @@
 #DESCRIPTION Look TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$LookTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Look TV HD
 #DESCRIPTION Look TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142:8096/look--:Look TV
-#DESCRIPTION Look TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$LookPlus/12.m3u8/Level(1677721)?start=LIVE&end=END:Look Plus HD
+#DESCRIPTION Look Plus HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77:7080/playlist:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106:8080/sport1.ts:Bein FOOTBALL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.233.106:Bein FOOTBALL
 #DESCRIPTION Bein FOOTBALL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-02.nyc.dailymotion.com/52/dm/3/x21oo10/live-3.m3u8:FB TV
 #DESCRIPTION FB TV
@@ -169,18 +169,6 @@
 #DESCRIPTION NEO SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.129.238.137%3a8000/play/a06d:Sportklub HD
 #DESCRIPTION Sportklub HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hdtv-commpass.cdnvideo.ru/futbol2/hls-00/mono.m3u8?token=__zoomtv__abdbf67e2797b021638ebb17c39d796b:futbol2
-#DESCRIPTION futbol2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hdtv-commpass.cdnvideo.ru/futbol1/hls-00/mono.m3u8?token=__zoomtv__abdbf67e2797b021638ebb17c39d796:futbol1
-#DESCRIPTION futbol1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//moscow-commpass.cdnvideo.ru:80/sporthit/hls-00/index.m3u8:sporthit
-#DESCRIPTION sporthit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//moscow-commpass.cdnvideo.ru:80/futbol2/hls-00/index.m3u8:futbol2
-#DESCRIPTION futbol2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//moscow-commpass.cdnvideo.ru:80/futbol1/hls-00/index.m3u8:futbol1
-#DESCRIPTION futbol1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//moscow-commpass.cdnvideo.ru/nashfutbolhd/hls-00/index.m3u8:Матч Премьер HD
-#DESCRIPTION Матч Премьер HD
 #SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:392:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8:London Live
@@ -641,11 +629,7 @@
 #DESCRIPTION Viasat Nature
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Viasat Nature HD
 #DESCRIPTION Viasat Nature HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$LookPlus/12.m3u8/Level(1677721)?start=LIVE&end=END
-#DESCRIPTION Look Plus HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142:8096/look--
-#DESCRIPTION Look Plus HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142:8096/look_plus--
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.79.218.142:Look Plus HD
 #DESCRIPTION Look Plus HD
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★EX YU | PAKETI★★ ====
 #DESCRIPTION === ★★EX YU | PAKETI★★ ====
@@ -2337,7 +2321,7 @@
 #DESCRIPTION NYC skyline from the Empire State
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&rebase=on:ABC News-Yahoo!
 #DESCRIPTION ABC News-Yahoo!
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★FILM_BELGESEL_EGLENCE★★ ====
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::_%3a%3a%3a=== ★★FILM_BELGESEL_EGLENCE★★ ====
 #DESCRIPTION _:::=== ★★FILM_BELGESEL_EGLENCE★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.youtube.com/watch?v=egnRjRmuWMQ:Justice izle 2018
 #DESCRIPTION Justice izle 2018
