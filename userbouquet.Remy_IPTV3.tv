@@ -1,5 +1,5 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 1:64:D8:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:D9:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
@@ -33,6 +33,8 @@
 #DESCRIPTION TEMPO TV TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hdtvler.net@tmbtv.mediatriple.net%3a1935/tmbtv/tmbtv2/playlist.m3u8:TMB TV
 #DESCRIPTION TMB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$RockTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END:Rock TV HD
+#DESCRIPTION Rock TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10024.m3u8:1 HD
 #DESCRIPTION 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
@@ -47,10 +49,6 @@
 #DESCRIPTION CAPITAL U.S.A
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:CMC USA
 #DESCRIPTION CMC USA
-#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
-#DESCRIPTION Duga TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:D+ Duga plus rs
-#DESCRIPTION D+ Duga plus rs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:H!T Music Channel
 #DESCRIPTION H!T Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/kiss/playlist.m3u8:Kiss TV
@@ -63,6 +61,8 @@
 #DESCRIPTION Mooz HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
 #DESCRIPTION Mooz RO!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$VH1/12.m3u8/Level(1677721)?start=LIVE&end=END:VH 1
+#DESCRIPTION VH 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8:MTV
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10226.m3u8:MTV
@@ -337,6 +337,10 @@
 #DESCRIPTION DM SAT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/dugatv/tracks-v1a1/mono.m3u8:Duga +
 #DESCRIPTION Duga +
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
+#DESCRIPTION Duga TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:D+ Duga plus rs
+#DESCRIPTION D+ Duga plus rs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//212.200.108.253/live/jefimija.flv:Jefimija HD
 #DESCRIPTION Jefimija HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/NTV101Prijedor/tracks-v1a1/mono.m3u8:NTV 101 Prijedor
@@ -385,9 +389,9 @@
 #DESCRIPTION Voice of America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFMRADIO.NL
 #DESCRIPTION ZFMRADIO.NL
-#SERVICE 1:64:D9:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
+#SERVICE 1:64:DA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | K R A L/Music★★ ====
-#SERVICE 1:64:DA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
+#SERVICE 1:64:DB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
 #DESCRIPTION === ★★ReMy-Clubin | KING Turkish Radios★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -435,7 +439,7 @@
 #DESCRIPTION KRAL DIZI & FILM MUZIKLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:DB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
+#SERVICE 1:64:DC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
 #DESCRIPTION === ★★ReMy-Clubin | KING World Radios★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akarabic.smil/chunklist_w1843873668_b64000.m3u8:KRAL ARABIC
 #DESCRIPTION KRAL ARABIC
@@ -489,7 +493,7 @@
 #DESCRIPTION KRAL THE BEATLES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akurban.smil/chunklist_w1185366164_b64000.m3u8:KRAL URBAN
 #DESCRIPTION KRAL URBAN
-#SERVICE 1:64:DC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:DD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17773.live.streamtheworld.com/HOTTICKETS128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a1bc5789-f152-4511-a71b-330c7233db6c:HOT TICKETS !! Biletix Bileti Kazan!!
 #DESCRIPTION HOT TICKETS !! Biletix Bileti Kazan!!
@@ -593,7 +597,7 @@
 #DESCRIPTION Virgin Radio Türkiye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc:ZEPLIN
 #DESCRIPTION ZEPLIN
-#SERVICE 1:64:DD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:DE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40

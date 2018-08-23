@@ -17,8 +17,8 @@
 #DESCRIPTION Miami Tv 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de-origin-live.3qsdn.com%3a1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8:BS 24 LIVE
 #DESCRIPTION BS 24 LIVE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil%3a2346-mbr.smil/playlist.m3u8:Babestation Germany
-#DESCRIPTION Babestation Germany
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil%3a2346-mbr.smil/playlist.m3u8:Babestation 24
+#DESCRIPTION Babestation 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8:Studio 66
 #DESCRIPTION Studio 66
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8:Studio 66
@@ -31,8 +31,6 @@
 #DESCRIPTION Visit-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale85/mp4%3acanale85/playlist.m3u8:TELE Canale 85
-#DESCRIPTION TELE Canale 85
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.93.236.121%3a9991/play/Playboy/index.m3u8:Playboy
 #DESCRIPTION Playboy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/hust/index.m3u8:Hustler HD
@@ -47,6 +45,8 @@
 #DESCRIPTION Brazzers TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/braz/index.m3u8:Brazzers Europe TV
 #DESCRIPTION Brazzers Europe TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale85/mp4%3acanale85/playlist.m3u8:TELE Canale 85
+#DESCRIPTION TELE Canale 85
 #SERVICE 1:64:92:0:0:0:0:0:0:0::=== ★★18_YOGA.COM | PREMIUM★★ ====
 #DESCRIPTION === ★★18_YOGA.COM | PREMIUM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
