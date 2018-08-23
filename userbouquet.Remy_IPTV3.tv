@@ -1,5 +1,5 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 1:64:DA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:D8:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
@@ -45,6 +45,12 @@
 #DESCRIPTION CITY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL U.S.A
 #DESCRIPTION CAPITAL U.S.A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:CMC USA
+#DESCRIPTION CMC USA
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
+#DESCRIPTION Duga TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:D+ Duga plus rs
+#DESCRIPTION D+ Duga plus rs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:H!T Music Channel
 #DESCRIPTION H!T Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/kiss/playlist.m3u8:Kiss TV
@@ -231,6 +237,8 @@
 #DESCRIPTION messinia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//176.9.123.140%3a1935/messinia/messinia:MESSINIA WEB TV
 #DESCRIPTION MESSINIA WEB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.132.6.97%3a8080/MojeBugojno/tracks-v1a1/mono.m3u8:MojeBugojno
+#DESCRIPTION MojeBugojno
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.81.153.221%3a8080/nasa:Music Box
 #DESCRIPTION Music Box
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
@@ -299,6 +307,8 @@
 #DESCRIPTION Somax TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.31.226.78%3a1935/standbytvlive/stream1.sdp/playlist.m3u8:Standby TV
 #DESCRIPTION Standby TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8:O!2
+#DESCRIPTION O!2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8:QMusic NL
 #DESCRIPTION QMusic NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//200.42.92.6%3a1755/qmusica:QUIERO MÚSICA
@@ -307,6 +317,8 @@
 #DESCRIPTION THT MUSIC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.tvtopsound.com%3a1935/live/ngrp%3ampegts.stream_all/playlist.m3u8:TOP SOUND
 #DESCRIPTION TOP SOUND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//online.radiodifusion.net%3a1935/livetv/latinoSD.stream/chunklist.m3u8:TOP LATINO MUSICA
+#DESCRIPTION TOP LATINO MUSICA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/live.m3u8:TV MAS HD
 #DESCRIPTION TV MAS HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv//master.m3u8:TVMas
@@ -373,9 +385,9 @@
 #DESCRIPTION Voice of America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFMRADIO.NL
 #DESCRIPTION ZFMRADIO.NL
-#SERVICE 1:64:DB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
+#SERVICE 1:64:D9:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | K R A L/Music★★ ====
-#SERVICE 1:64:DC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
+#SERVICE 1:64:DA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
 #DESCRIPTION === ★★ReMy-Clubin | KING Turkish Radios★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -423,7 +435,7 @@
 #DESCRIPTION KRAL DIZI & FILM MUZIKLERI
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:DD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
+#SERVICE 1:64:DB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
 #DESCRIPTION === ★★ReMy-Clubin | KING World Radios★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akarabic.smil/chunklist_w1843873668_b64000.m3u8:KRAL ARABIC
 #DESCRIPTION KRAL ARABIC
@@ -477,7 +489,7 @@
 #DESCRIPTION KRAL THE BEATLES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akurban.smil/chunklist_w1185366164_b64000.m3u8:KRAL URBAN
 #DESCRIPTION KRAL URBAN
-#SERVICE 1:64:DE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:DC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17773.live.streamtheworld.com/HOTTICKETS128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a1bc5789-f152-4511-a71b-330c7233db6c:HOT TICKETS !! Biletix Bileti Kazan!!
 #DESCRIPTION HOT TICKETS !! Biletix Bileti Kazan!!
@@ -581,7 +593,7 @@
 #DESCRIPTION Virgin Radio Türkiye
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc:ZEPLIN
 #DESCRIPTION ZEPLIN
-#SERVICE 1:64:DF:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:DD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
@@ -653,9 +665,9 @@
 #DESCRIPTION GRAVEL ROAD on RockyMountainRadio.net
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quasar.shoutca.st%3a8668/stream:Ibiza Beats Radio
 #DESCRIPTION Ibiza Beats Radio
@@ -717,5 +729,3 @@
 #DESCRIPTION Z104 Country KSOP-FM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.zenfm.be/zenfm.mp3?:Zen fm
 #DESCRIPTION Zen fm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:CMC USA
-#DESCRIPTION CMC USA
