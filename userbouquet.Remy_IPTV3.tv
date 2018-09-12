@@ -177,12 +177,6 @@
 #DESCRIPTION DMF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.249.95.140/live/livestream:DSTV BG
 #DESCRIPTION DSTV BG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-p.m3u8?sd=10&rebase=on:Enlace TV
-#DESCRIPTION Enlace TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10260.m3u8:Europa plus
-#DESCRIPTION Europa plus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//stream.teracomm.bg/fen:fen tv
-#DESCRIPTION fen tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:First Music Channel
 #DESCRIPTION First Music Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:First Music Channel HD
@@ -193,16 +187,10 @@
 #DESCRIPTION fresh tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_4/index.m3u8:Fresh TV
 #DESCRIPTION Fresh TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8:Fryslan
-#DESCRIPTION Fryslan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ec.playmedia.fr%3a1935/gong-base/live/playlist.m3u8:Gong Base
 #DESCRIPTION Gong Base
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.165.135.22/gospeltv/livestream/playlist.m3u8:Gospel Music TV
 #DESCRIPTION Gospel Music TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/384.m3u8:HEAT HD
-#DESCRIPTION HEAT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//persik.by/stream/2944/263250/10286.m3u8:HEAT HD
-#DESCRIPTION HEAT HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8:Heart TV
 #DESCRIPTION Heart TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:HIT
@@ -631,9 +619,9 @@
 #DESCRIPTION GRAVEL ROAD on RockyMountainRadio.net
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stm31.srvstm.com%3a8924/stream/1/:Groove Wave Lounge
 #DESCRIPTION Groove Wave Lounge
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1: Traditional Classic Country from Heartland P
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr1.hpr.org:HPR1%3a Traditional Classic Country from Heartland P
 #DESCRIPTION HPR1: Traditional Classic Country from Heartland P
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2: Today's Classic Country from Listener-Suppor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hpr2.hpr.org:HPR2%3a Today's Classic Country from Listener-Suppor
 #DESCRIPTION HPR2: Today's Classic Country from Listener-Suppor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//quasar.shoutca.st%3a8668/stream:Ibiza Beats Radio
 #DESCRIPTION Ibiza Beats Radio
