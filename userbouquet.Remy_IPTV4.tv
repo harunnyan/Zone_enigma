@@ -31,8 +31,12 @@
 #DESCRIPTION Visit-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.57.182.131%3a8905/play/a00l:NUART
-#DESCRIPTION NUART
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/braz/index.m3u8:Brazzers Europe TV
+#DESCRIPTION Brazzers Europe TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/blue/index.m3u8:Blue Hustler
+#DESCRIPTION Blue Hustler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/pink/index.m3u8:Pink
+#DESCRIPTION Pink
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8:CAM 18+
 #DESCRIPTION CAM 18+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8:CAM 18+
@@ -41,36 +45,8 @@
 #DESCRIPTION Redlight_HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rus1.canlitvplayer.com/Dorcel_HD/tracks-v1a1/mono.m3u8:Dorcel_HD
 #DESCRIPTION Dorcel_HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/527/index.m3u8:Playboy
-#DESCRIPTION Playboy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/147/index.m3u8:Русская Ночь
-#DESCRIPTION Русская Ночь
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/910/index.m3u8:Brazzers TV Europe
-#DESCRIPTION Brazzers TV Europe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/919/index.m3u8:Искушение HD
-#DESCRIPTION Искушение HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/922/index.m3u8:Шалун
-#DESCRIPTION Шалун
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/923/index.m3u8:Candy
-#DESCRIPTION Candy
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/813/index.m3u8:Erox HD
-#DESCRIPTION Erox HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/1073/index.m3u8:Penthouse TV
-#DESCRIPTION Penthouse TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/1064/index.m3u8:Blue Hustler
-#DESCRIPTION Blue Hustler
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/braz/index.m3u8:Brazzers Europe TV
-#DESCRIPTION Brazzers Europe TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/blue/index.m3u8:Blue Hustler
-#DESCRIPTION Blue Hustler
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/pink/index.m3u8:Pink
-#DESCRIPTION Pink
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/hust/index.m3u8:Hustler HD
-#DESCRIPTION Hustler HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/red/index.m3u8:REDLIGHT_HD
-#DESCRIPTION REDLIGHT_HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/red/index.m3u8:Redlight HD
-#DESCRIPTION Redlight HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.57.182.131%3a8905/play/a00l:NUART
+#DESCRIPTION NUART
 #SERVICE 1:64:91:0:0:0:0:0:0:0::=== ★★18_YOGA.COM | PREMIUM★★ ====
 #DESCRIPTION === ★★18_YOGA.COM | PREMIUM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//maxivod.net/xxx/XXX-18-Years.mp4:XXX-18-Years.mp4
