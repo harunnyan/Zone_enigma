@@ -9,42 +9,18 @@
 #DESCRIPTION JASMIN TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//usaserver.miamitvchannel.com%3a1935/miamitv/smil%3amiamitv/playlist.m3u8?PEDROJUNIORTUTORIAIS:Miami TV 2
 #DESCRIPTION Miami TV 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//23.111.128.190/miamitv/smil%3amiamitvspain/playlist.m3u8:Miami tv 3
-#DESCRIPTION Miami tv 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8:MIAMI TV
-#DESCRIPTION MIAMI TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/chunklist_w324994460_b1896000.m3u8:Miami Tv 1
-#DESCRIPTION Miami Tv 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//de-origin-live.3qsdn.com%3a1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8:BS 24 LIVE
 #DESCRIPTION BS 24 LIVE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil%3a2346-mbr.smil/playlist.m3u8:Babestation 24
 #DESCRIPTION Babestation 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.visit-x.tv/vxtv/live/playlist.m3u8:Visit-X TV
 #DESCRIPTION Visit-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/braz/index.m3u8:Brazzers Europe TV
-#DESCRIPTION Brazzers Europe TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/blue/index.m3u8:Blue Hustler
-#DESCRIPTION Blue Hustler
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/pink/index.m3u8:Pink
-#DESCRIPTION Pink
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8:CAM 18+
 #DESCRIPTION CAM 18+
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8:CAM 18+
 #DESCRIPTION CAM 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rus1.canlitvplayer.com/Redlight_HD/tracks-v1a1/mono.m3u8:Redlight_HD
-#DESCRIPTION Redlight_HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rus1.canlitvplayer.com/Dorcel_HD/tracks-v1a1/mono.m3u8:Dorcel_HD
-#DESCRIPTION Dorcel_HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//86.57.182.131%3a8905/play/a00l:NUART
 #DESCRIPTION NUART
 #SERVICE 1:64:91:0:0:0:0:0:0:0::=== ★★18_YOGA.COM | PREMIUM★★ ====
@@ -1193,8 +1169,6 @@
 #DESCRIPTION Agudizando los sentidos
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn2.servitubes.com/videos/4/7/c/9/8/47c98bbc0f676a4299016092152abf1b2514bcb2.mp4:Agujeros jovenes rosas
 #DESCRIPTION Agujeros jovenes rosas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.70.13.80/peliculas agui/XXX/Exotic4k/Akyra.Leon-Black.Mamba.mp4:Akyra Leon
-#DESCRIPTION Akyra Leon
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.servitubes.com/videos/4/8/1/d/c/481dc2a2a14fb538a861dec50789607593a1c4ce.mp4:Alexis Adams seduce tambien con los pies
 #DESCRIPTION Alexis Adams seduce tambien con los pies
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn2.servitubes.com/videos/3/9/4/f/5/394f550fe4b3e4b3158e3b376a7aa93924c46a91.mp4:Alicia en el pais de las maravillosas pollas
@@ -2675,3 +2649,11 @@
 #DESCRIPTION AnySex VOD 68
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anysex.com/get_file/1/a5aac25b60f13ce6c95acfac28f70f94/197000/197455/197455.mp4/:AnySex VOD 69
 #DESCRIPTION AnySex VOD 69
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8:Studio 66
+#DESCRIPTION Studio 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8:Studio 66
+#DESCRIPTION Studio 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8:Studio 66
+#DESCRIPTION Studio 66
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8:Studio 66
+#DESCRIPTION Studio 66
