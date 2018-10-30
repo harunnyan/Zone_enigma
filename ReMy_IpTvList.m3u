@@ -174,7 +174,7 @@ http://193.239.252.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:0 group-title="SPORTS",LookPlus
 http://telekomtv.ro.edgesuite.net/shls/LIVE$LookPlus/12.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 group-title="SPORTS",Bein Sports1 HD
-http://87.98.162.77:7080/playlist
+http://87.98.162.77:8090/playlist
 #EXTINF:0 group-title="SPORTS",TRT Spor HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
 #EXTINF:0 group-title="SPORTS",TRT_spor
@@ -255,18 +255,6 @@ http://82.79.218.142:8093/digi_sport2--
 http://82.79.218.142:8096/digi_sport_3--
 #EXTINF:0 group-title="SPORTS",Digi Sport 4
 http://82.79.218.142:8093/digi_sport4_--
-#EXTINF:0 group-title="SPORTS",Telekom Sport 1 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSportHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="SPORTS",Telekom Sport 2 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="SPORTS",Telekom Sport 3 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="SPORTS",Telekom Sport 4 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="SPORTS",Eurosport 1
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="SPORTS",Eurosport 2
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 group-title="SPORTS",Depor TV
 http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
 #EXTINF:0 group-title="SPORTS",Dubai Sports
@@ -473,328 +461,152 @@ http://178.132.6.97:8080/TV:SharriHD/tracks-v1a1/mono.m3u8
 http://178.132.6.97:8080/TVTetova/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EX/YU-BALKAN",TV Vogosca
 http://178.132.6.97:8080/TVVogosca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",****((AIRTEL_DIGITAL))****
-****((AIRTEL_DIGITAL))****
-#EXTINF:0 group-title="AIRTEL_DIGITAL",&PICTURES
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",&TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",&TV HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",8B SAB GROUP
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226097/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",AASTHA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226069/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ABP
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226052/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ALJAZEERA INDIA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ANIMAL PLANET HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ANJAN
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",B4U MOVIES
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",B4U MUSIC
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226055/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",BBC WORLD NEWS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226051/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",BHOJPURI
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226056/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",BTVI INDIAN BORSA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226009/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",CHARDIKLA TIME HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226087/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",DISCOVERY HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",DISCOVERY SCIENCE
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",DISCOVERY TURBO
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",DISCOVERY TURBO
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",DISCOVERY WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",DK TV
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225775/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",E24
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",FLOWERS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225838/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",FOOD FOOD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",GISIRI
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226033/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",IBC 24
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226102/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",INDIA CLASSICS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",INDIA HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226085/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",INDIA MUSIC
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226064/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",INDIA MUSICA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226023/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",INDIA SERIE
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",INDIA TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226072/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",JANAM TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226111/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",JAYA MAX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",JAYA TV HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",KAIRALI
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",KALINGA TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",MH1
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",MHONE INDIA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226089/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",MY GOOD TIME IN.
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225774/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",NAMAP
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226032/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",NDTV IN.
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225777/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",NDTV PRIME
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225781/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",NEWS LIVE
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",NO1 MUSIC CH
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ODISHATV IN.
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226024/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",PITARA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",POLIMER
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",PRAG NEWS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226110/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",QX JALWA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",QX JHAKAAS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",QX M
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",QX O
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",QX TASHAN
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",RANG
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226106/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",RCHR
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226070/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",REPUBLIC.
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226000/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY BBC EARTH
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY ENTERTAINMENT
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY ENTERTAINMENT HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY KIDS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY LE PLEX HD
-http://mhms7.airtel.tv/PLTV/88888888/224/3221226446/04.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY MAX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY MAX HD
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY MAX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225776/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY MAX2
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY MIX
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY MIX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY SAB
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226078/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY SAB
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",SONY YAY
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226065/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",TITESH
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226029/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",TLC
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",TLC HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",TLC HD WORLD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",TRAVEL XP SD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225813/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",TV9
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226094/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",V TV NEWS
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZEE CINEMA HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZEE CLASSIC
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226067/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZEE DRAMA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZEE LOVE
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZEE REALITY
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226074/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZEE TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZINDIA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226042/index.m3u8
-#EXTINF:0 group-title="AIRTEL_DIGITAL",ZING
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226080/index.m3u8
-#EXTINF:0 group-title="TELEKOM_ROMANIA",****((TELEKOM_ROMANIA))****
-****((TELEKOM_ROMANIA))****
-#EXTINF:0 group-title="TELEKOM_ROMANIA",6TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Agro TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",AlfaOmegaTV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Animal Planet
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AnimalPlanet/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",AXN
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AXN/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",AXN Black
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNBlack/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",AXN HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",AXN Spin
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNSPIN/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",AXN White
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AXNWhite/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Balkanika TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BalkanikaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",BBC Earth HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",BBC News HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Bollywood Clasic
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Bollywood Classic
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Bollywood Classic
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Bollywood TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Bollywood TV HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Boomerang
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Cinemaraton HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$CinemaratonHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Cinemax 2 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Cinemax2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Cinemax HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO_Cinemax_HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Classica HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ClassicaTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Comedy Central
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Credo TV 
-http://telekomtv.ro.edgesuite.net/shls/LIVE$CredoTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",DaVinci
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DaVinci/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Discovery
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Discovery/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Discovery Science
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DiscoveryScience/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Disney Channel
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyChannel/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Disney Junior
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Djazz HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DjazzHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Duck TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DuckTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Erdely TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Fashion TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Fashion TV HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Food Network
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Happy Channel
-http://main.web.xn--8oux7cpmf3du51f21q.xn--3ds443g:25461/live/ovidiuf13@gmail.com/5ykxe7QS17/11.m3u8
-#EXTINF:0 group-title="TELEKOM_ROMANIA",HBO 2 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO2HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",HBO 3 HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$HBO3HD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",HBO HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",History
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Inedit TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$IneditTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Mooz Dance HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Mooz HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Mooz Hits
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Mooz RO!
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Nasul TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$NasulTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Nick Jr
-http://telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Nickelodeon
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Nickelodeon/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Nickelodeon HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$NickelodeonHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Paramount Channel
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Rock TV HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$RockTVHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Romania TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$RomaniaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Speranta TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",TLC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TLC/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",TNT
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TCM/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",TNT HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TNTHD/12.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Travel Channel
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Travel Mix
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Travel Mix
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",TV 1000
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TV1000/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",TV CITY
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",TV Paprika
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TVPaprika/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",UEFA 1
-http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA1/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",UEFA 2
-http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA2/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",UEFA 3
-http://telekomtv.ro.edgesuite.net/shls/LIVE$UEFA3/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",VH 1
-http://telekomtv.ro.edgesuite.net/shls/LIVE$VH1/12.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Viasat Explore
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatExplorer/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Viasat History
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHistory/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Viasat Nature
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatNature/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="TELEKOM_ROMANIA",Viasat Nature HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:0 group-title="WORLD_IPTV",****((WORLD_IPTV))****
+****((WORLD_IPTV))****
+#EXTINF:-1,?????? (RU)
+http://80.87.208.158:80/dna-65-tv-pc.m3u8
+#EXTINF:-1,GALAXY/4 (HU)
+http://80.87.208.158:80/dna-66-tv-pc.m3u8
+#EXTINF:-1,MTV HITS
+http://80.87.208.158:80/dna-67-tv-pc.m3u8
+#EXTINF:-1,MTV DANCE
+http://80.87.208.158:80/dna-68-tv-pc.m3u8
+#EXTINF:-1,VH 1
+http://80.87.208.158:80/dna-71-tv-pc.m3u8
+#EXTINF:-1,VH 1 CLASSIC
+http://80.87.208.158:80/dna-69-tv-pc.m3u8
+#EXTINF:-1,MTV
+http://80.87.208.158:80/dna-70-tv-pc.m3u8
+#EXTINF:-1,ZDF (DE)
+http://80.87.208.158:80/dna-78-tv-pc.m3u8
+#EXTINF:-1,SAT 1 (DE)
+http://80.87.208.158:80/dna-79-tv-pc.m3u8
+#EXTINF:-1,NEWS (DE)
+http://80.87.208.158:80/dna-80-tv-pc.m3u8
+#EXTINF:-1,WELT (DE)
+http://80.87.208.158:80/dna-81-tv-pc.m3u8
+#EXTINF:-1,JIXX (DE)
+http://80.87.208.158:80/dna-82-tv-pc.m3u8
+#EXTINF:-1,RTL (DE)
+http://80.87.208.158:80/dna-83-tv-pc.m3u8
+#EXTINF:-1,RTL 2 (DE)
+http://80.87.208.158:80/dna-84-tv-pc.m3u8
+#EXTINF:-1,TOGGO (DE)
+http://80.87.208.158:80/dna-85-tv-pc.m3u8
+#EXTINF:-1,VOX (DE)
+http://80.87.208.158:80/dna-86-tv-pc.m3u8
+#EXTINF:-1,SPORT5 FHD (CZ)
+http://80.87.208.158:80/dna-89-tv-pc.m3u8
+#EXTINF:-1,HUs
+http://80.87.208.158:80/dna-91-tv-pc.m3u8
+#EXTINF:-1,RUSSIAN MUSICBOX
+http://80.87.208.158:80/dna-96-tv-pc.m3u8
+#EXTINF:-1,DW
+http://80.87.208.158:80/dna-97-tv-pc.m3u8
+#EXTINF:-1,TV5 MONDE (FR)
+http://80.87.208.158:80/dna-98-tv-pc.m3u8
+#EXTINF:-1,MTV ROCKS
+http://80.87.208.158:80/dna-99-tv-pc.m3u8
+#EXTINF:-1,CNL
+http://80.87.208.158:80/dna-116-tv-pc.m3u8
+#EXTINF:-1,FILM BOX EXTRA FHD (CZ)
+http://80.87.208.158:80/dna-119-tv-pc.m3u8
+#EXTINF:-1,EX
+http://80.87.208.158:80/dna-130-tv-pc.m3u8
+#EXTINF:-1,SKY NEWS
+http://80.87.208.158:80/dna-132-tv-pc.m3u8
+#EXTINF:-1,CNN
+http://80.87.208.158:80/dna-133-tv-pc.m3u8
+#EXTINF:-1,BOOMERANG
+http://80.87.208.158:80/dna-143-tv-pc.m3u8
+#EXTINF:-1,HBO HD (CZ)
+http://80.87.208.158:80/dna-151-tv-pc.m3u8
+#EXTINF:-1,CN
+http://80.87.208.158:80/dna-154-tv-pc.m3u8
+#EXTINF:-1,RAI 1 (IT)
+http://80.87.208.158:80/dna-163-tv-pc.m3u8
+#EXTINF:-1,RAI 2 (IT)
+http://80.87.208.158:80/dna-164-tv-pc.m3u8
+#EXTINF:-1,RAI 3 (IT)
+http://80.87.208.158:80/dna-165-tv-pc.m3u8
+#EXTINF:-1,RAI NEWS 24 (IT)
+http://80.87.208.158:80/dna-168-tv-pc.m3u8
+#EXTINF:-1,FightBox HD
+http://80.87.208.158:80/dna-4571-tv-pc.m3u8
+#EXTINF:-1,FashionBox HD
+http://80.87.208.158:80/dna-4591-tv-pc.m3u8
+#EXTINF:-1,DocuBox HD
+http://80.87.208.158:80/dna-4611-tv-pc.m3u8
+#EXTINF:-1,ALJaz HD
+http://80.87.208.158:80/dna-5169-tv-pc.m3u8
+#EXTINF:-1,Nitro
+http://80.87.208.158:80/dna-5269-tv-pc.m3u8
+#EXTINF:-1,Rebel
+http://80.87.208.158:80/dna-5306-tv-pc.m3u8
+#EXTINF:-1,Severka TV
+http://80.87.208.158:80/dna-5468-tv-pc.m3u8
+#EXTINF:-1,RTV
+http://80.87.208.158:80/dna-2822-tv-pc.m3u8
+#EXTINF:-1,TV Raj HD
+http://80.87.208.158:80/dna-2827-tv-pc.m3u8
+#EXTINF:-1,OutDoor HD
+http://80.87.208.158:80/dna-2833-tv-pc.m3u8
+#EXTINF:-1,TVX HD
+http://80.87.208.158:80/dna-3586-tv-pc.m3u8
+#EXTINF:-1,RTL
+http://80.87.208.158:80/dna-4004-tv-pc.m3u8
+#EXTINF:-1,TVP Historia
+http://80.87.208.158:80/dna-4747-tv-pc.m3u8
+#EXTINF:-1,Radio 1
+http://80.87.208.158:80/dna-4749-tv-pc.m3u8
+#EXTINF:-1,relax
+http://80.87.208.158:80/dna-4912-tv-pc.m3u8
+#EXTINF:-1,LEO TV
+http://80.87.208.158:80/dna-141-tv-pc.m3u8
+#EXTINF:-1,DELUXE MUSIC
+http://80.87.208.158:80/dna-521-tv-pc.m3u8
+#EXTINF:-1,Euronews
+http://80.87.208.158:80/dna-58-tv-pc.m3u8
+#EXTINF:-1,Baby tv
+http://80.87.208.158:80/dna-17-tv-pc.m3u8
+#EXTINF:-1,N/A
+http://80.87.208.158:80/dna-18-tv-pc.m3u8
+#EXTINF:-1,Ocko Hity
+http://80.87.208.158:80/dna-24-tv-pc.m3u8
+#EXTINF:-1,Central
+http://80.87.208.158:80/dna-37-tv-pc.m3u8
+#EXTINF:-1,12 HD
+http://80.87.208.158:80/dna-35-tv-pc.m3u8
+#EXTINF:-1,WorldWide
+http://80.87.208.158:80/dna-42-tv-pc.m3u8
+#EXTINF:-1,Osem HD
+http://80.87.208.158:80/dna-169-tv-pc.m3u8
+#EXTINF:-1,360 TUNEBOX
+http://80.87.208.158:80/dna-6028-tv-pc.m3u8
+#EXTINF:-1,TV BRATISLAVA
+http://80.87.208.158:80/dna-1208-tv-pc.m3u8
+#EXTINF:-1,OCKO EXPRES
+http://80.87.208.158:80/dna-6363-tv-pc.m3u8
+#EXTINF:-1,OCKO STAR
+http://80.87.208.158:80/dna-6383-tv-pc.m3u8
+#EXTINF:-1,TVP SPORT
+http://80.87.208.158:80/dna-6646-tv-pc.m3u8
+#EXTINF:-1,TV R
+http://80.87.208.158:80/dna-7305-tv-pc.m3u8
+#EXTINF:-1,FILMBOX PREMIUM HD
+http://80.87.208.158:80/dna-7747-tv-pc.m3u8
+#EXTINF:-1,Nautical
+http://80.87.208.158:80/dna-520-tv-pc.m3u8
+#EXTINF:-1,HBO2 HD
+http://80.87.208.158:80/dna-576-tv-pc.m3u8
+#EXTINF:-1,HBO3 HD
+http://80.87.208.158:80/dna-577-tv-pc.m3u8
+#EXTINF:-1,Muszika TV
+http://80.87.208.158:80/dna-758-tv-pc.m3u8
+#EXTINF:-1,Sport5
+http://80.87.208.158:80/dna-089-tv-pc.m3u8
+#EXTINF:-1,Polsat HD
+http://80.87.208.158:80/dna-035-tv-pc.m3u8 
 #EXTINF:0 group-title="ReMy_WORLD",****((ReMy_WORLD))****
 ****((ReMy_WORLD))****
 #EXTINF:0 group-title="ReMy_WORLD",1-2-3 TV
