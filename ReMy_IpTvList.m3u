@@ -463,149 +463,145 @@ http://178.132.6.97:8080/TVTetova/tracks-v1a1/mono.m3u8
 http://178.132.6.97:8080/TVVogosca/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="WORLD_IPTV",****((WORLD_IPTV))****
 ****((WORLD_IPTV))****
-#EXTINF:-1,?????? (RU)
+#EXTINF:0 group-title="WORLD_IPTV",?????? (RU)
 http://80.87.208.158:80/dna-65-tv-pc.m3u8
-#EXTINF:-1,GALAXY/4 (HU)
+#EXTINF:0 group-title="WORLD_IPTV",GALAXY/4 (HU)
 http://80.87.208.158:80/dna-66-tv-pc.m3u8
-#EXTINF:-1,MTV HITS
+#EXTINF:0 group-title="WORLD_IPTV",MTV HITS
 http://80.87.208.158:80/dna-67-tv-pc.m3u8
-#EXTINF:-1,MTV DANCE
+#EXTINF:0 group-title="WORLD_IPTV",MTV DANCE
 http://80.87.208.158:80/dna-68-tv-pc.m3u8
-#EXTINF:-1,VH 1
+#EXTINF:0 group-title="WORLD_IPTV",VH 1
 http://80.87.208.158:80/dna-71-tv-pc.m3u8
-#EXTINF:-1,VH 1 CLASSIC
+#EXTINF:0 group-title="WORLD_IPTV",VH 1 CLASSIC
 http://80.87.208.158:80/dna-69-tv-pc.m3u8
-#EXTINF:-1,MTV
+#EXTINF:0 group-title="WORLD_IPTV",MTV
 http://80.87.208.158:80/dna-70-tv-pc.m3u8
-#EXTINF:-1,ZDF (DE)
+#EXTINF:0 group-title="WORLD_IPTV",ZDF (DE)
 http://80.87.208.158:80/dna-78-tv-pc.m3u8
-#EXTINF:-1,SAT 1 (DE)
+#EXTINF:0 group-title="WORLD_IPTV",SAT 1 (DE)
 http://80.87.208.158:80/dna-79-tv-pc.m3u8
-#EXTINF:-1,NEWS (DE)
+#EXTINF:0 group-title="WORLD_IPTV",NEWS (DE)
 http://80.87.208.158:80/dna-80-tv-pc.m3u8
-#EXTINF:-1,WELT (DE)
+#EXTINF:0 group-title="WORLD_IPTV",WELT (DE)
 http://80.87.208.158:80/dna-81-tv-pc.m3u8
-#EXTINF:-1,JIXX (DE)
+#EXTINF:0 group-title="WORLD_IPTV",JIXX (DE)
 http://80.87.208.158:80/dna-82-tv-pc.m3u8
-#EXTINF:-1,RTL (DE)
+#EXTINF:0 group-title="WORLD_IPTV",RTL (DE)
 http://80.87.208.158:80/dna-83-tv-pc.m3u8
-#EXTINF:-1,RTL 2 (DE)
+#EXTINF:0 group-title="WORLD_IPTV",RTL 2 (DE)
 http://80.87.208.158:80/dna-84-tv-pc.m3u8
-#EXTINF:-1,TOGGO (DE)
+#EXTINF:0 group-title="WORLD_IPTV",TOGGO (DE)
 http://80.87.208.158:80/dna-85-tv-pc.m3u8
-#EXTINF:-1,VOX (DE)
+#EXTINF:0 group-title="WORLD_IPTV",VOX (DE)
 http://80.87.208.158:80/dna-86-tv-pc.m3u8
-#EXTINF:-1,SPORT5 FHD (CZ)
+#EXTINF:0 group-title="WORLD_IPTV",SPORT5 FHD (CZ)
 http://80.87.208.158:80/dna-89-tv-pc.m3u8
-#EXTINF:-1,HUs
-http://80.87.208.158:80/dna-91-tv-pc.m3u8
-#EXTINF:-1,RUSSIAN MUSICBOX
+#EXTINF:0 group-title="WORLD_IPTV",RUSSIAN MUSICBOX
 http://80.87.208.158:80/dna-96-tv-pc.m3u8
-#EXTINF:-1,DW
+#EXTINF:0 group-title="WORLD_IPTV",DW
 http://80.87.208.158:80/dna-97-tv-pc.m3u8
-#EXTINF:-1,TV5 MONDE (FR)
+#EXTINF:0 group-title="WORLD_IPTV",TV5 MONDE (FR)
 http://80.87.208.158:80/dna-98-tv-pc.m3u8
-#EXTINF:-1,MTV ROCKS
+#EXTINF:0 group-title="WORLD_IPTV",MTV ROCKS
 http://80.87.208.158:80/dna-99-tv-pc.m3u8
-#EXTINF:-1,CNL
+#EXTINF:0 group-title="WORLD_IPTV",CNL
 http://80.87.208.158:80/dna-116-tv-pc.m3u8
-#EXTINF:-1,FILM BOX EXTRA FHD (CZ)
+#EXTINF:0 group-title="WORLD_IPTV",FILM BOX EXTRA FHD (CZ)
 http://80.87.208.158:80/dna-119-tv-pc.m3u8
-#EXTINF:-1,EX
+#EXTINF:0 group-title="WORLD_IPTV",EX
 http://80.87.208.158:80/dna-130-tv-pc.m3u8
-#EXTINF:-1,SKY NEWS
+#EXTINF:0 group-title="WORLD_IPTV",SKY NEWS
 http://80.87.208.158:80/dna-132-tv-pc.m3u8
-#EXTINF:-1,CNN
+#EXTINF:0 group-title="WORLD_IPTV",CNN
 http://80.87.208.158:80/dna-133-tv-pc.m3u8
-#EXTINF:-1,BOOMERANG
+#EXTINF:0 group-title="WORLD_IPTV",BOOMERANG
 http://80.87.208.158:80/dna-143-tv-pc.m3u8
-#EXTINF:-1,HBO HD (CZ)
+#EXTINF:0 group-title="WORLD_IPTV",HBO HD (CZ)
 http://80.87.208.158:80/dna-151-tv-pc.m3u8
-#EXTINF:-1,CN
+#EXTINF:0 group-title="WORLD_IPTV",CN
 http://80.87.208.158:80/dna-154-tv-pc.m3u8
-#EXTINF:-1,RAI 1 (IT)
+#EXTINF:0 group-title="WORLD_IPTV",RAI 1 (IT)
 http://80.87.208.158:80/dna-163-tv-pc.m3u8
-#EXTINF:-1,RAI 2 (IT)
+#EXTINF:0 group-title="WORLD_IPTV",RAI 2 (IT)
 http://80.87.208.158:80/dna-164-tv-pc.m3u8
-#EXTINF:-1,RAI 3 (IT)
+#EXTINF:0 group-title="WORLD_IPTV",RAI 3 (IT)
 http://80.87.208.158:80/dna-165-tv-pc.m3u8
-#EXTINF:-1,RAI NEWS 24 (IT)
+#EXTINF:0 group-title="WORLD_IPTV",RAI NEWS 24 (IT)
 http://80.87.208.158:80/dna-168-tv-pc.m3u8
-#EXTINF:-1,FightBox HD
+#EXTINF:0 group-title="WORLD_IPTV",FightBox HD
 http://80.87.208.158:80/dna-4571-tv-pc.m3u8
-#EXTINF:-1,FashionBox HD
+#EXTINF:0 group-title="WORLD_IPTV",FashionBox HD
 http://80.87.208.158:80/dna-4591-tv-pc.m3u8
-#EXTINF:-1,DocuBox HD
+#EXTINF:0 group-title="WORLD_IPTV",DocuBox HD
 http://80.87.208.158:80/dna-4611-tv-pc.m3u8
-#EXTINF:-1,ALJaz HD
+#EXTINF:0 group-title="WORLD_IPTV",ALJaz HD
 http://80.87.208.158:80/dna-5169-tv-pc.m3u8
-#EXTINF:-1,Nitro
+#EXTINF:0 group-title="WORLD_IPTV",Nitro
 http://80.87.208.158:80/dna-5269-tv-pc.m3u8
-#EXTINF:-1,Rebel
+#EXTINF:0 group-title="WORLD_IPTV",Rebel
 http://80.87.208.158:80/dna-5306-tv-pc.m3u8
-#EXTINF:-1,Severka TV
+#EXTINF:0 group-title="WORLD_IPTV",Severka TV
 http://80.87.208.158:80/dna-5468-tv-pc.m3u8
-#EXTINF:-1,RTV
+#EXTINF:0 group-title="WORLD_IPTV",RTV
 http://80.87.208.158:80/dna-2822-tv-pc.m3u8
-#EXTINF:-1,TV Raj HD
+#EXTINF:0 group-title="WORLD_IPTV",TV Raj HD
 http://80.87.208.158:80/dna-2827-tv-pc.m3u8
-#EXTINF:-1,OutDoor HD
+#EXTINF:0 group-title="WORLD_IPTV",OutDoor HD
 http://80.87.208.158:80/dna-2833-tv-pc.m3u8
-#EXTINF:-1,TVX HD
+#EXTINF:0 group-title="WORLD_IPTV",TVX HD
 http://80.87.208.158:80/dna-3586-tv-pc.m3u8
-#EXTINF:-1,RTL
+#EXTINF:0 group-title="WORLD_IPTV",RTL
 http://80.87.208.158:80/dna-4004-tv-pc.m3u8
-#EXTINF:-1,TVP Historia
+#EXTINF:0 group-title="WORLD_IPTV",TVP Historia
 http://80.87.208.158:80/dna-4747-tv-pc.m3u8
-#EXTINF:-1,Radio 1
+#EXTINF:0 group-title="WORLD_IPTV",Radio 1
 http://80.87.208.158:80/dna-4749-tv-pc.m3u8
-#EXTINF:-1,relax
+#EXTINF:0 group-title="WORLD_IPTV",relax
 http://80.87.208.158:80/dna-4912-tv-pc.m3u8
-#EXTINF:-1,LEO TV
-http://80.87.208.158:80/dna-141-tv-pc.m3u8
-#EXTINF:-1,DELUXE MUSIC
+#EXTINF:0 group-title="WORLD_IPTV",DELUXE MUSIC
 http://80.87.208.158:80/dna-521-tv-pc.m3u8
-#EXTINF:-1,Euronews
+#EXTINF:0 group-title="WORLD_IPTV",Euronews
 http://80.87.208.158:80/dna-58-tv-pc.m3u8
-#EXTINF:-1,Baby tv
+#EXTINF:0 group-title="WORLD_IPTV",Baby tv
 http://80.87.208.158:80/dna-17-tv-pc.m3u8
-#EXTINF:-1,N/A
+#EXTINF:0 group-title="WORLD_IPTV",N/A
 http://80.87.208.158:80/dna-18-tv-pc.m3u8
-#EXTINF:-1,Ocko Hity
+#EXTINF:0 group-title="WORLD_IPTV",Ocko Hity
 http://80.87.208.158:80/dna-24-tv-pc.m3u8
-#EXTINF:-1,Central
+#EXTINF:0 group-title="WORLD_IPTV",Central
 http://80.87.208.158:80/dna-37-tv-pc.m3u8
-#EXTINF:-1,12 HD
+#EXTINF:0 group-title="WORLD_IPTV",12 HD
 http://80.87.208.158:80/dna-35-tv-pc.m3u8
-#EXTINF:-1,WorldWide
+#EXTINF:0 group-title="WORLD_IPTV",WorldWide
 http://80.87.208.158:80/dna-42-tv-pc.m3u8
-#EXTINF:-1,Osem HD
+#EXTINF:0 group-title="WORLD_IPTV",Osem HD
 http://80.87.208.158:80/dna-169-tv-pc.m3u8
-#EXTINF:-1,360 TUNEBOX
+#EXTINF:0 group-title="WORLD_IPTV",360 TUNEBOX
 http://80.87.208.158:80/dna-6028-tv-pc.m3u8
-#EXTINF:-1,TV BRATISLAVA
+#EXTINF:0 group-title="WORLD_IPTV",TV BRATISLAVA
 http://80.87.208.158:80/dna-1208-tv-pc.m3u8
-#EXTINF:-1,OCKO EXPRES
+#EXTINF:0 group-title="WORLD_IPTV",OCKO EXPRES
 http://80.87.208.158:80/dna-6363-tv-pc.m3u8
-#EXTINF:-1,OCKO STAR
+#EXTINF:0 group-title="WORLD_IPTV",OCKO STAR
 http://80.87.208.158:80/dna-6383-tv-pc.m3u8
-#EXTINF:-1,TVP SPORT
+#EXTINF:0 group-title="WORLD_IPTV",TVP SPORT
 http://80.87.208.158:80/dna-6646-tv-pc.m3u8
-#EXTINF:-1,TV R
+#EXTINF:0 group-title="WORLD_IPTV",TV R
 http://80.87.208.158:80/dna-7305-tv-pc.m3u8
-#EXTINF:-1,FILMBOX PREMIUM HD
+#EXTINF:0 group-title="WORLD_IPTV",FILMBOX PREMIUM HD
 http://80.87.208.158:80/dna-7747-tv-pc.m3u8
-#EXTINF:-1,Nautical
+#EXTINF:0 group-title="WORLD_IPTV",Nautical
 http://80.87.208.158:80/dna-520-tv-pc.m3u8
-#EXTINF:-1,HBO2 HD
+#EXTINF:0 group-title="WORLD_IPTV",HBO2 HD
 http://80.87.208.158:80/dna-576-tv-pc.m3u8
-#EXTINF:-1,HBO3 HD
+#EXTINF:0 group-title="WORLD_IPTV",HBO3 HD
 http://80.87.208.158:80/dna-577-tv-pc.m3u8
-#EXTINF:-1,Muszika TV
+#EXTINF:0 group-title="WORLD_IPTV",Muszika TV
 http://80.87.208.158:80/dna-758-tv-pc.m3u8
-#EXTINF:-1,Sport5
+#EXTINF:0 group-title="WORLD_IPTV",Sport5
 http://80.87.208.158:80/dna-089-tv-pc.m3u8
-#EXTINF:-1,Polsat HD
+#EXTINF:0 group-title="WORLD_IPTV",Polsat HD
 http://80.87.208.158:80/dna-035-tv-pc.m3u8 
 #EXTINF:0 group-title="ReMy_WORLD",****((ReMy_WORLD))****
 ****((ReMy_WORLD))****
@@ -2237,6 +2233,10 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 rtmp://stream.visit-x.tv/vxtv//live_720p
 #EXTINF:0 group-title="ADULT" parent-code="1234",BS 24 LIVE
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0 group-title="ADULT" parent-code="1234",HUs
+http://80.87.208.158:80/dna-91-tv-pc.m3u8
+#EXTINF:0 group-title="ADULT" parent-code="1234",LEO TV
+http://80.87.208.158:80/dna-141-tv-pc.m3u8
 #EXTINF:0 group-title="ADULT" parent-code="1234",Hustler HD 
 http://85.132.71.6/ru/hust/index.m3u8%20
 #EXTINF:0 group-title="ADULT" parent-code="1234",Blue Hustler
