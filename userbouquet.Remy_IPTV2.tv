@@ -3323,38 +3323,8 @@
 #DESCRIPTION Düsseldorf Airport cam4
 #SERVICE 4097:0:1:186:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dusbc0c.stream:Düsseldorf Airport cam5
 #DESCRIPTION Düsseldorf Airport cam5
-#SERVICE 4097:0:1:188:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:EXYUG-Banja luka
-#DESCRIPTION EXYUG-Banja luka
-#SERVICE 4097:0:1:190:0:0:0:0:0:0:rtmp%3a//cdn-01.whatsupcams.com/live//hr_makarska:EXYUG-Makarska
-#DESCRIPTION EXYUG-Makarska
-#SERVICE 4097:0:1:192:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/1442565/streams/live/iphone/playlist.m3u8:EYESONEARS
-#DESCRIPTION EYESONEARS
-#SERVICE 4097:0:1:194:0:0:0:0:0:0:rtmp%3a//video1.earthcam.com%3a1935/earthcamtv/Stream1:EarthCam TV
-#DESCRIPTION EarthCam TV
-#SERVICE 4097:0:1:196:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv46_720p.stream:Eckernförde - Hafen
-#DESCRIPTION Eckernförde - Hafen
-#SERVICE 4097:0:1:198:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv45_720p.stream:Eckernförde - Strand
-#DESCRIPTION Eckernförde - Strand
-#SERVICE 4097:0:1:200:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/LS_36290_720p.stream:Elburg - Netherlands
-#DESCRIPTION Elburg - Netherlands
-#SERVICE 4097:0:1:202:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv101_720p.stream:Erfurt - KoWo
-#DESCRIPTION Erfurt - KoWo
-#SERVICE 4097:0:1:204:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv60_720p.stream:Essen - Ruhrturm
-#DESCRIPTION Essen - Ruhrturm
-#SERVICE 4097:0:1:206:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9157992/streams/live/iphone/playlist.m3u8:FIRST BABY
-#DESCRIPTION FIRST BABY
-#SERVICE 4097:0:1:208:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/3839220/streams/live/iphone/playlist.m3u8:FPGA CAFE TSU KUBA
-#DESCRIPTION FPGA CAFE TSU KUBA
 #SERVICE 4097:0:1:210:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4918.flv/HasBahCa.m3u8:FallsCam -New Jersey
 #DESCRIPTION FallsCam -New Jersey
-#SERVICE 4097:0:1:212:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv17_720p.stream:Flensburg - Fjord Tourismus
-#DESCRIPTION Flensburg - Fjord Tourismus
-#SERVICE 4097:0:1:214:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv100_720p.stream:Frankfurt - Stadt Frankfurt am Main
-#DESCRIPTION Frankfurt - Stadt Frankfurt am Main
-#SERVICE 4097:0:1:216:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv112_720p.stream:Freiburg - Volksbank
-#DESCRIPTION Freiburg - Volksbank
-#SERVICE 4097:0:1:218:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv62_720p.stream:Fulda - Schlossstraße
-#DESCRIPTION Fulda - Schlossstraße
 #SERVICE 4097:0:1:220:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv105_720p.stream:Gaienhofen - Hotel Gasthaus Hirschen
 #DESCRIPTION Gaienhofen - Hotel Gasthaus Hirschen
 #SERVICE 4097:0:1:222:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv111_720p.stream:Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
@@ -3363,36 +3333,6 @@
 #DESCRIPTION Gdańsk - Brzeźno molo
 #SERVICE 4097:0:1:226:0:0:0:0:0:0:http%3a//hls12.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/chunks.m3u8:Gdańsk - Motława
 #DESCRIPTION Gdańsk - Motława
-#SERVICE 4097:0:1:228:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv123_720p.stream:Gehlberg - Michael Gebser
-#DESCRIPTION Gehlberg - Michael Gebser
-#SERVICE 4097:0:1:230:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/5058400/streams/live/iphone/playlist.m3u8:HIMEJI JAPAN
-#DESCRIPTION HIMEJI JAPAN
-#SERVICE 4097:0:1:232:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv40_720p.stream:Haffkrug - Lübecker Bucht
-#DESCRIPTION Haffkrug - Lübecker Bucht
-#SERVICE 4097:0:1:234:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv115_720p.stream:Halle - Mitteldeutsches Multimediazentrum
-#DESCRIPTION Halle - Mitteldeutsches Multimediazentrum
-#SERVICE 4097:0:1:236:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv47_720p.stream:Hamburg - Emporio
-#DESCRIPTION Hamburg - Emporio
-#SERVICE 4097:0:1:238:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/LS_b5586_720p.stream:Hamburg - Michel
-#DESCRIPTION Hamburg - Michel
-#SERVICE 4097:0:1:240:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv74_720p.stream:Hamburg - Unileverhaus
-#DESCRIPTION Hamburg - Unileverhaus
-#SERVICE 4097:0:1:242:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv71_720p.stream:Hannover - Congress Hotel
-#DESCRIPTION Hannover - Congress Hotel
-#SERVICE 4097:0:1:244:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv75_720p.stream:Heidelberg - Hotel Panorama
-#DESCRIPTION Heidelberg - Hotel Panorama
-#SERVICE 4097:0:1:246:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv122_720p.stream:Heidelberg - PundM
-#DESCRIPTION Heidelberg - PundM
-#SERVICE 4097:0:1:248:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist.m3u8:Hogs Breath Saloon Bar Cam - Key West FL USA
-#DESCRIPTION Hogs Breath Saloon Bar Cam - Key West FL USA
-#SERVICE 4097:0:1:250:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist.m3u8:Hogs Breath Saloon Raw Bar Cam - Key West FL USA
-#DESCRIPTION Hogs Breath Saloon Raw Bar Cam - Key West FL USA
-#SERVICE 4097:0:1:252:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath3.stream_aac/chunklist.m3u8:Hogs Breath Saloon Stage Cam - Key West FL USA
-#DESCRIPTION Hogs Breath Saloon Stage Cam - Key West FL USA
-#SERVICE 4097:0:1:254:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/lacitytours1.flv/HasBahCa.m3u8:Hollywood Blvd -California
-#DESCRIPTION Hollywood Blvd -California
-#SERVICE 4097:0:1:256:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv7_720p.stream:Hörnum - Sylt
-#DESCRIPTION Hörnum - Sylt
 #SERVICE 4097:0:1:258:0:0:0:0:0:0:http%3a//ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/index_1000_av-p.m3u8:IDAHO
 #DESCRIPTION IDAHO
 #SERVICE 4097:0:1:260:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8:INFORUM FARGO ND USA
@@ -3403,146 +3343,10 @@
 #DESCRIPTION Irish Kevin's Duval Street Cam - Key West FL USA
 #SERVICE 4097:0:1:266:0:0:0:0:0:0:http%3a//wowza.floridakeysmedia.com%3a1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8:Irish Kevin's Stage Cam - Key West FL USA
 #DESCRIPTION Irish Kevin's Stage Cam - Key West FL USA
-#SERVICE 4097:0:1:268:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv157_720p.stream:Ischgl - Pardatschgrat Seilbahn
-#DESCRIPTION Ischgl - Pardatschgrat Seilbahn
-#SERVICE 4097:0:1:270:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv128_720p.stream:Ischgl - Talstation
-#DESCRIPTION Ischgl - Talstation
-#SERVICE 4097:0:1:272:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10919829/streams/live/iphone/playlist.m3u8:JAPAN 1
-#DESCRIPTION JAPAN 1
-#SERVICE 4097:0:1:274:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/11241820/streams/live/iphone/playlist.m3u8:JAPAN 2
-#DESCRIPTION JAPAN 2
-#SERVICE 4097:0:1:276:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17662435/streams/live/iphone/playlist.m3u8:JAPAN 3
-#DESCRIPTION JAPAN 3
-#SERVICE 4097:0:1:278:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17662918/streams/live/iphone/playlist.m3u8:JAPAN 4
-#DESCRIPTION JAPAN 4
-#SERVICE 4097:0:1:280:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/20026604/streams/live/iphone/playlist.m3u8:JAPAN 5
-#DESCRIPTION JAPAN 5
-#SERVICE 4097:0:1:282:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv51_720p.stream:Juist - Inselgemeinde Juist
-#DESCRIPTION Juist - Inselgemeinde Juist
-#SERVICE 4097:0:1:284:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv146_720p.stream:Juister Hof - Juist
-#DESCRIPTION Juister Hof - Juist
-#SERVICE 4097:0:1:286:0:0:0:0:0:0:http%3a//www.vision-environnement.com%3a1935/live/krasprowy.stream/index.m3u8:KASPROWY WIERCH
-#DESCRIPTION KASPROWY WIERCH
-#SERVICE 4097:0:1:288:0:0:0:0:0:0:http%3a//streaming3.webcam.nl/n233/n233.stream/.m3u8:KESTEREN
-#DESCRIPTION KESTEREN
-#SERVICE 4097:0:1:290:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/12311613/streams/live/iphone/playlist.m3u8:KIPLIVECAM TAKATSUKI JAPAN
-#DESCRIPTION KIPLIVECAM TAKATSUKI JAPAN
-#SERVICE 4097:0:1:292:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8:CRACOW Grodzka 2
-#DESCRIPTION CRACOW Grodzka 2
-#SERVICE 4097:0:1:294:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakow_cam_c44608/krakow_cam_c44608.stream/chunks.m3u8:CRACOW rynek Podgórski
-#DESCRIPTION CRACOW rynek Podgórski
-#SERVICE 4097:0:1:296:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/chunks.m3u8:CRACOW widok na WAWEL
-#DESCRIPTION CRACOW widok na WAWEL
-#SERVICE 4097:0:1:298:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8:CRACOW. plaża Live
-#DESCRIPTION CRACOW. plaża Live
-#SERVICE 4097:0:1:300:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/16416392/streams/live/iphone/playlist.m3u8:KYOTO JAPAN CAM
-#DESCRIPTION KYOTO JAPAN CAM
-#SERVICE 4097:0:1:302:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv49_720p.stream:Kampen - Sylt
-#DESCRIPTION Kampen - Sylt
-#SERVICE 4097:0:1:304:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv125_720p.stream:Kassel - Best Western
-#DESCRIPTION Kassel - Best Western
-#SERVICE 4097:0:1:306:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv28_720p.stream:Kiel - Ostufer
-#DESCRIPTION Kiel - Ostufer
-#SERVICE 4097:0:1:308:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv77_720p.stream:Kiel - Port of Kiel
-#DESCRIPTION Kiel - Port of Kiel
-#SERVICE 4097:0:1:310:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv38_720p.stream:Kiel - Schleuse
-#DESCRIPTION Kiel - Schleuse
-#SERVICE 4097:0:1:312:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv121_720p.stream:Kitzbühel - Hahnenkamm Bergstation
-#DESCRIPTION Kitzbühel - Hahnenkamm Bergstation
-#SERVICE 4097:0:1:314:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv143_720p.stream:Kitzbühel - Hotel Rasmushof
-#DESCRIPTION Kitzbühel - Hotel Rasmushof
-#SERVICE 4097:0:1:316:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv36_720p.stream:Koblenz - Hotel Continental
-#DESCRIPTION Koblenz - Hotel Continental
-#SERVICE 4097:0:1:318:0:0:0:0:0:0:rtmp%3a//176.103.33.5%3a1935/live/kowal:Kowal Park Kazimierza Wielkiego
-#DESCRIPTION Kowal Park Kazimierza Wielkiego
-#SERVICE 4097:0:1:320:0:0:0:0:0:0:rtmp%3a//176.103.33.5%3a1935/live/kowal2:Kowal Park Kazimierza Wielkiego2
-#DESCRIPTION Kowal Park Kazimierza Wielkiego2
-#SERVICE 4097:0:1:322:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv67_720p.stream:Krefeld - Garden Hotel
-#DESCRIPTION Krefeld - Garden Hotel
-#SERVICE 4097:0:1:324:0:0:0:0:0:0:http%3a//hls1.webcamera.pl/kwidzyn_cam_5a33f5/kwidzyn_cam_5a33f5.stream/chunks.m3u8:Kwidzyn Stadnina koni
-#DESCRIPTION Kwidzyn Stadnina koni
-#SERVICE 4097:0:1:326:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv69_720p.stream:Köln - Kölnturm
-#DESCRIPTION Köln - Kölnturm
-#SERVICE 4097:0:1:328:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv99_720p.stream:Köln - Pullman Cologne
-#DESCRIPTION Köln - Pullman Cologne
-#SERVICE 4097:0:1:330:0:0:0:0:0:0:rtmp%3a//62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream:Köln Heumarkt (Rhein- Domblick)
-#DESCRIPTION Köln Heumarkt (Rhein- Domblick)
-#SERVICE 4097:0:1:332:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv35_450p.stream:Kühlungsborn - Strand
-#DESCRIPTION Kühlungsborn - Strand
-#SERVICE 4097:0:1:334:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv82_720p.stream:Laboe - Ehrenmal
-#DESCRIPTION Laboe - Ehrenmal
-#SERVICE 4097:0:1:336:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv136_720p.stream:Langeness - TU Harburg
-#DESCRIPTION Langeness - TU Harburg
-#SERVICE 4097:0:1:338:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv22_720p.stream:Lech am Arlberg
-#DESCRIPTION Lech am Arlberg
-#SERVICE 4097:0:1:340:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv120_720p.stream:Lermoos - Zugspitze
-#DESCRIPTION Lermoos - Zugspitze
-#SERVICE 4097:0:1:342:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv50_720p.stream:Lindau - Bodensee
-#DESCRIPTION Lindau - Bodensee
-#SERVICE 4097:0:1:344:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv113_720p.stream:Lindau - Lindauer Hof
-#DESCRIPTION Lindau - Lindauer Hof
-#SERVICE 4097:0:1:346:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv44_720p.stream:Lübeck - MUK
-#DESCRIPTION Lübeck - MUK
-#SERVICE 4097:0:1:348:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv64_720p.stream:Lübeck - Radisson Blu
-#DESCRIPTION Lübeck - Radisson Blu
-#SERVICE 4097:0:1:350:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv135_720p.stream:Lüneburg - Hotel Bergström
-#DESCRIPTION Lüneburg - Hotel Bergström
-#SERVICE 4097:0:1:352:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/16474750/streams/live/iphone/playlist.m3u8:MOTEGI JAPAN
-#DESCRIPTION MOTEGI JAPAN
-#SERVICE 4097:0:1:354:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5321.flv/HasBahCa.m3u8:Midtown East
-#DESCRIPTION Midtown East
-#SERVICE 4097:0:1:356:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv118_720p.stream:Mönchengladbach - Best Western Crown
-#DESCRIPTION Mönchengladbach - Best Western Crown
-#SERVICE 4097:0:1:358:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv72_720p.stream:München - Deutsche Eiche
-#DESCRIPTION München - Deutsche Eiche
-#SERVICE 4097:0:1:360:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv55_450p.stream:München - wetter.com-Redaktion
-#DESCRIPTION München - wetter.com-Redaktion
-#SERVICE 4097:0:1:362:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv116_720p.stream:Münster - Raphaelsklinik
-#DESCRIPTION Münster - Raphaelsklinik
-#SERVICE 4097:0:1:364:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv63_720p.stream:Münster - Stadthaus
-#DESCRIPTION Münster - Stadthaus
-#SERVICE 4097:0:1:366:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/11195404/streams/live/iphone/playlist.m3u8:NAGAREYAMA JAPAN
-#DESCRIPTION NAGAREYAMA JAPAN
-#SERVICE 4097:0:1:368:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/6168642/streams/live/iphone/playlist.m3u8:NAKAE JAPAN CAMERA
-#DESCRIPTION NAKAE JAPAN CAMERA
-#SERVICE 4097:0:1:370:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/16422052/streams/live/iphone/playlist.m3u8:NARA JAPAN
-#DESCRIPTION NARA JAPAN
-#SERVICE 4097:0:1:372:0:0:0:0:0:0:http%3a//nt-ded11.nijmegen.internl.net%3a1935/live/brug.stream/.m3u8:NIJMEGEN
-#DESCRIPTION NIJMEGEN
-#SERVICE 4097:0:1:374:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv12_450p.stream:Neuharlingersiel - Hafen Ost
-#DESCRIPTION Neuharlingersiel - Hafen Ost
-#SERVICE 4097:0:1:376:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv13_450p.stream:Neuharlingersiel - Hafen West
-#DESCRIPTION Neuharlingersiel - Hafen West
-#SERVICE 4097:0:1:378:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv14_450p.stream:Neuharlingersiel - Panorama
-#DESCRIPTION Neuharlingersiel - Panorama
-#SERVICE 4097:0:1:380:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3644newscafe.flv/HasBahCa.m3u8:Newscafe -Florida
-#DESCRIPTION Newscafe -Florida
-#SERVICE 4097:0:1:382:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv81_720p.stream:Niendorf - Meerwasserhallenbad
-#DESCRIPTION Niendorf - Meerwasserhallenbad
-#SERVICE 4097:0:1:384:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv147_720p.stream:Norderney - Zimmerservice - Norderney
-#DESCRIPTION Norderney - Zimmerservice - Norderney
-#SERVICE 4097:0:1:386:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad Trg Slobode
-#DESCRIPTION NoviSad Trg Slobode
-#SERVICE 4097:0:1:388:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10628830/streams/live/iphone/playlist.m3u8:OME JAPAN
-#DESCRIPTION OME JAPAN
-#SERVICE 4097:0:1:390:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/15992845/streams/live/iphone/playlist.m3u8:OSAKA JAPAN
-#DESCRIPTION OSAKA JAPAN
-#SERVICE 4097:0:1:392:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv137_720p.stream:Oberstdorf - Hotel Exquisit
-#DESCRIPTION Oberstdorf - Hotel Exquisit
-#SERVICE 4097:0:1:394:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv30_720p.stream:Oberwiesenthal - Hotel Fichtelberghaus
-#DESCRIPTION Oberwiesenthal - Hotel Fichtelberghaus
-#SERVICE 4097:0:1:396:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv91_720p.stream:Oldenburg - Nordwest-Zeitung
-#DESCRIPTION Oldenburg - Nordwest-Zeitung
-#SERVICE 4097:0:1:398:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/12273372/streams/live/iphone/playlist.m3u8:PENTWATER LUDINGTON MI USA
-#DESCRIPTION PENTWATER LUDINGTON MI USA
-#SERVICE 4097:0:1:400:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv98_720p.stream:Passau - Hotel König
-#DESCRIPTION Passau - Hotel König
-#SERVICE 4097:0:1:402:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv8_450p.stream:Pelzerhaken - Lübecker Bucht
-#DESCRIPTION Pelzerhaken - Lübecker Bucht
-#SERVICE 4097:0:1:404:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv126_720p.stream:Pertisau am Achensee - Bergstation
-#DESCRIPTION Pertisau am Achensee - Bergstation
 #SERVICE 4097:0:1:406:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6253.flv/HasBahCa.m3u8:Pier -California
 #DESCRIPTION Pier -California
+#SERVICE 4097:0:1:386:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad Trg Slobode
+#DESCRIPTION NoviSad Trg Slobode
 #SERVICE 4097:0:1:408:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream:Plougonvelin - Bretagne - France
 #DESCRIPTION Plougonvelin - Bretagne - France
 #SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM: ALVOR
@@ -3621,18 +3425,6 @@
 #DESCRIPTION Portugal WEBCAM: ZAMBUJEIRA
 #SERVICE 4097:0:1:484:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv110_720p.stream:Potsdam - Hotel Am Luisenplatz
 #DESCRIPTION Potsdam - Hotel Am Luisenplatz
-#SERVICE 4097:0:1:486:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/sedonawebcam.flv/hasbahca.m3u8:Red Rock Cam -Arizona
-#DESCRIPTION Red Rock Cam -Arizona
-#SERVICE 4097:0:1:488:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv89_720p.stream:Rostock - Apartment LIVING HOTEL
-#DESCRIPTION Rostock - Apartment LIVING HOTEL
-#SERVICE 4097:0:1:490:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv119_720p.stream:Rostock - Hotel Sportforum
-#DESCRIPTION Rostock - Hotel Sportforum
-#SERVICE 4097:0:1:492:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv87_720p.stream:Rust - Apollon Hotel
-#DESCRIPTION Rust - Apollon Hotel
-#SERVICE 4097:0:1:494:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/16604980/streams/live/iphone/playlist.m3u8:SAPPORO JAPAN
-#DESCRIPTION SAPPORO JAPAN
-#SERVICE 4097:0:1:496:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9909323/streams/live/iphone/playlist.m3u8:SCHIGASAKI JAPAN
-#DESCRIPTION SCHIGASAKI JAPAN
 #SERVICE 4097:0:1:498:0:0:0:0:0:0:http%3a//hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8:SOPOT - MOLO
 #DESCRIPTION SOPOT - MOLO
 #SERVICE 4097:0:1:500:0:0:0:0:0:0:http%3a//hls13.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/chunks.m3u8:SOPOT - widok z latarni
