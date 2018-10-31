@@ -275,12 +275,6 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★AIRTEL | DIGITAL★★ ====
 #DESCRIPTION === ★★AIRTEL | DIGITAL★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.119.204.32%3a8889/udp/225.1.1.245%3a30120:MTV
-#DESCRIPTION MTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.119.204.32%3a8889/udp/225.1.1.231%3a30120:Animal Planet
-#DESCRIPTION Animal Planet
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//42.119.204.32%3a8889/udp/225.1.1.201%3a30120:Arirang
-#DESCRIPTION Arirang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-35-tv-pc.m3u8:12 HD
 #DESCRIPTION 12 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-6028-tv-pc.m3u8:360 TUNEBOX
@@ -325,12 +319,8 @@
 #DESCRIPTION HBO2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-577-tv-pc.m3u8:HBO3 HD
 #DESCRIPTION HBO3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-91-tv-pc.m3u8:HUs
-#DESCRIPTION HUs
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-82-tv-pc.m3u8:JIXX (DE)
 #DESCRIPTION JIXX (DE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-141-tv-pc.m3u8:LEO TV
-#DESCRIPTION LEO TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-70-tv-pc.m3u8:MTV
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-68-tv-pc.m3u8:MTV DANCE
@@ -449,10 +439,6 @@
 #DESCRIPTION Bulgaria On Air
 #SERVICE 4097:0:1:622:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.14%3a5656:Canal 3
 #DESCRIPTION Canal 3
-#SERVICE 4097:0:1:455:0:0:0:0:0:0:http%3a//65.254.55.10%3a4000/live/196/196.m3u8:ceskoslovensko hd (cz)
-#DESCRIPTION ceskoslovensko hd (cz)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nodeb.gocaster.net%3a1935/CGL/_definst_/mp4%3aTODAYFM_TEST2/chunklist_w545248789.m3u8:CITY TV
-#DESCRIPTION CITY TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//31.13.223.103%3a1935/359tv/codefashion.stream:Code Fashion
 #DESCRIPTION Code Fashion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:D+ Duga plus rs
@@ -501,12 +487,6 @@
 #DESCRIPTION gong max
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1mstream.digicable.hu/hitmusic/hitmusic.m3u8:H!T Music Channel Ungaria
 #DESCRIPTION H!T Music Channel Ungaria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/1.ts:h1:Пrилеп
-#DESCRIPTION h1:Пrилеп
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/2.ts:h2:Пrилеп
-#DESCRIPTION h2:Пrилеп
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//prva-iptv.hugo.mk%3a1935/live/hd/stream/3.ts:h3:Пrилеп
-#DESCRIPTION h3:Пrилеп
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.47.115/hls/hdfashion_ua_hi/index.m3u8:HD Fashion
 #DESCRIPTION HD Fashion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//176.9.123.140%3a1935/hellastv/_definst_/mp4%3astream/master.m3u8:HELLAS TV _ FASHION GR
@@ -517,10 +497,6 @@
 #DESCRIPTION ID Fashion
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live2-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8:italia 2 mediaset
 #DESCRIPTION italia 2 mediaset
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//212.200.108.253/live/jefimija.flv:Jefimija HD
-#DESCRIPTION Jefimija HD
-#SERVICE 4097:0:1:443:0:0:0:0:0:0:http%3a//nn.geo.joj.sk/hls/family-360.m3u8:Joj family (slk)
-#DESCRIPTION Joj family (slk)
 #SERVICE 4097:0:1:441:0:0:0:0:0:0:http%3a//nn.geo.joj.sk/hls/joj-720.m3u8:joj hd (slk)
 #DESCRIPTION joj hd (slk)
 #SERVICE 4097:0:1:604:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.4%3a5656:Jurnal TV
@@ -549,8 +525,8 @@
 #DESCRIPTION Mooz Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END:Mooz RO!
 #DESCRIPTION Mooz RO!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:Music Channel Ungaria
-#DESCRIPTION Music Channel Ungaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:Music Channel hUngaria
+#DESCRIPTION Music Channel hUngaria
 #SERVICE 4097:0:1:8:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1bih?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 BIH
 #DESCRIPTION N1 BIH
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//best.str.n1info.com%3a8080/stream?sp=n1info?channel=n1hr?stream=1mb?u=n1info?b=6?player=m3u8?u=n1info?p=n1Sh4redSecre7iNf0#User-Agent=Linux-Android 5.0.1:N1 HR
@@ -563,8 +539,6 @@
 #DESCRIPTION nat geo AD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8:National TV
 #DESCRIPTION National TV
-#SERVICE 4097:0:1:457:0:0:0:0:0:0:http%3a//174.36.163.12%3a4000/live/304/304.m3u8:nova action (cz)
-#DESCRIPTION nova action (cz)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.115.137.166/hls/ntvm.m3u8:Ntv moldova
 #DESCRIPTION Ntv moldova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/planetahd/planetahd.m3u8:planeta HD
@@ -2565,7 +2539,7 @@
 #DESCRIPTION New York City Times Square - Street Cam
 #SERVICE 4097:0:1:391:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8:New York City Times Square - 47th & Broad
 #DESCRIPTION New York City Times Square - 47th & Broad
-#SERVICE 4097:0:1:393:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8:New York City: Times Square - 5th Ave NYC
+#SERVICE 4097:0:1:393:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8:New York City%3a Times Square - 5th Ave NYC
 #DESCRIPTION New York City: Times Square - 5th Ave NYC
 #SERVICE 4097:0:1:395:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8:New York City - Wall St.
 #DESCRIPTION New York City - Wall St.
@@ -3569,79 +3543,79 @@
 #DESCRIPTION Pier -California
 #SERVICE 4097:0:1:408:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream:Plougonvelin - Bretagne - France
 #DESCRIPTION Plougonvelin - Bretagne - France
-#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM: ALVOR
+#SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal WEBCAM%3a ALVOR
 #DESCRIPTION Portugal WEBCAM: ALVOR
-#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/arrifana/chunks.m3u8:Portugal WEBCAM: ARRIFANA
+#SERVICE 4097:0:1:412:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/arrifana/chunks.m3u8:Portugal WEBCAM%3a ARRIFANA
 #DESCRIPTION Portugal WEBCAM: ARRIFANA
-#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM: BARRA
+#SERVICE 4097:0:1:414:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/aveiro/chunks.m3u8:Portugal WEBCAM%3a BARRA
 #DESCRIPTION Portugal WEBCAM: BARRA
-#SERVICE 4097:0:1:416:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM: BUARCOS
+#SERVICE 4097:0:1:416:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/figueiradafoz/chunks.m3u8:Portugal WEBCAM%3a BUARCOS
 #DESCRIPTION Portugal WEBCAM: BUARCOS
-#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM: CAPARICA CDS
+#SERVICE 4097:0:1:418:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicacds/chunks.m3u8:Portugal WEBCAM%3a CAPARICA CDS
 #DESCRIPTION Portugal WEBCAM: CAPARICA CDS
-#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicasaojoao/chunks.m3u8:Portugal WEBCAM: CAPARICA S.JOÃO
+#SERVICE 4097:0:1:420:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/costacaparicasaojoao/chunks.m3u8:Portugal WEBCAM%3a CAPARICA S.JOÃO
 #DESCRIPTION Portugal WEBCAM: CAPARICA S.JOÃO
-#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM: CARCAVELOS
+#SERVICE 4097:0:1:422:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carcavelos/chunks.m3u8:Portugal WEBCAM%3a CARCAVELOS
 #DESCRIPTION Portugal WEBCAM: CARCAVELOS
-#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carvalhal/chunks.m3u8:Portugal WEBCAM: CARVALHAL
+#SERVICE 4097:0:1:424:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/carvalhal/chunks.m3u8:Portugal WEBCAM%3a CARVALHAL
 #DESCRIPTION Portugal WEBCAM: CARVALHAL
-#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM: ERICEIRA
+#SERVICE 4097:0:1:426:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ericeiraspots/chunks.m3u8:Portugal WEBCAM%3a ERICEIRA
 #DESCRIPTION Portugal WEBCAM: ERICEIRA
-#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/esmoriz/chunks.m3u8:Portugal WEBCAM: ESMORIZ
+#SERVICE 4097:0:1:428:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/esmoriz/chunks.m3u8:Portugal WEBCAM%3a ESMORIZ
 #DESCRIPTION Portugal WEBCAM: ESMORIZ
-#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM: ESPINHO
+#SERVICE 4097:0:1:430:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/espinho/chunks.m3u8:Portugal WEBCAM%3a ESPINHO
 #DESCRIPTION Portugal WEBCAM: ESPINHO
-#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/evaristo/chunks.m3u8:Portugal WEBCAM: EVARISTO
+#SERVICE 4097:0:1:432:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/evaristo/chunks.m3u8:Portugal WEBCAM%3a EVARISTO
 #DESCRIPTION Portugal WEBCAM: EVARISTO
-#SERVICE 4097:0:1:434:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/fontedatelha/chunks.m3u8:Portugal WEBCAM: FONTE DA TELHA
+#SERVICE 4097:0:1:434:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/fontedatelha/chunks.m3u8:Portugal WEBCAM%3a FONTE DA TELHA
 #DESCRIPTION Portugal WEBCAM: FONTE DA TELHA
-#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM: FURADOURO
+#SERVICE 4097:0:1:436:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/furadouro/chunks.m3u8:Portugal WEBCAM%3a FURADOURO
 #DESCRIPTION Portugal WEBCAM: FURADOURO
-#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiagrande/chunks.m3u8:Portugal WEBCAM: GRANDE
+#SERVICE 4097:0:1:438:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiagrande/chunks.m3u8:Portugal WEBCAM%3a GRANDE
 #DESCRIPTION Portugal WEBCAM: GRANDE
-#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM: GUINCHO SUL
+#SERVICE 4097:0:1:440:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiaguinchosul/chunks.m3u8:Portugal WEBCAM%3a GUINCHO SUL
 #DESCRIPTION Portugal WEBCAM: GUINCHO SUL
-#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/madeirajardimdomar/chunks.m3u8:Portugal WEBCAM: JARDIM DO MAR
+#SERVICE 4097:0:1:442:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/madeirajardimdomar/chunks.m3u8:Portugal WEBCAM%3a JARDIM DO MAR
 #DESCRIPTION Portugal WEBCAM: JARDIM DO MAR
-#SERVICE 4097:0:1:444:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM: LAGIDE
+#SERVICE 4097:0:1:444:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lagide/chunks.m3u8:Portugal WEBCAM%3a LAGIDE
 #DESCRIPTION Portugal WEBCAM: LAGIDE
-#SERVICE 4097:0:1:446:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lecadapalmeira/chunks.m3u8:Portugal WEBCAM: LEÇA DA PALMEIRA
+#SERVICE 4097:0:1:446:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/lecadapalmeira/chunks.m3u8:Portugal WEBCAM%3a LEÇA DA PALMEIRA
 #DESCRIPTION Portugal WEBCAM: LEÇA DA PALMEIRA
-#SERVICE 4097:0:1:448:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/matosinhos/chunks.m3u8:Portugal WEBCAM: MATOSINHOS
+#SERVICE 4097:0:1:448:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/matosinhos/chunks.m3u8:Portugal WEBCAM%3a MATOSINHOS
 #DESCRIPTION Portugal WEBCAM: MATOSINHOS
-#SERVICE 4097:0:1:450:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM: MEIA PRAIA
+#SERVICE 4097:0:1:450:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/meiapraia/chunks.m3u8:Portugal WEBCAM%3a MEIA PRAIA
 #DESCRIPTION Portugal WEBCAM: MEIA PRAIA
-#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcmira/chunks.m3u8:Portugal WEBCAM: MIRA
+#SERVICE 4097:0:1:452:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcmira/chunks.m3u8:Portugal WEBCAM%3a MIRA
 #DESCRIPTION Portugal WEBCAM: MIRA
-#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM: NAZARÉ
+#SERVICE 4097:0:1:454:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/nazareparadonorte/chunks.m3u8:Portugal WEBCAM%3a NAZARÉ
 #DESCRIPTION Portugal WEBCAM: NAZARÉ
-#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcgale/chunks.m3u8:Portugal WEBCAM: PRAIA DA GALÉ
+#SERVICE 4097:0:1:456:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/bcgale/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA GALÉ
 #DESCRIPTION Portugal WEBCAM: PRAIA DA GALÉ
-#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM: PRAIA DA LUZ
+#SERVICE 4097:0:1:458:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/luz/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA LUZ
 #DESCRIPTION Portugal WEBCAM: PRAIA DA LUZ
-#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM: PRAIA DA ROCHA
+#SERVICE 4097:0:1:460:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/praiadarocha/chunks.m3u8:Portugal WEBCAM%3a PRAIA DA ROCHA
 #DESCRIPTION Portugal WEBCAM: PRAIA DA ROCHA
-#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//130.185.85.5%3a1935/live/matosinhos.stream/livestream.m3u8:Portugal WEBCAM: Praia Matosinhos
+#SERVICE 4097:0:1:462:0:0:0:0:0:0:http%3a//130.185.85.5%3a1935/live/matosinhos.stream/livestream.m3u8:Portugal WEBCAM%3a Praia Matosinhos
 #DESCRIPTION Portugal WEBCAM: Praia Matosinhos
-#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ribeiradilhas/chunks.m3u8:Portugal WEBCAM: RIBEIRA D´ ILHAS
+#SERVICE 4097:0:1:464:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/ribeiradilhas/chunks.m3u8:Portugal WEBCAM%3a RIBEIRA D´ ILHAS
 #DESCRIPTION Portugal WEBCAM: RIBEIRA D´ ILHAS
-#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM: S. TORPES
+#SERVICE 4097:0:1:466:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saotorpes/chunks.m3u8:Portugal WEBCAM%3a S. TORPES
 #DESCRIPTION Portugal WEBCAM: S. TORPES
-#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saopedroestoria/chunks.m3u8:Portugal WEBCAM: S.PEDRO ESTORIL
+#SERVICE 4097:0:1:468:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/saopedroestoria/chunks.m3u8:Portugal WEBCAM%3a S.PEDRO ESTORIL
 #DESCRIPTION Portugal WEBCAM: S.PEDRO ESTORIL
-#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM: SANTA CRUZ
+#SERVICE 4097:0:1:470:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/santacruz/chunks.m3u8:Portugal WEBCAM%3a SANTA CRUZ
 #DESCRIPTION Portugal WEBCAM: SANTA CRUZ
-#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM: SUPERTUBOS
+#SERVICE 4097:0:1:472:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/supertubos/chunks.m3u8:Portugal WEBCAM%3a SUPERTUBOS
 #DESCRIPTION Portugal WEBCAM: SUPERTUBOS
-#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/index.m3u8:Portugal WEBCAM: Santuáriode Fátima (Capelinha d
+#SERVICE 4097:0:1:474:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/index.m3u8:Portugal WEBCAM%3a Santuáriode Fátima (Capelinha d
 #DESCRIPTION Portugal WEBCAM: Santuáriode Fátima (Capelinha d
-#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/torreira/chunks.m3u8:Portugal WEBCAM: TORREIRA
+#SERVICE 4097:0:1:476:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/torreira/chunks.m3u8:Portugal WEBCAM%3a TORREIRA
 #DESCRIPTION Portugal WEBCAM: TORREIRA
-#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vagueira/chunks.m3u8:Portugal WEBCAM: VAGUEIRA
+#SERVICE 4097:0:1:478:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vagueira/chunks.m3u8:Portugal WEBCAM%3a VAGUEIRA
 #DESCRIPTION Portugal WEBCAM: VAGUEIRA
-#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM: VILAMOURA
+#SERVICE 4097:0:1:480:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/vilamoura/chunks.m3u8:Portugal WEBCAM%3a VILAMOURA
 #DESCRIPTION Portugal WEBCAM: VILAMOURA
-#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM: ZAMBUJEIRA
+#SERVICE 4097:0:1:482:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal WEBCAM%3a ZAMBUJEIRA
 #DESCRIPTION Portugal WEBCAM: ZAMBUJEIRA
 #SERVICE 4097:0:1:484:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv110_720p.stream:Potsdam - Hotel Am Luisenplatz
 #DESCRIPTION Potsdam - Hotel Am Luisenplatz
@@ -3759,7 +3733,7 @@
 #DESCRIPTION Warnemünde - Best Western Hotel
 #SERVICE 4097:0:1:610:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv4_450p.stream:Warnemünde - Yachthafen
 #DESCRIPTION Warnemünde - Yachthafen
-#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//wowza.catve.com.br%3a1935/camera4/camera4.stream/playlist.m3u8:WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
+#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//wowza.catve.com.br%3a1935/camera4/camera4.stream/playlist.m3u8:WebCam BR%3a PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
 #DESCRIPTION WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
 #SERVICE 4097:0:1:614:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8:Wedding chapel -Nevada
 #DESCRIPTION Wedding chapel -Nevada
