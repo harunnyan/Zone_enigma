@@ -3125,6 +3125,28 @@
 #DESCRIPTION USA Sharky's Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//hzrtmp02.ys7.com%3a1935/livestream/ playpath=469941431_1_11_1_0 swfUrl=http%3a//square.ys7.com/vods/source/src/widget/cyberplayer/cyberplayer.flash.swf pageUrl=http%3a//square.ys7.com/play/index?cameraId=1296:VRC Lijiang
 #DESCRIPTION VRC Lijiang
+#SERVICE 4097:0:1:1356:0:0:0:0:0:0:rtmp%3a//zssd-panda.origin.camzonecdn.com/CamzoneStreams/_definst_/zssd-panda:USA - Panda
+#DESCRIPTION USA - Panda
+#SERVICE 4097:0:1:1354:0:0:0:0:0:0:rtmp%3a//polarplunge.origin.camzonecdn.com/CamzoneStreams/_definst_/polarplunge:USA - Beliy bear'
+#DESCRIPTION USA - Beliy bear'
+#SERVICE 4097:0:1:1358:0:0:0:0:0:0:http%3a//208.43.68.139/surfchex//nagshead-super/playlist.m3u8:USA Yuzhonja Каrолandon Фолand-Бandch
+#DESCRIPTION USA Yuzhonja Каrолandon Фолand-Бandch
+#SERVICE 4097:0:1:590:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5424.flv/HasBahCa.m3u8:USA-Destin -Florida
+#DESCRIPTION USA-Destin -Florida
+#SERVICE 4097:0:1:592:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8:USA-Las Vegas -Nevada
+#DESCRIPTION USA-Las Vegas -Nevada
+#SERVICE 4097:0:1:594:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8:USA-Oak Harbor -Washington
+#DESCRIPTION USA-Oak Harbor -Washington
+#SERVICE 4097:0:1:596:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8:USA-San Francisco -California
+#DESCRIPTION USA-San Francisco -California
+#SERVICE 4097:0:1:598:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8:USA-San Jacinto Monument -Texas
+#DESCRIPTION USA-San Jacinto Monument -Texas
+#SERVICE 4097:0:1:600:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8:USA-Sante Fe -New Mexico
+#DESCRIPTION USA-Sante Fe -New Mexico
+#SERVICE 4097:0:1:604:0:0:0:0:0:0:http%3a//212.111.1.7%3a1937/vlmcam01/vlmcam01.stream/index.m3u8:Valmez CZ
+#DESCRIPTION Valmez CZ
+#SERVICE 4097:0:1:606:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/chargingbull.flv/HasBahCa.m3u8:Wall Street
+#DESCRIPTION Wall Street
 #SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//j.mp/PromoFreeWebCams:=== PLAYLIST FreeWebCamsWorld ===
 #DESCRIPTION === PLAYLIST FreeWebCamsWorld ===
 #SERVICE 4097:0:1:4:0:0:0:0:0:0:rtmp%3a//stream.radiogroup.com.ua%3a1935/stream/camera2:Avtorodio UA (Web-camera)
@@ -3653,26 +3675,6 @@
 #DESCRIPTION Stralsund - Hotel Hafenresidenz
 #SERVICE 4097:0:1:538:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/hdtimes11.flv/HasBahCa.m3u8:Street Cam
 #DESCRIPTION Street Cam
-#SERVICE 4097:0:1:540:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam07luganoch:Switzarland - Lugano - Skatepark
-#DESCRIPTION Switzarland - Lugano - Skatepark
-#SERVICE 4097:0:1:542:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam02luganoch:Switzerland - Golfo di Lugano
-#DESCRIPTION Switzerland - Golfo di Lugano
-#SERVICE 4097:0:1:544:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam06luganoch:Switzerland - Lago di Lugano
-#DESCRIPTION Switzerland - Lago di Lugano
-#SERVICE 4097:0:1:546:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam05luganoch:Switzerland - Lugano - Lido
-#DESCRIPTION Switzerland - Lugano - Lido
-#SERVICE 4097:0:1:548:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam08luganoch:Switzerland - Lugano - Monte Bré - Ristorante Vet
-#DESCRIPTION Switzerland - Lugano - Monte Bré - Ristorante Vet
-#SERVICE 4097:0:1:550:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam01luganoch:Switzerland - Lugano - Piazza Riforma
-#DESCRIPTION Switzerland - Lugano - Piazza Riforma
-#SERVICE 4097:0:1:552:0:0:0:0:0:0:rtmp%3a//rtmp.infomaniak.ch/livecast/webcam01luganoch:Switzerland - Zurich Square
-#DESCRIPTION Switzerland - Zurich Square
-#SERVICE 4097:0:1:554:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv78_720p.stream:Switzerland - Zurich Zoo Cam 1
-#DESCRIPTION Switzerland - Zurich Zoo Cam 1
-#SERVICE 4097:0:1:556:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv23_720p.stream:Switzerland - Zurich Zoo Cam 2
-#DESCRIPTION Switzerland - Zurich Zoo Cam 2
-#SERVICE 4097:0:1:558:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv78b_720p.stream:Switzerland - Zurich Zoo Cam 3
-#DESCRIPTION Switzerland - Zurich Zoo Cam 3
 #SERVICE 4097:0:1:578:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv9_450p.stream:Timmendorfer Strand
 #DESCRIPTION Timmendorfer Strand
 #SERVICE 4097:0:1:580:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv52_720p.stream:Torfhaus - Harz
@@ -3685,62 +3687,6 @@
 #DESCRIPTION Tübingen - Casino am Neckar
 #SERVICE 4097:0:1:588:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv104_720p.stream:Tübingen - Heindl Internet AG
 #DESCRIPTION Tübingen - Heindl Internet AG
-#SERVICE 4097:0:1:1356:0:0:0:0:0:0:rtmp%3a//zssd-panda.origin.camzonecdn.com/CamzoneStreams/_definst_/zssd-panda:USA - Panda
-#DESCRIPTION USA - Panda
-#SERVICE 4097:0:1:1354:0:0:0:0:0:0:rtmp%3a//polarplunge.origin.camzonecdn.com/CamzoneStreams/_definst_/polarplunge:USA - Beliy bear'
-#DESCRIPTION USA - Beliy bear'
-#SERVICE 4097:0:1:1358:0:0:0:0:0:0:http%3a//208.43.68.139/surfchex//nagshead-super/playlist.m3u8:USA Yuzhonja Каrолandon Фолand-Бandch
-#DESCRIPTION USA Yuzhonja Каrолandon Фолand-Бandch
-#SERVICE 4097:0:1:590:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5424.flv/HasBahCa.m3u8:USA-Destin -Florida
-#DESCRIPTION USA-Destin -Florida
-#SERVICE 4097:0:1:592:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8:USA-Las Vegas -Nevada
-#DESCRIPTION USA-Las Vegas -Nevada
-#SERVICE 4097:0:1:594:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6172.flv/HasBahCa.m3u8:USA-Oak Harbor -Washington
-#DESCRIPTION USA-Oak Harbor -Washington
-#SERVICE 4097:0:1:596:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6603.flv/HasBahCa.m3u8:USA-San Francisco -California
-#DESCRIPTION USA-San Francisco -California
-#SERVICE 4097:0:1:598:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8:USA-San Jacinto Monument -Texas
-#DESCRIPTION USA-San Jacinto Monument -Texas
-#SERVICE 4097:0:1:600:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8:USA-Sante Fe -New Mexico
-#DESCRIPTION USA-Sante Fe -New Mexico
-#SERVICE 4097:0:1:602:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv66_720p.stream:Ulm - Hotel Blaubeurer Tor
-#DESCRIPTION Ulm - Hotel Blaubeurer Tor
-#SERVICE 4097:0:1:604:0:0:0:0:0:0:http%3a//212.111.1.7%3a1937/vlmcam01/vlmcam01.stream/index.m3u8:Valmez CZ
-#DESCRIPTION Valmez CZ
-#SERVICE 4097:0:1:606:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/chargingbull.flv/HasBahCa.m3u8:Wall Street
-#DESCRIPTION Wall Street
-#SERVICE 4097:0:1:608:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv20_450p.stream:Warnemünde - Best Western Hotel
-#DESCRIPTION Warnemünde - Best Western Hotel
-#SERVICE 4097:0:1:610:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv4_450p.stream:Warnemünde - Yachthafen
-#DESCRIPTION Warnemünde - Yachthafen
-#SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//wowza.catve.com.br%3a1935/camera4/camera4.stream/playlist.m3u8:WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
-#DESCRIPTION WebCam BR: PONTE DA AMIZADE - FOZ DO IGUAÇU-PR
-#SERVICE 4097:0:1:614:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5359.flv/HasBahCa.m3u8:Wedding chapel -Nevada
-#DESCRIPTION Wedding chapel -Nevada
-#SERVICE 4097:0:1:616:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv92_720p.stream:Weimar - HotelPension am Goethehaus
-#DESCRIPTION Weimar - HotelPension am Goethehaus
-#SERVICE 4097:0:1:618:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv43_720p.stream:Westerland - Sylt
-#DESCRIPTION Westerland - Sylt
-#SERVICE 4097:0:1:620:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv25_450p.stream:Wiek - Rügen
-#DESCRIPTION Wiek - Rügen
-#SERVICE 4097:0:1:622:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv88_720p.stream:Wolfsburg - Stadt Wolfsburg
-#DESCRIPTION Wolfsburg - Stadt Wolfsburg
-#SERVICE 4097:0:1:624:0:0:0:0:0:0:http%3a//hls3.webcamera.pl/wroclaw_przed_cam_16c68e/wroclaw_przed_cam_16c68e.stream/chunks.m3u8:Wroclaw
-#DESCRIPTION Wroclaw
-#SERVICE 4097:0:1:626:0:0:0:0:0:0:http%3a//hls13.webcamera.pl/wrzesnia_cam_ed3c35/wrzesnia_cam_ed3c35.stream/chunks.m3u8:September
-#DESCRIPTION September
-#SERVICE 4097:0:1:628:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv117_720p.stream:Wuppertal - Barmenia
-#DESCRIPTION Wuppertal - Barmenia
-#SERVICE 4097:0:1:630:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv70_720p.stream:Würzburg - Hotel Alter Kranen
-#DESCRIPTION Würzburg - Hotel Alter Kranen
-#SERVICE 4097:0:1:632:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10622952/streams/live/iphone/playlist.m3u8:YAMANASHI JAPAN
-#DESCRIPTION YAMANASHI JAPAN
-#SERVICE 4097:0:1:634:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv65_720p.stream:Zürich – Uetliberg
-#DESCRIPTION Zürich – Uetliberg
-#SERVICE 4097:0:1:636:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/12619575/streams/live/iphone/playlist.m3u8:AMERICA CAMERA
-#DESCRIPTION AMERICA CAMERA
-#SERVICE 4097:0:1:638:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy14/index.m3u8:Aktau - Beerg Cuspia 14 micron
-#DESCRIPTION Aktau - Beerg Cuspia 14 micron
 #SERVICE 4097:0:1:640:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy15/index.m3u8:Aktau - Beerg Cuspia 15 micron
 #DESCRIPTION Aktau - Beerg Cuspia 15 micron
 #SERVICE 4097:0:1:642:0:0:0:0:0:0:http%3a//cam.x-com.kz%3a8081/caspy5/index.m3u8:Aktau - Beerg Cuspia 5/7 micron
@@ -3781,104 +3727,6 @@
 #DESCRIPTION Belgorod - Univermag Maja
 #SERVICE 4097:0:1:684:0:0:0:0:0:0:http%3a//194.190.30.18%3a8080/hls/filarmoniya.m3u8:Belgorod - Torture
 #DESCRIPTION Belgorod - Torture
-#SERVICE 4097:0:1:686:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biisk 1
-#DESCRIPTION Biisk 1
-#SERVICE 4097:0:1:708:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/594731/a379659e997bac4f5d1a/playlist.m3u8:Biisk 2
-#DESCRIPTION Biisk 2
-#SERVICE 4097:0:1:730:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/230453/178c952b7d1869584d04/playlist.m3u8:Biisk 3
-#DESCRIPTION Biisk 3
-#SERVICE 4097:0:1:752:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/185678/b896f95ec885d7ba112c/playlist.m3u8:Biisk 4
-#DESCRIPTION Biisk 4
-#SERVICE 4097:0:1:774:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/3716/06bf19c7e1a9f32cfdf8/playlist.m3u8:Biisk 5
-#DESCRIPTION Biisk 5
-#SERVICE 4097:0:1:796:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/27505/a70048d0ccd1bd594282/playlist.m3u8:Biisk 6
-#DESCRIPTION Biisk 6
-#SERVICE 4097:0:1:800:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615836/ea200b79cfe81f8b9ab8/playlist.m3u8:Biisk 7
-#DESCRIPTION Biisk 7
-#SERVICE 4097:0:1:802:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/902370/67d5e778ca124e000717/playlist.m3u8:Biisk 8
-#DESCRIPTION Biisk 8
-#SERVICE 4097:0:1:804:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11184/ca1fad7866c9e129ebb5/playlist.m3u8:Biisk 9
-#DESCRIPTION Biisk 9
-#SERVICE 4097:0:1:688:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/180934/53663534f98f5479c774/playlist.m3u8:Biisk 10
-#DESCRIPTION Biisk 10
-#SERVICE 4097:0:1:690:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/179642/6c4afedf5c44e100007c/playlist.m3u8:Biisk 11
-#DESCRIPTION Biisk 11
-#SERVICE 4097:0:1:692:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/110612/c3a9c630d8054de8f810/playlist.m3u8:Biisk 12
-#DESCRIPTION Biisk 12
-#SERVICE 4097:0:1:694:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/493/a5997fc2c553f5d4bf6f/playlist.m3u8:Biisk 13
-#DESCRIPTION Biisk 13
-#SERVICE 4097:0:1:696:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/510357/56856f2bd8a9402e9d08/playlist.m3u8:Biisk 14
-#DESCRIPTION Biisk 14
-#SERVICE 4097:0:1:698:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/814337/b3e8f84eeba4c85d924e/playlist.m3u8:Biisk 15
-#DESCRIPTION Biisk 15
-#SERVICE 4097:0:1:700:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/2953/8da733afb8c422bd27ce/playlist.m3u8:Biisk 16
-#DESCRIPTION Biisk 16
-#SERVICE 4097:0:1:702:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/482881/7ecbe0e1b720bba295e5/playlist.m3u8:Biisk 17
-#DESCRIPTION Biisk 17
-#SERVICE 4097:0:1:704:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/687724/613b5a38b4ca26b7185b/playlist.m3u8:Biisk 18
-#DESCRIPTION Biisk 18
-#SERVICE 4097:0:1:706:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/797779/cf9b272f5fc731f6a0fb/playlist.m3u8:Biisk 19
-#DESCRIPTION Biisk 19
-#SERVICE 4097:0:1:710:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/355630/382e019f2610439ffb91/playlist.m3u8:Biisk 20
-#DESCRIPTION Biisk 20
-#SERVICE 4097:0:1:712:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/188600/9f61ed5f48a5ef4eced8/playlist.m3u8:Biisk 21
-#DESCRIPTION Biisk 21
-#SERVICE 4097:0:1:714:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/491413/0e15b8d35d6da34da17a/playlist.m3u8:Biisk 22
-#DESCRIPTION Biisk 22
-#SERVICE 4097:0:1:716:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/357416/eaa67a0e03fdb0057696/playlist.m3u8:Biisk 23
-#DESCRIPTION Biisk 23
-#SERVICE 4097:0:1:718:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/615945/b6e2670b4d91a0c2d350/playlist.m3u8:Biisk 24
-#DESCRIPTION Biisk 24
-#SERVICE 4097:0:1:720:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/629256/1e7a15b8f402137dfb1c/playlist.m3u8:Biisk 25
-#DESCRIPTION Biisk 25
-#SERVICE 4097:0:1:722:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363942/9fcf88326e5a94b55f94/playlist.m3u8:Biisk 26
-#DESCRIPTION Biisk 26
-#SERVICE 4097:0:1:724:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/130038/f259e7e2d827f1f0168f/playlist.m3u8:Biisk 27
-#DESCRIPTION Biisk 27
-#SERVICE 4097:0:1:726:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/389845/3c4d29c61d2d9b1a15c1/playlist.m3u8:Biisk 28
-#DESCRIPTION Biisk 28
-#SERVICE 4097:0:1:728:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/388545/7868edc4b59da671ec25/playlist.m3u8:Biisk 29
-#DESCRIPTION Biisk 29
-#SERVICE 4097:0:1:732:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/497/d6df5c0e8f982f9dca7f/playlist.m3u8:Biisk 30
-#DESCRIPTION Biisk 30
-#SERVICE 4097:0:1:734:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/868905/de1245c4c64ea85a7fe8/playlist.m3u8:Biisk 31
-#DESCRIPTION Biisk 31
-#SERVICE 4097:0:1:736:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/358711/c2735a61fc8b067df0a5/playlist.m3u8:Biisk 32
-#DESCRIPTION Biisk 32
-#SERVICE 4097:0:1:738:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/483/7e7b18a8a42200863e5d/playlist.m3u8:Biisk 33
-#DESCRIPTION Biisk 33
-#SERVICE 4097:0:1:740:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/16855/a821b71440124e5914d9/playlist.m3u8:Biisk 34
-#DESCRIPTION Biisk 34
-#SERVICE 4097:0:1:742:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714580/9ab09688ed63aee2e227/playlist.m3u8:Biisk 35
-#DESCRIPTION Biisk 35
-#SERVICE 4097:0:1:744:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/178548/d46267d245a243786377/playlist.m3u8:Biisk 36
-#DESCRIPTION Biisk 36
-#SERVICE 4097:0:1:746:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/676975/4caac64e4cd4e5f14536/playlist.m3u8:Biisk 37
-#DESCRIPTION Biisk 37
-#SERVICE 4097:0:1:748:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/11938/1736d7f74799287cbc04/playlist.m3u8:Biisk 38
-#DESCRIPTION Biisk 38
-#SERVICE 4097:0:1:750:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/881838/5b78c61db406dd6b6988/playlist.m3u8:Biisk 39
-#DESCRIPTION Biisk 39
-#SERVICE 4097:0:1:754:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/364250/e9675faf7c5bf319e75c/playlist.m3u8:Biisk 40
-#DESCRIPTION Biisk 40
-#SERVICE 4097:0:1:756:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/419227/904fc4d9fc2704b262e4/playlist.m3u8:Biisk 41
-#DESCRIPTION Biisk 41
-#SERVICE 4097:0:1:758:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/5/452e70cecbafe495920d/playlist.m3u8:Biisk 42
-#DESCRIPTION Biisk 42
-#SERVICE 4097:0:1:760:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/714510/a04f3417c6cfd40e859c/playlist.m3u8:Biisk 43
-#DESCRIPTION Biisk 43
-#SERVICE 4097:0:1:762:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/348492/c710a58231a641930eb2/playlist.m3u8:Biisk 44
-#DESCRIPTION Biisk 44
-#SERVICE 4097:0:1:764:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/423923/c9e8eb5ea7243d99ad17/playlist.m3u8:Biisk 45
-#DESCRIPTION Biisk 45
-#SERVICE 4097:0:1:766:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/495/cae0b5d8a9b35e4b0e4e/playlist.m3u8:Biisk 46
-#DESCRIPTION Biisk 46
-#SERVICE 4097:0:1:768:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/106439/d1f01417c1220c2fd823/playlist.m3u8:Biisk 47
-#DESCRIPTION Biisk 47
-#SERVICE 4097:0:1:770:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/363946/3dfea2c2cf9932bec24f/playlist.m3u8:Biisk 48
-#DESCRIPTION Biisk 48
-#SERVICE 4097:0:1:772:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/74202/a97bfc864469641845da/playlist.m3u8:Biisk 49
-#DESCRIPTION Biisk 49
 #SERVICE 4097:0:1:776:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/19460/201b9b030ed27b71e15b/playlist.m3u8:Biisk 50
 #DESCRIPTION Biisk 50
 #SERVICE 4097:0:1:778:0:0:0:0:0:0:http%3a//cctv1.biisk.ru%3a8080/hls/21253/d3d13f51ba6100b514f1/playlist.m3u8:Biisk 51
@@ -3905,36 +3753,6 @@
 #DESCRIPTION Blagoveshchensk - OCT
 #SERVICE 4097:0:1:808:0:0:0:0:0:0:http%3a//195.14.118.60%3a1935/rtplive2/camera43-lenina.stream/index.m3u8:Blagoveshchensk - Plotschad' Leni
 #DESCRIPTION Blagoveshchensk - Plotschad' Leni
-#SERVICE 4097:0:1:810:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/21_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Bucovel'sка
-#DESCRIPTION Bucovel' (Carpathians) - Bucovel'sка
-#SERVICE 4097:0:1:812:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/23_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Web-camera
-#DESCRIPTION Bucovel' (Carpathians) - Web-camera
-#SERVICE 4097:0:1:814:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/07_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
-#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
-#SERVICE 4097:0:1:816:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/10_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
-#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
-#SERVICE 4097:0:1:818:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/20_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
-#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
-#SERVICE 4097:0:1:820:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/04_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Веrhнjaja apartment
-#DESCRIPTION Bucovel' (Carpathians) - Веrhнjaja apartment
-#SERVICE 4097:0:1:822:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/13_panasonic_1.stream/chunklist.m3u8:Bucovel' (Carpathians) - View on mountain
-#DESCRIPTION Bucovel' (Carpathians) - View on mountain
-#SERVICE 4097:0:1:824:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/12_panasonic_1.stream/chunklist.m3u8:Bucovel' (Carpathians) - Detskaya flat
-#DESCRIPTION Bucovel' (Carpathians) - Detskaya flat
-#SERVICE 4097:0:1:826:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/36_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Cautoc
-#DESCRIPTION Bucovel' (Carpathians) - Cautoc
-#SERVICE 4097:0:1:830:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/05_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Каfе Bugi.L
-#DESCRIPTION Bucovel' (Carpathians) - Каfе Bugi.L
-#SERVICE 4097:0:1:832:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/06_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Lower apartment
-#DESCRIPTION Bucovel' (Carpathians) - Lower apartment
-#SERVICE 4097:0:1:834:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/11_panasonic_1.stream/chunklist.m3u8:Bucovel' (Carpathians) - Lower apartment
-#DESCRIPTION Bucovel' (Carpathians) - Lower apartment
-#SERVICE 4097:0:1:836:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/19_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Tracks 5B
-#DESCRIPTION Bucovel' (Carpathians) - Tracks 5B
-#SERVICE 4097:0:1:842:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/08_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Tracks 14А
-#DESCRIPTION Bucovel' (Carpathians) - Tracks 14А
-#SERVICE 4097:0:1:844:0:0:0:0:0:0:http%3a//origin.cdn.ua%3a1935/bukovel.com_camera/02_720p.stream/chunklist.m3u8:Bucovel' (Carpathians) - Tracks 2A
-#DESCRIPTION Bucovel' (Carpathians) - Tracks 2A
 #SERVICE 4097:0:1:846:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam10/index.m3u8:Web camera
 #DESCRIPTION Web camera
 #SERVICE 4097:0:1:848:0:0:0:0:0:0:http%3a//91.202.44.216%3a8080/cam148/index.m3u8:Web camera 2
