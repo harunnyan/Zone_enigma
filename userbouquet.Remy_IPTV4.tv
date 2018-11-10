@@ -1931,11 +1931,3 @@
 #DESCRIPTION AnySex VOD 68
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anysex.com/get_file/1/a5aac25b60f13ce6c95acfac28f70f94/197000/197455/197455.mp4/:AnySex VOD 69
 #DESCRIPTION AnySex VOD 69
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8:Studio 66
-#DESCRIPTION Studio 66
