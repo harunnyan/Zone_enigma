@@ -1,11 +1,11 @@
 #NAME **ReMy_TURKEY & VOD**
-#SERVICE 1:64:96:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
+#SERVICE 1:64:95:0:0:0:0:0:0:0::==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #DESCRIPTION ==== ★★REMY_ENIGMA|TURK_TEAM★★ ====
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/33/:KURAN MEAL
 #DESCRIPTION KURAN MEAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nocvp-usd.noccdn.net/asset/7LzphJom/chunklist.m3u8:DiYANET KURAN RADiO
 #DESCRIPTION DiYANET KURAN RADiO
-#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
+#SERVICE 1:64:96:0:0:0:0:0:0:0:::::::::::::::::::::::::_U L U S A L_::::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_U L U S A L_::::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -139,7 +139,7 @@
 #DESCRIPTION CIZGI FILM 9
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8:CIZGI FILM 10
 #DESCRIPTION CIZGI FILM 10
-#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
+#SERVICE 1:64:97:0:0:0:0:0:0:0:::::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #DESCRIPTION :::::::::::::::::::::::_WEB TV / TURKEY_::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8:STAR TV
 #DESCRIPTION STAR TV
@@ -209,7 +209,7 @@
 #DESCRIPTION TURKMEN OWAZY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch002_400/index.m3u8:TURKMEN YASLIK
 #DESCRIPTION TURKMEN YASLIK
-#SERVICE 1:64:99:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
+#SERVICE 1:64:98:0:0:0:0:0:0:0:::::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YEREL_/_TURKEY_:::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms.n1.tvkur.noccdn.com/cdn/55c4522e6c990/playlist.m3u8?wowzasessionid=959095225:ANKARA TV
 #DESCRIPTION ANKARA TV
@@ -361,7 +361,7 @@
 #DESCRIPTION VUSLAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.44.154.210/cdn/540ea58191866/playlist.m3u8:ZIRAAT TV
 #DESCRIPTION ZIRAAT TV
-#SERVICE 1:64:9A:0:0:0:0:0:0:0::FILM_1-SALON-VOD
+#SERVICE 1:64:99:0:0:0:0:0:0:0::FILM_1-SALON-VOD
 #DESCRIPTION FILM_1-SALON-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a58000/movie/vOd_IptV.PaRA...tooDS-..--/WKb3mCzjcJ/11727.mp4:1922 STEPHEN KING
 #DESCRIPTION 1922 STEPHEN KING
@@ -1235,7 +1235,7 @@
 #DESCRIPTION Zoolander 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wohuogai.com%3a58000/movie/vOd_IptV.PaRA...tooDS-..--/WKb3mCzjcJ/1661.mkv:Zootopia
 #DESCRIPTION Zootopia
-#SERVICE 1:64:9B:0:0:0:0:0:0:0::FILM_2-SALON-VOD
+#SERVICE 1:64:9A:0:0:0:0:0:0:0::FILM_2-SALON-VOD
 #DESCRIPTION FILM_2-SALON-VOD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?STANIPTV:8mm - Oito Milimetros
 #DESCRIPTION 8mm - Oito Milimetros
@@ -2069,7 +2069,7 @@
 #DESCRIPTION Yearmix2015
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//staniptv.com/zonafria:ZONA FRIA
 #DESCRIPTION ZONA FRIA
-#SERVICE 1:64:9C:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
+#SERVICE 1:64:9B:0:0:0:0:0:0:0:::::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #DESCRIPTION :::::::::::::::::::::::_YABANCI DIZI_:::::::::::::
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yun.zxziyuan-yun.com/20180202/E6p0wL9k/index.m3u8:Becerikli Mandarin Bölüm 01
 #DESCRIPTION Becerikli Mandarin Bölüm 01
