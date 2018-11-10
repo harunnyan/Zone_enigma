@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,****((ULUSAL))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((ULUSAL))****
+****((ULUSAL))****
 #EXTINF:0,KANAL D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:0,KANAL D
@@ -168,7 +168,7 @@ http://bglive-a.bitgravity.com/ndtv/247hi/live/native
 #EXTINF:0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
 #EXTINF:0,****((ReMy_SPORT))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((ReMy_SPORT))****
+****((ReMy_SPORT))****
 #EXTINF:0,Look TV HD
 http://193.239.252.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:0,LookPlus
@@ -312,13 +312,13 @@ http://45.58.62.92:8084
 #EXTINF:0,FIGHT NETWORK
 http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
 #EXTINF:0,****((COCUK_KANALLARI_KIDS))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((COCUK_KANALLARI_KIDS))****
+****((COCUK_KANALLARI_KIDS))****
 #EXTINF:0,TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0,TRT OKUL
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:0,****((ReMy_WORLD_NEWS))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((ReMy_WORLD_NEWS))****
+****((ReMy_WORLD_NEWS))****
 #EXTINF:0,CNN Chile
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,CNN Turkia
@@ -360,7 +360,7 @@ http://367449830.r.cdnsun.net/367449830/_definst_/newstv9/chunklist_w914356063.m
 #EXTINF:0,CNN NEWS18
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 #EXTINF:0,****((EX/YU-BALKAN))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((EX/YU-BALKAN))****
+****((EX/YU-BALKAN))****
 #EXTINF:0,A1 BALKAN
 http://178.132.6.97/A1Balkan/tracks-v1a1/mono.m3u8
 #EXTINF:0,A1 ISLAM
@@ -428,7 +428,7 @@ http://178.132.6.97:8080/TVTetova/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV Vogosca
 http://178.132.6.97:8080/TVVogosca/tracks-v1a1/mono.m3u8
 #EXTINF:0,****((WORLD_IPTV))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((WORLD_IPTV))****
+****((WORLD_IPTV))****
 #EXTINF:0,?????? (RU)
 http://80.87.208.158:80/dna-65-tv-pc.m3u8
 #EXTINF:0,GALAXY/4 (HU)
@@ -570,7 +570,7 @@ http://80.87.208.158:80/dna-089-tv-pc.m3u8
 #EXTINF:0,Polsat HD
 http://80.87.208.158:80/dna-035-tv-pc.m3u8%20
 #EXTINF:0,****((ReMy_WORLD))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((ReMy_WORLD))****
+****((ReMy_WORLD))****
 #EXTINF:0,1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:0,13 TV LATINO
@@ -938,7 +938,7 @@ http://live.vidoo.de/live/weltderwunder/playlist.m3u8
 #EXTINF:0,Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0,****((NILESAT_ARABIC))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((NILESAT_ARABIC))****
+****((NILESAT_ARABIC))****
 #EXTINF:98,AAA_FAMILY
 http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
 #EXTINF:0,AAA_FAMILY-2
@@ -1048,7 +1048,7 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 #EXTINF:0,KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 #EXTINF:0,****((LATINO_CHANNELS))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((LATINO_CHANNELS))****
+****((LATINO_CHANNELS))****
 #EXTINF:0,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
 #EXTINF:0,8EKAA
@@ -1490,7 +1490,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?tecnotv.info?iptv.
 #EXTINF:0,Zoom TV
 http://184.173.179.163:1935/8022/8022/chunklist_w205828107.m3u8
 #EXTINF:0,****((ReMy_MUSIC_CHANNELS))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((ReMy_MUSIC_CHANNELS))****
+****((ReMy_MUSIC_CHANNELS))****
 #EXTINF:0,TRT MUZIK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:0,DREAM TV
@@ -1758,7 +1758,7 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 #EXTINF:0,Xite NL6
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
 #EXTINF:0,****((ReMy-Clubbin/iTunes_Radio_Stations))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((ReMy-Clubbin/iTunes_Radio_Stations))****
+****((ReMy-Clubbin/iTunes_Radio_Stations))****
 #EXTINF:0,Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
 #EXTINF:0,Baba Radyo AAC
@@ -1968,7 +1968,7 @@ http://91.121.59.45:8361/stream
 #EXTINF:0,Z104 Country KSOP-FM
 http://ice7.securenetsystems.net/KSOPFM
 #EXTINF:0,****((YEREL_TURKEY))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((YEREL_TURKEY))****
+****((YEREL_TURKEY))****
 #EXTINF:0,ONCU TV
 http://yayin3.canlitv.com:1935/live/oncutv/iptvdelisi.m3u8
 #EXTINF:0,AKSU TV
@@ -2060,7 +2060,7 @@ rtmp://91.93.118.165/tempotv/livestream
 #EXTINF:0,KONYA KON TV
 http://yayin3.canlitv.com:1935/live/kontv/playlist.m3u8
 #EXTINF:0,****((YETISKIN_ICERIK))****
-file:///C:/Users/Remzi%20Arslan/Dropbox/enigma/****((YETISKIN_ICERIK))****
+****((YETISKIN_ICERIK))****
 #EXTINF:0,Miami Tv Espana
 http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
 #EXTINF:0,Miami TV 2 (18+)
@@ -2087,49 +2087,3 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 http://80.87.208.158:80/dna-91-tv-pc.m3u8
 #EXTINF:0,LEO TV
 http://80.87.208.158:80/dna-141-tv-pc.m3u8
-#EXTINF:0,Hustler HD 
-http://85.132.71.6/ru/hust/index.m3u8%20
-#EXTINF:0,Blue Hustler
-http://85.132.71.6/ru/blue/index.m3u8
-#EXTINF:0,Redlight HD
-http://85.132.71.6/ru/red/index.m3u8
-#EXTINF:0,Brazzers Europe TV
-http://85.132.71.6/ru/braz/index.m3u8%20
-#EXTINF:0,Pinko
-http://85.132.71.6/ru/pink/index.m3u8
-#EXTINF:0,Playboy
-http://193.93.236.121:9991/play/Playboy/index.m3u8
-#EXTINF:0,Brazzers TV
-http://193.93.236.121:9991/play/Brazzers_TV_Europe/index.m3u8
-#EXTINF:0,Hustler HD
-http://193.93.236.121:9991/play/Hustler_HD/index.m3u8
-#EXTINF:0,Hustler_HD
-http://193.93.236.121:9991/play/Hustler_HD/index.m3u8
-#EXTINF:0,Playboy
-http://193.93.236.121:9991/play/Playboy/index.m3u8
-#EXTINF:0,Brazzers Europe
-http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
-#EXTINF:0,Eroxx TV HD
-http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
-#EXTINF:0,Erox TV HD
-http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
-#EXTINF:0,Hustler TV +18
-http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-#EXTINF:0,Playboy
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/527/index.m3u8
-#EXTINF:0,??????? ????
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/147/index.m3u8
-#EXTINF:0,Brazzers TV Europe
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/910/index.m3u8
-#EXTINF:0,????????? HD
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/919/index.m3u8
-#EXTINF:0,?????
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/922/index.m3u8
-#EXTINF:0,Candy
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/923/index.m3u8
-#EXTINF:0,Erox HD
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/813/index.m3u8
-#EXTINF:0,Penthouse TV
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/1073/index.m3u8
-#EXTINF:0,Blue Hustler
-http://9e0ac158.skalkak.ru/iptv/VAY8EHKRLN74NG/1064/index.m3u8
