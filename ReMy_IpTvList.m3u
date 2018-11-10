@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,group-title=****((ULUSAL))****
+#EXTINF:-1 group-title=****((ULUSAL))****
 ****((ULUSAL))****
 #EXTINF:0,KANAL D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
