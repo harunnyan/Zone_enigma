@@ -1757,215 +1757,215 @@ http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL6
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-#EXTINF:-1,****((ReMy-Clubbin/iTunes_Radio_Stations))****
-****((ReMy-Clubbin/iTunes_Radio_Stations))****
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Baba Radyo
+#EXTINF:-1,****((ReMy-Clubbin/iTunes_Radio))****
+****((ReMy-Clubbin/iTunes_Radio))****
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Baba Radyo
 http://37.247.100.100/best/babaradyo.stream/chunklist_w1575182589.m3u8
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Baba Radyo AAC
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Baba Radyo AAC
 http://37.247.100.100/best/babaradyo.stream/media_w1575182589_3361.aac
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Spor
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Spor
 http://37.247.100.118/stream/70/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",181.FM UK Top 40
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",181.FM UK Top 40
 http://listen.181fm.com/181-uktop40_128k.mp3?noPreRoll=true
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",iTunes Top 40
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",iTunes Top 40
 http://mp3.ffh.de/ffhchannels/top40.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Dance Wave! RETRO
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Dance Wave! RETRO
 http://stream2.dancewave.online:8080/retrodance.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Dance Wave!
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Dance Wave!
 http://stream.dancewave.online:8080/dance.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Enjoy Hits!
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Enjoy Hits!
 http://79.172.194.189:11540/live.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Balkansko Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Balkansko Radio
 http://balkanskoradio.com:8001/live.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",JOY_FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",JOY_FM
 http://17773.live.streamtheworld.com:3690/JOY_FM_SC
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",METRO_FM_SC
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",METRO_FM_SC
 http://17733.live.streamtheworld.com:3690/METRO_FM_SC
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Ibiza Global Station
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Ibiza Global Station
 http://46.105.171.218:8024
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Wide Radio - wideradio.net
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Wide Radio - wideradio.net
 http://178.63.62.145:8080/wide01
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",WORLD HIT
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",WORLD HIT
 http://37.247.98.8/stream/34/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Fenomen/SuperHD
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Fenomen/SuperHD
 http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",FenomenClubbin
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",FenomenClubbin
 http://fenomenclubbin.listenfenomen.com/fenomenclubbin/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Fenomen Dans
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Fenomen Dans
 http://fenomendans.listenfenomen.com/fenomendans/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Fenomen RAP
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Fenomen RAP
 http://fenomenrap.listenfenomen.com/fenomenrap/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Fenomen Pop
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Fenomen Pop
 http://fenomenpop.listenfenomen.com/fenomenpop/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Fenomen Akustik
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Fenomen Akustik
 http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Fenomen Kar
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Fenomen Kar
 http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Fenomen Oriental
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Fenomen Oriental
 http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",FenomenTurk
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",FenomenTurk
 http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Virgin Radio Türkiye
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Virgin Radio Türkiye
 http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Voyage AAC
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Voyage AAC
 http://46.20.4.42/pozitif/smil:voyage.smil/media_w1726134719_b128000_14039.aac
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",ANKARA HAVALARI
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",ANKARA HAVALARI
 http://37.247.98.8/stream/30/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",EGE HAVALARI
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",EGE HAVALARI
 http://37.247.98.8/stream/29/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",RUMELI RADYO
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",RUMELI RADYO
 http://37.247.98.8/stream/31/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",RADYO VOKAL
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",RADYO VOKAL
 http://37.247.98.8/stream/35/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",TaksimFM - Arabesk
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",TaksimFM - Arabesk
 http://95.211.162.32:8008
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Slow Karadeniz FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Slow Karadeniz FM
 http://dinle.slowkaradenizfm.com:9578/;
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",BesteFM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",BesteFM
 http://188.138.1.52:17732
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Arabesk
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Arabesk
 http://37.247.101.101:5934
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Derman
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Derman
 http://sunucu2.radyolarburada.com:3636/;stream.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",JoyTurk Akustik
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",JoyTurk Akustik
 https://17753.live.streamtheworld.com/JOYTURK_AKUSTIK128AC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=128eb247-8725-40da-df6f-c986c80bd8f8
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Efkar
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Efkar
 https://17773.live.streamtheworld.com/EFKAR128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a516ac84-3bdf-4b8e-f43b-0cf617f364fe
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",GONUL
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",GONUL
 https://17773.live.streamtheworld.com/GONUL128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=e5db8a60-47e4-4ff9-9a1f-be649e3b3b21
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Efuli
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Efuli
 https://19993.live.streamtheworld.com/SC3_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=55cb3a47-f75b-469f-b4ca-a63833def139
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",RetroTurk
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",RetroTurk
 https://17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Ankarali
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Ankarali
 https://19643.live.streamtheworld.com/SC6_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=ccf11eb9-8c91-4773-cab9-ff9a255e22d8
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Pop90
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Pop90
 https://17703.live.streamtheworld.com/POP90128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=cb042a8e-6ab0-40ed-e5dd-104bbd35afe6
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Komedi
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Komedi
 https://17753.live.streamtheworld.com/RADYO_KOMEDI128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=9241f62b-7e72-4cfe-b705-427219136126
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Genc & Fit
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Genc & Fit
 https://17703.live.streamtheworld.com/GENCVEFIT128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=dce3b2e0-c000-46fc-a6e7-c1c63af7ee94
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Best FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Best FM
 https://17703.live.streamtheworld.com/BEST_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=72d38878-1ace-4439-f8f8-8e49607b5ca8
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Efsane Sezen
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Efsane Sezen
 https://17733.live.streamtheworld.com/SEZEN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=1f044f9e-0c7c-437b-a97e-9e70efc35400
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",MydonoseTurk
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",MydonoseTurk
 https://18463.live.streamtheworld.com/DANSTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=6da4c271-c45e-4308-85e3-e93ae3284a7a
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Play
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Play
 https://18463.live.streamtheworld.com/KOMSU128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=477eff09-b7bd-40e0-db19-7bec5cb43cd1
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",SUPER_FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",SUPER_FM
 https://17753.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=5f5ce410-ba94-4cfc-a10f-70e4eec5cbf9
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Love Zone
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Love Zone
 https://20043.live.streamtheworld.com/SC5_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=a8e19e57-e1d0-4799-f887-ac9ce15d564c
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",ZEPLIN
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",ZEPLIN
 https://17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo 34
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo 34
 http://yayin1.canliyayin.org:7424/;
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Türkü-izmir
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Türkü-izmir
 http://radioturku.com:9400/;
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radyo Mydonose
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Mydonose
 http://17753.live.streamtheworld.com:3690/RADIO_MYDONOSE_SC
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",S4 Radio | TR
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",S4 Radio | TR
 http://188.138.1.183:10108/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",SHOW RADYO
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",SHOW RADYO
 http://46.20.3.229:80
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",TURKUAZ FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",TURKUAZ FM
 http://151.80.133.218:1078
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",ANTENNE BAYERN
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",ANTENNE BAYERN
 http://mp3channels.webradio.antenne.de:80/antenne
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",ANTENA1 - 94 7 FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",ANTENA1 - 94 7 FM
 http://178.33.104.250:80/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Classical WETA 90.9 FM - Washington D.C.
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Classical WETA 90.9 FM - Washington D.C.
 http://38.100.128.106:8000/fmlive
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Djam Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Djam Radio
 http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",JewishMusic Stream
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",JewishMusic Stream
 http://stream.jewishmusicstream.com:8000/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Otvoreni radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Otvoreni radio
 http://50.7.71.219:7412
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",OE 1
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",OE 1
 http://194.232.200.152:8000
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Radio Klass Romania .:: www.RadioKlass.eu ::.
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radio Klass Romania .:: www.RadioKlass.eu ::.
 http://92.222.38.225:2012
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Schlagerparadies Webstream
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Schlagerparadies Webstream
 http://91.250.77.9:8090
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",A-0 Top Country Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",A-0 Top Country Radio
 http://hemnos.cdnstream.com/1290_128
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",The Very Best of Country
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",The Very Best of Country
 http://HearMe.fm:8022/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",96.7 The Coyote
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",96.7 The Coyote
 http://ice8.securenetsystems.net/KCYTFM
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",1000 90er
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",1000 90er
 http://stream.laut.fm/100090er
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Acadia Radio WMSP
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Acadia Radio WMSP
 http://50.7.70.66:8666
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Acoustic Freight Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Acoustic Freight Radio
 http://stream.radiojar.com/khe45wxkb
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Always Country
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Always Country
 http://HearMe.fm:8231/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",American Roots
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",American Roots
 http://stream.sonixcast.com:9175
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Athens Country Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Athens Country Radio
 http://live.athenscountryradio.com:8000/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Big Buck Country 101.5
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Big Buck Country 101.5
 http://icy3.abacast.com/kindred-wxbwfmmp3-64
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",BLUE BOSSA NOVA
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",BLUE BOSSA NOVA
 http://69.175.13.131:8280
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Bluegrass Planet Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Bluegrass Planet Radio
 http://streaming.live365.com/a49410
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Cat Country 98.9 WUUU-FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Cat Country 98.9 WUUU-FM
 http://stream.radiojar.com/6s50f6ye4k5tv
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Cobys Country
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Cobys Country
 http://streaming.live365.com/a13311
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Chris Country
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Chris Country
 http://direct.sharp-stream.com/chriscountry.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Country
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Country
 http://hearme.fm:8532/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",COUNTRY 108 - Your Country Music Station!
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",COUNTRY 108 - Your Country Music Station!
 http://sc1.netstreamer.net:8100
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Country Classics
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Country Classics
 http://hearme.fm:8534/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Country Radio Switzerland
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Country Radio Switzerland
 http://rs4.radiostreamer.com:8000
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Country Rocks Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Country Rocks Radio
 http://stream.dbmedia.se/crrMP3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Cruisin' Country Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Cruisin' Country Radio
 http://s4.radioboss.fm:8422/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Dallas Country Music
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Dallas Country Music
 http://hearme.fm:8602/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Dansbandskanalen
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Dansbandskanalen
 http://stream.dbmedia.se/dbkMP3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",G Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",G Radio
 http://stream.radiojar.com/garavelas-radio-com
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",GRAVEL ROAD on RockyMountainRadio.net
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",GRAVEL ROAD on RockyMountainRadio.net
 http://page.streamerportal.com/play/AUDIO/103/play
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",HPR1: Traditional Classic
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",HPR1: Traditional Classic
 http://hpr1.hpr.org:HPR1
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",HPR2: Today's Classic
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",HPR2: Today's Classic
 http://hpr2.hpr.org:HPR2
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",iCon Country
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",iCon Country
 http://s41.myradiostream.com:4806/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",KCRL-DB
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",KCRL-DB
 http://streaming.live365.com/a00806
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Kdub Hit Country
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Kdub Hit Country
 http://kdub.out.airtime.pro:8000/kdub_a
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",NRJ ANTILLES
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",NRJ ANTILLES
 http://cdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",NRJ HITS
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",NRJ HITS
 http://cdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3?origine=itunes
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",NRJ MADE IN FRANCE
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",NRJ MADE IN FRANCE
 http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3?origine=itunes
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",NRJ POP RNB DANCE
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",NRJ POP RNB DANCE
 http://cdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3?origine=itunes
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Positively 90's
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Positively 90's
 http://edge01.media.positivityradio.world:8081/positively/90s128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",The Bull
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",The Bull
 http://stream.thebullradio.com:8004/
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Today's Country Mix - iPowerhits Radio
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Today's Country Mix - iPowerhits Radio
 http://158.69.227.214:8167
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",WRCF
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",WRCF
 http://91.121.59.45:8361/stream
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio_Stations))****",Z104 Country KSOP-FM
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Z104 Country KSOP-FM
 http://ice7.securenetsystems.net/KSOPFM
 #EXTINF:-1,****((YEREL_TURKEY))****
 ****((YEREL_TURKEY))****
