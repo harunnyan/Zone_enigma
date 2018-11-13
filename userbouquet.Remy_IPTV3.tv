@@ -219,18 +219,20 @@
 #DESCRIPTION NRJ Hist
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.196.138.6%3a1935/live/nrjbelgique_720p/playlist.m3u8:NRJ Hits HD
 #DESCRIPTION NRJ Hits HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD  open-tv
-#DESCRIPTION O HD  open-tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD
+#DESCRIPTION O HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko
 #DESCRIPTION Ocko
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8:Ocko Expres
 #DESCRIPTION Ocko Expres
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8:Ocko Star
 #DESCRIPTION Ocko Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8:Polskie Radio 24 WEB
-#DESCRIPTION Polskie Radio 24 WEB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.43.207.130/planetahd/planetahd.m3u8:Planeta HD
 #DESCRIPTION Planeta HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8:Polskie Radio 24 WEB
+#DESCRIPTION Polskie Radio 24 WEB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.56.17.92%3a1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8:PortalFoxMix Tv
+#DESCRIPTION PortalFoxMix Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_3/playlist.m3u8:Relax.TV
 #DESCRIPTION Relax.TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8:RETRO
