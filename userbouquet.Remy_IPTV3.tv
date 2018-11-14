@@ -221,6 +221,8 @@
 #DESCRIPTION NRJ Hits HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.232.128.68/bks.m3u8:O HD
 #DESCRIPTION O HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8:O!2
+#DESCRIPTION O!2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8:Ocko
 #DESCRIPTION Ocko
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8:Ocko Expres
@@ -279,8 +281,6 @@
 #DESCRIPTION Standby TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b2300000.m3u8:STARS TV HD (POL)
 #DESCRIPTION STARS TV HD (POL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8:O!2
-#DESCRIPTION O!2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8:QMusic NL
 #DESCRIPTION QMusic NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//200.42.92.6%3a1755/qmusica:QUIERO MÚSICA

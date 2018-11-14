@@ -1921,21 +1921,37 @@
 #DESCRIPTION miamitv
 #SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #DESCRIPTION === ★★WEBSOCKET | LIVE_UPDATE★★ ====
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV HD
-#DESCRIPTION Star TV HD
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT
-#DESCRIPTION BloombergHT
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iYY4F4EbWLc:Habertürk TV
-#DESCRIPTION Habertürk TV
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ND2NJMSJZ4Q:Kral Pop TV HD
-#DESCRIPTION Kral Pop TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xuG5pvNuwII:TRT 1 Canlı Yayın  ᴴᴰ
+#DESCRIPTION TRT 1 Canlı Yayın  ᴴᴰ
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV  ᴴᴰ
+#DESCRIPTION Star TV  ᴴᴰ
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT ᴴᴰ
+#DESCRIPTION BloombergHT ᴴᴰ
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iYY4F4EbWLc:Habertürk TV ᴴᴰ
+#DESCRIPTION Habertürk TV ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=JZ8QhI0pz1A:NTV - Canlı Yayın ᴴᴰ
+#DESCRIPTION NTV - Canlı Yayın ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=wFyXTJzRowg:TGRT Haber TV - Canlı Yayın | Live | ᴴᴰ
+#DESCRIPTION TGRT Haber TV - Canlı Yayın | Live | ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=a-M_5rGhPdg:FRANCE 24 ᴴᴰ
+#DESCRIPTION FRANCE 24 ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=9HYxGr8MZL8:CNN News18 ᴴᴰ
+#DESCRIPTION CNN News18 ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=1MeK6RUO28Y:ABC 7 SWFL Live Stream ᴴᴰ
+#DESCRIPTION ABC 7 SWFL Live Stream ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=d3rK0AYsK4c:Kral TV -  ᴴᴰ
+#DESCRIPTION Kral TV -  ᴴᴰ
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lxihjZS-fyA:Kral FM
 #DESCRIPTION Kral FM
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=cMgrsG7LWik:Kral Pop Radyo
 #DESCRIPTION Kral Pop Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xASk3v5clpQ:Radio Fenomen Pop Music Live stream 24/7
+#DESCRIPTION Radio Fenomen Pop Music Live stream 24/7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jtQD2N2yTDA:Radyo Fenomen Türk Canlı Yayın
+#DESCRIPTION Radyo Fenomen Türk Canlı Yayın
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HXZlvafC14Y:Power Türk Fm
 #DESCRIPTION Power Türk Fm
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Ga3maNZ0x0w:Bloomberg Global News LIVE
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dp8PhLsUcFE:Bloomberg Global News LIVE
 #DESCRIPTION Bloomberg Global News LIVE
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=bQQK0iR5iBU:Real World Air Traffic-Information Zulu
 #DESCRIPTION Real World Air Traffic-Information Zulu
@@ -1965,6 +1981,72 @@
 #DESCRIPTION NYC skyline from the Empire State
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&rebase=on:ABC News-Yahoo!
 #DESCRIPTION ABC News-Yahoo!
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=GdNzFTZK_28:SOMOY TV LIVE
+#DESCRIPTION SOMOY TV LIVE
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=x93YWSa5obQ:Puthiya Thalaimurai TV
+#DESCRIPTION Puthiya Thalaimurai TV
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Fu2etwHzcvw:JapaNews24
+#DESCRIPTION JapaNews24
+#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=_egSTyWb1gk:NBC2 Live Stream
+#DESCRIPTION NBC2 Live Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=c177aGh7VJs:Phuket Thailand 4K Full
+#DESCRIPTION Phuket Thailand 4K Full
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=G2_ad65YGmo:Phuket Night Scenes - Patong Night Walk - 2018
+#DESCRIPTION Phuket Night Scenes - Patong Night Walk - 2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=3ADmMDXshPA:Phuket'te Tayland Sokak Gıdası
+#DESCRIPTION Phuket'te Tayland Sokak Gıdası
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lEXe_tMVHSA:PHUKET NIGHTLIFE - PATONG BEACH (THAILAND)
+#DESCRIPTION PHUKET NIGHTLIFE - PATONG BEACH (THAILAND)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=PJLh9zsPs4k&t=186s:Patong Nightlife, Phuket 2017 - Vlog 205
+#DESCRIPTION Patong Nightlife, Phuket 2017 - Vlog 205
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=JKDUBCJ43w0:HOTTEST THAI GIRLS IN PHUKET THAILAND - Best Night
+#DESCRIPTION HOTTEST THAI GIRLS IN PHUKET THAILAND - Best Night
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Ikqv6t706Lg&t=1264s:PHUKET BEACHES,
+#DESCRIPTION PHUKET BEACHES,
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=aKbqWGdlPpI:Patong Nightlife, Phuket - Bangla Road
+#DESCRIPTION Patong Nightlife, Phuket - Bangla Road
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=aIwE31vHscw:PHUKET & PATTAYA NİGHTLİFE
+#DESCRIPTION PHUKET & PATTAYA NİGHTLİFE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=OYUdNBBn7Ys:Patong Nightlife, Phuket 2016 - VLOG 50
+#DESCRIPTION Patong Nightlife, Phuket 2016 - VLOG 50
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=J23606nfe34:Thailand Nightlife - Bangla Road - Patong Beach -
+#DESCRIPTION Thailand Nightlife - Bangla Road - Patong Beach -
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=yN32CqUM64w:2018 Mad Decent Pool Party - Miami Beach
+#DESCRIPTION 2018 Mad Decent Pool Party - Miami Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=LQgtZxZJNKQ:Summer 2018 Recap
+#DESCRIPTION Summer 2018 Recap
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=thjrV-HR34A:Miami Beach Dance Party
+#DESCRIPTION Miami Beach Dance Party
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=emtEPR1ne_M:Miami Beach Dance Party 2017 - Nikki Beach
+#DESCRIPTION Miami Beach Dance Party 2017 - Nikki Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=rfiXYccaxjQ:Garota Piscina Thermas Machadinho
+#DESCRIPTION Garota Piscina Thermas Machadinho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n1rtLuQbAQA:Pattaya Night Scenes 2018
+#DESCRIPTION Pattaya Night Scenes 2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n1rtLuQbAQA&t=57s:Pattaya Night Scenes 2018
+#DESCRIPTION Pattaya Night Scenes 2018
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=5Sm7VOV1Kig:Kiev, Ukraine: Europe's Greatest City 🇺🇦
+#DESCRIPTION Kiev, Ukraine: Europe's Greatest City 🇺🇦
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qbyoL7Qfa88:Nana Plaza After Midnight - VLOG 78
+#DESCRIPTION Nana Plaza After Midnight - VLOG 78
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=6-G-lxvL6kU:Angeles City First Look - Philippines Vlog 158
+#DESCRIPTION Angeles City First Look - Philippines Vlog 158
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=82wscmO8MCk:Angeles City Gece Manzaraları
+#DESCRIPTION Angeles City Gece Manzaraları
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=7MG8cSbuzUQ:LADYBOYS BANGKOK THAILAND - NANA PLAZA
+#DESCRIPTION LADYBOYS BANGKOK THAILAND - NANA PLAZA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=BhdfuE2ReVk:Suwon şehir merkezinin gece manzarası
+#DESCRIPTION Suwon şehir merkezinin gece manzarası
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=CIlPObPhkpM:Amsterdam Nightlife: TOP 15 Bars & Clubs
+#DESCRIPTION Amsterdam Nightlife: TOP 15 Bars & Clubs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=1ImC-KlLa9M:Pattaya Thailand Prostitutes Walking Street Sex To
+#DESCRIPTION Pattaya Thailand Prostitutes Walking Street Sex To
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=JwAJjUaoqZs:4K CHEONHO and RED LIGHT DISTRICTS Korea Seoul
+#DESCRIPTION 4K CHEONHO and RED LIGHT DISTRICTS Korea Seoul
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=GIi2oOKeQh8:Pattaya 11pm to 5am - It gets MESSY!!!
+#DESCRIPTION Pattaya 11pm to 5am - It gets MESSY!!!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n-YnzZVzV9U:Soho Red Light District London
+#DESCRIPTION Soho Red Light District London
 #SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
