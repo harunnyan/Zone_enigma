@@ -2433,6 +2433,8 @@
 #DESCRIPTION Denizli Teleferik Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//konya.sehirkameralari.com/live/52f8ad56da5f9/playlist.m3u8?wowzasessionid=1267090667&token=:Konya Mevlana Meydanı Canlı Mobese
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
+#DESCRIPTION Sivas Kent Meydanı
 #SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★WebCam | Novi Sad Live★★ ====
 #DESCRIPTION === ★★WebCam | Novi Sad Live★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
