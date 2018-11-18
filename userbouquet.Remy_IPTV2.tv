@@ -1,5 +1,5 @@
 #NAME **ReMy_PREMIUM_WORLD**
-#SERVICE 1:64:9C:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.239.252.15/live/hls/stream1_q2/index.m3u8:Look TV HD
 #DESCRIPTION Look TV HD
@@ -221,7 +221,7 @@
 #DESCRIPTION Garage TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/sport/live/playlist.m3u8:Tele Romagna SPORT
 #DESCRIPTION Tele Romagna SPORT
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/master.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -297,7 +297,7 @@
 #DESCRIPTION Sky TG 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyianywhere2-i.akamaihd.net%3a80/hls/live/200275/tg24/stream5/streamPlaylist.m3u8:SKY TG24 HD
 #DESCRIPTION SKY TG24 HD
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★AIRTEL | DIGITAL★★ ====
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★AIRTEL | DIGITAL★★ ====
 #DESCRIPTION === ★★AIRTEL | DIGITAL★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-35-tv-pc.m3u8:12 HD
 #DESCRIPTION 12 HD
@@ -439,9 +439,9 @@
 #DESCRIPTION ZDF (DE)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.87.208.158%3a80/dna-65-tv-pc.m3u8:Первый (RU)
 #DESCRIPTION Первый (RU)
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::== ★★Moldova-Slovakia-Romania | PAKETI★★ =
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::== ★★Moldova-Slovakia-Romania | PAKETI★★ =
 #DESCRIPTION == ★★Moldova-Slovakia-Romania | PAKETI★★ =
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★TELEKOM | ROMANIA★★ ====
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★TELEKOM | ROMANIA★★ ====
 #DESCRIPTION === ★★TELEKOM | ROMANIA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
@@ -647,7 +647,7 @@
 #DESCRIPTION Wau hd
 #SERVICE 4097:0:1:608:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.6%3a5656:Пеrвyј
 #DESCRIPTION Пеrвyј
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
 #DESCRIPTION === ★★REMY | U.S.A_IPTV★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8:2UE Sydney
 #DESCRIPTION 2UE Sydney
@@ -757,7 +757,7 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.81.111%3a1937/liveTrans/livestream_360p/playlist.m3u8:ZIZ
 #DESCRIPTION ZIZ
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7904:Falastini
 #DESCRIPTION Falastini
@@ -829,7 +829,7 @@
 #DESCRIPTION Sama Dubai
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ns8.indexforce.com%3a1935/alsharqiyalive/mystream/playlist.m3u8:Sharqiya News
 #DESCRIPTION Sharqiya News
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
 #DESCRIPTION === ★★REMY | WORLD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
@@ -1675,7 +1675,7 @@
 #DESCRIPTION YLE TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.83.199%3a1935/ynettv/ynettv/playlist.m3u8:Ynet
 #DESCRIPTION Ynet
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::_U K R A I N E_
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::_U K R A I N E_
 #DESCRIPTION _U K R A I N E_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2g03-f23.ovva.tv/227022/smil%3a227022.smil/playlist.m3u8:1 Ukraine
 #DESCRIPTION 1 Ukraine
@@ -1799,7 +1799,7 @@
 #DESCRIPTION Espreso TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8:Правда ТУТ HD (Украина)
 #DESCRIPTION Правда ТУТ HD (Украина)
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::__R U S S I A N__
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::__R U S S I A N__
 #DESCRIPTION __R U S S I A N__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar1.smil/chunklist_b1600000.m3u8:Russia 1
 #DESCRIPTION Russia 1
@@ -2195,7 +2195,7 @@
 #DESCRIPTION Юрган ТВ HD (Сыктывкар)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8:Ямал-Регион (Салехард) +2
 #DESCRIPTION Ямал-Регион (Салехард) +2
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
+#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
 #DESCRIPTION === ★★FilmOn Tv-WebSocket★★ ===
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/bbc-news:BBC NEWS
 #DESCRIPTION BBC NEWS
@@ -2347,7 +2347,7 @@
 #DESCRIPTION bikini-teevee
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/miamitv:miamitv
 #DESCRIPTION miamitv
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #DESCRIPTION === ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xuG5pvNuwII:TRT 1 Canlı Yayın  ᴴᴰ
 #DESCRIPTION TRT 1 Canlı Yayın  ᴴᴰ
@@ -2475,7 +2475,7 @@
 #DESCRIPTION Pattaya 11pm to 5am - It gets MESSY!!!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n-YnzZVzV9U:Soho Red Light District London
 #DESCRIPTION Soho Red Light District London
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
 #DESCRIPTION BESİKTAS MEYDANI
@@ -2531,7 +2531,7 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
 #DESCRIPTION Sivas Kent Meydanı
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★WebCam | Novi Sad Live★★ ====
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★WebCam | Novi Sad Live★★ ====
 #DESCRIPTION === ★★WebCam | Novi Sad Live★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
 #DESCRIPTION NoviSad - Trg Slobode
@@ -2539,21 +2539,21 @@
 #DESCRIPTION Novi Sad - Beogradski kej 2
 #SERVICE 4097:0:1:5:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//MostSlobode.2.stream:Novi Sad - Most Slobode 2
 #DESCRIPTION Novi Sad - Most Slobode 2
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::*** Illinois ***
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::*** Illinois ***
 #DESCRIPTION *** Illinois ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5187.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/illinois/chicago/field/:Chicago Cam
 #DESCRIPTION Chicago Cam
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::*** Nevada ***
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::*** Nevada ***
 #DESCRIPTION *** Nevada ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=eclasvegas.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/nevada/lasvegas/index.php?cam=sign_hd:Welcome to Fabulous Las Vegas
 #DESCRIPTION Welcome to Fabulous Las Vegas
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::*** New Mexico ***
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::*** New Mexico ***
 #DESCRIPTION *** New Mexico ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5465.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newmexico/lasvegas/:Las Vegas, New Mexico Cam
 #DESCRIPTION Las Vegas, New Mexico Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4831.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newmexico/santafe/:Santa Fe Cam
 #DESCRIPTION Santa Fe Cam
-#SERVICE 1:64:AD:0:0:0:0:0:0:0::*** New York ***
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::*** New York ***
 #DESCRIPTION *** New York ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=3983.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/brooklynbridge/:Brooklyn Bridge
 #DESCRIPTION Brooklyn Bridge
@@ -2587,27 +2587,27 @@
 #DESCRIPTION Times Square North View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4017timessquare.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/timessquare/?cam=tstwo_hd:Times Square South View
 #DESCRIPTION Times Square South View
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::*** North Carolina ***
+#SERVICE 1:64:AF:0:0:0:0:0:0:0::*** North Carolina ***
 #DESCRIPTION *** North Carolina ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5324.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northcarolina/belmont/:Belmont Cam
 #DESCRIPTION Belmont Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4904.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northcarolina/supply/holden/:Holden Beach Cam
 #DESCRIPTION Holden Beach Cam
-#SERVICE 1:64:AF:0:0:0:0:0:0:0::*** North Dakota ***
+#SERVICE 1:64:B0:0:0:0:0:0:0:0::*** North Dakota ***
 #DESCRIPTION *** North Dakota ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6698.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northdakota/cavalier/:City of Cavalier Cam
 #DESCRIPTION City of Cavalier Cam
-#SERVICE 1:64:B0:0:0:0:0:0:0:0::*** Ohio ***
+#SERVICE 1:64:B1:0:0:0:0:0:0:0::*** Ohio ***
 #DESCRIPTION *** Ohio ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8939.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/ohio/cleveland/:Cleveland Cam
 #DESCRIPTION Cleveland Cam
-#SERVICE 1:64:B1:0:0:0:0:0:0:0::*** Oklahoma ***
+#SERVICE 1:64:B2:0:0:0:0:0:0:0::*** Oklahoma ***
 #DESCRIPTION *** Oklahoma ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=8471.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/oklahoma/vinita/?cam=route66east:Route 66 Cam - East View
 #DESCRIPTION Route 66 Cam - East View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8470.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/oklahoma/vinita/?cam=route66west:Route 66 Cam - WestView
 #DESCRIPTION Route 66 Cam - WestView
-#SERVICE 1:64:B2:0:0:0:0:0:0:0::*** Pennsylvania ***
+#SERVICE 1:64:B3:0:0:0:0:0:0:0::*** Pennsylvania ***
 #DESCRIPTION *** Pennsylvania ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5595.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/pennsylvania/pittsburgh/warhol/?cam=warhol_figmentstream:Andy Warhol FigmentCam
 #DESCRIPTION Andy Warhol FigmentCam
@@ -2615,7 +2615,7 @@
 #DESCRIPTION Steamtown Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5536.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/pennsylvania/gettysburg/?cam=gettysburg:Gettysburg Battlefield Cam
 #DESCRIPTION Gettysburg Battlefield Cam
-#SERVICE 1:64:B3:0:0:0:0:0:0:0::*** South Carolina ***
+#SERVICE 1:64:B4:0:0:0:0:0:0:0::*** South Carolina ***
 #DESCRIPTION *** South Carolina ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6320.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/southcarolina/kiawahisland/?cam=kiawahisland:Kiawah Island Beach
 #DESCRIPTION Kiawah Island Beach
@@ -2625,7 +2625,7 @@
 #DESCRIPTION Myrtle Beach Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4387.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/southcarolina/spartanburg/:Pacolet River
 #DESCRIPTION Pacolet River
-#SERVICE 1:64:B4:0:0:0:0:0:0:0::*** World Cams Bars ***
+#SERVICE 1:64:B5:0:0:0:0:0:0:0::*** World Cams Bars ***
 #DESCRIPTION *** World Cams Bars ***
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//94.228.215.67%3a1935/live/ playpath=livecam025.stream swfUrl=https%3a//livecam-pro.com/jwplayer7/jwplayer.flash.swf pageUrl=https%3a//livecam-pro.com/fileadmin/templates/assets/_html/livecamX.025.html:E Barcelona - Terra d'Escudella
 #DESCRIPTION E Barcelona - Terra d'Escudella
