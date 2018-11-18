@@ -41,6 +41,8 @@
 #DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.22.187.253%3a1935/streaming-tv/mp4%3amyStream3/playlist.m3u8:Automoto
 #DESCRIPTION Automoto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8:Combat Go
+#DESCRIPTION Combat Go
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmivll.mangomolo.com/dubaisports/smil%3adubaisports.smil/playlist.m3u8:DUBAI SPORTS
 #DESCRIPTION DUBAI SPORTS
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmi.mangomolo.com%3a1935/dubaisports/smil%3adubaisports.smil/master.m3u8:Dubai Sports
@@ -53,14 +55,14 @@
 #DESCRIPTION ESPN MNF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8:Flow Sports
 #DESCRIPTION Flow Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8:Combat Go
-#DESCRIPTION Combat Go
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8?fluxustv.m3u8:M1 Global
+#DESCRIPTION M1 Global
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-m1globaltv.cdnvideo.ru/m1globaltv/smil%3am1globaltv-rtmp-ru.smil/chunklist_b4628001.m3u8:M-1 Global TV (RU) [FHD]
 #DESCRIPTION M-1 Global TV (RU) [FHD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium
-#DESCRIPTION Stadium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//144.76.182.50%3a25461/live/smash/smash/4.m3u8?fluxustv.m3u8:Smash Sports
 #DESCRIPTION Smash Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8:Stadium
+#DESCRIPTION Stadium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8:YAS Sports
 #DESCRIPTION YAS Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//61.58.60.230%3a9000/live/75.m3u8?fluxustv.m3u8:Eleven Sports 1 UK
@@ -97,12 +99,6 @@
 #DESCRIPTION Garage TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/sport/live/playlist.m3u8:Tele Romagna SPORT
 #DESCRIPTION Tele Romagna SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8:OKTO
-#DESCRIPTION OKTO
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale7/mp4%3acanale7/playlist.m3u8:TELE CANALE 7
-#DESCRIPTION TELE CANALE 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale85/mp4%3acanale85/playlist.m3u8:TELE Canale 85
-#DESCRIPTION TELE Canale 85
 #SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/master.m3u8:ABC News
@@ -153,6 +149,8 @@
 #DESCRIPTION russia24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.api.rt.com/hls/rtdru360.m3u8:RT-HD
 #DESCRIPTION RT-HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//app.live.112.events/hls/112hd_mid/index.m3u8:112 Ukraine
+#DESCRIPTION 112 Ukraine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8:DW
 #DESCRIPTION DW
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8:France 24
@@ -165,8 +163,8 @@
 #DESCRIPTION NHK World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8:nhk world
 #DESCRIPTION nhk world
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil%3aIPBCchannel11LVM.smil/playlist.m3u8:CHNL 11 ISRAEL
-#DESCRIPTION CHNL 11 ISRAEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.120.104.64/hls/newsone-hd/stream.m3u8:NewsOne TV (Украина) [FHD]
+#DESCRIPTION NewsOne TV (Украина) [FHD]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8:RTE News Now
 #DESCRIPTION RTE News Now
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//csm-e.cds1.yospace.com/csm/live/74246610.m3u8:TG4
@@ -467,8 +465,6 @@
 #DESCRIPTION PRO TV Moldova
 #SERVICE 4097:0:1:612:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.8%3a5656:Publika TV
 #DESCRIPTION Publika TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8:rai4
-#DESCRIPTION rai4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/rocktv/playlist.m3u8:Rock TV
 #DESCRIPTION Rock TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.46.161.3/hls/sd.m3u8:Roma TV
@@ -713,6 +709,8 @@
 #DESCRIPTION Sharqiya News
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
 #DESCRIPTION === ★★REMY | WORLD★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
+#DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8:13 TV
 #DESCRIPTION 13 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp%3a324_web/playlist.m3u8:324 NOTICIES
@@ -925,6 +923,10 @@
 #DESCRIPTION History Lab
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hitmusic.hu/hitmusic.m3u8:Hit Music Channel (Hungary)
 #DESCRIPTION Hit Music Channel (Hungary)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8:HIT TV (ESP)
+#DESCRIPTION HIT TV (ESP)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8:HNNTC
+#DESCRIPTION HNNTC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-video01.cdnvideo.ru/video01/smil%3avideo01.smil/chunklist_b4128000.m3u8:HOBOC TV
 #DESCRIPTION HOBOC TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8:hr
@@ -1063,12 +1065,10 @@
 #DESCRIPTION Nest TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netvtoronto.com%3a1935/NetvToronto/NetvToronto/playlist.m3u8:NetvToronto
 #DESCRIPTION NetvToronto
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.7/PLTV/3/224/3221225561/index.m3u8:New TV
-#DESCRIPTION New TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.120.104.64/hls/newsone-hd/stream.m3u8:NewsOne TV (Украина) [FHD]
-#DESCRIPTION NewsOne TV (Украина) [FHD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225543/index.m3u8:NewTV
-#DESCRIPTION NewTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.7/PLTV/3/224/3221225561/index.m3u8:New CNTN
+#DESCRIPTION New CNTN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.15/PLTV/3/224/3221225543/index.m3u8:New CCTV5
+#DESCRIPTION New CCTV5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225567/index.m3u8:Newtv
 #DESCRIPTION Newtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//183.207.249.14/PLTV/3/224/3221225535/index.m3u8:Newtv
@@ -1131,6 +1131,8 @@
 #DESCRIPTION ok-salzwedel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-cdn.ok54.de/hls/ok54.m3u8:OK54
 #DESCRIPTION OK54
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8:OKTO
+#DESCRIPTION OKTO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8:Okto TV
 #DESCRIPTION Okto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8:OMEGA
@@ -1181,6 +1183,8 @@
 #DESCRIPTION Radio Monte Carlo TV (IT)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.81.145%3a3333/live//telebostonrtb/playlist.m3u8:Radio TeleBoston
 #DESCRIPTION Radio TeleBoston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8:rai4
+#DESCRIPTION rai4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8?sd=10&rebase=on:Rai Gulp
 #DESCRIPTION Rai Gulp
 #SERVICE 4097:0:1:350:0:0:0:0:0:0:http%3a//b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8:Rai Movie
@@ -1303,6 +1307,10 @@
 #DESCRIPTION Tele Arena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8:Tele Barn
 #DESCRIPTION Tele Barn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/canale7/mp4%3acanale7/playlist.m3u8:TELE CANALE 7
+#DESCRIPTION TELE CANALE 7
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/canale85/mp4%3acanale85/playlist.m3u8:TELE Canale 85
+#DESCRIPTION TELE Canale 85
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8:Tele M1
 #DESCRIPTION Tele M1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.121.222.160%3a1935/piublu/piublu.sdp/live.m3u8:Tele Milano
@@ -1413,8 +1421,6 @@
 #DESCRIPTION TV MOCAMBIQUE 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//196.28.226.121%3a1935/live/smil%3aChannel2.smil/playlist.m3u8:TV MOCAMBIQUE 2
 #DESCRIPTION TV MOCAMBIQUE 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.novotempo.com%3a1935/tv/tvnuevotiempo.smil/live.m3u8:TV NUEVO TIEMPO
-#DESCRIPTION TV NUEVO TIEMPO
 #SERVICE 4097:0:1:406:0:0:0:0:0:0:http%3a//tvoberfranken.iptv-playoutcenter.de%3a1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8:TV Oberfranken HD
 #DESCRIPTION TV Oberfranken HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvoberfranken.iptv-playoutcenter.de%3a1935/tvoberfranken/tvoberfranken.stream_1/master.m3u8:TV Oberfranken HD
@@ -1423,8 +1429,6 @@
 #DESCRIPTION TV Okey
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8:TV OOST
 #DESCRIPTION TV OOST
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8:TV Syd
-#DESCRIPTION TV Syd
 #SERVICE 4097:0:1:408:0:0:0:0:0:0:http%3a//tvtourings.iptv-playoutcenter.de%3a1935/tvtourings/tvtourings.stream_1/playlist.m3u8:TV Touring Schweinfurt
 #DESCRIPTION TV Touring Schweinfurt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvtourings.iptv-playoutcenter.de%3a1935/tvtourings/tvtourings.stream_1/playlist.m3u8:TV Touring Schweinfurt
@@ -1433,12 +1437,10 @@
 #DESCRIPTION TV Touring Wurzburg
 #SERVICE 4097:0:1:410:0:0:0:0:0:0:http%3a//tvtouringw.iptv-playoutcenter.de%3a1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8:TV Touring Wurzburg HD
 #DESCRIPTION TV Touring Wurzburg HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8:TV TRWAM
-#DESCRIPTION TV TRWAM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8:TV TRWAM
 #DESCRIPTION TV TRWAM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8:TV tvaktuellr
-#DESCRIPTION TV tvaktuellr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/stream.m3u8:TVA HD
+#DESCRIPTION TVA HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8?www.tecnotv.info:TV UNO
 #DESCRIPTION TV UNO
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k3.usastreams.com%3a1935/tvuno1/tvuno1/playlist.m3u8:Tv UNO
@@ -1463,14 +1465,12 @@
 #DESCRIPTION TV5 MONDE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-ee/_definst_/smil%3atv7-ee.smil/playlist.m3u8:TV7 (EST)
 #DESCRIPTION TV7 (EST)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-ru/_definst_/smil%3atv7-ru.smil/playlist.m3u8:TV7 (RU)
-#DESCRIPTION TV7 (RU)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-se/_definst_/smil%3atv7-se.smil/playlist.m3u8:TV7 (SWED)
 #DESCRIPTION TV7 (SWED)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vod.tv7.fi/tv7-fi/mp4%3atv7-fi.stream_360p?PAZ_Chega_de_Guerras:TV7 Finlandia
-#DESCRIPTION TV7 Finlandia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv7.hdr-tv.com/live/tv7/livestream/chunklist_w1089291400.m3u8:TV7 FR
 #DESCRIPTION TV7 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vod.tv7.fi/tv7-fi/mp4%3atv7-fi.stream_360p?PAZ_Chega_de_Guerras:TV7 Finlandia
+#DESCRIPTION TV7 Finlandia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-fi/_definst_/smil%3atv7-fi.smil/playlist.m3u8:TV7 HD
 #DESCRIPTION TV7 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvaktuellr.iptv-playoutcenter.de%3a1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8:TVA Ostbayern
@@ -1481,8 +1481,6 @@
 #DESCRIPTION TVA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pstv.krasmix.ru/tv/tvc/playlist.m3u8:TVC
 #DESCRIPTION TVC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvc.cdnvideo.ru/tvc-p212/smil%3atvc.smil/playlist.m3u8:TVC p212
-#DESCRIPTION TVC p212
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvfilopoli/tvfilopoli/playlist.m3u8:tvfilopoli
 #DESCRIPTION tvfilopoli
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.28.213.14%3a9981/stream/channelid/1402355728:TVI HD
@@ -1511,8 +1509,6 @@
 #DESCRIPTION TVR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT HD
 #DESCRIPTION TVT HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_2/chunklist_w1838022782.m3u8:TVTUR
-#DESCRIPTION TVTUR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it%3a80/veratv/veratv/playlist.m3u8:Vera TV
 #DESCRIPTION Vera TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms.shared.streamshow.it/videobrescia/mp4%3avideobrescia/live.m3u8:Video Brescia
@@ -1551,8 +1547,6 @@
 #DESCRIPTION Wow TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.elsalvadordigital.com%3a1935/wowtv/wowtv/playlist.m3u8:WOW TV
 #DESCRIPTION WOW TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/playlist.m3u8:Xite TV HD
-#DESCRIPTION Xite TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ss6.domint.net%3a1948/zol_str/vzol/playlist.m3u8:Xtremo channel
 #DESCRIPTION Xtremo channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8:YLE TV 2
@@ -1565,34 +1559,44 @@
 #DESCRIPTION 1 Ukraine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvod/1tvod-abr/playlist.m3u8:1TV Odessa
 #DESCRIPTION 1TV Odessa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.vsnw.net%3a8081/interradio/720i.m3u8:4 Kanal
-#DESCRIPTION 4 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.vsnw.net%3a8081/interradio/720i.m3u8:4 канал Украина HD
+#DESCRIPTION 4 канал Украина HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4:5 канал (Украина)
+#DESCRIPTION 5 канал (Украина)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn10.live-tv.od.ua%3a8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8:7 Kanal
 #DESCRIPTION 7 Kanal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-gtrkomsk.cdnvideo.ru/gtrkomsk/gtrkomsk.sdp/playlist.m3u8:12 канал (Омск) +3
 #DESCRIPTION 12 канал (Омск) +3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b1328800.m3u8:24 Kanal
-#DESCRIPTION 24 Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.120.29.10/hls/playlist.m3u8:33 Kanal
-#DESCRIPTION 33 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b1328800.m3u8:24 канал HD
+#DESCRIPTION 24 канал HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4:24 канал (Украина)
+#DESCRIPTION 24 канал (Украина)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.95.23.70%3a1937/live/efir:26 Регион HD (Ставрополь)
+#DESCRIPTION 26 Регион HD (Ставрополь)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4&amp;app=playlist:34 Kanal
 #DESCRIPTION 34 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8:34 канал (Днепр)
+#DESCRIPTION 34 канал (Днепр)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/43Kanal.stream/playlist.m3u8:43 канал HD (Туапсе)
+#DESCRIPTION 43 канал HD (Туапсе)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.190.88.34%3a1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8:47 канал
+#DESCRIPTION 47 канал
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.238.112.40%3a8810/hls_sec/239.33.16.32-.m3u8:100 News
 #DESCRIPTION 100 News
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//app.live.112.events/hls/112hd_mid/index.m3u8:112 Ukraine
-#DESCRIPTION 112 Ukraine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//now2.eaglecdn.com/stream_transcoded_720/360tv_360news_hi/index.m3u8:360 Новости HD
+#DESCRIPTION 360 Новости HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gtk.tv/hls/gtr.m3u8:360 Ярославль
+#DESCRIPTION 360 Ярославль
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8:Academy
 #DESCRIPTION Academy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamer.antenna.com.ua/hls/antenna.m3u8:Antenna Online
 #DESCRIPTION Antenna Online
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.atr.ua/atr/live/index.m3u8:ATR
 #DESCRIPTION ATR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8:Еко TV (Украина)
+#DESCRIPTION Еко TV (Украина)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8:Elektrika TV
 #DESCRIPTION Elektrika TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4:Espreso TV
-#DESCRIPTION Espreso TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8:HNNTC
-#DESCRIPTION HNNTC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8:IKS Sevastopol
 #DESCRIPTION IKS Sevastopol
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.5.108.14%3a1935/live/itv1/playlist.m3u8:ITV
@@ -1609,14 +1613,12 @@
 #DESCRIPTION Lale
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.103.120.140%3a10000/live.webm:Lugansk 24
 #DESCRIPTION Lugansk 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wow.stib.com.ua%3a1935/tv/ch1/playlist.m3u8:MostVideo TV HD (Украина)
+#DESCRIPTION MostVideo TV HD (Украина)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8:Music Box Gold
 #DESCRIPTION Music Box Gold
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//212.26.132.86/hls/mb_ua_2500.m3u8:Music Box UA
 #DESCRIPTION Music Box UA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dprtv.phoenix-dnr.ru/novorossia-tv:Novorossia TV
-#DESCRIPTION Novorossia TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.106.10/hls/nta_ua_hi/index.m3u8:NTA
-#DESCRIPTION NTA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/ntk/ntk.m3u8:NTK
 #DESCRIPTION NTK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8:NTS
@@ -1653,8 +1655,6 @@
 #DESCRIPTION TV8
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tvlux.sk%3a1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8:TV Lux
 #DESCRIPTION TV Lux
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8:TV Nitricka
-#DESCRIPTION TV Nitricka
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
 #DESCRIPTION TV Kujawy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.136.209.26%3a1935/liveedge/TVRHD.stream/playlist.m3u8:TVR HD
@@ -1671,6 +1671,12 @@
 #DESCRIPTION UA Перший
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/wave/wave-abr/playlist.m3u8:Yuzhnaja Volna
 #DESCRIPTION Yuzhnaja Volna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.45.135.158%3a1935/live/HrBroadcast/playlist.m3u8:Громадське TV (Украина) [FHD]
+#DESCRIPTION Громадське TV (Украина) [FHD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4:Espreso TV
+#DESCRIPTION Espreso TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8:Правда ТУТ HD (Украина)
+#DESCRIPTION Правда ТУТ HD (Украина)
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::__R U S S I A N__
 #DESCRIPTION __R U S S I A N__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar1.smil/chunklist_b1600000.m3u8:Russia 1
@@ -1679,12 +1685,14 @@
 #DESCRIPTION Russia 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1 HD
 #DESCRIPTION 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.40.108.218/7channel/index.m3u8:7 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/tracks-v1a1/index.m3u8:1HD Music TV
+#DESCRIPTION 1HD Music TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v1.proofix.ru/live-tv7/stream1/playlist.m3u8:7 TV
 #DESCRIPTION 7 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v1.proofix.ru/live-tv8/stream1/playlist.m3u8:8 Kanal
 #DESCRIPTION 8 Kanal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/43Kanal.stream/playlist.m3u8:43 Kanal
-#DESCRIPTION 43 Kanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/9volna/tracks-v1a1/index.m3u8:ACB TV (Черкесск)
+#DESCRIPTION ACB TV (Черкесск)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.afontovo.ru/afontovo.m3u8:Afontovo TV
 #DESCRIPTION Afontovo TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arigus-online.ru/files/playlist.m3u8:Arig US 24
@@ -1699,12 +1707,24 @@
 #DESCRIPTION Che 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.mediacdn.ru/sr1/grozny/playlist.m3u8:CGTRK Grozny
 #DESCRIPTION CGTRK Grozny
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cgtn.com/1000r/prog_index.m3u8:CGTN Русский
+#DESCRIPTION CGTN Русский
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.68.40.67/life/magnolia.m3u8:CP Info
 #DESCRIPTION CP Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.185.0.40%3a8080/sts/playlist.m3u8:СТС
+#DESCRIPTION СТС
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8:Discovery Science
 #DESCRIPTION Discovery Science
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsever.ru%3a1936/live/adm2/playlist.m3u8:Domashniy TV
 #DESCRIPTION Domashniy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.115.137.166/hls/ntvm.m3u8:НТВ Молдова
+#DESCRIPTION НТВ Молдова
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8:НТС (Севастополь)
+#DESCRIPTION НТС (Севастополь)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8:НТК Ингушетия
+#DESCRIPTION НТК Ингушетия
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-ntm13.cdnvideo.ru/ntm13/smil%3antm13.smil/chunklist_b3128000.m3u8:НТМ HD (Мордовия)
+#DESCRIPTION НТМ HD (Мордовия)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//206.190.141.27%3a1935/live/impact/playlist.m3u8:Impact
 #DESCRIPTION Impact
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8:Ingushetiya TV
@@ -1715,6 +1735,12 @@
 #DESCRIPTION K1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/Kaleidoskop_edge/index.m3u8:Kalejdoskop TV
 #DESCRIPTION Kalejdoskop TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8:Kazakh
+#DESCRIPTION Kazakh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtvru.ultraiptv.com/live_ru/playlist.m3u8:Kazakh TV (RU) +3
+#DESCRIPTION Kazakh TV (RU) +3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.193.71.93/Kino24LV/video.m3u8:Kino 24
+#DESCRIPTION Kino 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/konnyimir_edge/index.m3u8:Konnyj Mir
 #DESCRIPTION Konnyj Mir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8:Krasnaja Linija
@@ -1723,8 +1749,10 @@
 #DESCRIPTION Krasnodar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/kriktv_edge/index.m3u8:Krik TV
 #DESCRIPTION Krik TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8?fluxustv.m3u8:M1 Global
-#DESCRIPTION M1 Global
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8:Kronehit TV HD
+#DESCRIPTION Kronehit TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:Luxury TV
+#DESCRIPTION Luxury TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8:Mir TV
 #DESCRIPTION Mir TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8:Mir 4
@@ -1735,10 +1763,18 @@
 #DESCRIPTION Mir 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tvbelgorod.ru%3a8080/mirbelogorya/index.m3u8:Mir Belogorya
 #DESCRIPTION Mir Belogorya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.30.182.82%3a18092/hls/live.m3u8:MTV Mix (Уфа) +2
+#DESCRIPTION MTV Mix (Уфа) +2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8:Muzzone (KZ) +3
+#DESCRIPTION Muzzone (KZ) +3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/nano.m3u8:Nano TV
+#DESCRIPTION Nano TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.132.71.6/ru/nano/index.m3u8:Nano TV Rusia
 #DESCRIPTION Nano TV Rusia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8:Nastoyashcheye Vremya
 #DESCRIPTION Nastoyashcheye Vremya
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dprtv.phoenix-dnr.ru/novorossia-tv:Novorossia TV
+#DESCRIPTION Novorossia TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.studio360.tv/nw/nw_576p/playlist.m3u8:Novyj Mir
 #DESCRIPTION Novyj Mir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8:O2 TV HD
@@ -1755,6 +1791,8 @@
 #DESCRIPTION Smilik TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/strk.stream/playlist.m3u8:STRK
 #DESCRIPTION STRK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/tntmusic/tracks-v1a1/index.m3u8:ТНТ Music
+#DESCRIPTION ТНТ Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv21.inmurmansk.ru/full_stream.flv:TV 21 Murmanks
 #DESCRIPTION TV 21 Murmanks
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvcom.stream.intelema.ru/tvcom/studio/index.m3u8:Tivikom Uland Udje
@@ -1767,72 +1805,26 @@
 #DESCRIPTION Travel Adventure HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.mediacdn.ru/sr1/tro/playlist.m3u8:TRO Soyuz
 #DESCRIPTION TRO Soyuz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-ru/_definst_/smil%3atv7-ru.smil/playlist.m3u8:TV7 (RU)
+#DESCRIPTION TV7 (RU)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvc.cdnvideo.ru/tvc-p212/smil%3atvc.smil/playlist.m3u8:TVC p212
+#DESCRIPTION TVC p212
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/zvezda/index.m3u8:Zvezda
 #DESCRIPTION Zvezda
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/tracks-v1a1/index.m3u8:1HD Music TV
-#DESCRIPTION 1HD Music TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
-#DESCRIPTION 1Music Channel Hungary
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4:24 канал (Украина)
-#DESCRIPTION 24 канал (Украина)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streamvideol1.luxnet.ua/news24/smil%3anews24.stream.smil/chunklist_b1328800.m3u8:24 канал HD
-#DESCRIPTION 24 канал HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//109.95.23.70%3a1937/live/efir:26 Регион HD (Ставрополь)
-#DESCRIPTION 26 Регион HD (Ставрополь)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8:34 канал (Днепр)
-#DESCRIPTION 34 канал (Днепр)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//now2.eaglecdn.com/stream_transcoded_720/360tv_360news_hi/index.m3u8:360 Новости HD
-#DESCRIPTION 360 Новости HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gtk.tv/hls/gtr.m3u8:360 Ярославль
-#DESCRIPTION 360 Ярославль
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.vsnw.net%3a8081/interradio/720i.m3u8:4 канал Украина HD
-#DESCRIPTION 4 канал Украина HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/43Kanal.stream/playlist.m3u8:43 канал HD (Туапсе)
-#DESCRIPTION 43 канал HD (Туапсе)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//194.190.88.34%3a1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8:47 канал
-#DESCRIPTION 47 канал
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4:5 канал (Украина)
-#DESCRIPTION 5 канал (Украина)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v1.proofix.ru/live-tv7/stream1/playlist.m3u8:7 TV
-#DESCRIPTION 7 TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.40.108.218/7channel/index.m3u8:7 канал (KZ) +3
 #DESCRIPTION 7 канал (KZ) +3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//78.gcdn.co/streams/877_13/720n/index.m3u8:78 канал HD (С.-Петербург)
 #DESCRIPTION 78 канал HD (С.-Петербург)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8?fluxustv.m3u8:Kazakh
-#DESCRIPTION Kazakh
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v1.proofix.ru/live-tv8/stream1/playlist.m3u8:8 канал
 #DESCRIPTION 8 канал
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.65.18.213/perviy_molodeginyi_3100kb.m3u8:8 канал (Красноярский край) +
 #DESCRIPTION 8 канал (Красноярский край) +
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/9volna/tracks-v1a1/index.m3u8:ACB TV (Черкесск)
-#DESCRIPTION ACB TV (Черкесск)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8:Almaty TV (KZ) +3
 #DESCRIPTION Almaty TV (KZ) +3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/arirang_edge/tracks-v1a1/index.m3u8:Arirang TV (Korea)
 #DESCRIPTION Arirang TV (Korea)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8:Atameken TV (KZ) +3
 #DESCRIPTION Atameken TV (KZ) +3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.cgtn.com/1000r/prog_index.m3u8:CGTN Русский
-#DESCRIPTION CGTN Русский
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8:HIT TV (ESP)
-#DESCRIPTION HIT TV (ESP)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kazakhtvru.ultraiptv.com/live_ru/playlist.m3u8:Kazakh TV (RU) +3
-#DESCRIPTION Kazakh TV (RU) +3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//82.193.71.93/Kino24LV/video.m3u8:Kino 24
-#DESCRIPTION Kino 24
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8:Kronehit TV HD
-#DESCRIPTION Kronehit TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/luxury.m3u8:Luxury TV
-#DESCRIPTION Luxury TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wow.stib.com.ua%3a1935/tv/ch1/playlist.m3u8:MostVideo TV HD (Украина)
-#DESCRIPTION MostVideo TV HD (Украина)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.30.182.82%3a18092/hls/live.m3u8:MTV Mix (Уфа) +2
-#DESCRIPTION MTV Mix (Уфа) +2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8:Muzzone (KZ) +3
-#DESCRIPTION Muzzone (KZ) +3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nano.teleservice.su%3a8080/hls/nano.m3u8:Nano TV
-#DESCRIPTION Nano TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.api.rt.com/hls/rtdru.m3u8:RT Документальный HD
 #DESCRIPTION RT Документальный HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvgubernia-htlive.cdn.ngenix.net/live/mp4%3atv-gubernia-live/playlist.m3u8:TV Губерния (Воронеж)
@@ -1877,8 +1869,6 @@
 #DESCRIPTION Вся Уфа +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8:Горная Страна ТВ HD (Таштаго�
 #DESCRIPTION Горная Страна ТВ HD (Таштаго�
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//94.45.135.158%3a1935/live/HrBroadcast/playlist.m3u8:Громадське TV (Украина) [FHD]
-#DESCRIPTION Громадське TV (Украина) [FHD]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gubernia.online/hls/live.m3u8:Губерния (Хабаровск) +7
 #DESCRIPTION Губерния (Хабаровск) +7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8:Губерния 33 (Владимир)
@@ -1889,8 +1879,6 @@
 #DESCRIPTION Евпатория ТВ (Крым)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8:Евроновости
 #DESCRIPTION Евроновости
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8:Еко TV (Украина)
-#DESCRIPTION Еко TV (Украина)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//air.enisey.tv/enisey.m3u8:Енисей (Красноярск) +4
 #DESCRIPTION Енисей (Красноярск) +4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4:Еспресо TV (Украина)
@@ -1947,14 +1935,6 @@
 #DESCRIPTION Моя Планета
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8:МузСоюз
 #DESCRIPTION МузСоюз
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.115.137.166/hls/ntvm.m3u8:НТВ Молдова
-#DESCRIPTION НТВ Молдова
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8:НТК Ингушетия
-#DESCRIPTION НТК Ингушетия
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-ntm13.cdnvideo.ru/ntm13/smil%3antm13.smil/chunklist_b3128000.m3u8:НТМ HD (Мордовия)
-#DESCRIPTION НТМ HD (Мордовия)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8:НТС (Севастополь)
-#DESCRIPTION НТС (Севастополь)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.hope.ua/hopeua/live_1/playlist.m3u8:Надия
 #DESCRIPTION Надия
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8:Настоящее Время HD
@@ -1989,8 +1969,6 @@
 #DESCRIPTION Первый Музыкальный RU BY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:Первый Музыкальный RU BY [FHD]
 #DESCRIPTION Первый Музыкальный RU BY [FHD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8:Правда ТУТ HD (Украина)
-#DESCRIPTION Правда ТУТ HD (Украина)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_5/chunklist.m3u8:Премьера TV (Трейлеры)
 #DESCRIPTION Премьера TV (Трейлеры)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-10.bonus-tv.ru%3a80/prodvizhenie/tracks-v1a1/index.m3u8:Продвижение
@@ -2031,8 +2009,6 @@
 #DESCRIPTION СТВ (Беларусь)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//sochi-strk.ru%3a1936/strk/strk.stream/playlist.m3u8:СТРК HD (Сочи)
 #DESCRIPTION СТРК HD (Сочи)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//31.185.0.40%3a8080/sts/playlist.m3u8:СТС
-#DESCRIPTION СТС
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live2.mediacdn.ru/sr1/sever/playlist.m3u8:Север ТВ (Нарьян-Мар)
 #DESCRIPTION Север ТВ (Нарьян-Мар)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//89.107.113.89%3a1935/live/ktv2:Смайл ТВ/ТНТ4 +2
@@ -2059,8 +2035,6 @@
 #DESCRIPTION ТК Центр Красноярск HD +4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8:ТКР (Рязань)
 #DESCRIPTION ТКР (Рязань)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/tntmusic/tracks-v1a1/index.m3u8:ТНТ Music
-#DESCRIPTION ТНТ Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.trk-luch.ru/hls/live_mid.m3u8:ТРК Луч (Пуровск) +2
 #DESCRIPTION ТРК Луч (Пуровск) +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.efir24.tv%3a1935/live/efir24tv/playlist.m3u8:Татарстан 24
