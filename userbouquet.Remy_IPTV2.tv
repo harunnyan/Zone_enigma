@@ -15,128 +15,6 @@
 #DESCRIPTION ASTRO ARENA HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch004_400/index.m3u8:Türkmen Sport
 #DESCRIPTION Türkmen Sport
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/1/index.m3u8:BEIN SPORTS 1
-#DESCRIPTION BEIN SPORTS 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/2/index.m3u8:BEIN SPORTS 2
-#DESCRIPTION BEIN SPORTS 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/3/index.m3u8:BEIN SPORTS 3
-#DESCRIPTION BEIN SPORTS 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/4/index.m3u8:BEIN SPORTS 4
-#DESCRIPTION BEIN SPORTS 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/5/index.m3u8:BEIN SPORTS 5
-#DESCRIPTION BEIN SPORTS 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/6/index.m3u8:BEIN SPORTS 6
-#DESCRIPTION BEIN SPORTS 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/7/index.m3u8:BEIN SPORTS 7
-#DESCRIPTION BEIN SPORTS 7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/8/index.m3u8:BEIN SPORTS 8
-#DESCRIPTION BEIN SPORTS 8
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/9/index.m3u8:BEIN SPORTS 9
-#DESCRIPTION BEIN SPORTS 9
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/10/index.m3u8:BEIN SPORTS 10
-#DESCRIPTION BEIN SPORTS 10
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/11/index.m3u8:BEIN SPORTS 11
-#DESCRIPTION BEIN SPORTS 11
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.15.6.67/bein/12/index.m3u8:BEIN SPORTS 12
-#DESCRIPTION BEIN SPORTS 12
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/2.ts:beIN Sports 1 HD (AR)
-#DESCRIPTION beIN Sports 1 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/3.ts:beIN Sports 2 HD (AR)
-#DESCRIPTION beIN Sports 2 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/4.ts:beIN Sports 3 HD (AR)
-#DESCRIPTION beIN Sports 3 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/5.ts:beIN Sports 4 HD (AR)
-#DESCRIPTION beIN Sports 4 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/6.ts:beIN Sports 5 HD (AR)
-#DESCRIPTION beIN Sports 5 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/7.ts:beIN Sports 6 HD (AR)
-#DESCRIPTION beIN Sports 6 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/8.ts:beIN Sports 7 HD (AR)
-#DESCRIPTION beIN Sports 7 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/9.ts:beIN Sports 8 HD (AR)
-#DESCRIPTION beIN Sports 8 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/10.ts:beIN Sports 9 HD (AR)
-#DESCRIPTION beIN Sports 9 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/20.ts:beIN Sports 1 HD (FR)
-#DESCRIPTION beIN Sports 1 HD (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/21.ts:beIN Sports 2 HD (FR)
-#DESCRIPTION beIN Sports 2 HD (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/22.ts:beIN Sports 3 HD (FR)
-#DESCRIPTION beIN Sports 3 HD (FR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/23.ts:beIN Sports HD (ES)
-#DESCRIPTION beIN Sports HD (ES)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/24.ts:beIN Sports USA HD (US)
-#DESCRIPTION beIN Sports USA HD (US)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/25.ts:Turkish beIN Sports 1 (TR)
-#DESCRIPTION Turkish beIN Sports 1 (TR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/26.ts:OSN AD Sports 1 HD (AR)
-#DESCRIPTION OSN AD Sports 1 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/27.ts:OSN AD Sports 2 HD (AR)
-#DESCRIPTION OSN AD Sports 2 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/1.ts:Supersport 1 (SR)
-#DESCRIPTION Supersport 1 (SR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/49.ts:Supersport 2 (SR)
-#DESCRIPTION Supersport 2 (SR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/11.ts:BAHRAIN SPORTS  (AR)
-#DESCRIPTION BAHRAIN SPORTS  (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/13.ts:Dubai Sports (AR)
-#DESCRIPTION Dubai Sports (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/19.ts:FOX SPORTS 1 (NL)
-#DESCRIPTION FOX SPORTS 1 (NL)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/12.ts:Real Madrid TV
-#DESCRIPTION Real Madrid TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/15.ts:TRT SPOR HD
-#DESCRIPTION TRT SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/18.ts:XSPORT (UA)
-#DESCRIPTION XSPORT (UA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/14.ts:A SPOR HD
-#DESCRIPTION A SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/17.ts:BBC (AR)
-#DESCRIPTION BBC (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/16.ts:Rai Movie
-#DESCRIPTION Rai Movie
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/40.ts:Quest Arabiya HD (AR)
-#DESCRIPTION Quest Arabiya HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/39.ts:OSN WWE HD (AR)
-#DESCRIPTION OSN WWE HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/46.ts:OSN Movies Kids HD (AR)
-#DESCRIPTION OSN Movies Kids HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/44.ts:OSN Movies HD (AR)
-#DESCRIPTION OSN Movies HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/42.ts:OSN Movies Action HD (AR)
-#DESCRIPTION OSN Movies Action HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/43.ts:OSN Movies Action  2 (AR)
-#DESCRIPTION OSN Movies Action  2 (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/45.ts:OSN Movies  2h (AR)
-#DESCRIPTION OSN Movies  2h (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/38.ts:OSN Fox Movies HD (AR)
-#DESCRIPTION OSN Fox Movies HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/48.ts:OSN BOX OFFICE 2 HD (AR)
-#DESCRIPTION OSN BOX OFFICE 2 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/47.ts:OSN Box Office 1 HD (AR)
-#DESCRIPTION OSN Box Office 1 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/29.ts:MBC1 (AR)
-#DESCRIPTION MBC1 (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/33.ts:MBC MAX (AR)
-#DESCRIPTION MBC MAX (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/28.ts:MBC MASR (AR)
-#DESCRIPTION MBC MASR (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/32.ts:MBC Action (AR)
-#DESCRIPTION MBC Action (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/31.ts:MBC 4 (AR)
-#DESCRIPTION MBC 4 (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/30.ts:MBC 2 (AR)
-#DESCRIPTION MBC 2 (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/41.ts:Fox Tv HD 1080 (BG)
-#DESCRIPTION Fox Tv HD 1080 (BG)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/37.ts:BEIN MOVIES 4 HD (AR)
-#DESCRIPTION BEIN MOVIES 4 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/36.ts:BEIN MOVIES 3 HD (AR)
-#DESCRIPTION BEIN MOVIES 3 HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/35.ts:BEIN MOVIES 2HD (AR)
-#DESCRIPTION BEIN MOVIES 2HD (AR)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//68.183.29.174%3a8000/live/64czHd0Hdn/freeiptvdaily.tv/34.ts:BEIN MOVIES 1HD (AR)
-#DESCRIPTION BEIN MOVIES 1HD (AR)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1:AD Sports 1 HD
 #DESCRIPTION AD Sports 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2:AD Sports 2 HD
@@ -281,6 +159,8 @@
 #DESCRIPTION FRANCE 24 EN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8:FRANCE 24 FR
 #DESCRIPTION FRANCE 24 FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8:TV5 MONDE
+#DESCRIPTION TV5 MONDE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8:NHK World
 #DESCRIPTION NHK World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8:nhk world
@@ -1581,8 +1461,6 @@
 #DESCRIPTION TV3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.221.3/tv38-live/_definst_/mp4%3alivestream/playlist.m3u8:TV38
 #DESCRIPTION TV38
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8:TV5 MONDE
-#DESCRIPTION TV5 MONDE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8:TV5 MONDE
 #DESCRIPTION TV5 MONDE
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vod.tv7.fi%3a1935/tv7-ee/_definst_/smil%3atv7-ee.smil/playlist.m3u8:TV7 (EST)
