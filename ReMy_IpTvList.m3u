@@ -167,12 +167,126 @@ http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 http://bglive-a.bitgravity.com/ndtv/247hi/live/native
 #EXTINF:-1 group-title="****((ULUSAL))****",RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
+#EXTINF:0 group-title=”ULUSAL”,KANAL D (1)
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+#EXTINF:0 group-title=”ULUSAL”,KANAL D (2)
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0 group-title=”ULUSAL”,KANAL D (3)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:0 group-title=”ULUSAL”,KANAL D (4)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0 group-title=”ULUSAL”,STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title=”ULUSAL”,EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 group-title=”ULUSAL”,SHOW TV
+http://213.115.236.34:25461/live/esh-line/C4uXa1qCQ4A1/34.m3u8
+#EXTINF:0 group-title=”ULUSAL”,SHOW TURK
+http://mn-l.mncdn.com/showturktv/showturktv2/ip.m3u8
+#EXTINF:0 group-title=”ULUSAL”,UCAN KUS TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:0 group-title=”ULUSAL”,ATV (1)
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:0 group-title=”ULUSAL”,ATV (2)
+http://31.177.62.134:8003/play/s15
+#EXTINF:0 group-title=”ULUSAL”,360 TV
+https://stream-10.ix7.dailymotion.com/dm/3/x648uq8/live-3.m3u8
+#EXTINF:0 group-title=”ULUSAL”,FLASH TV
+http://98.142.98.125:1935/flashtv/flashtvmob/chunklist.m3u8
+#EXTINF:0 group-title=”ULUSAL”,TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+#EXTINF:0 group-title=”ULUSAL”,TLC
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 group-title=”ULUSAL”,TEVE 2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:0 group-title=”ULUSAL”,D MAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:0 group-title=”ULUSAL”,SHOW MAX
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
+#EXTINF:0 group-title=”ULUSAL”,TRT BELGESEL (1)
+https://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_700_av-p.m3u8
+#EXTINF:0 group-title=”ULUSAL”,TRT BELGESEL (2)
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0 group-title=”ULUSAL”,TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0 group-title=”ULUSAL”,BEYAZ TV HD
+https://stream-15.dc3.dailymotion.com/dm/3/x4kopfq/live-4.m3u8
+#EXTINF:0 group-title=”ULUSAL”,BEYAZ TV SD
+https://stream-15.dc3.dailymotion.com/dm/3/x4kopfq/live-2.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",TELE 1 HD
+https://stream-13.dc3.dailymotion.com/dm/3/x6uoseg/live-3.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",TELE 1 SD
+https://stream-13.dc3.dailymotion.com/dm/3/x6uoseg/live-2.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",CNN TURK HD (1)
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",CNN TURK HD (2)
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",CNN TURK HD (3)
+http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",CNN TURK SD
+https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",HABER TURK
+http://213.115.236.34:25461/live/esh-line/C4uXa1qCQ4A1/27.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",HABER GLOBAL
+http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",TRT HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",BLOOMBERG HT
+http://213.115.236.34:25461/live/esh-line/C4uXa1qCQ4A1/21.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",TGRT HABER
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",A HABER (1)
+http://31.177.62.134:8003/play/s16
+#EXTINF:-1 group-title="****((ULUSAL))****",A HABER (2)
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",24 TV HD
+https://stream-08.dc3.dailymotion.com/dm/3/x648u9s/live-3.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",24 TV SD
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",ULUSAL KANAL HD
+https://stream-07.ix7.dailymotion.com/dm/3/x6c7r09/live-3.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",ULUSAL KANAL SD (1)
+https://stream-07.ix7.dailymotion.com/dm/3/x6c7r09/live-2.m3u8
+#EXTINF:-1 group-title="****((ULUSAL))****",ULUSAL KANAL SD (2)
+http://98.142.98.125:1935/ulusaltv/ulusaltv_aac/playlist.m3u8
 #EXTINF:-1,****((ReMy_SPORT))****
 ****((ReMy_SPORT))****
 #EXTINF:-1 group-title="****((ReMy_SPORT))****",Look TV HD
 http://193.239.252.15/live/hls/stream1_q2/index.m3u8
 #EXTINF:-1 group-title="****((ReMy_SPORT))****",LookPlus
 http://telekomtv.ro.edgesuite.net/shls/LIVE$LookPlus/12.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",1SPOR1 TV HD
+http://87.98.162.77:8000/tr1
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",TRT SPOR HD
+https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",TRT SPOR SD
+https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",A SPOR HD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",A SPOR SD
+http://31.177.62.134:8003/play/s17
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",Bein Sports1 HD
+http://meritkolik.tv/dd3_200.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",Bein Sports2 HD
+http://meritkolik.tv/dd3_201.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",Bein Sports3 HD
+http://meritkolik.tv/dd3_202.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",FB TV HD
+https://stream-09.ix7.dailymotion.com/dm/3/x21oo10/live-3.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",FB TV SD
+https://stream-05.ix7.dailymotion.com/dm/3/x21oo10/live-2.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",BJK TV HD
+https://stream-15.dc3.dailymotion.com/dm/3/x31omum/live-3.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",BJK TV SD
+https://stream-15.dc3.dailymotion.com/dm/3/x31omum/live-2.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",GS TV HD
+https://stream-10.ix7.dailymotion.com/dm/3/xne3bf/live-3.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",GS TV SD
+https://stream-01.dc3.dailymotion.com/dm/3/xne3bf/live-2.m3u8
+#EXTINF:-1 group-title="****((ReMy_SPORT))****",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
 #EXTINF:-1 group-title="****((ReMy_SPORT))****",Bein Sports1 HD
 http://87.98.162.77:8090/playlist
 #EXTINF:-1 group-title="****((ReMy_SPORT))****",TRT Spor HD
