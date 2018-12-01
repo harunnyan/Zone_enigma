@@ -1,3 +1,120 @@
+C: free.cccamfree.tv 60000 s3tp cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 ztyq cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 xpv3 cccamfree.tv # v2.0.11-2892
+C: b3.vipmgcamd.com 2004 tfk386 345571 # v2.0.11-2892
+C: aex1vipi.cserver.tv 1003 qul3a5xf 5ndhj0uj # v2.1.1-2971
+C: allcable.dremmer.com 12050 Erikkantera022 087412 # v2.0.11-2892
+C: proart99.now-dns.org 51706 moreg 11112015 # v2.1.4-3191
+C: rs92.fcnoip.org 27102 rs91854 0114070 # v2.3.0-3367
+C: 213.152.164.153 27102 rs91854 0114070 # v2.3.0-3367
+C: rs111.fcnoip.org 30101 rs111014 8579642 # v2.3.0-3367
+C: 144.76.192.99 10001 s1043 5521360 # v2.3.0-3367
+C: 1.tvsnake.com 22500 J4vgwh p9v3qm # v2.1.4-2892
+C: w2.fcnoip.org 15002 w0168 2779000 # v2.3.0-3367
+C: 1.tvsnake.com 22800 RNL3GJ bJcTBD # v2.1.4-2892
+C: z2.fcnoip.org 23002 z1310 2102121 # v2.3.0-3367
+C: r1.fcnoip.org 12101 r1472 1111200 # v2.3.0-3367
+C: rs91.fcnoip.org 27101 rs91854 0114070 # v2.3.0-3367
+C: rs112.fcnoip.org 30102 rs111014 8579642 # v2.3.0-3367
+C: b3.vipmgcamd.com 2002 ABDTFK204 ENQDG5ZZH # v2.0.11-2892
+C: z1.fcnoip.org 23001 z1310 2102121 # v2.3.0-3367
+C: speedserver.myftp.ws 11000 speedcccam219 R6598X # v2.0.11-2892
+C: Z1.fcnoip.org 23001 z1310 2102121 # v2.3.0-3367
+C: 37.187.255.91 1003 00 00 # v2.1.1-2971
+C: w1.fcnoip.org 15101 w1595 0334688 # v2.3.0-3367
+C: b3.vipmgcamd.com 2002 ABDTFK259 6UJRSBFF4 # v2.0.11-2892
+C: bestcccamtv.sbs1.pw 13000 giuseppenew1 06201813 # v2.0.11-2892
+C: b3.vipmgcamd.com 2002 ABDTFK257 PVTAWPMB9 # v2.0.11-2892
+C: b3.vipmgcamd.com 2002 ABDTFK249 3QCWDDPKA # v2.0.11-2892
+C: 5.189.147.211 2002 ABDTFK230 3WZABQFCW # v2.0.11-2892
+C: 5.189.147.211 2002 ABDTFK214 MSUJUTVKA # v2.0.11-2892
+C: zes2.tjurk.com 28900 evertkamer kamerevert # v2.0.11-2892
+C: zes1.tjurk.com 28900 evertkamer kamerevert # v2.0.11-2892
+C: 0x05BD93D3 2002 ABDTFK217 UXNCESE9C # v2.0.11-2892
+C: s.smart-man1.com 12000 sv46 32212 # v2.0.11-2892
+C: 1.tvsnake.com 22300 hCXfLm 9bP82L # v2.1.4-2892
+C: b3.vipmgcamd.com 2004 tfk442 342719 # v2.0.11-2892
+C: b3.vipmgcamd.com 2004 tfk387 823032 # v2.0.11-2892
+C: B3.vipmgcamd.com 2002 ABDTFK261 3QCWDDPKA # v2.0.11-2892
+C: r2.fcnoip.org 12102 r1638 8752367 # v2.3.0-3367
+C: r1.fcnoip.org 12101 r1304 7882698 # v2.3.0-3367
+C: 144.76.192.115 27101 rs91300 0021033 # v2.3.0-3367
+C: s1.fcnoip.org 24000 s0988 6846555 # v2.3.0-3367
+C: b3.vipmgcamd.com 2004 ABDTFK371 3459565 # v2.0.11-2892
+C: r1.fcnoip.org 12101 r1638 8752367 # v2.3.0-3367
+C: rs92.fcnoip.org 27102 rs91351 9957000 # v2.3.0-3367
+C: w1.fcnoip.org 15101 w2405 9876545 # v2.3.0-3367
+C: r2.fcnoip.org 12002 r1304 7882698 # v2.3.0-3367
+C: ala7bab2.tk 13000 x3f1utu6 masrawysat # v2.0.11-2892
+C: 62.210.53.65 29000 ujhygtbvl4 www.iptv4sat.org # v2.0.11-2892
+C: 62.210.53.65 29000 ujhygtbvl3 www.iptv4sat.org # v2.0.11-2892
+C: 62.210.53.65 29000 ujhygtbvl6 www.iptv4sat.org # v2.0.11-2892
+C: cccam.algsat.com 18000 105.110.91.94 algsat.com # v2.0.11-2892
+C: s2.cccam-free.com 11000 2umvt8 cccam-free.com # v2.0.11-2892
+C: s2.cccam-free.com 11200 ir03mz cccam-free.com # v2.0.11-2892
+C: s2.cccam-free.com 11200 h3thzt cccam-free.com # v2.0.11-2892
+C: free.cccamfree.tv 60000 wbnd cccamfree.tv # v2.0.11-2892
+N: freecccamdz.com 15011 d7e1gae0 freecccamdz 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: premiumo2.spdns.eu 24000 afdxrn mampbb # v2.0.11-2892
+C: 173.212.221.202 11000 fa34 474544 # v2.0.11-2892
+C: 173.212.221.202 11000 fa93 644704 # v2.0.11-2892
+C: 173.212.221.202 11000 fa106 623698 # v2.0.11-2892
+C: 173.212.221.202 11000 fa113 652204 # v2.0.11-2892
+C: free.cccamgenerators.com 10000 aoahpe cccamgenerators.com # v2.0.11-2892
+C: ala7bab2.tk 13000 7r6vt5y9 masrawysat # v2.0.11-2892
+C: free.cccamfree.tv 60000 6yzk cccamfree.tv # v2.0.11-2892
+N: iexufoh3.cserver.tv 3010 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:0,7001,7101
+N: s8.torbrand.tv 700 giclub222111 04122008 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:
+N: test.tvsharing.biz 7001 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:40600
+N: 3d2b2cye.spybox.info 3048 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d95:0,4
+N: test.tvsharing.biz 7008 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1803:
+N: 3d2b2cye.spybox.info 3003 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0652:0,1,2
+N: test.tvsharing.biz 7018 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa:
+N: test.tvsharing.biz 7005 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 093e:
+C: bemhd.dyndns.org 12000 oolgun oolgun # v2.0.11-2892
+C: s2.cccam-free.com 11200 gnac8t cccam-free.com # v2.0.11-2892
+C: s2.cccam-free.com 11300 h6dr9x cccam-free.com # v2.0.11-2892
+C: s2.cccam-free.com 11300 aeea25 cccam-free.com # v2.0.11-2892
+C: allcable.dremmer.com 12050 Erikkantera022 786436 # v2.0.11-2892
+C: 37.187.255.91 1003 74 56 # v2.1.1-2971
+C: 37.187.255.91 1003 77 77 # v2.1.1-2971
+C: 164.132.180.181 12004 hibrose01 rgx5m3drb # v2.0.11-2892
+C: a.footballfun.info 13333 shears1 shaers1room # v2.0.11-2892
+C: homeserver2.dnsfor.me 10666 haverkampamsterdam3 pass123 # v2.0.11-2892
+C: 37.187.255.91 1003 110 110 # v2.1.1-2971
+C: r1.fcnoip.org 12101 r1785 9852240 # v2.3.0-3367
+C: 1.tvsnake.com 22400 j3WDmy Fj9JbQ # v2.1.4-2892
+C: 213.152.164.153 27102 rs91850 0514073 # v2.3.0-3367
+C: w2.fcnoip.org 15102 w1593 8846330 # v2.3.0-3367
+C: 5.189.147.211 2002 ABDTFK261 3QCWDDPKA # v2.0.11-2892
+C: 1.tvsnake.com 22400 yrvJf4 bfQLFz # v2.1.4-2892
+C: 1.tvsnake.com 22400 qtdwHr dYjg7J # v2.1.4-2892
+C: 54.38.211.183 25000 satlastnews iran # v2.1.1-2971
+C: 178.32.89.251 1003 zargacum.center update # v2.1.1-2971
+C: 80.211.55.20 11111 dead4man star7 # v2.1.1-2971
+C: 46.4.156.115 13333 shears1 shaers1room # v2.0.11-2892
+C: 1.cccam2.com 20000 KArCEp1 cccam2.com # v2.1.3-3165
+N: 178.32.9.64 718 toshkent54 0123456789 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:
+C: www.topcamd.com 21100 hwdxqp8 topcamd # v2.0.11-2892
+C: free.cccamgenerators.com 10000 aequlx cccamgenerators.com # v2.0.11-2892
+C: www.topcamd.com 22000 hxq5e0x topcamd # v2.0.11-2892
+C: 5.104.106.140 37000 peter oki # v2.0.11-2892
+C: 37.187.172.228 1003 qul3a5xf 5ndhj0uj # v2.1.1-2971
+C: chzhbsqt.spyip.net 1003 21396nmp 2yl1r1nt # v2.1.1-2971
+C: s2.fcnoip.org 10002 s1043 5521360 # v2.3.0-3367
+C: rs102.fcnoip.org 29102 rs101694 5501399 # v2.3.0-3367
+C: rs102.fcnoip.org 29002 rs10446 5573921 # v2.3.0-3367
+C: w1.fcnoip.org 15101 w1593 0334688 # v2.3.0-3367
+C: france.ztvnl.com 10001 khaledmr41 260215mr41 # v2.0.11-2892
+C: r2.fcnoip.org 12002 r1702 0125778 # v2.3.0-3367
+C: france.ztvnl.com 10001 khaledmr28 260215mr28 # v2.0.11-2892
+C: pays.nopay0.com 20000 appe118 11144 # v2.0.11-2892
+C: magicbox2017.com 30000 UgY8jXwr85b8g-814 8Ae65ys83E99u # v2.1.4-2892
+C: free.cccamfree.tv 60000 5ve9 cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 0hpc cccamfree.tv # v2.0.11-2892
+C: free.cccamgenerators.com 10000 ctwnov cccamgenerators.com # v2.0.11-2892
+C: 5.189.147.211 2002 ABDTFK263 QFQ3QHRV5 # v2.0.11-2892 
+
 C: free.cccamgenerators.com 10000 we2wda cccamgenerators.com # v2.0.11-2892
 C: free.cccamgenerators.com 10000 ikc6or cccamgenerators.com # v2.0.11-2892
 C: free.cccamgenerators.com 10000 5f95j1 cccamgenerators.com # v2.0.11-2892
