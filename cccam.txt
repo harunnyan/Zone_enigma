@@ -1,3 +1,31 @@
+C: lino-server-cccam.ddns.me 12000 S6F0L19CDE 4JE85ABDCQ # v2.1.3-3165
+C: ala7bab2.tk 13000 s675wmyk masrawysat # v2.0.11-2892
+N: cccamfree-kanasa.com 5000 mohe boge 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: www.topcamd.com 22000 htjzit2 topcamd # v2.0.11-2892
+C: www.topcamd.com 21100 6c8oo6o topcamd # v2.0.11-2892
+C: trial3.freecamtv.com 18000 g0uapn freecamtv # v2.0.11-2892
+C: trial4.freecamtv.com 19200 qa49ch freecamtv # v2.0.11-2892
+C: bestcccamtv.sbs1.pw 13000 giuseppenew1 06201813 # v2.0.11-2892
+C: free.cccamious.com 11100 s7d67xw cccamious.com # v2.0.11-2892
+C: free.cccamious.com 11100 34bvng0 cccamious.com # v2.0.11-2892
+C: free.cccamfree.tv 60000 3hec cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 8kd1 cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 wydn cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 ipgj cccamfree.tv # v2.0.11-2892
+C: allcable.dremmer.com 12050 Erikkantera022 786436 # v2.0.11-2892
+C: a.footballfun.info 13333 shears1 shaers1room # v2.0.11-2892
+C: homeserver2.dnsfor.me 10666 haverkampamsterdam3 pass123 # v2.0.11-2892
+C: 37.247.54.232 12500 nicutalia test # v2.0.11-2892
+C: magicbox2017.com 30000 UgY8jXwr85b8g-814 8Ae65ys83E99u # v2.1.4-2892
+C: b3.vipmgcamd.com 2002 ABDTFK257 PVTAWPMB9 # v2.0.11-2892
+C: b3.vipmgcamd.com 2002 ABDTFK214 MSUJUTVKA # v2.0.11-2892
+C: free.cccamgenerators.com 10000 lszz8 cccamgenerators.com # v2.0.11-2892
+C: free.cccamgenerators.com 10000 il52t cccamgenerators.com # v2.0.11-2892
+C: bemhd.dyndns.org 12000 oolgun oolgun # v2.0.11-2892
+C: 212.24.106.245 450 340462 zy8246 # v2.0.11-2892
+C: free.cccamious.com 11100 ti72lwj cccamious.com # v2.0.11-2892
+C: free.cccamfree.tv 60000 wbvw cccamfree.tv # v2.0.11-2892 
+
 C: addserver.spdns.org 12555 wt992 cccamlive # v2.0.11-2892
 C: hunter-softcam.live 50000 huntname113 jazair2382 # v2.0.11-2892
 C: free-boss-cccam.dns.navy 22010 14Be0Zp64 Www.BoSS-Cccam.coM # v2.1.3-3165
