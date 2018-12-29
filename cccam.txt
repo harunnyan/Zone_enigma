@@ -1,3 +1,27 @@
+C: dscam.biz 52000 R81H432HQ1 B95KKGNJM9 # v2.1.3-3165
+C: gateway1-cab.oecccam.net 11491 T-368n9s8T mZMxHstMrG # v2.0.11-2892
+C: free.cccamious.com 11100 y80i cccamious.com # v2.0.11-2892
+C: 217.117.29.86 18000 kmedia chanviv # v2.3.0-3367
+C: 217.117.29.86 19000 kmedia chanviv # v2.1.1-2971
+C: free.cccamfree.tv 60000 tytat cccamfree.tv # v2.0.11-2892
+C: gateway4.oecccam.net 11391 T-368n9s8T mZMxHstMrG # v2.1.1-2971
+C: free.cccamgenerators.com 10000 b9eqoo cccamgenerators.com # v2.0.11-2892
+C: free.cccamious.com 11100 nh8s cccamious.com # v2.0.11-2892
+C: free.cccamfree.tv 60000 py8ro cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 nhjmx cccamfree.tv # v2.0.11-2892
+C: s3.cccam48h.com 1500 8pu7d cccambird # v2.0.11-2892
+N: gateway4.oecccam.net 21391 T-368n9s8T mZMxHstMrG 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: boxclient1.justcccam.info 14000 CCCAMBOX843 ZKG63gtb # v2.0.11-2892
+C: boxclient1.justcccam.info 14000 CCCAMBOX503 FNZ62ozn # v2.0.11-2892
+C: chzhbsqt.spyip.net 1003 21396nmp 2yl1r1nt # v2.1.1-2971
+C: serv1.servercs.biz 12100 alonzo1977 nastroje # v2.0.11-2892
+C: 178.32.89.249 1003 4455 1111 # v2.1.1-2971
+N: gateway1-cab.oecccam.net 21491 T-368n9s8T mZMxHstMrG 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+N: gateway2.oecccam.net 21391 T-368n9s8T mZMxHstMrG 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0
+C: s2.cccam-free.com 11400 0lqt86 cccam-free.com # v2.0.11-2892
+C: dali4server.myddns.me 33000 malik1990 19901958 # v2.0.11-2892
+C: tvgator2.spdns.org 12555 lw885 hiberlo.com # v2.0.11-2892 
+
 C: formating.dyndns.biz 14321 carp cpe1892 # v2.0.11-2892
 C: magicbox2017.com 30000 3d598KCw6qR5U-632 8fjzEugY8jXwr # v2.1.4-2892
 C: cccam.publicvm.com 28000 ar7py5l1 freeadf # v2.0.11-2892
