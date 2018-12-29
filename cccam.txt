@@ -1,3 +1,62 @@
+C: free-boss-cccam.dns.navy 22010 Am844T0725 BOSs-cCCam.CoM # v2.1.3-3165
+C: algsat.ddns.net 18000 197.43.65.142 algsat.com # v2.0.11-2892
+N: 46.105.235.183 2001 3cyq7ha3 uorxzkeh 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:24f00,41200,41700,32830,32500,43800,42700,32000,42800,42810,42200,42400,23800,42300
+N: 46.105.235.181 3015 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f
+N: iexufoh3.cserver.tv 3054 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0100:6c
+N: 3d2b2cye.spybox.info 3016 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0628:0,1
+N: 3d2b2cye.spybox.info 3040 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4aee:0
+N: 193.70.66.6 702 ssss111 ssss444 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:
+N: 193.70.66.6 700 ssss111 ssss444 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:
+N: iexufoh3.cserver.tv 3022 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d00:0,c0
+N: iexufoh3.cserver.tv 3001 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:60c00,50c00,60a00
+N: iexufoh3.cserver.tv 3042 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d03:0,4,8,24,28
+N: 3d2b2cye.spybox.info 3015 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0604:0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f
+N: iexufoh3.cserver.tv 3035 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b01:0
+N: 46.105.235.181 3011 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 1833:0
+N: 46.105.235.181 3016 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0628:0,1
+C: s2.fcnoip.org 10002 s1043 5521360 # v2.3.0-3367
+N: 46.105.235.181 3014 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d02:0,a0,a4,a8
+C: r1.fcnoip.org 12101 r1785 9852240 # v2.3.0-3367
+N: 46.105.235.181 3021 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0603:0,1,2
+N: 46.105.235.181 3037 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b0f:0
+N: iexufoh3.cserver.tv 3040 zargacum.center update 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 4aee:0
+C: z1.fcnoip.org 23001 z1310 2102121 # v2.3.0-3367
+C: rs102.fcnoip.org 29102 rs101694 5501399 # v2.3.0-3367
+C: rs91.fcnoip.org 27101 rs91300 0021033 # v2.3.0-3367
+C: lexus2.nodns.me 44022 lexus468 jazair744118 # v2.0.11-2892
+C: frs.cccamfreeserver.com 28000 jj2cr cccamfreeserver.com # v2.0.11-2892
+C: frs.cccamfreeserver.com 28000 mpht8 cccamfreeserver.com # v2.0.11-2892
+C: free.excccam.com 29000 elt7ys excccam.com # v2.0.11-2892
+C: free.cccam.ch 40000 4wygsm cccam.ch # v2.0.11-2892
+C: cccam-deutschtest.dynv6.net 12012 5W7A691587 995Bw3a7N2 # v2.1.3-3165
+C: cccam-deutschtest.dynv6.net 12012 G81ner2878 9585S609Z3 # v2.1.3-3165
+C: cccam-deutschtest.dynv6.net 12012 58B47IzML8 VDz14b07J0 # v2.1.3-3165
+C: cccam-deutschtest.dynv6.net 12012 94xr3Mm624 ZQ6t434SNN # v2.1.3-3165
+C: cccamgate.dns.army 10010 99888Ff629UY0 SJ699YsrGN6Qt # v2.1.3-3165
+C: cccamgate.dns.army 10010 T16q8u25714E6 PHB066r91ko8J # v2.1.3-3165
+C: cccamgate.dns.army 10010 Z322oC1ww992l 14jA9d2P2C7Ez # v2.1.3-3165
+C: cccamgate.dns.army 10010 444aa285pT7nE 255TnN0Idlo7B # v2.1.3-3165
+C: cccamgate.dns.army 10010 CZ03B97I9T843 90v2g141N2255 # v2.1.3-3165
+C: cccamgate.dns.army 10010 Bfo0qWU5yTsn0 QR5c5W03duh45 # v2.1.3-3165
+C: s1.cccam48h.com 13300 u2mvmmn cccambird # v2.0.11-2892
+C: www.topcamd.com 21100 ckd7wji topcamd # v2.0.11-2892
+C: gateway4.oecccam.net 11391 T-aQuuPgwX SvEUqGBTj5 # v2.1.1-2971
+C: bigcccam.org 31500 69360AQBSZ 98G03MBE4I # v2.0.11-2892
+C: cccamfree-kanasa.com 10000 samisat7 04051981 # v2.3.0-3367
+C: hdpak.net 18000 dreamecq cs # v2.0.11-2892
+C: s1.dvbs1.ga 21100 FREE9 www.dvbs1.ga # v2.1.1-2971
+C: www.topcamd.com 21100 f82c49a topcamd # v2.0.11-2892
+C: r2.fcnoip.org 12102 r1702 0125778 # v2.3.0-3367
+C: server2.bluecamd.com 16000 dh5d8r bluecamd # v2.0.11-2892
+C: cccamfree-kanasa.com 10000 bibi kika # v2.3.0-3367
+C: s2.cccam-free.com 11000 cuycan cccam-free.com # v2.0.11-2892
+C: hunter-softcam.live 50002 huntname109 AlgCam7276 # v2.0.11-2892
+C: skypk.tk 21000 VQNOU5DE4C O86UQERLV6 # v2.0.11-2892
+C: 5.135.15.168 10004 khaledmupc76 khaledmupc76g # v2.0.11-2892
+C: s2.cccam-free.com 11400 5dfx8y cccam-free.com # v2.0.11-2892
+C: giratortv.dyndns.org 17883 horst hXoV0cmqbpGa9pb8 # v2.3.0-3367
+C: vps575010.ovh.net 12003 sat1240 32132 # v2.3.0-3367
+C: mrsharing.net 43 mrsharing.com22491 oiuyt67103 # v2.0.9-2816
 C: dscam.biz 52000 R81H432HQ1 B95KKGNJM9 # v2.1.3-3165
 C: gateway1-cab.oecccam.net 11491 T-368n9s8T mZMxHstMrG # v2.0.11-2892
 C: free.cccamious.com 11100 y80i cccamious.com # v2.0.11-2892
