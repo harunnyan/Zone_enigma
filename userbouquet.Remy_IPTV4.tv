@@ -1,7 +1,7 @@
 #NAME **ReMy_IPTV_18+ADULT**
-#SERVICE 1:64:8F:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:8E:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
-#SERVICE 1:64:90:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
+#SERVICE 1:64:8F:0:0:0:0:0:0:0::=== ★★ADULT | PREMIUM★★ ====
 #DESCRIPTION === ★★ADULT | PREMIUM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112%3a1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8:Jasmin.tv
 #DESCRIPTION Jasmin.tv
@@ -15,10 +15,96 @@
 #DESCRIPTION Visit-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8:CAM 18+
-#DESCRIPTION CAM 18+
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8:CAM 18+
-#DESCRIPTION CAM 18+
+#SERVICE 1:64:90:0:0:0:0:0:0:0::Canlı web cameraları
+#DESCRIPTION Canlı web cameraları
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge39.stream.highwebmedia.com/live-hls/amlst%3aakgingersnaps-sd-ea7a976fedbf5211941b464f47354c2f984f493238bf0c9d381f21efb124326a_trns_h264/playlist.m3u8:Akgingersnaps's Bio
+#DESCRIPTION Akgingersnaps's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge120.stream.highwebmedia.com/live-hls/amlst%3aalyshianeithan-sd-386c21f84680d65d9f579ab691d3a0ee379aaa5d649b8b61c3bf69ae9fd532bd_trns_h264/playlist.m3u8:Alyshianeithan's Bio
+#DESCRIPTION Alyshianeithan's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge119.stream.highwebmedia.com/live-hls/amlst%3aamymiles-sd-9578a82c0a83326a0bec0b2c24707af01bb450b7b7fe162fb6aef21f1e821642_trns_h264/playlist.m3u8:Amymiles's Bio
+#DESCRIPTION Amymiles's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge185.stream.highwebmedia.com/live-hls/amlst%3aannaandfinn-sd-6917d3b90a8c260bcc3a65d1c1b6b1107022a47c2b84c8c083712b87b08c9403_trns_h264/playlist.m3u8:Annaandfinn's Bio
+#DESCRIPTION Annaandfinn's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3aashleyandanthony-ws-5f2e1dfcae9ba93300f4cd05c7b1cb4e83881ae395a57bd168b3ae427f040225_trns_h264/playlist.m3u8:Ashleyandanthony's Bio
+#DESCRIPTION Ashleyandanthony's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge118.stream.highwebmedia.com/live-hls/amlst%3abadassangel-sd-f36f586d8106b11f4fccf20f98cc85411183abb5933729b5853cdb4aa35b9375_trns_h264/playlist.m3u8:Badassangel's Bio
+#DESCRIPTION Badassangel's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge124.stream.highwebmedia.com/live-hls/amlst%3adanila_and_puskya-sd-1cd1fe927498b4e60a3a41b13688aa047934323a5e240129704b8742f110aa5f_trns_h264/playlist.m3u8:Danila_and_puskya's Bio
+#DESCRIPTION Danila_and_puskya's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3adiana_spicy-sd-7e61862ec51eabf4c1315eb75a06e7eff7cce3d86ce5eea9b46679ea79b42619_trns_h264/playlist.m3u8:Diana_spicy's Bio
+#DESCRIPTION Diana_spicy's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3aemilly_love-sd-6d6e87fbafb2ad85bec8b2e49fa5665a0518a26f08b352df6804ca46500a5aa7_trns_h264/playlist.m3u8:Emilly_love's Bio
+#DESCRIPTION Emilly_love's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge77.stream.highwebmedia.com/live-hls/amlst%3aeva_valeri-sd-9bc48bb075830b10fe592d449602968d9d8b813eba7809c39cbe1876edc711d7_trns_h264/playlist.m3u8:Eva_valeri's Bio
+#DESCRIPTION Eva_valeri's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge71.stream.highwebmedia.com/live-hls/amlst%3agallarose-ws-8a6a8614f20dc18ae473cfd4cfddbde772ee20f9a35dc87e290aecf6342b77d9_trns_h264/playlist.m3u8:Gallarose's Bio
+#DESCRIPTION Gallarose's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge184.stream.highwebmedia.com/live-hls/amlst%3agiveyouelevenminutes-sd-e309e1ec8ec2f1619a7372ab9ca30cd8124c85c3b2d59152dfc5bbfe37730786_trns_h264/playlist.m3u8:Giveyouelevenminutes's Bio
+#DESCRIPTION Giveyouelevenminutes's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge74.stream.highwebmedia.com/live-hls/amlst%3ahappyhornycorn-sd-ad27e5e9d5591c7c366e6902642ea44ac204eafbe2bd1af0be193b4336baafb9_trns_h264/playlist.m3u8:Happyhornycorn's Bio
+#DESCRIPTION Happyhornycorn's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge209.stream.highwebmedia.com/live-hls/amlst%3aisavanilla-sd-1b88f65a0e33a1be0be3b51a6e72138539fe523c1b9fa77e34c34ece3081fe0d_trns_h264/playlist.m3u8:Isavanilla's Bio
+#DESCRIPTION Isavanilla's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge188.stream.highwebmedia.com/live-hls/amlst%3aizvne-sd-b958fdceb133b9e0dd181416d4bec6e2839f4c489661d89fd18a61483793743c_trns_h264/playlist.m3u8:Izvne's Bio
+#DESCRIPTION Izvne's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge35.stream.highwebmedia.com/live-hls/amlst%3aketrin_new-sd-9c0114fb8a7291ace5444cc5b40d44b7c83dff33854d4b9d59aa4c3889c3d0ec_trns_h264/playlist.m3u8:Ketrin_new's Bio
+#DESCRIPTION Ketrin_new's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge74.stream.highwebmedia.com/live-hls/amlst%3alilithgangster-sd-4fd94365c1e075386ecc2099927ac88d0c56126860fd29e912d1991838f34d44_trns_h264/playlist.m3u8:Lilithgangster's Bio
+#DESCRIPTION Lilithgangster's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge80.stream.highwebmedia.com/live-hls/amlst%3alittlepinkald-sd-e20955ec7c920ef868ed9279d6da8eef7e223bc8d2d574780de35745151bad95_trns_h264/playlist.m3u8:Littlepinkald's Bio
+#DESCRIPTION Littlepinkald's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge71.stream.highwebmedia.com/live-hls/amlst%3alittle_princess777-sd-3ea24a128d8544bdff8f4850beb3da9681d8a136819d26e4fce5001f0bb7e3ba_trns_h264/playlist.m3u8:Little_princess777's Bio
+#DESCRIPTION Little_princess777's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:<source src="https%3a//edge71.stream.highwebmedia.com/live-hls/amlst%3amargienash-sd-4d5a6ac8e13fc22b7de3517223e9b150f237b2a5177636ed0382b30234677ffd_trns_h264/playlist.m3u8" type="application/x-mpegURL">:Margienash's Bio
+#DESCRIPTION Margienash's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge32.stream.highwebmedia.com/live-hls/amlst%3a_mari_-sd-99624eda8ac3ada0ae0c7d77c0f27f1dad55f24ce8e4ed873b5f3f2184291890_trns_h264/playlist.m3u8:mari_'s Bio
+#DESCRIPTION mari_'s Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge185.stream.highwebmedia.com/live-hls/amlst%3a_mari_-sd-99624eda8ac3ada0ae0c7d77c0f27f1dad55f24ce8e4ed873b5f3f2184291890_trns_h264/playlist.m3u8:mari_'s Bio
+#DESCRIPTION mari_'s Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge210.stream.highwebmedia.com/live-hls/amlst%3amelissaallens-sd-f7028ac808f0f09f205f6b8c2bce2f34033695c1d9dc637198e4e62168700f18_trns_h264/playlist.m3u8:Melissaallens's Bio
+#DESCRIPTION Melissaallens's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge209.stream.highwebmedia.com/live-hls/amlst%3amia_garrison-ws-88697a961441f65534a96f64eb9d5d594dfb5a77ac87cf06ae365c97376c0bbf_trns_h264/playlist.m3u8:Mia_garrison's Bio
+#DESCRIPTION Mia_garrison's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3amila_1-sd-352659873686c63e4138f0ca0ddd26e8966035d0e9f88ccbd3e3b5353ba13977_trns_h264/playlist.m3u8:Mila_1's Bio
+#DESCRIPTION Mila_1's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge189.stream.highwebmedia.com/live-hls/amlst%3anewaroundhere18-ws-44f9acc615c3977f3c2d425484badf153f8aa4e2bac7510f40161827c0906efd_trns_h264/playlist.m3u8:Newaroundhere18's Bio
+#DESCRIPTION Newaroundhere18's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge39.stream.highwebmedia.com/live-hls/amlst%3anickolll-sd-03db4bfe0d78fcd92ddb3e5e9fb7fb59df0130fd140a40671ce63fd1eaef0dd9_trns_h264/playlist.m3u8:Nickolll's Bio
+#DESCRIPTION Nickolll's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge214.stream.highwebmedia.com/live-hls/amlst%3aninaparcker-sd-fa59808151ea82251ef64cd7171e6304790538bfe4157ec54ef35cc986737ed6_trns_h264/playlist.m3u8:Ninaparcker's Bio
+#DESCRIPTION Ninaparcker's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:<source src="https%3a//edge124.stream.highwebmedia.com/live-hls/amlst%3aplayful_medeea-sd-403f917cd72f29a03b7c543c61785ef9758aaad98c18f1568dac2adf15cb22df_trns_h264/playlist.m3u8" type="application/x-mpegURL">:Playful_medeea's Bio
+#DESCRIPTION Playful_medeea's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge208.stream.highwebmedia.com/live-hls/amlst%3aprettyariel-sd-fd06a1694fac83962bb12b64dcefde77fbda8f8ce7244e09bb5a5a487d02b1ee_trns_h264/playlist.m3u8:Prettyariel's Bio
+#DESCRIPTION Prettyariel's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge37.stream.highwebmedia.com/live-hls/amlst%3aps4pro-sd-b4ee19aab878d12926aa0491ef9a8709ed059e9a7d27dc49cc906d66662864d9_trns_h264/playlist.m3u8:Ps4pro's Bio
+#DESCRIPTION Ps4pro's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge79.stream.highwebmedia.com/live-hls/amlst%3asarajaypolly-sd-466cfce78cb6b835309cce9ac66ff3918e9949bb14acaf30dea1009fa13f296e_trns_h264/playlist.m3u8:Sarajaypolly's Bio
+#DESCRIPTION Sarajaypolly's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge121.stream.highwebmedia.com/live-hls/amlst%3a_sashagray_-sd-fa459baef4cfe89603e32d6beb98a7e893c6bf3c1433897680bc19b45bb00bd3_trns_h264/playlist.m3u8:sashagray_'s Bio
+#DESCRIPTION sashagray_'s Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge71.stream.highwebmedia.com/live-hls/amlst%3asexxymichel-sd-0596f7dffe8b4802b5660d84219a27c0e93d8390a205dc5abb147b1eb19e0851_trns_h264/playlist.m3u8:Sexxymichel's Bio
+#DESCRIPTION Sexxymichel's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge70.stream.highwebmedia.com/live-hls/amlst%3asexy_lady_dunker9797-sd-6db042b484d0045493a9d87f6d3adb2fc02234213344ccab2d29bc5df18f6499_trns_h264/playlist.m3u8:Sexy_lady_dunker9797's Bio
+#DESCRIPTION Sexy_lady_dunker9797's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge126.stream.highwebmedia.com/live-hls/amlst%3ashycutebaby-sd-210ec18cc93f341449fa2a15f6480a2bd4f88bc5e6320a7242f2a05ca06b7fc0_trns_h264/playlist.m3u8:Shycutebaby's Bio
+#DESCRIPTION Shycutebaby's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge78.stream.highwebmedia.com/live-hls/amlst%3atoughnut111-sd-f242e2f389895f0d3d3ec8b7ab724f43cd3851de15fe05f85594a7d5dcb0e738_trns_h264/playlist.m3u8:Toughnut111's Bio
+#DESCRIPTION Toughnut111's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3avictoriadainty-sd-4cc3aeefcc3d7f2f15a9c05892efc7fd957d5c5c210ae07a1b2d55c6f0614061_trns_h264/playlist.m3u8:Victoriadainty's Bio
+#DESCRIPTION Victoriadainty's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge125.stream.highwebmedia.com/live-hls/amlst%3awaisttt-sd-367d60b4b323aa27eeccfef741c93dcf934df5df9ef1cd49032140f4064474c1_trns_h264/playlist.m3u8:Waisttt's Bio
+#DESCRIPTION Waisttt's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge75.stream.highwebmedia.com/live-hls/amlst%3awebchrissy-sd-7c3a3cc59fa13ee4f14b599bb1e054d91b97707915348a729b2d6d56c18d43a9_trns_h264/playlist.m3u8:Webchrissy's Bio
+#DESCRIPTION Webchrissy's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge206.stream.highwebmedia.com/live-hls/amlst%3awildlingbeaty-ws-23150f93f30ccb22d4c6642574aaff3bdebf0265929277183fea0d2d8c912641_trns_h264/playlist.m3u8:Wildlingbeaty's Bio
+#DESCRIPTION Wildlingbeaty's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge37.stream.highwebmedia.com/live-hls/amlst%3axobondaixo-sd-3411af8388fdf5bb4323a9b0e8a13bfc3a34cd43c505c7cf766908cb4e6d1c30_trns_h264/playlist.m3u8:Xobondaixo's Bio
+#DESCRIPTION Xobondaixo's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge209.stream.highwebmedia.com/live-hls/amlst%3ayoliverse-sd-3bc19933111b3c669adddbcdf35a54bfb5c97e6dcc9f8678a422ba223dbb51e8_trns_h264/playlist.m3u8:Yoliverse's Bio
+#DESCRIPTION Yoliverse's Bio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge76.stream.highwebmedia.com/live-hls/amlst%3ayourmidnightcoffee-sd-5edb232bf7dbca8ad665f581d34dd0ccda771b243d47cd8ade743f10179b80e8_trns_h264/playlist.m3u8:Yourmidnightcoffee's Bio
+#DESCRIPTION Yourmidnightcoffee's Bio
 #SERVICE 1:64:91:0:0:0:0:0:0:0::Exotic4K_Fantastic
 #DESCRIPTION Exotic4K_Fantastic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.fantasticiptv.tk/porno/Teen/A%20Mystic%20Massage/dm_jill_kassidy_vl052117_720p_8000.mp4:A Mystic Massage/
