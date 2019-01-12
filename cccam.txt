@@ -1,3 +1,55 @@
+C: s1.hssat.es 12000 K2NJ4SW7 hssat.es # v2.0.11-2892
+C: 144.172.91.30 14000 box_556 556_box # v2.0.11-2892
+C: 144.172.91.30 14000 box_599 599_box # v2.0.11-2892
+C: 144.172.91.30 14000 box_600 600_box # v2.0.11-2892
+C: b3.vipmgcamd.com 2002 ABDTFK263 QFQ3QHRV5 # v2.0.11-2892
+C: egypt.ztvnl.com 2501 kado606 kado560xy # v2.0.11-2892
+C: egypt.ztvnl.com 2501 kado599 kado560xf # v2.0.11-2892
+C: free.cccamious.com 11100 qt67ik cccamious.com # v2.0.11-2892
+C: s2.cccam-free.com 11000 yubi7k cccam-free.com # v2.0.11-2892
+C: free.cccamious.com 11100 rvjsqg cccamious.com # v2.0.11-2892
+C: sumartv-fullhd.com 40000 sumar233 hassan7888 # v2.0.11-2892
+C: Z1.fcnoip.org 23001 z1310 2102121 # v2.3.0-3367
+C: sumartv-fullhd.com 40000 sumar230 jazair9338 # v2.0.11-2892
+C: free.excccam.com 29000 z3wt92 excccam.com # v2.0.11-2892
+C: free.cccamgenerators.com 10000 ttxhj cccamgenerators.com # v2.0.11-2892
+C: 80.211.12.11 15000 cccam cccam # v2.0.11-2892
+C: b3.vipmgcamd.com 2004 tfk516 AAAAAA # v2.0.11-2892
+C: freesrv.cccam.co 33333 pwiqq www.cccam.co # v2.3.0-3367
+C: 137.74.197.73 30000 sharingkanal bfgigiqgpfiy # v2.0.11-2892
+C: elaymani.dynu.net 54321 joinusnow www.elaymani.com # v2.1.3-3165
+C: dead-man.duckdns.org 11000 deadman storedz.net # v2.1.1-2971
+C: dead-man.duckdns.org 16005 deadman storedz.net # v2.1.1-2971
+C: free.cccamious.com 11100 kvdxl7 cccamious.com # v2.0.11-2892
+C: free.cccamfree.tv 60000 zkn7 cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 05i6 cccamfree.tv # v2.0.11-2892
+C: free.cccamfree.tv 60000 mprf cccamfree.tv # v2.0.11-2892
+C: free.cccamgenerators.com 10000 bdaap cccamgenerators.com # v2.0.11-2892
+C: free.cccamgenerators.com 10000 pecv8 cccamgenerators.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 33njuu kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 m3u85k kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 6wqkx3 kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 67xh68 kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 u1gd6k kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 3u6cng kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 cd8tqb kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 x0u5yt kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 3omfc2 kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 lspocp kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 5lnq99 kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 r2ybrr kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 iktpc2 kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 omspfx kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 ow1mm3 kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 1fhvi7 kingreshare.com # v2.0.11-2892
+C: free1.kingreshare.org 34566 q90rij kingreshare.com # v2.0.11-2892
+C: server.satunivers.tv 50000 dxvdp9 www.satunivers.net # v2.0.11-2892
+C: server.satunivers.tv 50000 dqpdqp www.dzpros-forum.com # v2.0.11-2892
+C: server.satunivers.tv 50000 aulffv www.satunivers.net # v2.0.11-2892
+C: server.satunivers.tv 50000 dpb15y www.satunivers.net # v2.0.11-2892
+C: server.satunivers.tv 50000 5gd3v0 www.satunivers.net # v2.0.11-2892
+C: server.satunivers.tv 60000 qzgl0t cjf08a # v2.0.11-2892 
+
 C: turksat4a.ddns.net 15005 4b0d 090418
 C: France.ztvnl.com 10001 khaledmr42 260215mr42 	
 C: 5.189.147.211 2002 ABDTFK217 UXNCESE9C 	
