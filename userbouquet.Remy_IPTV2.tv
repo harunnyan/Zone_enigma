@@ -99,6 +99,10 @@
 #DESCRIPTION Garage TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livetr.teleromagna.it/sport/live/playlist.m3u8:Tele Romagna SPORT
 #DESCRIPTION Tele Romagna SPORT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/1912818513?ticket=34A20926439F4BD0B49F33DF2257D921CDD63B7B&profile=pass:GOLF KOREA
+#DESCRIPTION GOLF KOREA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/850332798?ticket=F41CF5C37204CC6D1D1028E7FD79D657C7D15BE5&profile=pass:SBS Golf
+#DESCRIPTION SBS Golf
 #SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/master.m3u8:ABC News
