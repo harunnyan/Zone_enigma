@@ -1051,6 +1051,48 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 http://live.vidoo.de/live/weltderwunder/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_WORLD))****",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",3ser
+http://akmd.shahid.net/mediaDelivery/media/07434cdb029147bcbe09694af486aa64.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",alarab
+http://flv2.alarab.com:8080/flv/94788.flv
+#EXTINF:-1 group-title="****((ReMy_WORLD))****", Alhuraa
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****", bcc-samba
+https://svbps-sambavideos.akamaized.net/voda/_definst_/amlst:stg;1685,3851,9207bc6b56e486b2fb21cc0bc60d6676;hidden32np;3WUEA6SURIAH2HUAYUEUL56DPXWM5YH7EIW3KNWUX7FCYL2T4P57JSWRFIM5HEMMGNAH6EZMDOYDFTZW3DJDGHIUJDB2MB5ZVMSNOEKHR7FQ2LVIKFFAT3IHUCPLJT7N2HO34JQWIROOAAGAMBDG7MRDFXUHD7DCZFSCITS4YBFPOMVHIO3D7TFZW33OV2AA2W3EYX2COFALG67R5RZMY4PE3COJ4XRTPWVUKWFQ7LVUD4ZJ2BMRVTA5UTSWWNWZQ3RYZQXYJT7XT3FYFN3G3FRONBNH4UD5RTYA!!!!/chunklist_b381952.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",healt
+https://stream.healthmeans.com/user_videos/133d6a29-49ae-4577-83c6-f1c1b5128f49/133d6a29-49ae-4577-83c6-f1c1b5128f49.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",abc
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",abc
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",africatv
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",china
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",DW
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",france24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",KCN1.rs
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",KCN2.rs
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",KCN3SvetPlus.rs
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",MBC THE VOICE
+http://llmd.shahid.net/media/ll/2fda1d3fd7ab453cad983544e8ed70e4/093765d4fb754130a19185ea9253bfc9/003e99b3c5f24332abcf596d6c1003a7/the_voice_s03_e04.mpegts/playlist-218d447a589d1b04a5918d82cfff0403ee1df75b.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",radio-banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",radio Beats
+icyx://144.76.84.153:21396/%C3%B5c%C2%8Au%16%C3%A6%C3%A4%C3%B4%C3%B9%C3%85%C3%A7sr%C2%A3i%C2%88%C3%BD%C2%96%C3%92%C2%B1%C2%B6%C3%86U=%C2%80%C3%A1%C2%966%C2%87%C3%91%C2%91%17i%C2%99%C3%89I!%C2%82%C3%86%C2%8B%C2%89%C2%AA%C2%A8cw%25,%C2%B92_
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",RAI4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",RAIMovie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",rotana_clip 
+http://216.105.40.244/live/rotana_clip/index.m3u8
+#EXTINF:-1 group-title="****((ReMy_WORLD))****",Sandzak.rs
+http://77.46.147.94:9250/
 #EXTINF:-1,****((NILESAT_ARABIC))****
 ****((NILESAT_ARABIC))****
 #EXTINF:-1 group-title="****((NILESAT_ARABIC))****",AAA_FAMILY
