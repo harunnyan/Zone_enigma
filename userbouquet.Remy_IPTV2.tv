@@ -175,8 +175,48 @@
 #DESCRIPTION Sky TG 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyianywhere2-i.akamaihd.net%3a80/hls/live/200275/tg24/stream5/streamPlaylist.m3u8:SKY TG24 HD
 #DESCRIPTION SKY TG24 HD
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::== ★★Moldova-Slovakia-Romania | PAKETI★★ =
-#DESCRIPTION == ★★Moldova-Slovakia-Romania | PAKETI★★ =
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::== ★★ENGLAND | PAKETI★★ =
+#DESCRIPTION == ★★ENGLAND | PAKETI★★ =
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin.easyview.eu/itv/index.m3u8?token=6088467e7eeea249b1815a34bda51841534075a2-915fe3dd5b25f4b6e2ec22a596bfb625-1550467912-1550464312:itv
+#DESCRIPTION itv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris2.easyview.eu/itv2/index.m3u8?token=c49d13fd25e7a59974596056d95762fc927acf4e-f530cce18de5e5e40f22c9ab5cae1768-1550468129-1550464529:itv2
+#DESCRIPTION itv2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris3.easyview.eu/itv3/index.m3u8?token=f8d888b1710bb83af8cca7a9225dd9b97a1e0768-bfb6b85d57380d57ea02e145ce9de66c-1550468192-1550464592:itv3
+#DESCRIPTION itv3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin.easyview.eu/itv4/index.m3u8?token=bcdf2645aca6e13e3fcfb6c16e0f2c961afecd4e-5cfe8b43392059ba8826bffa0f9ed8eb-1550468275-1550464675:itv4
+#DESCRIPTION itv4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris3.easyview.eu/itvbe/index.m3u8?token=f2f760da7b1d64a0e0a4ab7eb64270ae8c0f76ae-31d97a9c73fce87bb7e5696e7787479f-1550466698-1550463098:itvbe
+#DESCRIPTION itvbe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin.easyview.eu/citv/index.m3u8?token=e4c5abe43aeb3e8817aeb221f60d6e3408c100db-c958a2a641513686bf8930fd479369d7-1550468318-1550464718:citv
+#DESCRIPTION citv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ams.easyview.eu/dave/index.m3u8?token=fc46d19083afdb849cf96281bd4f35c2d9dfe16a-6f755fe2491772ae5e2d876eaa6ef594-1550468361-1550464761:dave
+#DESCRIPTION dave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin.easyview.eu/more4/index.m3u8?token=665659aae6a1ebd182584e53cb1e818cef830cf6-cd84211f181ad6de21aa0ea92e65cc34-1550468417-1550464817:more4
+#DESCRIPTION more4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris2.easyview.eu/really/index.m3u8?token=d1a078a291f2c5674146793225ab6f6cb553f634-5a15ae99ec68bfc81c90aca0b296e6f2-1550468778-1550465178:really
+#DESCRIPTION really
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin.easyview.eu/cbbc/index.m3u8?token=e04d101d750b32c910c45b433b0e5f314900bda5-0f33f6f5c1caccfe0cbcd25e446f6917-1550468843-1550465243:cbbc
+#DESCRIPTION cbbc
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ams.easyview.eu/cbeebies/index.m3u8?token=872f4dc22d1c76f2a4e8f189f37b4d63665ccf13-3436d3921e8cc704a50084bd1b9b6423-1550468896-1550465296:cbeebies
+#DESCRIPTION cbeebies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//origin.easyview.eu/bbc-parliament/index.m3u8?token=0e439de9ae31fbd30301b4faffc0d557ef420e50-3037947a7803461e314cc19339a90476-1550468964-1550465364:bbc-parliament
+#DESCRIPTION bbc-parliament
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ams.easyview.eu/bbc-news/index.m3u8?token=4d706e310df3606f2dc714418683abf5ed73b908-9f5da140afbc58f8306adf6c14c50ac6-1550469014-1550465414:bbc-news
+#DESCRIPTION bbc-news
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris5.easyview.eu/bbc-1/index.m3u8?token=d161f1cb164baf268c8780d92e46b4a19d013275-6859c16d833f13236c989ef760a39fea-1550469402-1550465802:bbc-1
+#DESCRIPTION bbc-1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris2.easyview.eu/bbc-one-northern-ireland/index.m3u8?token=1eec067875a404aca1dd6ccb08ea97585e9f6f14-94119c3af709fd5b7efa04a878867167-1550469338-1550465738:bbc-one-northern-ireland
+#DESCRIPTION bbc-one-northern-ireland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ams.easyview.eu/bbc-one-scotland/index.m3u8?token=d10c8306a4f16c0bd89cd87a3e5f170477a09da1-b09434ed391cf8231d324c5654deaab1-1550469284-1550465684:bbc-one-scotland
+#DESCRIPTION bbc-one-scotland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris3.easyview.eu/bbc-one-wales/index.m3u8?token=ca638bc64b09548a0e3b045ad15d8e41b0c4db28-5250d3048ee4f6d018db5bce81bec580-1550469230-1550465630:bbc-one-wales
+#DESCRIPTION bbc-one-wales
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris3.easyview.eu/bbc-alba/index.m3u8?token=15c9e03071bad662788f34ec4cb17e46622e7465-629e9ea22cee49e2de31cee0a62bd0d6-1550469172-1550465572:bbc-alba
+#DESCRIPTION bbc-alba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris2.easyview.eu/bbc-two/index.m3u8?token=1f83ce47f7aaef25790d89b21f82998a636f9278-3f679f311720db10dd7f9106aeb9dabf-1550469124-1550465524:bbc-two
+#DESCRIPTION bbc-two
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//paris3.easyview.eu/bbc-four/index.m3u8?token=550851801e6e00d87ed56f319c6366ec9bc10ac2-1d2aa020ecc770255ef5948c13cea610-1550469072-1550465472:bbc-four
+#DESCRIPTION bbc-four
 #SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★TELEKOM | ROMANIA★★ ====
 #DESCRIPTION === ★★TELEKOM | ROMANIA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
@@ -593,12 +633,12 @@
 #DESCRIPTION Sharqiya News
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//akmd.shahid.net/mediaDelivery/media/07434cdb029147bcbe09694af486aa64.m3u8:3ser
 #DESCRIPTION 3ser
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flv2.alarab.com%3a8080/flv/94788.flv: alarab
-#DESCRIPTION  alarab
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8: Alhuraa
-#DESCRIPTION  Alhuraa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svbps-sambavideos.akamaized.net/voda/_definst_/amlst%3astg;1685,3851,9207bc6b56e486b2fb21cc0bc60d6676;hidden32np;3WUEA6SURIAH2HUAYUEUL56DPXWM5YH7EIW3KNWUX7FCYL2T4P57JSWRFIM5HEMMGNAH6EZMDOYDFTZW3DJDGHIUJDB2MB5ZVMSNOEKHR7FQ2LVIKFFAT3IHUCPLJT7N2HO34JQWIROOAAGAMBDG7MRDFXUHD7DCZFSCITS4YBFPOMVHIO3D7TFZW33OV2AA2W3EYX2COFALG67R5RZMY4PE3COJ4XRTPWVUKWFQ7LVUD4ZJ2BMRVTA5UTSWWNWZQ3RYZQXYJT7XT3FYFN3G3FRONBNH4UD5RTYA!!!!/chunklist_b381952.m3u8: bcc-samba
-#DESCRIPTION  bcc-samba
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//flv2.alarab.com%3a8080/flv/94788.flv:alarab
+#DESCRIPTION alarab
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8:Alhuraa
+#DESCRIPTION Alhuraa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//svbps-sambavideos.akamaized.net/voda/_definst_/amlst%3astg;1685,3851,9207bc6b56e486b2fb21cc0bc60d6676;hidden32np;3WUEA6SURIAH2HUAYUEUL56DPXWM5YH7EIW3KNWUX7FCYL2T4P57JSWRFIM5HEMMGNAH6EZMDOYDFTZW3DJDGHIUJDB2MB5ZVMSNOEKHR7FQ2LVIKFFAT3IHUCPLJT7N2HO34JQWIROOAAGAMBDG7MRDFXUHD7DCZFSCITS4YBFPOMVHIO3D7TFZW33OV2AA2W3EYX2COFALG67R5RZMY4PE3COJ4XRTPWVUKWFQ7LVUD4ZJ2BMRVTA5UTSWWNWZQ3RYZQXYJT7XT3FYFN3G3FRONBNH4UD5RTYA!!!!/chunklist_b381952.m3u8:bcc-samba
+#DESCRIPTION bcc-samba
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.healthmeans.com/user_videos/133d6a29-49ae-4577-83c6-f1c1b5128f49/133d6a29-49ae-4577-83c6-f1c1b5128f49.m3u8:healt
 #DESCRIPTION healt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8:abc
