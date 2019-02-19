@@ -1,5 +1,5 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
@@ -341,9 +341,9 @@
 #DESCRIPTION ZFMRADIO.NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//av.bimradio.ru/hls/video2/index.m3u8:БИМ ТВ (Казань)
 #DESCRIPTION БИМ ТВ (Казань)
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | K R A L/Music★★ ====
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
 #DESCRIPTION === ★★ReMy-Clubin | KING Turkish Radios★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -391,7 +391,7 @@
 #DESCRIPTION KRAL TURKU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
 #DESCRIPTION === ★★ReMy-Clubin | KING World Radios★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akarabic.smil/chunklist_w1843873668_b64000.m3u8:KRAL ARABIC
 #DESCRIPTION KRAL ARABIC
@@ -445,7 +445,7 @@
 #DESCRIPTION KRAL THE BEATLES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akurban.smil/chunklist_w1185366164_b64000.m3u8:KRAL URBAN
 #DESCRIPTION KRAL URBAN
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
@@ -505,7 +505,7 @@
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
