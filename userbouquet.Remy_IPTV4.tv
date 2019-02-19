@@ -61,6 +61,14 @@
 #DESCRIPTION Erox HD
 #SERVICE 1:64:8F:0:0:0:0:0:0:0::LIVE-WEB-HEPSI FARKLI SAATTE ACILIR
 #DESCRIPTION LIVE-WEB-HEPSI FARKLI SAATTE ACILIR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge182.stream.highwebmedia.com/live-hls/amlst%3athreefundivas-sd-825124f85fd96155633545b1c632c207f3f4323716708d7879f60353f6148124_trns_h264/playlist.m3u8:Threefundivas's
+#DESCRIPTION Threefundivas's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge33.stream.highwebmedia.com/live-hls/amlst%3akirsten_xxx-sd-ce4afb25c405dc042d593f457d8394b522748b28050d4578b60d91207fb1225c_trns_h264/playlist.m3u8:Kirsten_xxx's
+#DESCRIPTION Kirsten_xxx's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge185.stream.highwebmedia.com/live-hls/amlst%3akarrin-sd-5c0ffd6d0677a5002fa53bd193ba08a63aee0fa93afb67162025168eeadc29cb_trns_h264/playlist.m3u8:Karrin's
+#DESCRIPTION Karrin's
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3afatmagul_j-sd-735d7dd83810d5fff6ee3fb97902d5efd5805b63c8c1efe9a56f3bfbaef9083c_trns_h264/playlist.m3u8:Fatmagul
+#DESCRIPTION Fatmagul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge185.stream.highwebmedia.com/live-hls/amlst%3aaalliss-sd-f4d2503007cd4328866b9843f3e15f743ae54545dcfafb88c2861d829ea50270_trns_h264/playlist.m3u8:Aalliss's Bio
 #DESCRIPTION Aalliss's Bio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge185.stream.highwebmedia.com/live-hls/amlst%3aablackawhite-sd-daae3fa8138a3534c53279f32d286ba2cdbe665ef54c5caa54d066b15db7d2f1_trns_h264/playlist.m3u8:Ablackawhite's
@@ -89,8 +97,6 @@
 #DESCRIPTION Dyanne18's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge183.stream.highwebmedia.com/live-hls/amlst%3aelena_ermie-sd-c04cd865a80d9e6134f7185804a344e58648924409abdc0c82999bb39e931b5d_trns_h264/playlist.m3u8:Elena_ermie's
 #DESCRIPTION Elena_ermie's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3afatmagul_j-sd-735d7dd83810d5fff6ee3fb97902d5efd5805b63c8c1efe9a56f3bfbaef9083c_trns_h264/playlist.m3u8:Fatmagul
-#DESCRIPTION Fatmagul
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge209.stream.highwebmedia.com/live-hls/amlst%3aflixxxa-ws-294081403d14bc92dbe49a7451ab1b74053a12ccd7583366edb58d32eb870832_trns_h264/playlist.m3u8:Flixxxa's
 #DESCRIPTION Flixxxa's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge184.stream.highwebmedia.com/live-hls/amlst%3aflymybutterfly-sd-0bbe7ea557f38423e3ae0e8469f88cfae70498f1fa0234a3fb7f271fc7811fec_trns_h264/playlist.m3u8:Flymybutterfly's
@@ -115,14 +121,10 @@
 #DESCRIPTION Jenny Okay_google's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge119.stream.highwebmedia.com/live-hls/amlst%3ajoanna_jones-sd-d4ff6ddae0febf8e898e962b409f6cb3ae5dbf82686b616513bded81c4b57da0_trns_h264/playlist.m3u8:Joanna_jones
 #DESCRIPTION Joanna_jones
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge185.stream.highwebmedia.com/live-hls/amlst%3akarrin-sd-5c0ffd6d0677a5002fa53bd193ba08a63aee0fa93afb67162025168eeadc29cb_trns_h264/playlist.m3u8:Karrin's
-#DESCRIPTION Karrin's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge206.stream.highwebmedia.com/live-hls/amlst%3akaty_angel-sd-2c1274192334bfc8622903f3e2951d1543a53d726c071ed300a4f499a67757f2_trns_h264/playlist.m3u8:Katy_angel's
 #DESCRIPTION Katy_angel's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge35.stream.highwebmedia.com/live-hls/amlst%3aketrin_new-sd-9c0114fb8a7291ace5444cc5b40d44b7c83dff33854d4b9d59aa4c3889c3d0ec_trns_h264/playlist.m3u8:Ketrin_new's Bio
 #DESCRIPTION Ketrin_new's Bio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge33.stream.highwebmedia.com/live-hls/amlst%3akirsten_xxx-sd-ce4afb25c405dc042d593f457d8394b522748b28050d4578b60d91207fb1225c_trns_h264/playlist.m3u8:Kirsten_xxx's
-#DESCRIPTION Kirsten_xxx's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge123.stream.highwebmedia.com/live-hls/amlst%3aladymwc-ws-7e5cf3fbc4c996a8ab2a31385fd62e7adbdfb931331f85533ee5994630428166_trns_h264/playlist.m3u8:Ladymwc's
 #DESCRIPTION Ladymwc's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge189.stream.highwebmedia.com/live-hls/amlst%3aleks_nemikia-sd-b2f6a661f4964d69ff3fcbc20f22555e778e143f6664d6a475342860665690e9_trns_h264/playlist.m3u8:Leks_nemikia's
@@ -177,8 +179,6 @@
 #DESCRIPTION Sweetiejenny's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge182.stream.highwebmedia.com/live-hls/amlst%3asweet_ary-sd-af6a10c1690b514cca612e1d36c3b6590f1823eb9533311f88c2ee8d796ef56d_trns_h264/playlist.m3u8:Sweet_ary's
 #DESCRIPTION Sweet_ary's
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge182.stream.highwebmedia.com/live-hls/amlst%3athreefundivas-sd-825124f85fd96155633545b1c632c207f3f4323716708d7879f60353f6148124_trns_h264/playlist.m3u8:Threefundivas's
-#DESCRIPTION Threefundivas's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge188.stream.highwebmedia.com/live-hls/amlst%3avany_love-ws-3bbfa72aed941c2e6b84c67ab8774c446388be04abf7262a0193d7ef0fddf603_trns_h264/playlist.m3u8:Vany_love's
 #DESCRIPTION Vany_love's
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge189.stream.highwebmedia.com/live-hls/amlst%3avero_kek-sd-9f8cb1e3677ee5f5a135182fab97e8d420faac53c6dab49e83c1dab2fd4771ab_trns_h264/playlist.m3u8:Vero_kek's
@@ -195,12 +195,6 @@
 #DESCRIPTION Wearehottest's
 #SERVICE 1:64:8F:0:0:0:0:0:0:0::MEGABOX TV-VOD
 #DESCRIPTION MEGABOX TV-VOD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos2.sendvid.com/8a/e0/t5ponqzd.mp4?:MegaBoxtv
-#DESCRIPTION MegaBoxtv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos2.sendvid.com/8a/e0/t5ponqzd.mp4?:18+ FILMES COMPLETOS xxx
-#DESCRIPTION 18+ FILMES COMPLETOS xxx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos2.sendvid.com/8a/e0/t5ponqzd.mp4?:AVISO LEGAL
-#DESCRIPTION AVISO LEGAL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4:As Panteras - Incesto 7
 #DESCRIPTION As Panteras - Incesto 7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4:Angel Lima fazendo dupla penetração
@@ -819,11 +813,11 @@
 #DESCRIPTION  20FILMES PORNO",  20
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4: 21",  21
 #DESCRIPTION  21",  21
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//usaserver.miamitvchannel.com/miamitv/smil%3amiamitv/playlist.m3u8:Candy TV " tvg-logo="https://goo.gl/CJVrTy" group-title="", Candy TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//usaserver.miamitvchannel.com/miamitv/smil%3amiamitv/playlist.m3u8:Candy TV " tvg-logo="https%3a//goo.gl/CJVrTy" group-title="", Candy TV
 #DESCRIPTION Candy TV " tvg-logo="https://goo.gl/CJVrTy" group-title="", Candy TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8:JASMIN TV " tvg-logo="https://goo.gl/b2ZEuF" group-title="", JASMIN TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8:JASMIN TV " tvg-logo="https%3a//goo.gl/b2ZEuF" group-title="", JASMIN TV
 #DESCRIPTION JASMIN TV " tvg-logo="https://goo.gl/b2ZEuF" group-title="", JASMIN TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.visit-x.tv/vxtv/live/playlist.m3u8:VISIT-X TV [COLOR orange](ON)[/COLOR]" tvg-logo="https://goo.gl/ZELUfu" group-title="FILMES PORNO", VISIT-X TV [COLOR orange](ON)[/COLOR]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.visit-x.tv/vxtv/live/playlist.m3u8:VISIT-X TV [COLOR orange](ON)[/COLOR]" tvg-logo="https%3a//goo.gl/ZELUfu" group-title="FILMES PORNO", VISIT-X TV [COLOR orange](ON)[/COLOR]
 #DESCRIPTION VISIT-X TV [COLOR orange](ON)[/COLOR]" tvg-logo="https://goo.gl/ZELUfu" group-title="FILMES PORNO", VISIT-X TV [COLOR orange](ON)[/COLOR]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/:XXX-Babes 1", XXX-Babes 1
 #DESCRIPTION XXX-Babes 1", XXX-Babes 1
@@ -2161,7 +2155,7 @@
 #DESCRIPTION Naked_and_Funny_Talented_Magician
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_When_Statues_Attack!_9030_hd.mp4:Naked_and_Funny_When_Statues_Attack!
 #DESCRIPTION Naked_and_Funny_When_Statues_Attack!
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_Won`t_Hurt_A_Bit!_9049_hd.mp4:Naked_and_Funny_Won%60t_Hurt_A_Bit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked_and_Funny_Won`t_Hurt_A_Bit!_9049_hd.mp4:Naked_and_Funny_Won%2560t_Hurt_A_Bit
 #DESCRIPTION Naked_and_Funny_Won%60t_Hurt_A_Bit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/NF/Naked and Funny Do These Panties Match 9020.mp4:Naked and Funny Do These Panties Match
 #DESCRIPTION Naked and Funny Do These Panties Match
@@ -3295,7 +3289,7 @@
 #DESCRIPTION Tickling The Ivories/
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.fantasticiptv.tk/porno/Teen/When The Food Truck Is A Rockin'./bex_alex_blake_im011017_720p_8000.mp4:When The Food Truck Is A Rockin'./
 #DESCRIPTION When The Food Truck Is A Rockin'./
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.fantasticiptv.tk/porno/Teen/Yoga Freaks%3a Episode Eight/bblib_sarah_banks_bb031617_720p_8000.mp4:Yoga Freaks: Episode Eight/
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.fantasticiptv.tk/porno/Teen/Yoga Freaks%3a Episode Eight/bblib_sarah_banks_bb031617_720p_8000.mp4:Yoga Freaks%3a Episode Eight/
 #DESCRIPTION Yoga Freaks: Episode Eight/
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vod.fantasticiptv.tk/porno/Teen/You've Changed Part 1/ham_kira_luna_bb020618_720p_2600.mp4:You've Changed Part 1/
 #DESCRIPTION You've Changed Part 1/
