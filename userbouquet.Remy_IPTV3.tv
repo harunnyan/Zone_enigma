@@ -491,6 +491,8 @@
 #DESCRIPTION Radyo Türkü-izmir
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/35/:RADYO VOKAL
 #DESCRIPTION RADYO VOKAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-02.dc3.dailymotion.com/sec(83LlaZiAJCzMRX6-TfWr_yoXWZGWR7wusCjMkhlO8p0)/dm/3/x719o2a/s/live-3.m3u8:Radyo Voyage
+#DESCRIPTION Radyo Voyage
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//17753.live.streamtheworld.com/RETROTURK128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=36ce1439-f043-400e-ee65-87b81ecc5933:RetroTurk
 #DESCRIPTION RetroTurk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.247.98.8/stream/31/:RUMELI RADYO
