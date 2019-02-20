@@ -1,6 +1,26 @@
 #NAME **ReMy_PREMIUM_WORLD**
-#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 1:64:9C:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.12.206.28%3a9981/stream/channelid/1859352676?ticket=50B8381AD562BBB624A60BE183A9C707986E3D92&amp;profile=pass:DIGI Sport 2 HD
+#DESCRIPTION DIGI Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4070:Digi Sport 1 HD
+#DESCRIPTION Digi Sport 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4080:Digi Sport 2 HD
+#DESCRIPTION Digi Sport 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/1036:Digi Sport 3
+#DESCRIPTION Digi Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8115/30901:Eurosport 1
+#DESCRIPTION Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30718:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30719:Eurosport 2
+#DESCRIPTION Eurosport 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30701:Extreme Sports
+#DESCRIPTION Extreme Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3460:Look Plus
+#DESCRIPTION Look Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3550:Look TV
+#DESCRIPTION Look TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.239.252.15/live/hls/stream1_q2/index.m3u8:Look TV HD
 #DESCRIPTION Look TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
@@ -109,7 +129,7 @@
 #DESCRIPTION GOLF KOREA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/850332798?ticket=F41CF5C37204CC6D1D1028E7FD79D657C7D15BE5&profile=pass:SBS Golf
 #DESCRIPTION SBS Golf
-#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::=== ★★HABER | NEWS★★ ====
 #DESCRIPTION === ★★HABER | NEWS★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//abclive.abcnews.com/i/abc_live4@136330/master.m3u8:ABC News
 #DESCRIPTION ABC News
@@ -185,7 +205,103 @@
 #DESCRIPTION Sky TG 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyianywhere2-i.akamaihd.net%3a80/hls/live/200275/tg24/stream5/streamPlaylist.m3u8:SKY TG24 HD
 #DESCRIPTION SKY TG24 HD
-#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★TELEKOM | ROMANIA★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:****((ROMANIA))****:****((ROMANIA))****
+#DESCRIPTION ****((ROMANIA))****
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/1025:1 Music Channel
+#DESCRIPTION 1 Music Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30704:Animal Planet
+#DESCRIPTION Animal Planet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8105/31011:Animal Planet HD
+#DESCRIPTION Animal Planet HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8110/30606:Auto Motor Sport
+#DESCRIPTION Auto Motor Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8111/11003:AXN Black
+#DESCRIPTION AXN Black
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8111/11002:AXN White
+#DESCRIPTION AXN White
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8115/30905:CBS Reality
+#DESCRIPTION CBS Reality
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30709:Cinemax
+#DESCRIPTION Cinemax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8115/30914:Cinemax 2
+#DESCRIPTION Cinemax 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/digi24/playlist.m3u8:Digi 24
+#DESCRIPTION Digi 24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.249%3a8110/30609:Discovery Channel.
+#DESCRIPTION Discovery Channel.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30706:Discovery Science
+#DESCRIPTION Discovery Science
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8105/31009:Discovery Showcase HD
+#DESCRIPTION Discovery Showcase HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30714:DTX
+#DESCRIPTION DTX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3520:Etno
+#DESCRIPTION Etno
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/etno/playlist.m3u8:Etno tv
+#DESCRIPTION Etno tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8101/1011:FilmBox
+#DESCRIPTION FilmBox
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8102/30201:Filmbox Family
+#DESCRIPTION Filmbox Family
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8102/30217:FilmBox Plus
+#DESCRIPTION FilmBox Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8108/30405:Fine Living
+#DESCRIPTION Fine Living
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30705:HBO 2
+#DESCRIPTION HBO 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8113/31111:ID Xtra
+#DESCRIPTION ID Xtra
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/magictv/playlist.m3u8:Magic tv
+#DESCRIPTION Magic tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8113/31101:Megamax
+#DESCRIPTION Megamax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8113/31121:Megamax.
+#DESCRIPTION Megamax.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/506:MTV
+#DESCRIPTION MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/509:MTV Dance
+#DESCRIPTION MTV Dance
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/508:MTV Hits
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/511:MTV Roks
+#DESCRIPTION MTV Roks
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3560:Nat Geo Wild
+#DESCRIPTION Nat Geo Wild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8117/2018:National Geografic HD
+#DESCRIPTION National Geografic HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8:National Tv
+#DESCRIPTION National Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3510:National TV
+#DESCRIPTION National TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/505:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/501:Paramount
+#DESCRIPTION Paramount
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4090:Pro Tv HD
+#DESCRIPTION Pro Tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/realitatea/playlist.m3u8:Realitatea Tv
+#DESCRIPTION Realitatea Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/rtv/playlist.m3u8:Romania Tv
+#DESCRIPTION Romania Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3440:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8113/31108:Travel Channel
+#DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8105/31003:Travel Channel HD
+#DESCRIPTION Travel Channel HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.72.72.29%3a53333/TV1000?auth=niki+iptv:TV1000
+#DESCRIPTION TV1000
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/utv/playlist.m3u8:U Tv
+#DESCRIPTION U Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//81.196.0.126%3a80/utvedge/utvlive/index.m3u8:UTV
+#DESCRIPTION UTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8114/507:VH1
+#DESCRIPTION VH1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8115/30904:Viasat Explore
+#DESCRIPTION Viasat Explore
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8113/31106:Viasat History
+#DESCRIPTION Viasat History
+#SERVICE 1:64:9E:0:0:0:0:0:0:0::=== ★★TELEKOM | ROMANIA★★ ====
 #DESCRIPTION === ★★TELEKOM | ROMANIA★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//100automoto.tv%3a1935/bgtv1/autotv/playlist.m3u8:100 Automoto Bulgaria
 #DESCRIPTION 100 Automoto Bulgaria
@@ -389,7 +505,7 @@
 #DESCRIPTION Wau hd
 #SERVICE 4097:0:1:608:0:0:0:0:0:0:http%3a//109.185.159.215%3a4011/udp/239.100.0.6%3a5656:Пеrвyј
 #DESCRIPTION Пеrвyј
-#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
+#SERVICE 1:64:9F:0:0:0:0:0:0:0::=== ★★REMY | U.S.A_IPTV★★ ====
 #DESCRIPTION === ★★REMY | U.S.A_IPTV★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8:2UE Sydney
 #DESCRIPTION 2UE Sydney
@@ -527,7 +643,7 @@
 #DESCRIPTION WVIT 30 News (Hartford)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.81.111%3a1937/liveTrans/livestream_360p/playlist.m3u8:ZIZ
 #DESCRIPTION ZIZ
-#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
+#SERVICE 1:64:A0:0:0:0:0:0:0:0::=== ★★ARABIA | PAKETI★★ ====
 #DESCRIPTION === ★★ARABIA | PAKETI★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//82.212.74.98/live//7904:Falastini
 #DESCRIPTION Falastini
@@ -641,14 +757,12 @@
 #DESCRIPTION rotana_clip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//77.46.147.94%3a9250/:Sandzak.rs
 #DESCRIPTION Sandzak.rs
-#SERVICE 1:64:A2:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
+#SERVICE 1:64:A1:0:0:0:0:0:0:0::=== ★★REMY | WORLD★★ ====
 #DESCRIPTION === ★★REMY | WORLD★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.12.206.28%3a9981/stream/channelid/1782257016?ticket=2F71E71328939DA75E6228145A682CE5DF4D9F22&amp;profile=pass:Antena Stars
 #DESCRIPTION Antena Stars
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.12.206.28%3a9981/stream/channelid/2049247816?ticket=9870C3815E159385849146BE7B539E9AD38BDC14&amp;profile=pass:Cartoon Network
 #DESCRIPTION Cartoon Network
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.12.206.28%3a9981/stream/channelid/1859352676?ticket=50B8381AD562BBB624A60BE183A9C707986E3D92&amp;profile=pass:DIGI Sport 2 HD
-#DESCRIPTION DIGI Sport 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8:Animal Planet HD
 #DESCRIPTION Animal Planet HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8:And TV
@@ -1427,7 +1541,7 @@
 #DESCRIPTION YLE TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.244.83.199%3a1935/ynettv/ynettv/playlist.m3u8:Ynet
 #DESCRIPTION Ynet
-#SERVICE 1:64:A3:0:0:0:0:0:0:0::_U K R A I N E_
+#SERVICE 1:64:A2:0:0:0:0:0:0:0::_U K R A I N E_
 #DESCRIPTION _U K R A I N E_
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/1tvod/1tvod-abr/playlist.m3u8:1TV Odessa
 #DESCRIPTION 1TV Odessa
@@ -1537,7 +1651,7 @@
 #DESCRIPTION Громадське TV (Украина) [FHD]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4:Espreso TV
 #DESCRIPTION Espreso TV
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::__R U S S I A N__
+#SERVICE 1:64:A3:0:0:0:0:0:0:0::__R U S S I A N__
 #DESCRIPTION __R U S S I A N__
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3ar1.smil/chunklist_b1600000.m3u8:Russia 1
 #DESCRIPTION Russia 1
@@ -1871,7 +1985,7 @@
 #DESCRIPTION Юрган ТВ HD (Сыктывкар)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8:Ямал-Регион (Салехард) +2
 #DESCRIPTION Ямал-Регион (Салехард) +2
-#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
+#SERVICE 1:64:A4:0:0:0:0:0:0:0::=== ★★WebCam_Live_Turkey | WebCam★★ ====
 #DESCRIPTION === ★★WebCam_Live_Turkey | WebCam★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ibb-media4.ibb.gov.tr%3a1935/live/43.stream/chunklist_w517754220.m3u8:BESİKTAS MEYDANI
 #DESCRIPTION BESİKTAS MEYDANI
@@ -1927,7 +2041,7 @@
 #DESCRIPTION Konya Mevlana Meydanı Canlı Mobese
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8:Sivas Kent Meydanı
 #DESCRIPTION Sivas Kent Meydanı
-#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
+#SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★FilmOn Tv-WebSocket★★ ===
 #DESCRIPTION === ★★FilmOn Tv-WebSocket★★ ===
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/1-on-1-boxing-tv:1-on-1-boxing-tv
 #DESCRIPTION 1-on-1-boxing-tv
@@ -2085,7 +2199,7 @@
 #DESCRIPTION ZDF INFOKANAL
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.filmon.com/tv/zdfneo:ZDF Neo
 #DESCRIPTION ZDF Neo
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
+#SERVICE 1:64:A6:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #DESCRIPTION === ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xuG5pvNuwII:TRT 1 Canlı Yayın  ᴴᴰ
 #DESCRIPTION TRT 1 Canlı Yayın  ᴴᴰ

@@ -21,8 +21,10 @@
 #DESCRIPTION VISIT-X TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.visit-x.tv/vxtv//live_720p:VISIT-X.tv
 #DESCRIPTION VISIT-X.tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//publish.thewebstream.co%3a1935/leved/_definst_/livesexlatinas/playlist.m3u8:Live Sex Latinas
-#DESCRIPTION Live Sex Latinas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/816085039?ticket=1EA3D91E5793870CF3C050D115BC4E781A3184F0&profile=pass:Desire TV 1080
+#DESCRIPTION Desire TV 1080
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//122.38.74.172%3a9981/stream/channelid/1463854277?ticket=66879F3BC21D8B1E87536D3F3E772D23F5BC9037&profile=pass:Honey 1080
+#DESCRIPTION Honey 1080
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.78.119%3a7781/udp/239.195.2.4%3a1234:BRAZZERS TV
 #DESCRIPTION BRAZZERS TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//217.107.192.48%3a9995/play/Brazzers/index.m3u8:BRAZZERS TV
@@ -457,8 +459,6 @@
 #DESCRIPTION Gangbang
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.phicatube.net/media/videos/iphone/35751.mp4:Coozhound
 #DESCRIPTION Coozhound
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.phicatube.net/media/videos/iphone/35750.mp4:WCP
-#DESCRIPTION WCP
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.phicatube.net/media/videos/iphone/35718.mp4:NAUGHTY AMERICA
 #DESCRIPTION NAUGHTY AMERICA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.phicatube.net/media/videos/iphone/35712.mp4:JULES JORDAN
@@ -2023,5 +2023,3 @@
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_hd.mp4
 #SERVICE 4097:0:1:255:0:0:0:0:0:0:http%3a//gagsnetwork.com/data/videos/Bouncing_boobs/Bouncing_boobs_Window_Lovers_2037_sd.mp4:Bouncing_boobs_Window_Lovers_2037_sd.mp4
 #DESCRIPTION Bouncing_boobs_Window_Lovers_2037_sd.mp4
-#SERVICE 1:64:95:0:0:0:0:0:0:0::Exotic4K_Fantastic
-#DESCRIPTION Exotic4K_Fantastic
