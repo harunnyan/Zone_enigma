@@ -1,5 +1,5 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
-#SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
@@ -255,6 +255,8 @@
 #DESCRIPTION ROMAN TV Tr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms.105.net%3a1935/live/105Test1/playlist.m3u8:Radio 105 TV
 #DESCRIPTION Radio 105 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:icyx%3a//144.76.84.153%3a21396/õcu%16æäôùÅçsr£iýÒ±¶ÆU=á6Ñ%17iÉI!Æª¨cw%25,¹2_:radio Beats
+#DESCRIPTION radio Beats
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//84.22.97.59%3a80/beverwijk/studio/playlist.m3u8:Radio Beverwijk
 #DESCRIPTION Radio Beverwijk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8:Radio Bruno
@@ -275,6 +277,8 @@
 #DESCRIPTION Radio Tivu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4%3aradioutv2/playlist.m3u8:RADIO U TV
 #DESCRIPTION RADIO U TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//216.105.40.244/live/rotana_clip/index.m3u8:Rotana_clip
+#DESCRIPTION Rotana_clip
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uk4.streamingpulse.com%3a1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8:RTV Zeri
 #DESCRIPTION RTV Zeri
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.148.117.134%3a1935/radios/radiosweb.stream live=1:Sarajevo 1 Tv
@@ -341,9 +345,9 @@
 #DESCRIPTION ZFMRADIO.NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//av.bimradio.ru/hls/video2/index.m3u8:БИМ ТВ (Казань)
 #DESCRIPTION БИМ ТВ (Казань)
-#SERVICE 1:64:A8:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
+#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | K R A L/Music★★ ====
-#SERVICE 1:64:A9:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
+#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING Turkish Radios★★
 #DESCRIPTION === ★★ReMy-Clubin | KING Turkish Radios★★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/smil/smil%3akralfm.smil/chunklist_w1224640543_b64000.m3u8:KRAL FM  ALEMIN KRALI
 #DESCRIPTION KRAL FM  ALEMIN KRALI
@@ -391,7 +395,7 @@
 #DESCRIPTION KRAL TURKU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//canliradyoyayini.com%3a3434/;:Kral Türk FM
 #DESCRIPTION Kral Türk FM
-#SERVICE 1:64:AA:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
+#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | KING World Radios★★ ==
 #DESCRIPTION === ★★ReMy-Clubin | KING World Radios★★ ==
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akarabic.smil/chunklist_w1843873668_b64000.m3u8:KRAL ARABIC
 #DESCRIPTION KRAL ARABIC
@@ -445,7 +449,7 @@
 #DESCRIPTION KRAL THE BEATLES
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssldyg.radyotvonline.com/kralweb/smil%3akurban.smil/chunklist_w1185366164_b64000.m3u8:KRAL URBAN
 #DESCRIPTION KRAL URBAN
-#SERVICE 1:64:AB:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
+#SERVICE 1:64:AD:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #DESCRIPTION === ★★ReMy-Clubin | Tunein/iTunes_Radio★★
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//37.247.98.8/stream/30/:ANKARA HAVALARI
 #DESCRIPTION ANKARA HAVALARI
@@ -507,7 +511,7 @@
 #DESCRIPTION TaksimFM - Arabesk
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//151.80.133.218%3a1078:TURKUAZ FM
 #DESCRIPTION TURKUAZ FM
-#SERVICE 1:64:AC:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | iTunes_Radio★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | iTunes_Radio★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ffh.de/ffhchannels/top40.mp3:iTunes Top 40
 #DESCRIPTION iTunes Top 40
