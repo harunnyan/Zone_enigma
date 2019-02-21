@@ -1,8 +1,6 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:9C:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.12.206.28%3a9981/stream/channelid/1859352676?ticket=50B8381AD562BBB624A60BE183A9C707986E3D92&profile=pass:DIGI Sport 2 HD
-#DESCRIPTION DIGI Sport 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4070:Digi Sport 1 HD
 #DESCRIPTION Digi Sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4080:Digi Sport 2 HD
@@ -17,26 +15,18 @@
 #DESCRIPTION Eurosport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30701:Extreme Sports
 #DESCRIPTION Extreme Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3460:Look Plus
-#DESCRIPTION Look Plus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3550:Look TV
 #DESCRIPTION Look TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.239.252.15/live/hls/stream1_q2/index.m3u8:Look TV HD
-#DESCRIPTION Look TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
 #DESCRIPTION Dubai Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8:A SPOR HD
+#DESCRIPTION A SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
 #DESCRIPTION TRT Spor HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tjktv.ercdn.net/tjktv.m3u8:TJK TV
 #DESCRIPTION TJK TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.162.77%3a8000/tr1:SUPER SPORT
 #DESCRIPTION SUPER SPORT
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8:A SPOR HD
-#DESCRIPTION A SPOR HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-05.dc3.dailymotion.com/sec(KjoLYUHdsbxppUHj768MEpvz0Vw5HScnSZnN19I9FZo)/dm/3/x31omum/s/live-3.m3u8:BJK TV HD
-#DESCRIPTION BJK TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-05.ix7.dailymotion.com/sec(n8BFLKZUAaWLhKM8EMx7xQl4UEZUDEYErQ8n-gO8opg)/dm/3/xne3bf/s/live-3.m3u8:GS TV HD
-#DESCRIPTION GS TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80.80.160.168/live/6/live.m3u8:ESPN
 #DESCRIPTION ESPN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8:ESPN 2
@@ -95,14 +85,6 @@
 #DESCRIPTION Türkmen Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8:YAS Sports
 #DESCRIPTION YAS Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_1_high:Arena Sport 1
-#DESCRIPTION Arena Sport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_2_high:Arena Sport 2
-#DESCRIPTION Arena Sport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_3_high:Arena Sport 3
-#DESCRIPTION Arena Sport 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.40.5.99%3a8000/arena_4_high:Arena Sport 4
-#DESCRIPTION Arena Sport 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//109.248.236.41%3a4433/udp/238.1.1.50%3a1234:Viasat Sport
 #DESCRIPTION Viasat Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//uvodscp-lh.akamaihd.net//i//rjrtvjsndirect_1@506693//master.m3u8?fluxustv.m3u8:TVJ Sports Network
