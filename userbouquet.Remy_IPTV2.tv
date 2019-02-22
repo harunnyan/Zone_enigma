@@ -2569,48 +2569,54 @@
 #DESCRIPTION ZDF Neo
 #SERVICE 1:64:A7:0:0:0:0:0:0:0::=== ★★WEBSOCKET | LIVE_UPDATE★★ ====
 #DESCRIPTION === ★★WEBSOCKET | LIVE_UPDATE★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xuG5pvNuwII:TRT 1 Canlı Yayın  ᴴᴰ
-#DESCRIPTION TRT 1 Canlı Yayın  ᴴᴰ
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jWP3ntl64I4:Star TV  ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=KNKi99yKozg:beIN SPORTS HABER  ᴴᴰ
+#DESCRIPTION beIN SPORTS HABER  ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=C3iqcB4lXaU:TRT 1  ᴴᴰ
+#DESCRIPTION TRT 1  ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ntio0It9OQ0:TRT Haber  ᴴᴰ
+#DESCRIPTION TRT Haber  ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xbfzLTDNHNo:Star TV  ᴴᴰ
 #DESCRIPTION Star TV  ᴴᴰ
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU:BloombergHT ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=AIZPnH0kaYU&list=PLXeT0RFf65f8odThy3uNsgz4j29PiY7SZ:BloombergHT ᴴᴰ
 #DESCRIPTION BloombergHT ᴴᴰ
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=iYY4F4EbWLc:Habertürk TV ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=FmkS93wdFLA:CNN TÜRK | ᴴᴰ
+#DESCRIPTION CNN TÜRK | ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=s-KKgm4ysjk:Habertürk TV ᴴᴰ
 #DESCRIPTION Habertürk TV ᴴᴰ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=JZ8QhI0pz1A:NTV - Canlı Yayın ᴴᴰ
-#DESCRIPTION NTV - Canlı Yayın ᴴᴰ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=wFyXTJzRowg:TGRT Haber TV - Canlı Yayın | Live | ᴴᴰ
-#DESCRIPTION TGRT Haber TV - Canlı Yayın | Live | ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=okLMKFtAGx0:Haber Global - Canlı Yayın ᴴᴰ
+#DESCRIPTION Haber Global - Canlı Yayın ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=XEJM4Hcgd3M:NTV ᴴᴰ
+#DESCRIPTION NTV ᴴᴰ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=ge0Yv1WXuaI:TGRT Haber TV | ᴴᴰ
+#DESCRIPTION TGRT Haber TV | ᴴᴰ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=a-M_5rGhPdg:FRANCE 24 ᴴᴰ
 #DESCRIPTION FRANCE 24 ᴴᴰ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=9HYxGr8MZL8:CNN News18 ᴴᴰ
-#DESCRIPTION CNN News18 ᴴᴰ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=1MeK6RUO28Y:ABC 7 SWFL Live Stream ᴴᴰ
 #DESCRIPTION ABC 7 SWFL Live Stream ᴴᴰ
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&rebase=on:ABC News-Yahoo!
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8?sd=10&rebase=on:ABC News-Yahoo!
 #DESCRIPTION ABC News-Yahoo!
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=_egSTyWb1gk:NBC2 Live Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=_egSTyWb1gk:NBC2 Live Stream
 #DESCRIPTION NBC2 Live Stream
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dp8PhLsUcFE:Bloomberg Global News LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dp8PhLsUcFE:Bloomberg Global News LIVE
 #DESCRIPTION Bloomberg Global News LIVE
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=Fu2etwHzcvw:JapaNews24
-#DESCRIPTION JapaNews24
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=x93YWSa5obQ:Puthiya Thalaimurai TV
-#DESCRIPTION Puthiya Thalaimurai TV
-#SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=GdNzFTZK_28:SOMOY TV LIVE
-#DESCRIPTION SOMOY TV LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=VlNIxWdT_Yw:Joy Türk Fm
+#DESCRIPTION Joy Türk Fm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=d3rK0AYsK4c:Kral TV -  ᴴᴰ
 #DESCRIPTION Kral TV -  ᴴᴰ
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lxihjZS-fyA:Kral FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=lxihjZS-fyA:Kral FM
 #DESCRIPTION Kral FM
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=cMgrsG7LWik:Kral Pop Radyo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=cMgrsG7LWik:Kral Pop Radyo
 #DESCRIPTION Kral Pop Radyo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=xASk3v5clpQ:Radio Fenomen Pop Music Live stream 24/7
-#DESCRIPTION Radio Fenomen Pop Music Live stream 24/7
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=jtQD2N2yTDA:Radyo Fenomen Türk Canlı Yayın
-#DESCRIPTION Radyo Fenomen Türk Canlı Yayın
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=HXZlvafC14Y:Power Türk Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=qWmZKP2TzGc:Power Türk Fm
 #DESCRIPTION Power Türk Fm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=uV5Ra-5whTA:Radyo Alaturka
+#DESCRIPTION Radyo Alaturka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=KSe7H96-rS8:Radio Fenomen
+#DESCRIPTION Radio Fenomen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=4pqn3hklEAs:Radyo Fenomen Karışık
+#DESCRIPTION Radyo Fenomen Karışık
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=rtTDYzG9vXM:Radyo 45'lik
+#DESCRIPTION Radyo 45'lik
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=bQQK0iR5iBU:Real World Air Traffic-Information Zulu
 #DESCRIPTION Real World Air Traffic-Information Zulu
 #SERVICE 1:0:1:1:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=X0vK_57vQ7s:The Best Relaxing Aquarium 24/7
