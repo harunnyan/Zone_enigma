@@ -2193,8 +2193,8 @@
 #DESCRIPTION Вместе РФ HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8:Вся Уфа +2
 #DESCRIPTION Вся Уфа +2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8:Горная Страна ТВ HD (Таштаго�
-#DESCRIPTION Горная Страна ТВ HD (Таштаго�
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8:Горная Страна ТВ HD (Таштаго
+#DESCRIPTION Горная Страна ТВ HD (Таштаго
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//gubernia.online/hls/live.m3u8:Губерния (Хабаровск) +7
 #DESCRIPTION Губерния (Хабаровск) +7
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8:Губерния 33 (Владимир)
@@ -2253,8 +2253,8 @@
 #DESCRIPTION ОРТ Планета (Оренбург) +2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//85.12.197.39%3a8080/hls/stream1.m3u8:ОТВ (Екатеринбург) +2
 #DESCRIPTION ОТВ (Екатеринбург) +2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//now2.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream_hi/index.m3u8:Осетия-Ирыстон (Владикавка�
-#DESCRIPTION Осетия-Ирыстон (Владикавка�
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//now2.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream_hi/index.m3u8:Осетия-Ирыстон (Владикавка
+#DESCRIPTION Осетия-Ирыстон (Владикавка
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.opentv.online/7200k/open_7200k.m3u8:Открытый [FHD]
 #DESCRIPTION Открытый [FHD]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8:Первый Деловой (Украина)
@@ -2285,8 +2285,8 @@
 #DESCRIPTION Раз ТВ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8:Ратник HD
 #DESCRIPTION Ратник HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.gtrkkb.cdnvideo.ru/gtrkkb/gtrkkb.sdp/playlist.m3u8:Россия 1 (Кабардино-Балкари�
-#DESCRIPTION Россия 1 (Кабардино-Балкари�
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.gtrkkb.cdnvideo.ru/gtrkkb/gtrkkb.sdp/playlist.m3u8:Россия 1 (Кабардино-Балкари
+#DESCRIPTION Россия 1 (Кабардино-Балкари
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdnmg.secure.live.rtr-vesti.ru/live/smil%3artrp.smil/chunklist_b1600000.m3u8:Россия РТР
 #DESCRIPTION Россия РТР
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rusevertv.ru/576/rs_crf28_.m3u8:Русский Север ТВ (Вологда)
@@ -2701,3 +2701,19 @@
 #DESCRIPTION Pattaya 11pm to 5am - It gets MESSY!!!
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=n-YnzZVzV9U:Soho Red Light District London
 #DESCRIPTION Soho Red Light District London
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//91.191.213.56%3a554/live_mpeg4.sdp:sdp1
+#DESCRIPTION sdp1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//91.191.213.55%3a554/live_mpeg4.sdp:sdp2
+#DESCRIPTION sdp2
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:rtsp%3a//91.191.213.43%3a554/live_mpeg4.sdp#User-Agent=Linux-Android 5.0.1:sdp3
+#DESCRIPTION sdp3
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:rtsp%3a//91.191.213.49%3a554/live_mpeg4.sdp#User-Agent=Linux-Android 5.0.1:sdp4
+#DESCRIPTION sdp4
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:rtsp%3a//91.191.213.48%3a554/live_mpeg4.sdp#User-Agent=Linux-Android 5.0.1:sdp5
+#DESCRIPTION sdp5
+#SERVICE 4097:0:0:11:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:TrgSlobode
+#DESCRIPTION TrgSlobode
+#SERVICE 4097:0:0:13:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//BeogradskiKej.2.stream:BeogradskiKej
+#DESCRIPTION BeogradskiKej
+#SERVICE 4097:0:0:15:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//Tvrdjava.5.stream:Tvrdjava
+#DESCRIPTION Tvrdjava
