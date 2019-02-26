@@ -45,6 +45,42 @@
 #DESCRIPTION TEMPO TV TURK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hdtvler.net@tmbtv.mediatriple.net%3a1935/tmbtv/tmbtv2/playlist.m3u8:TMB TV
 #DESCRIPTION TMB TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1HD
+#DESCRIPTION 1HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
+#DESCRIPTION 1Music HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
+#DESCRIPTION ALB MUSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:Beatz TV [FHD]
+#DESCRIPTION Beatz TV [FHD]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8:B4U MUSIC
+#DESCRIPTION B4U MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL U.S.A
+#DESCRIPTION CAPITAL U.S.A
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
+#DESCRIPTION Capital Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:ch au tv
+#DESCRIPTION ch au tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8:Chanson TV
+#DESCRIPTION Chanson TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:CMC USA
+#DESCRIPTION CMC USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
+#DESCRIPTION CMC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/_definst_/mp4%3alivestream_720p/playlist.m3u8:Company TV
+#DESCRIPTION Company TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8:CzWORKA
+#DESCRIPTION CzWORKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:D+ Duga plus rs
+#DESCRIPTION D+ Duga plus rs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
+#DESCRIPTION DHTV denhaag tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
+#DESCRIPTION DMF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.249.95.140/live/livestream:DSTV BG
+#DESCRIPTION DSTV BG
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
+#DESCRIPTION Duga TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-02-fta.m3u8:D-HOT
 #DESCRIPTION D-HOT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/h-01-fta.m3u8:DJING HOT HOT
@@ -103,48 +139,6 @@
 #DESCRIPTION DJING UNDERGROUND
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/u-27777-04.m3u8:DİJİNG UNDERGROUND HD
 #DESCRIPTION DİJİNG UNDERGROUND HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-01.bonus-tv.ru%3a8080/1HDmusic/index.m3u8:1HD
-#DESCRIPTION 1HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
-#DESCRIPTION 1Music HU
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
-#DESCRIPTION ALB MUSIC HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:ALBUK HD
-#DESCRIPTION ALBUK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:Beatz TV [FHD]
-#DESCRIPTION Beatz TV [FHD]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:Beats Music
-#DESCRIPTION Beats Music
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//av.bimradio.ru/hls/video2/index.m3u8:BIM TV
-#DESCRIPTION BIM TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.81.107%3a1935/stream/live/playlist.m3u8:BX1
-#DESCRIPTION BX1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL U.S.A
-#DESCRIPTION CAPITAL U.S.A
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
-#DESCRIPTION Capital Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video.chaula.tv/hls/live/high/playlist_high.m3u8:ch au tv
-#DESCRIPTION ch au tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8:Chanson TV
-#DESCRIPTION Chanson TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8:CMC USA
-#DESCRIPTION CMC USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cmctv.ios.internapcdn.net%3a80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8:CMC TV
-#DESCRIPTION CMC TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wma10.fluidstream.net/CompanyTV/_definst_/mp4%3alivestream_720p/playlist.m3u8:Company TV
-#DESCRIPTION Company TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8:CzWORKA
-#DESCRIPTION CzWORKA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:D+ Duga plus rs
-#DESCRIPTION D+ Duga plus rs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza5.video-streams.nl%3a1935/denhaag/denhaag/playlist.m3u8:DHTV denhaag tv
-#DESCRIPTION DHTV denhaag tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.artcom-venture.de%3a1322/dmf/tv_360.m3u8:DMF
-#DESCRIPTION DMF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.249.95.140/live/livestream:DSTV BG
-#DESCRIPTION DSTV BG
-#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//w10.streamgb.com%3a1935/dugaplus/dugaplus/playlist.m3u8:Duga TV
-#DESCRIPTION Duga TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8:Efecto TV
 #DESCRIPTION Efecto TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1200:First Music Channel
