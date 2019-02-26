@@ -43,6 +43,10 @@
 #DESCRIPTION MLB TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.58.62.92%3a8080:7 HD CRICKET
 #DESCRIPTION 7 HD CRICKET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mn-nl.mncdn.com/fanatik_livestream/smil%3afanatik.smil/chunklist_b996000.m3u8:Fanatik TV
+#DESCRIPTION Fanatik TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV HD
+#DESCRIPTION Red Bull TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8:Flow Sports
 #DESCRIPTION Flow Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//103.205.133.14/hls/ten1.m3u8:Sony Ten 1
@@ -1311,6 +1315,8 @@
 #DESCRIPTION FAMILY HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8:Family TV
 #DESCRIPTION Family TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb.streaming.sk/fashiontv/stream/playlist.m3u8:Fashion TV Czech&Slovak
+#DESCRIPTION Fashion TV Czech&Slovak
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/livestream.m3u8:FATIMA TV
 #DESCRIPTION FATIMA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bgo1.cdn.s3m.no/fs/live/ngrp%3alive_all/chunklist_b5196000.m3u8:Fatstone TV
@@ -1319,6 +1325,8 @@
 #DESCRIPTION Fix HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.238.110.158%3a1935/rtmp/neapol-hq:FM ТВ
 #DESCRIPTION FM ТВ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fmhot.04.cl.cdnz.cl/fmhot/smil%3acdn.smil/chunklist_b1800000_slesp.m3u8:FM HOT MOVIES HD
+#DESCRIPTION FM HOT MOVIES HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.lachainenormande.fr%3a80/live/lcn/livestream/playlist.m3u8:France 2
 #DESCRIPTION France 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr:France 5

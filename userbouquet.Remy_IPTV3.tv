@@ -1,6 +1,18 @@
 #NAME **ReMy_Clubin_MUSIC_CHANNELS**
 #SERVICE 1:64:B0:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | Music_Channels★★ ====
 #DESCRIPTION === ★★ReMy-Clubin | Music_Channels★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8:NR1 4K
+#DESCRIPTION NR1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr14k/nr14k_hd/chunklist.m3u8:NR1 4K
+#DESCRIPTION NR1 4K
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1tv/playlist.m3u8:NR1 HD
+#DESCRIPTION NR1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1damartv/playlist.m3u8:NR1 DAMAR
+#DESCRIPTION NR1 DAMAR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1dancetv/playlist.m3u8:NR1 DANCE
+#DESCRIPTION NR1 DANCE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nr1hls.radyotvonline.com/nr1tv/nr1asktv/playlist.m3u8:NR1 ASK
+#DESCRIPTION NR1 ASK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?:DREAM TV
 #DESCRIPTION DREAM TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8:DREAM TV
@@ -95,10 +107,18 @@
 #DESCRIPTION 1HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.1music.hu/stream/1music.m3u8:1Music HU
 #DESCRIPTION 1Music HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albmusic.dyndns.tv%3a1935/albuk/albmus.stream/playlist.m3u8:ALB MUSIC HD
+#DESCRIPTION ALB MUSIC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:ALBUK HD
+#DESCRIPTION ALBUK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:Beatz TV [FHD]
+#DESCRIPTION Beatz TV [FHD]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//beats.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8:Beats Music
 #DESCRIPTION Beats Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//av.bimradio.ru/hls/video2/index.m3u8:BIM TV
 #DESCRIPTION BIM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//149.202.81.107%3a1935/stream/live/playlist.m3u8:BX1
+#DESCRIPTION BX1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8:CAPITAL U.S.A
 #DESCRIPTION CAPITAL U.S.A
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8:Capital Radio
@@ -153,6 +173,8 @@
 #DESCRIPTION Kcn 3 Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.20.136.59/live3/_definst_/kiss/playlist.m3u8:Kiss TV
 #DESCRIPTION Kiss TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_b1600000.m3u8:Kiss TV (ROM)
+#DESCRIPTION Kiss TV (ROM)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8:Klipkar TV
 #DESCRIPTION Klipkar TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8:Kronehit TV HD
@@ -275,6 +297,18 @@
 #DESCRIPTION ТНТ Music
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvstream.tvtopsound.com%3a1935/live/ngrp%3ampegts.stream_all/playlist.m3u8:TOP SOUND
 #DESCRIPTION TOP SOUND
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8:TRACE Africa
+#DESCRIPTION TRACE Africa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8:TRACE Kitoko
+#DESCRIPTION TRACE Kitoko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8:TRACE Mziki
+#DESCRIPTION TRACE Mziki
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8:TRACE Naija
+#DESCRIPTION TRACE Naija
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8:TRACE Toca
+#DESCRIPTION TRACE Toca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8:TRACE Tropical
+#DESCRIPTION TRACE Tropical
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv/live.m3u8:TV MAS HD
 #DESCRIPTION TV MAS HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//50.7.98.234%3a1935/rtv/videortv//master.m3u8:TVMas
@@ -291,14 +325,16 @@
 #DESCRIPTION UA TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8:Voice of America
 #DESCRIPTION Voice of America
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd2/livestream/index.m3u8:Xite NL2 HD
-#DESCRIPTION Xite NL2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8:Xite NL4 HD
 #DESCRIPTION Xite NL4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd5/livestream/index.m3u8:Xite NL5 HD
 #DESCRIPTION Xite NL5 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8:Xite NL6 HD
 #DESCRIPTION Xite NL6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//highvolume03.streampartner.nl%3a1935/vleugels_hd2/livestream/index.m3u8:Xite NL2 HD
+#DESCRIPTION Xite NL2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8:Zeta TV
+#DESCRIPTION Zeta TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kippingmultimediaal.nl%3a1935/live/ZFM1:ZFMRADIO.NL
 #DESCRIPTION ZFMRADIO.NL
 #SERVICE 1:64:B1:0:0:0:0:0:0:0::=== ★★ReMy-Clubin | K R A L/Music★★ ====
