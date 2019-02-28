@@ -1,12 +1,18 @@
 #NAME **ReMy_PREMIUM_WORLD**
 #SERVICE 1:64:A3:0:0:0:0:0:0:0::=== ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3550:Look TV
+#DESCRIPTION Look TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4070:Digi Sport 1 HD
 #DESCRIPTION Digi Sport 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4080:Digi Sport 2 HD
 #DESCRIPTION Digi Sport 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/1036:Digi Sport 3
 #DESCRIPTION Digi Sport 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
+#DESCRIPTION Dubai Sports 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:SPORTSMAX
+#DESCRIPTION SPORTSMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8115/30901:Eurosport 1
 #DESCRIPTION Eurosport 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30718:Eurosport 2
@@ -15,10 +21,6 @@
 #DESCRIPTION Eurosport 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30701:Extreme Sports
 #DESCRIPTION Extreme Sports
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3550:Look TV
-#DESCRIPTION Look TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
-#DESCRIPTION Dubai Sports 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8:A SPOR HD
 #DESCRIPTION A SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
@@ -189,8 +191,6 @@
 #DESCRIPTION SKY TG24 HD
 #SERVICE 1:64:A5:0:0:0:0:0:0:0::=== ★★ESPANOL★★ ====
 #DESCRIPTION === ★★ESPANOL★★ ====
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8:CHV HD
-#DESCRIPTION CHV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8:101TV Málaga
 #DESCRIPTION 101TV Málaga
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8:+24
@@ -233,8 +233,6 @@
 #DESCRIPTION 7TV Andalucía - Marbella
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//secure.todostreaming.es/live/ondaluz-olsevilla.m3u8:7TV Andalucía - Sevilla
 #DESCRIPTION 7TV Andalucía - Sevilla
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5940924978228.streamlock.net/8289/smil%3a8289.smil/master.m3u8:8 Cádiz
-#DESCRIPTION 8 Cádiz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8:Alternativa TV
 #DESCRIPTION Alternativa TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livestartover.atresmedia.com/antena3/master.m3u8 :Antena 3 HD
@@ -255,10 +253,6 @@
 #DESCRIPTION Atresplayer Original (37) HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8:BDN
 #DESCRIPTION BDN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8:Be Mad
-#DESCRIPTION Be Mad
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8:Be Mad HD
-#DESCRIPTION Be Mad HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnlive.shooowit.net/rbetislive/smil%3atelevision.smil/playlist.m3u8:Betis TV HD
 #DESCRIPTION Betis TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8:Boing
@@ -325,14 +319,12 @@
 #DESCRIPTION canalterrassa
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.140.99.41/hls/1080.m3u8:Cancionero TV
 #DESCRIPTION Cancionero TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.hls.http.chv.ztreaming.com/desktop/chvhi.m3u8:CHV HD
+#DESCRIPTION CHV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8:CMM
 #DESCRIPTION CMM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//145.239.141.154%3a1935/live/uSCQc5ky/master.m3u8:Condavisión HD
 #DESCRIPTION Condavisión HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8:Cuatro
-#DESCRIPTION Cuatro
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8:Cuatro HD
-#DESCRIPTION Cuatro HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/animation.m3u8 :DJing - Animation
 #DESCRIPTION DJing - Animation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.djing.com/tv/dancefloor.m3u8 :DJing - Dancefloor
@@ -347,10 +339,6 @@
 #DESCRIPTION DJing - Underground
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.cloud.innovasur.es/mmj/34711900.m3u8:Diez TV
 #DESCRIPTION Diez TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8:Divinity
-#DESCRIPTION Divinity
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8:Divinity HD
-#DESCRIPTION Divinity HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8:DKISS HD
 #DESCRIPTION DKISS HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8:El 9 TV
@@ -1165,8 +1153,6 @@
 #DESCRIPTION NBC
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8:NBC
 #DESCRIPTION NBC
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:SPORTSMAX
-#DESCRIPTION SPORTSMAX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1music.hu/1music.m3u8:1Music Channel Hungary
 #DESCRIPTION 1Music Channel Hungary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.enetres.net%3a1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8:13 TV
