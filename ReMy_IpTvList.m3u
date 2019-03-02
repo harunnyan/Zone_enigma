@@ -1641,274 +1641,334 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?tecnotv.info?iptv.
 http://184.173.179.163:1935/8022/8022/chunklist_w205828107.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",****((ReMy_MUSIC_CHANNELS))****
 ****((ReMy_MUSIC_CHANNELS))****
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRT MUZIK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NR1 4K
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NR1 4K
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/chunklist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NR1 HD
+http://nr1hls.radyotvonline.com/nr1tv/nr1tv/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NR1 DAMAR
+http://nr1hls.radyotvonline.com/nr1tv/nr1damartv/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NR1 DANCE
+http://nr1hls.radyotvonline.com/nr1tv/nr1dancetv/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NR1 ASK
+http://nr1hls.radyotvonline.com/nr1tv/nr1asktv/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DREAM TV
-http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DREAM TURK
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Dream TV
-http://85.132.71.6/turk/dream_tv/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Dream Turk
-http://85.132.71.6/turk/dream_turk/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",dream_tv
-https://streaming.kovalchuk.me/turk/dream_tv/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",dream_turk
-https://streaming.kovalchuk.me/turk/dream_turk/index.m3u8
+https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8?
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DREAM TV
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL TV
+https://bqgsd19q.rocketcdn.com/kraltv_360/chunklist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL TV
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL 90LAR TV
+http://cf2wcwwd.rocketcdn.com/kraldijital-doksanlartv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP TV
 https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL WORLD TV
-https://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL 90
-http://cf2wcwwd.rocketcdn.com/kraldijital-doksanlartv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP ASK
-http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP TV
+http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP AKUSTIK
 http://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP ASK
+http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP DANS
 http://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP KONSER TV
 http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL POP PERFORMANS
 http://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KRAL WORLD TV
+https://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b2328000.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TEMPO TV TURK
+rtmp://91.93.118.165/tempotv/livestream
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TMB TV
 http://hdtvler.net@tmbtv.mediatriple.net:1935/tmbtv/tmbtv2/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MUZ TV
-rtmp://85.132.78.6:1935/live/muztv.stream
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ROMA TV
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",CITY TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",CITY TV
-http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Ibiza Global TV
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz HD 
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz Hits
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END%20
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz Dance
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz RO! 
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NRJ Hits HD
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NRJ HITS
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NRJ HITS TV
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Utv
-http://edge126.rcs-rds.ro/utvedge/utvlivehls/chunklist_w686431265.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",U TV
-http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8%20
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",8FM
-http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",1MUSIC.HU
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",1HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",1Music HU
 http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",1MUSIC.HU
-http://stream.1music.hu/stream/1music.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Capital TV
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ALB MUSIC HD
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Beatz TV [FHD]
+http://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",CAPITAL U.S.A
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Capital TV
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Capital Radio
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ch au tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Chanson TV
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",California Music Channel
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",CMC USA
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Capital Tv
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",CHAU Tv
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",COLOSAL TV
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",COLOSAL TV Ciudad Neily
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING HD
-https://www.djing.com/tv/27777-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",CMC TV
+http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",CzWORKA
+http://stream85.polskieradio.pl/sat/streama.stream/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",D+ Duga plus rs
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DHTV denhaag tv
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DMF
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DSTV BG
+rtmp://46.249.95.140/live/livestream
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Duga TV
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",D-HOT
+https://www.djing.com/tv/h-02-fta.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING HOT HOT
 https://www.djing.com/tv/h-01-fta.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING IBIZA
-https://www.djing.com/tv/d-27777-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJing HOT Live
+https://www.djing.com/tv/28031-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING
+https://www.djing.com/tv/27963-03.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING M
+https://www.djing.com/tv/27971-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING HD
+https://www.djing.com/tv/27818-03.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING ANIMATION
+https://www.djing.com/tv/a-27971-04.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING ANIMATION HD
 https://www.djing.com/tv/a-27777-04.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING
-https://www.djing.com/tv/u-27777-04.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING SUMMER VIBES
-https://www.djing.com/tv/s-27777-03-summer-vibes.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING CLASSICS HD
+https://www.djing.com/tv/i-27777-03.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING DANCE
+https://www.djing.com/tv/i-27971-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING DANCE HD
+https://www.djing.com/tv/i-27777-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DIJING ELEKTRO ROCK
+https://www.djing.com/tv/s-27777-03-electro-rock.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING ELECTRO ROCK HD
+https://www.djing.com/tv/s-27963-04-electro-rock.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING FRENCH TOUCH
+https://www.djing.com/tv/s-27777-03-french-touch.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING FRENCH TOUCH M
+https://www.djing.com/tv/s-27963-04-french-touch.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING FRENCH TOUCH HD
+https://www.djing.com/tv/s-27777-04-french-touch.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING HENDONIST
+https://www.djing.com/tv/s-27777-03-hedonist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING HENDONIST HD
+https://www.djing.com/tv/s-27963-03-hedonist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING HITS
+https://www.djing.com/tv/i-27963-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING HITS HD
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING IBIZA
+https://www.djing.com/tv/d-27971-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING IBIZA HD
+https://www.djing.com/tv/d-27963-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING KARAOKE
+https://www.djing.com/tv/k-27963-03.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING KARAOKE M
+https://www.djing.com/tv/k-27963-04.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING KARAOKE HD
 https://www.djing.com/tv/k-27777-04.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Dream Tv
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ESKA BEST MUSIC TV
-http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ESKA PARTY TV
-http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Europa Plus
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/europa-plus-radio.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Fresh TV
-http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",FS1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",HEART TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",HEARTY TV MUSIC
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",HIT TV
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Hit Music
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING SUMMER VIBES
+https://www.djing.com/tv/s-27777-03-summer-vibes.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING SUMMER VIBES HD
+https://www.djing.com/tv/s-27963-04-summer-vibes.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING UNDERGROUND
+https://www.djing.com/tv/u-27971-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DÝJÝNG UNDERGROUND HD
+https://www.djing.com/tv/u-27777-04.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Efecto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",First Music Channel
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",First Music Channel HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",First Music Channel Russia HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Gong Base
+http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",H!T Music Channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",HIT RU
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",HOBOC TV
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",IMPACT TV
 http://89.36.10.12:8080
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",INDIES LIVE
-http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",JuCeTV US
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",K-Pop
-http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Kronehit
-http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Klipkar
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",M2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",M2O Music
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Jefimija HD
+rtmp://212.200.108.253/live/jefimija.flv
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Kanal 43
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Kcn 2 Tv
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Kcn 3 Tv
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Kiss TV
+http://46.20.136.59/live3/_definst_/kiss/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Kiss TV (ROM)
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Klipkar TV
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chunklist-b1200000.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",KURIAKOS MUSIC
+http://c2.manasat.com:1935/kmusic/kmusic3/TeamBlue.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",m2otv
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",m2otv
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",M2O Music
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",M2O Music 
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MC Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mi Musica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MIMUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Milliy TV
-http://milliy.tv/hls/index_480.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Movistar Musica
-http://b36642.cdn.telefonica.com/36642/ch08/3.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV (AZ)
-http://85.132.78.6:1935/live/muztv.stream/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Top Argentina
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Vox TV Old School
-https://stream.smcdn.pl/vox-t/vox_720p/chunklist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MusicBox UA
-http://212.26.132.86/hls/mb_ua.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Box (Slovakia)
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Melody Channel
+rtmp://186.155.200.118:1935/live/MelodyChannel
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",messinia
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MESSINIA WEB TV
+rtmp://176.9.123.140:1935/messinia/messinia
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz Dance
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz Hits
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Mooz RO
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Box
 http://213.81.153.221:8080/nasa
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Channel (ROM)
-rtmp://mobilestr3.livestream.com/livestreamiphone/1_music_channel
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Vox TV
-http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MUZZ ONE
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Music Box Gold
+http://live.musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV az
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV Dance
+http://51.255.135.234:8114/509
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV Hits
+http://51.255.135.234:8114/508
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV Rocks
+http://51.255.135.234:8114/511
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MTV LIVE HD
+http://persik.by/stream/2944/263250/10289.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MuzZone
 http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MVS Noticias
-http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NC+ MUSICA
-http://123.30.134.108:1935/live/nctlive/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",MYZ TV
+http://persik.by/stream/2944/263250/10207.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Nebiset
 http://hls.nebiset.tv/nebiset.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",O2 TV
-http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",one by 
-http://rtmp.one.by:1200
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",one by HD
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",one by FHD
-http://rtmp.one.by:2300
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",OTTO 8 FM TV
-http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Pandero Music
-http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Pandero Music Chile
-http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NRJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NRJ Hist
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",NRJ Hits HD
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Polskie Radio 24 WEB
+http://stream85.polskieradio.pl/sat/streamb.stream/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",PortalFoxMix Tv
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio 105 Tv
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ROMAN TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ROMAN TV Tr
+http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio 105 TV
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio 105 Network TV (IT)
+http://tv.105.net/live/105Test3/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Beverwijk
 http://84.22.97.59:80/beverwijk/studio/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Bruno
 http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio JK FM
-http://rtmp.cdn.upx.net.br:1935/7cdd_2/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio M-1 (LIT) WEB
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio M-1
 http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",RADIO 105 TV
-http://fms.105.net:1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",PortalFoxMix Tv
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Monte Carlo TV
+rtmp://fms.105.net/live/rmc1
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Monte Carlo TV
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Taormina TV
-http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Monte Carlo TV (IT)
+http://tv.105.net/live/rmc3/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Radio Tivu
 http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Relax
-http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Retro Tv
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",RETRO
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Rotana_Clip 
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Rotana_clip
 http://216.105.40.244/live/rotana_clip/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",shanson-tv
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/shanson-tv.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Slam! TV Live
-http://hls2.slamfm.nl/content/slamtv/slamtv_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SKY DE Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",RTV Zeri
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Sarajevo 1 Tv
+rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SEÑAL PROVINCIAL
+http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Sky Folk
+http://skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SKY DE Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SKY DE JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Telemusica HD
-http://186.155.200.118:1935/live/telemusica/chunklist_w1713664263.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRENDY
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TV 538 Live
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Virgin Radio
-http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Virgin TV Live
-http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Virgin
-http://fms.105.net:1935/live/virgin1/master.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Virgin TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",VTV HD
-http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL2
-http://highvolume03.streampartner.nl:1935/vleugels_hd2/livestream/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL4
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Silence TV
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",QUIERO MÚSICA
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",??? Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TOP SOUND
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRACE Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRACE Kitoko
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRACE Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRACE Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRACE Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TRACE Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TV MAS HD
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TVMas
+http://50.7.98.234:1935/rtv/videortv//master.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TVR
+http://canal22santiago.cl/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TVM3
+http://84.16.66.101:1935/livecast/_definst_/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",TV Tetova
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",UTV
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/chunklist_w482557446.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",UA TV
+http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL4 HD
 http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL5
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL5 HD
 http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL6
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL6 HD
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Xite NL2 HD
+http://highvolume03.streampartner.nl:1935/vleugels_hd2/livestream/index.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",VH1
+http://51.255.135.234:8114/507
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Zeta TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",ZFMRADIO.NL
+rtmp://kippingmultimediaal.nl:1935/live/ZFM1
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",****((ReMy-Clubbin/iTunes_Radio))****
 ****((ReMy-Clubbin/iTunes_Radio))****
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Baba Radyo
