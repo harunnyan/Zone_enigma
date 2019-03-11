@@ -3,24 +3,10 @@
 #DESCRIPTION === ★★REMY_ENIGMA | TURK_TEAM★★ ====
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/3550:Look TV
 #DESCRIPTION Look TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4070:Digi Sport 1 HD
-#DESCRIPTION Digi Sport 1 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8104/4080:Digi Sport 2 HD
-#DESCRIPTION Digi Sport 2 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8106/1036:Digi Sport 3
-#DESCRIPTION Digi Sport 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmiftvll.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b2000000.m3u8:Dubai Sports 4 HD
 #DESCRIPTION Dubai Sports 4 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8:SPORTSMAX
 #DESCRIPTION SPORTSMAX
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8115/30901:Eurosport 1
-#DESCRIPTION Eurosport 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30718:Eurosport 2
-#DESCRIPTION Eurosport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30719:Eurosport 2
-#DESCRIPTION Eurosport 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.255.135.234%3a8107/30701:Extreme Sports
-#DESCRIPTION Extreme Sports
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8:A SPOR HD
 #DESCRIPTION A SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca:TRT Spor HD
