@@ -3,6 +3,842 @@
 ****((ULUSAL))****
 #EXTINF:-1 group-title="****((ULUSAL))****",ATV
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://www.garaveli.de///spor.php?canli1&m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://www.garaveli.de///spor.php?canli2&m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://www.garaveli.de///spor.php?canli3&m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://www.garaveli.de///spor.php?canli4&m3u8
+#EXTINF:-1,TRT1 HD
+http://www.garaveli.de///iptv.php?trt1hd&m3u8
+#EXTINF:-1,TRT1 HD
+http://www.garaveli.de///iptv.php?trt1&m3u8
+#EXTINF:-1,ATV HD
+http://www.garaveli.de///iptv.php?atvhd&m3u8
+#EXTINF:-1,ATV
+http://www.garaveli.de///iptv.php?atv&m3u8
+#EXTINF:-1,Kanal D HD
+http://www.garaveli.de///iptv.php?kanaldhd&m3u8
+#EXTINF:-1,Kanal D
+http://www.garaveli.de///iptv.php?KanalD&m3u8
+#EXTINF:-1,SHOW HD
+https://ciner-live.ercdn.net/showtv-aes/playlist.m3u8?e=1549378806&st=rc7MpbarlVlb6T1tsWb-9w&tv=1
+#EXTINF:-1,SHOW TV
+http://www.garaveli.de///iptv.php?showtv&m3u8
+#EXTINF:-1,STAR HD
+http://www.garaveli.de///iptv.php?starhd&m3u8
+#EXTINF:-1,STAR TV
+http://www.garaveli.de///iptv.php?star&m3u8
+#EXTINF:-1,FOX HD
+http://www.garaveli.de///iptv.php?foxhd&m3u8
+#EXTINF:-1,TV8 HD
+http://www.garaveli.de///iptv.php?tv8hd&m3u8
+#EXTINF:0,TV8
+http://str.canlitvlive.io/kanal8/live.m3u8?tkn=wP_YzvdMFOcrrr6kS_KobQ&tms=1549386063
+#EXTINF:-1,TV8.5 HD
+http://www.garaveli.de///iptv.php?tv85hd&m3u8
+#EXTINF:-1,TV 8.5
+http://str.canlitvlive.io/kanal8b/live.m3u8?tkn=DmXHGqaIk5vpwxCJITSZag&tms=1549386067
+#EXTINF:-1,teve2 HD
+http://www.garaveli.de///iptv.php?teve2hd&m3u8
+#EXTINF:-1,360 HD
+http://www.garaveli.de///iptv.php?360&m3u8
+#EXTINF:-1,BEYAZ HD
+http://www.garaveli.de///iptv.php?beyaz&m3u8
+#EXTINF:-1,Kanal 7 HD
+http://www.garaveli.de///iptv.php?kanal7hd&m3u8
+#EXTINF:0,Kanal 7
+http://str.canlitvlive.io/kanal7/live.m3u8?tkn=DmXHGqaIk5vpwxCJITSZag&tms=1549386067
+#EXTINF:0,FLASH TV
+http://str.canlitvlive.io/flashtv/live.m3u8?tkn=tHsRtW2dvdE2_KDQafjcTw&tms=1549386068
+#EXTINF:-1,A2 HD
+http://www.garaveli.de///iptv.php?a2HD&m3u8
+#EXTINF:-1,SHOWMAX
+http://www.garaveli.de///iptv.php?showmax&m3u8
+#EXTINF:-1,DMAX HD T√úRKIYE
+http://www.garaveli.de///iptv.php?dmax&m3u8
+#EXTINF:-1,TLC HD
+http://www.garaveli.de///iptv.php?tlc&m3u8
+#EXTINF:-1,TRT AVAZ
+http://www.garaveli.de///iptv.php?trtavaz&m3u8
+#EXTINF:-1,*** AVRUPA ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT T√úRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,ATV AVRUPA
+http://www.garaveli.de///iptv.php?atvavrupa&m3u8
+#EXTINF:-1,Euro D
+http://www.garaveli.de///iptv.php?eurod&m3u8
+#EXTINF:-1,Show Turk HD
+https://ciner-live.ercdn.net/showtv-aes/playlist.m3u8?e=1549378806&st=rc7MpbarlVlb6T1tsWb-9w&tv=1
+#EXTINF:-1,EUROSTAR
+http://www.garaveli.de///iptv.php?eurostar&m3u8
+#EXTINF:0,TV8 int
+http://www.garaveli.de///iptv.php?tv8inthd&m3u8
+#EXTINF:0,Kanal 7 Avrupa
+http://str.canlitvlive.io/kanal7avrupa/live.m3u8?tkn=tHsRtW2dvdE2_KDQafjcTw&tms=1549386068
+#EXTINF:0,TGRT EU
+http://str.canlitvlive.io/tgrteu/live.m3u8?tkn=bQyY300PL-wOydq8Ki3t9Q&tms=1549386069
+#EXTINF:-1,Kanal Avrupa
+http://www.garaveli.de//////iptv.php?kavrupa&m3u8
+#EXTINF:-1,AKTIF TV Belcika
+http://www.garaveli.de///iptv.php?aktiftv&m3u8
+#EXTINF:-1,Isvicre TV
+http://www.garaveli.de///iptv.php?isvicre&m3u8
+#EXTINF:-1,MAXIMUM TV
+http://www.garaveli.de///iptv.php?maxtv&m3u8
+#EXTINF:-1,Viyana TV
+http://www.garaveli.de///iptv.php?viyana&m3u8
+#EXTINF:-1,EURO GENC TV LONDRA
+http://www.garaveli.de///iptv.php?eurogenc&m3u8
+#EXTINF:-1,*** HABER ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT HABER HD
+http://www.garaveli.de///iptv.php?trthaber&m3u8
+#EXTINF:-1,24 HD
+http://www.garaveli.de///iptv.php?24hd&m3u8
+#EXTINF:0,NTV HD
+http://www.garaveli.de///iptv.php?ntv&m3u8
+#EXTINF:-1,A HABER HD
+http://www.garaveli.de///iptv.php?ahaber&m3u8
+#EXTINF:0,A PARA HD
+http://www.garaveli.de///iptv.php?apara&m3u8
+#EXTINF:-1,TGRT Haber HD
+http://www.garaveli.de///iptv.php?tgrthaber&m3u8
+#EXTINF:-1,Haber Global HD
+http://www.garaveli.de///iptv.php?haberglobal&m3u8
+#EXTINF:-1,CNN T√úRK HD
+http://www.garaveli.de///iptv.php?cnn&m3u8
+#EXTINF:-1,HABER TURK HD
+http://www.garaveli.de///iptv.php?hturk&m3u8
+#EXTINF:-1,Bloomberg HT T√úRK
+https://ciner-live.ercdn.net/bloomberght/playlist.m3u8?e=1549378841&st=QojbGhkqVMyLcMIm-B3OBQ&tv=1
+#EXTINF:-1,AKIT HD
+http://www.garaveli.de///iptv.php?akithd&m3u8
+#EXTINF:-1,TV NET
+http://www.garaveli.de///iptv.php?tvnet&m3u8
+#EXTINF:-1,√úLKE HD
+http://www.garaveli.de///garaveliTurkiyemTv.php?ulketvhd&m3u8
+#EXTINF:0,Beng√ºt√ºrk
+http://str.canlitvlive.io/benguturktv/live.m3u8?tkn=bQyY300PL-wOydq8Ki3t9Q&tms=1549386069
+#EXTINF:-1,TELE 1
+http://www.garaveli.de///iptv.php?tele1&m3u8
+#EXTINF:-1,HALK TV
+http://www.garaveli.de///iptv.php?halk&m3u8
+#EXTINF:-1,ULUSAL KANAL
+http://www.garaveli.de///iptv.php?ulusal&m3u8
+#EXTINF:-1,TBMM TV
+http://www.garaveli.de///iptv.php?tbmm&m3u8
+#EXTINF:-1,*** SPOR ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT SPOR HD
+http://www.garaveli.de///iptv.php?trtspor&m3u8
+#EXTINF:-1,A SPOR HD
+http://www.garaveli.de///iptv.php?aspor&m3u8
+#EXTINF:-1,beIN SPORTS HABER
+http://www.garaveli.de///iptv.php?beinsports&m3u8
+#EXTINF:-1,Tivibu Spor HD
+http://www.garaveli.de///iptv.php?tivibuspor&m3u8
+#EXTINF:-1,SPORTS HD
+http://www.garaveli.de///garaveliTurkiyemTv.php?sportstv&m3u8
+#EXTINF:-1,IDMAN TV
+http://www.garaveli.de///iptv.php?idman&m3u8
+#EXTINF:-1,TURKMEN SPORT 
+http://www.garaveli.de///iptv.php?turkmen&m3u8
+#EXTINF:-1,KazSport
+http://www.garaveli.de///iptv.php?kazspor&m3u8
+#EXTINF:-1,LOOK SPORT
+http://www.garaveli.de///iptv.php?looksport&m3u8
+#EXTINF:-1,LOOK PLUS
+http://www.garaveli.de///iptv.php?lookplus&m3u8
+#EXTINF:-1,SKY SPORT NEWS HD
+http://www.garaveli.de///iptv.php?skysportnews&m3u8
+#EXTINF:-1,Setanta Sports Eurasia
+http://www.garaveli.de///iptv.php?setantasports&m3u8
+#EXTINF:-1,Setanta Sport +
+http://www.garaveli.de///iptv.php?setantasport&m3u8
+#EXTINF:-1,ESPN
+http://www.garaveli.de///iptv.php?espn&m3u8
+#EXTINF:-1,ESPN 2
+http://www.garaveli.de///iptv.php?espn2&m3u8
+#EXTINF:-1,Flow  Sports 1
+http://www.garaveli.de///iptv.php?flowsport&m3u8
+#EXTINF:-1,SportsMax
+http://www.garaveli.de///iptv.php?sportsmax&m3u8
+#EXTINF:-1,SportsMax 2 
+http://www.garaveli.de///iptv.php?sportsmax2&m3u8
+#EXTINF:-1,Match Football 1 HD 
+http://www.garaveli.de///iptv.php?match1&m3u8
+#EXTINF:-1,Match Football 2 HD
+http://www.garaveli.de///iptv.php?match2&m3u8
+#EXTINF:-1,Match Football 3 HD
+http://www.garaveli.de///iptv.php?match3&m3u8
+#EXTINF:-1,BJK TV 
+http://www.garaveli.de///iptv.php?bjk&m3u8
+#EXTINF:-1,FB TV
+http://www.garaveli.de///iptv.php?fbtv&m3u8
+#EXTINF:-1,GS TV
+http://www.garaveli.de///iptv.php?gstv&m3u8
+#EXTINF:-1,YENI MALATYA SPOR 
+http://www.garaveli.de///iptv.php?ymalatya&m3u8
+#EXTINF:-1,Fanatik TV
+http://www.garaveli.de///iptv.php?fanatik&m3u8
+#EXTINF:-1,*** M√úZIK ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT M√úZIK HD
+http://www.garaveli.de///iptv.php?trtmuzik&m3u8
+#EXTINF:-1,POWER HD T√úRK
+http://www.garaveli.de///iptv.php?powerturk&m3u8
+#EXTINF:-1,DREAM T√úRK HD
+http://www.garaveli.de///iptv.php?dreamturk&m3u8
+#EXTINF:-1,KRAL HD
+http://www.garaveli.de///iptv.php?kral&m3u8
+#EXTINF:-1,KRAL POP HD
+http://www.garaveli.de///iptv.php?kralpophd&m3u8
+#EXTINF:-1,KRAL PERFORMANS
+http://www.garaveli.de///iptv.php?kralperformans&m3u8
+#EXTINF:-1,KRAL POP AKUSTIK
+http://www.garaveli.de///iptv.php?kralakustik&m3u8
+#EXTINF:-1,KRAL POP KONSER
+http://www.garaveli.de///iptv.php?kralkonser&m3u8
+#EXTINF:-1,NR1 T√ºrk HD
+http://www.garaveli.de///iptv.php?nr1turk&m3u8
+#EXTINF:-1,NR1 DAMAR
+http://www.garaveli.de///iptv.php?nr1damar&m3u8
+#EXTINF:-1,Milyon TV
+http://www.garaveli.de///iptv.php?1milyon&m3u8
+#EXTINF:-1,MUZ TV
+http://www.garaveli.de///iptv.php?muztv&m3u8
+#EXTINF:-1,Slow Karadeniz
+http://www.garaveli.de///iptv.php?slowkaradeniz&m3u8
+#EXTINF:-1,MAVI   KARA  DENIZ
+http://www.garaveli.de///iptv.php?mavik&m3u8
+#EXTINF:0,VATAN TV
+http://str.canlitvlive.io/vatantv/live.m3u8?tkn=bQyY300PL-wOydq8Ki3t9Q&tms=1549386069
+#EXTINF:-1,D√úG√úN TV
+http://www.garaveli.de///iptv.php?dugun&m3u8
+#EXTINF:-1,*** DINI ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT DIYANET
+http://www.garaveli.de///iptv.php?trtdiyanet&m3u8
+#EXTINF:-1,TGRT BELGESEL
+http://www.garaveli.de///iptv.php?tgrtbelgesel&m3u8
+#EXTINF:-1,LALEG√úL TV
+http://www.garaveli.de///iptv.php?lalegul&m3u8
+#EXTINF:-1,MEDENIYET TV
+http://www.garaveli.de///iptv.php?medeniyet&m3u8
+#EXTINF:-1,MEDINE TV
+http://www.garaveli.de///iptv.php?medine&m3u8
+#EXTINF:-1,SEMERKAND TV 
+http://www.garaveli.de///iptv.php?semerkand&m3u8
+#EXTINF:-1,KUDUS TV
+http://www.garaveli.de///iptv.php?kudus&m3u8
+#EXTINF:-1,KABE TV 
+http://www.garaveli.de///iptv.php?kabe&m3u8
+#EXTINF:-1,AL SUNNAH 
+http://www.garaveli.de///iptv.php?alsunnah&m3u8
+#EXTINF:-1,AYAT 
+http://www.garaveli.de///iptv.php?ayat&m3u8
+#EXTINF:-1,*** BELGESEL ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT BELGESEL
+http://www.garaveli.de///iptv.php?trtbelgesel&m3u8
+#EXTINF:-1,Business Channel T√ºrk
+http://www.garaveli.de///iptv.php?business&m3u8
+#EXTINF:-1,KANAL WOMAN TV
+http://www.garaveli.de///iptv.php?woman&m3u8
+#EXTINF:-1,BEREKET TV
+http://www.garaveli.de///iptv.php?bereket&m3u8
+#EXTINF:-1,ciftcin
+http://www.garaveli.de///iptv.php?ciftci&m3u8
+#EXTINF:-1,yaban
+http://www.garaveli.de///iptv.php?yaban&m3u8
+#EXTINF:-1,TARIM TV
+tarim
+#EXTINF:-1,*** COCUK ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT COCUK
+http://www.garaveli.de///iptv.php?trtcocuk&m3u8
+#EXTINF:-1,MINIKA COCUK
+http://www.garaveli.de///iptv.php?minikac&m3u8
+#EXTINF:-1,MINIKA GO
+http://www.garaveli.de///iptv.php?minikago&m3u8
+#EXTINF:0,Disney T√ºrkiye
+http://str.canlitvlive.io/disneychannel/live.m3u8?tkn=bQyY300PL-wOydq8Ki3t9Q&tms=1549386069
+#EXTINF:0,Cartoon Network
+http://str.canlitvlive.io/cartoonnetwork/live.m3u8?tkn=ELtAzGyCkgwPFPq57PQSOg&tms=1549386070
+#EXTINF:-1,Tom & Jerry
+http://www.garaveli.de///iptv.php?tom&m3u8 
+#EXTINF:-1,RIC
+http://www.garaveli.de///iptv.php?ric&m3u8
+#EXTINF:-1,nick HD
+http://www.garaveli.de///iptv.php?nick&m3u8
+#EXTINF:-1,KIKA HD
+http://www.garaveli.de///iptv.php?kika&m3u8 
+#EXTINF:-1,TRT OKUL
+http://www.garaveli.de///iptv.php?trtokul&m3u8
+#EXTINF:-1,*** FILM KANALLARI***
+http://46.20.7.125:80
+#EXTINF:-1,CINE1 HD
+http://www.garaveli.de///iptv.php?cine1&m3u8
+#EXTINF:-1,CINE2 HD
+http://www.garaveli.de///iptv.php?cine2&m3u8
+#EXTINF:-1,KEMAL SUNAL TV
+http://www.garaveli.de///iptv.php?cine3&m3u8
+#EXTINF:-1,FRM TV
+http://www.garaveli.de///iptv.php?frmtv&m3u8 
+#EXTINF:-1,TORBA HD
+http://www.garaveli.de///iptv.php?torba&m3u8
+#EXTINF:-1,FX HD
+http://www.garaveli.de///garaveliTurkiyemTv.php?fx&m3u8
+#EXTINF:-1,Sony Movie Channel HD
+http://www.garaveli.de///iptv.php?sony&m3u8
+#EXTINF:-1,Mello TV
+http://www.garaveli.de///iptv.php?mellotv&m3u8
+#EXTINF:-1,DUBAI ONE
+http://www.garaveli.de///iptv.php?dubaione&m3u8
+#EXTINF:-1,WIXLAR
+http://www.garaveli.de///iptv.php?wixlar&m3u8
+#EXTINF:-1,*** T√úRKFLIX***
+http://46.20.7.125:80
+#EXTINF:-1,1 Kezban 1 Mahmut: Adana Yollarinda
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/12/12083/video.smil/playlist.m3u8
+#EXTINF:-1,Aile Arasinda
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/14/14396/video.smil/playlist.m3u8
+#EXTINF:-1,Ailecek Saskiniz
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/14/14801/video.smil/playlist.m3u8
+#EXTINF:-1,Arapsaci
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/15/15043/video.smil/playlist.m3u8
+#EXTINF:-1,Askopat
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/11/10961/video.smil/playlist.m3u8
+#EXTINF:-1,Benim Adim Feridun
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/12/12161/video.smil/playlist.m3u8 
+#EXTINF:-1,Bir Baba Hindu
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/11/11749/video.smil/playlist.m3u8
+#EXTINF:-1,Bizim K√∂y√ºn Sarkisi
+http://cdn4.video.az:9000/stream/_definst_/smil:movie/14/14785/video.smil/playlist.m3u8
+#EXTINF:-1,B√ºc√ºr
+http://cdn4.video.az:9000/stream/_definst_/smil:movie/15/15313/video.smil/playlist.m3u8
+#EXTINF:-1,Cakallarla Dans 4 
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/12/11842/video.smil/playlist.m3u8 
+#EXTINF:-1,Calgi Cengi Ikimiz
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/12/12510/video.smil/playlist.m3u8 
+#EXTINF:-1,√áam Yarmasi 
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/14/14149/video.smil/playlist.m3u8
+#EXTINF:-1,Can Tertip 
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/9/9324/video.smil/playlist.m3u8 
+#EXTINF:-1,Cebimdeki Yabanci
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/14/14589/video.smil/playlist.m3u8
+#EXTINF:-1,Cici Babam
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/14/14847/video.smil/playlist.m3u8
+#EXTINF:-1,Cing√∂z Recai
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/13/13768/video.smil/playlist.m3u8 
+#EXTINF:-1,Deli Ask
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/13/12855/video.smil/playlist.m3u8
+#EXTINF:-1,Deli Dumrul
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/13/13613/video.smil/playlist.m3u8
+#EXTINF:-1,Deliha 2 
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/14/14350/video.smil/playlist.m3u8
+#EXTINF:-1,D√∂nerse Senindir
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/12/12375/video.smil/playlist.m3u8
+#EXTINF:-1,D√∂rt K√∂se
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/13/13517/video.smil/playlist.m3u8
+#EXTINF:-1,Zengin Kismet
+http://cdn4.video.az:9000/stream/_definst_/smil:movie/15/15295/video.smil/playlist.m3u8
+#EXTINF:-1,D√ºg√ºm Salonu
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/14/14657/video.smil/playlist.m3u8
+#EXTINF:-1,En G√ºzeli
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/9/9378/video.smil/playlist.m3u8
+#EXTINF:-1,Enes Batur Hayal mi Ger√ßek mi?
+http://cdn12.video.az:9000/stream/_definst_/smil:movie/14/14398/video.smil/playlist.m3u8
+#EXTINF:-1,Eski Sevgili 
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/13/13001/video.smil/playlist.m3u8
+#EXTINF:-1,Ev Kira Semt Bizim
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/14/14615/video.smil/playlist.m3u8
+#EXTINF:-1,Eyvah Karim
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/15/14902/video.smil/playlist.m3u8
+#EXTINF:-1,Git Basimdan
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/9/9640/video.smil/playlist.m3u8
+#EXTINF:-1,Genis Aile 2: Her T√ºrl√º
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/12/11872/video.smil/playlist.m3u8
+#EXTINF:-1,G√∂revimiz Tatil
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/14/14751/video.smil/playlist.m3u8
+#EXTINF:-1,G√∂r√ºmce
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/12/12125/video.smil/playlist.m3u8
+#EXTINF:-1,Hasret Bitti
+http://cdn4.video.az:9000/stream/_definst_/smil:movie/12/12022/video.smil/playlist.m3u8
+#EXTINF:-1,Hep Yek 2
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/12/12429/video.smil/playlist.m3u8
+#EXTINF:-1,Ilk √ñp√ºc√ºk 
+http://cdn4.video.az:9000/stream/_definst_/smil:movie/14/14215/video.smil/playlist.m3u8
+#EXTINF:-1,Iftarlik Gazoz
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/11/11578/video.smil/playlist.m3u8
+#EXTINF:-1,Kacma Birader 
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/11/11062/video.smil/playlist.m3u8
+#EXTINF:-1,Kardesim Benim 2 
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/14/14258/video.smil/playlist.m3u8
+#EXTINF:-1,Ketenpere 
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/13/13608/video.smil/playlist.m3u8
+#EXTINF:-1,Kizkaciran 
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/11/11198/video.smil/playlist.m3u8
+#EXTINF:-1,Kocan Kadar Konus: Dirilis
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/10/9911/video.smil/playlist.m3u8
+#EXTINF:-1,Kolonya Cumhuriyeti
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/13/12871/video.smil/playlist.m3u8
+#EXTINF:-1,Kolpacino 3. Devre
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/10/10595/video.smil/playlist.m3u8
+#EXTINF:-1,Korku Komedi: Bana Normal Aktiviteler 
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/12/12495/video.smil/playlist.m3u8 
+#EXTINF:-1,Limonata
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/9/8717/video.smil/playlist.m3u8
+#EXTINF:-1,Maide'nin Altin G√ºn√º 
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/14/14311/video.smil/playlist.m3u8
+#EXTINF:-1,Merdiven Baba
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/9/9375/video.smil/playlist.m3u8
+#EXTINF:-1,Mezarci
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/14/13846/video.smil/playlist.m3u8
+#EXTINF:-1,Mutluluk Zamani
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/14/14150/video.smil/playlist.m3u8
+#EXTINF:-1,Recep Ivedik 5
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/13/13187/video.smil/playlist.m3u8
+#EXTINF:-1,Oflu Hoca'nin Sifresi 3 
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/14/14800/video.smil/playlist.m3u8
+#EXTINF:-1,√ñl√ºml√º D√ºnya
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/14/14567/video.smil/playlist.m3u8
+#EXTINF:-1,R√ºzgar
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/14/14120/video.smil/playlist.m3u8
+#EXTINF:-1,Piyasadan B√ºy√ºk Alacagimiz Var
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/9/9377/video.smil/playlist.m3u8
+#EXTINF:-1,Salur Kazan: Zoraki Kahraman
+http://cdn2.video.az:9000/stream/_definst_/smil:movie/14/13967/video.smil/playlist.m3u8
+#EXTINF:-1,Sansimi Seveyim 
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/14/13879/video.smil/playlist.m3u8
+#EXTINF:-1,Sen Kiminle Dans Ediyorsun?
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/14/14405/video.smil/playlist.m3u8
+#EXTINF:-1,Seni Seven √ñls√ºn
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/12/11875/video.smil/playlist.m3u8
+#EXTINF:-1,Sipsak Anadolu 
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/8/8219/video.smil/playlist.m3u8
+#EXTINF:-1,Sofra Sirlarin
+http://cdn12.video.az:9000/stream/_definst_/smil:movie/14/14566/video.smil/playlist.m3u8
+#EXTINF:-1,Sol Serit
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/11/10838/video.smil/playlist.m3u8
+#EXTINF:-1,S√ºmela'nin Sifresi 3: C√ºnyor Temel
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/13/12969/video.smil/playlist.m3u8
+#EXTINF:-1,Tatlim Tatlim
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/12/12746/video.smil/playlist.m3u8
+#EXTINF:-1,Tatli Seyler
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/13/13218/video.smil/playlist.m3u8
+#EXTINF:-1,Ver Kac
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/13/13475/video.smil/playlist.m3u8
+#EXTINF:-1,Vezir Parmagi 
+http://cdn7.video.az:9000/stream/_definst_/smil:movie/12/12417/video.smil/playlist.m3u8
+#EXTINF:-1,Yaktin Beni
+http://cdn11.video.az:9000/stream/_definst_/smil:movie/10/10427/video.smil/playlist.m3u8
+#EXTINF:-1,Yav He He: Sabri ile Medeni
+http://cdn8.video.az:9000/stream/_definst_/smil:movie/12/12004/video.smil/playlist.m3u8
+#EXTINF:-1,Yasamak G√ºzel Sey
+http://cdn10.video.az:9000/stream/_definst_/smil:movie/12/12767/video.smil/playlist.m3u8
+#EXTINF:-1,Yol Arkadasim
+http://cdn6.video.az:9000/stream/_definst_/smil:movie/14/13969/video.smil/playlist.m3u8
+#EXTINF:-1,Zengin Kismet
+http://cdn4.video.az:9000/stream/_definst_/smil:movie/15/15295/video.smil/playlist.m3u8
+#EXTINF:-1,*** YEREL ***
+http://46.20.7.125:80
+#EXTINF:-1,38 Kent TV - Kayseri 
+http://www.garaveli.de///iptv.php?38kent&m3u8
+#EXTINF:-1,ALTAS TV - Ordu 
+http://www.garaveli.de///iptv.php?atlastv&m3u8
+#EXTINF:-1,Merkez TV - Bolu 
+http://www.garaveli.de///iptv.php?bolu&m3u8
+#EXTINF:-1,BRTV - Karab√ºk
+http://www.garaveli.de///iptv.php?brtv&m3u8
+#EXTINF:-1,BURSA TV
+http://www.garaveli.de///iptv.php?bursa&m3u8
+#EXTINF:-1,CAY TV - Rize
+http://www.garaveli.de///iptv.php?caytv&m3u8
+#EXTINF:-1,DEHA TV - Denizli
+http://www.garaveli.de///iptv.php?deha&m3u8
+#EXTINF:-1,ELMAS TV -Zonguldak
+http://www.garaveli.de///iptv.php?elmas&m3u8
+#EXTINF:-1,ERTV - Malatya
+http://www.garaveli.de///iptv.php?ertv&m3u8
+#EXTINF:-1,ETV - Manisa
+http://www.garaveli.de///iptv.php?etv&m3u8
+#EXTINF:-1,FRTV - Fethiye
+http://www.garaveli.dem///iptv.php?etv&m3u8
+#EXTINF:-1,G√ºnaydin TV - Izmir 
+http://www.garaveli.de///iptv.php?gunaydin&m3u8
+#EXTINF:-1,HABER61 TV - Trabzon
+http://www.garaveli.de///iptv.php?haber61&m3u8
+#EXTINF:-1,HABER AKS TV - Samsun
+http://www.garaveli.de///iptv.php?haberaks&m3u8
+#EXTINF:-1,ICEL TV - Izmir
+http://www.garaveli.de///iptv.php?icel&m3u8
+#EXTINF:-1,ISTANBUL TV
+http://www.garaveli.de///iptv.php?istanbultv&m3u8
+#EXTINF:-1,KANAL 15 - Bucak
+http://www.garaveli.de///iptv.php?k15&m3u8
+#EXTINF:-1,KANAL 19 - Corum
+http://www.garaveli.de///iptv.php?k19&m3u8
+#EXTINF:-1,KANAL 23 - Elazig
+http://www.garaveli.de///iptv.php?k23&m3u8
+#EXTINF:-1,KANAL 26 - Eskisehir
+http://www.garaveli.de///iptv.php?k26&m3u8
+#EXTINF:-1,KANAL 33 - Mersin
+http://www.garaveli.de///iptv.php?k33&m3u8
+#EXTINF:-1,KANAL 68 - Aksaray
+http://www.garaveli.de///iptv.php?k68&m3u8
+#EXTINF:-1,KADIRGA - Trabzon
+http://www.garaveli.de///iptv.php?kadirga&m3u8
+#EXTINF:-1,KANAL V VIP - Antalya
+http://www.garaveli.de///iptv.php?kanalv&m3u8
+#EXTINF:-1,Kanal Z - Zonguldak
+http://www.garaveli.de///iptv.php?zonguldak&m3u8
+#EXTINF:-1,Kardelen TV
+http://www.garaveli.de///iptv.php?kardelen&m3u8
+#EXTINF:-1,KRT HD - Trabzon
+http://www.garaveli.de///iptv.php?krthd&m3u8
+#EXTINF:-1,MAVI   KARA  DENIZ - Giresun
+http://www.garaveli.de///iptv.php?mavi&m3u8
+#EXTINF:0,MELTEM TV - Istanbul
+http://str.canlitvlive.io/meltemtv/live.m3u8?tkn=ELtAzGyCkgwPFPq57PQSOg&tms=1549386070
+#EXTINF:-1,MERCAN - Adiyaman
+http://www.garaveli.de///iptv.php?mercan&m3u8
+#EXTINF:-1,METRO TV - Adana
+http://www.garaveli.de///iptv.php?metro&m3u8
+#EXTINF:-1,OlayT√ºrk - Kayseri
+http://www.garaveli.de///iptv.php?olay&m3u8
+#EXTINF:-1,√ñnc√º - D√ºzce
+http://www.garaveli.dem///iptv.php?oncu&m3u8
+#EXTINF:-1,ORT - Osmaniye
+http://www.garaveli.de///iptv.php?ort&m3u8
+#EXTINF:-1,TON - Canakkale
+http://www.garaveli.de///iptv.php?ton&m3u8
+#EXTINF:-1,TRAKYA TURK - Tekirdag
+http://www.garaveli.de///iptv.php?trakya&m3u8
+#EXTINF:-1,TV 1 - Kayseri
+http://www.garaveli.de///iptv.php?tv1&m3u8
+#EXTINF:-1,TV 41 - Kocaeli
+http://www.garaveli.de///iptv.php?tv41&m3u8
+#EXTINF:-1,TV 52 - Ordu
+http://www.garaveli.de///iptv.php?tv52&m3u8
+#EXTINF:0,TV100 Balikesir
+http://str.canlitvlive.io/tv100/live.m3u8?tkn=ELtAzGyCkgwPFPq57PQSOg&tms=1549386070
+#EXTINF:-1,TV A - Adana
+http://www.garaveli.de///iptv.php?tva&m3u8
+#EXTINF:-1,TV DEN - Denizli
+http://www.garaveli.de///iptv.php?tvden&m3u8
+#EXTINF:-1,TVEM - Istanbul
+http://www.garaveli.de///iptv.php?tvem&m3u8
+#EXTINF:-1,Vizyon 58 - Sivas
+http://www.garaveli.de///iptv.php?vizyon58&m3u8
+#EXTINF:-1,YASAM TV - Istanbul
+http://www.garaveli.de///iptv.php?yasam&m3u8
+#EXTINF:-1,*** ALMANCA ***
+http://46.20.7.125:80
+#EXTINF:-1,Das Erste HD
+http://www.garaveli.de///iptv.php?erste&m3u8
+#EXTINF:-1,ZDF HD
+http://www.garaveli.de///iptv.php?zdf&m3u8
+#EXTINF:-1,ONE HD
+http://www.garaveli.de///iptv.php?onehd&m3u8
+#EXTINF:-1,ZDF Neo HD
+http://www.garaveli.de///iptv.php?zdfneo&m3u8
+#EXTINF:-1,SERVUS TV
+http://www.garaveli.de///iptv.php?servus&m3u8
+#EXTINF:-1,ARTE HD
+http://www.garaveli.de///iptv.php?arte&m3u8
+#EXTINF:-1,3sat HD
+http://www.garaveli.de///iptv.php?3sat&m3u8
+#EXTINF:-1,ORF 2 HD
+http://www.garaveli.de///iptv.php?orf2&m3u8
+#EXTINF:-1,NDR HD
+http://www.garaveli.de///iptv.php?ndr&m3u8
+#EXTINF:-1,WDR HD
+http://www.garaveli.de///iptv.php?wdr&m3u8
+#EXTINF:-1,HR HD
+http://www.garaveli.de///iptv.php?hr&m3u8
+#EXTINF:-1,BR HD
+http://www.garaveli.de///iptv.php?br&m3u8
+#EXTINF:-1,SWR HD
+http://www.garaveli.de///iptv.php?swr&m3u8
+#EXTINF:-1,RBB HD
+http://www.garaveli.de///iptv.php?rbb&m3u8
+#EXTINF:-1,MDR HD
+http://www.garaveli.de///iptv.php?mdr&m3u8
+#EXTINF:-1,WELT
+http://www.garaveli.de///iptv.php?welt&m3u8
+#EXTINF:-1,DW
+http://www.garaveli.de///iptv.php?dw&m3u8
+#EXTINF:-1,phoenix
+http://www.garaveli.de///iptv.php?phoenix&m3u8
+#EXTINF:-1,Welt der Wunder
+http://www.garaveli.de///iptv.php?weltwunder&m3u8
+#EXTINF:-1,ZDF Info HD
+http://www.garaveli.de///iptv.php?zdfinfo&m3u8
+#EXTINF:-1,tagesschau24
+http://www.garaveli.de///iptv.php?tagesschau&m3u8
+#EXTINF:-1,ARD ALPHA
+http://www.garaveli.de///iptv.php?ardalpha&m3u8
+#EXTINF:-1,DRF1
+http://www.garaveli.de///iptv.php?drf1&m3u8
+#EXTINF:-1,Franken Fernsehen
+http://www.garaveli.de///iptv.php?franken&m3u8
+#EXTINF:-1,Hamburg 1
+http://www.garaveli.de///iptv.php?hamburg1&m3u8
+#EXTINF:-1,tv.berlin
+http://www.garaveli.de///iptv.php?tvberlin&m3u8
+#EXTINF:-1,*** INGILIZCE ***
+http://46.20.7.125:80
+#EXTINF:-1,Al Jazeera
+http://www.garaveli.de///iptv.php?aljazeera&m3u8
+#EXTINF:-1,Bloomberg
+http://www.garaveli.de///iptv.php?bloomberg&m3u8
+#EXTINF:-1,Fox BN
+http://www.garaveli.de///iptv.php?foxbn&m3u8
+#EXTINF:-1,RTE News Now
+http://www.garaveli.de///iptv.php?rte&m3u8
+#EXTINF:-1,SKY NEWS
+http://www.garaveli.de///iptv.php?skynews&m3u8
+#EXTINF:-1,NHK Japan
+http://www.garaveli.de///iptv.php?nhk&m3u8
+#EXTINF:-1,Arirang TV Korea
+http://www.garaveli.de///iptv.php?arriang&m3u8
+#EXTINF:-1,Channel News Asia Singapore
+http://www.garaveli.de///iptv.php?singapore&m3u8
+#EXTINF:-1,Russia Today Documentary
+http://www.garaveli.de///iptv.php?rt&m3u8
+#EXTINF:-1,CGTN Documentary
+http://www.garaveli.de///iptv.php?CGTN&m3u8
+#EXTINF:-1,Voice of America
+http://www.garaveli.de///iptv.php?voice&m3u8
+#EXTINF:-1,ABC News
+http://www.garaveli.de///iptv.php?abcnews&m3u8
+#EXTINF:-1,BYU TV
+http://www.garaveli.de///iptv.php?byutv&m3u8
+#EXTINF:-1,AMG TV
+http://www.garaveli.de///iptv.php?amgtv&m3u8
+#EXTINF:-1,Movee 4U
+http://www.garaveli.de///iptv.php?movee&m3u8
+#EXTINF:-1,Three New Zealand
+http://www.garaveli.de///iptv.php?tnz&m3u8
+#EXTINF:-1,Red Bull TV
+http://www.garaveli.de///iptv.php?redbull&m3u8
+#EXTINF:-1,*** FRANSIZCA***
+http://46.20.7.125:80
+#EXTINF:-1,ARTE FR
+http://www.garaveli.de///iptv.php?artefr&m3u8 
+#EXTINF:-1,France24
+http://www.garaveli.de///iptv.php?fr24&m3u8
+#EXTINF:-1,RTBF LA UNE
+http://www.garaveli.de///iptv.php?rtb1&m3u8
+#EXTINF:-1,RTBF LA DEUX
+http://www.garaveli.de///iptv.php?rtb2&m3u8
+#EXTINF:-1,RTBF LA TROIS
+http://www.garaveli.de///iptv.php?rtb3&m3u8
+#EXTINF:-1,RTBF LA PREMIERE VISION
+http://www.garaveli.de///iptv.php?rtbpv&m3u8
+#EXTINF:-1,RTBF VIVACITE VISION
+http://www.garaveli.de///iptv.php?rtbvv&m3u8
+#EXTINF:-1,RTBF PURE VISION
+http://www.garaveli.de///iptv.php?rtbpuv&m3u8
+#EXTINF:-1,RTBF TARMAC
+http://www.garaveli.de///iptv.php?rtbf&m3u8
+#EXTINF:-1,BFM Paris
+http://www.garaveli.de///iptv.php?bfm&m3u8
+#EXTINF:-1,BX1 TV
+http://www.garaveli.de///iptv.php?bx1&m3u8
+#EXTINF:-1,Canal Alpha
+http://www.garaveli.de///iptv.php?canalalpha&m3u8
+#EXTINF:-1,Rouge TV
+http://www.garaveli.de///iptv.php?rouge&m3u8
+#EXTINF:-1,Vosges TV
+http://www.garaveli.de///iptv.php?vosges&m3u8
+#EXTINF:-1,*** TURKU ***
+http://46.20.7.125:80
+#EXTINF:-1,AZ ATV HD
+http://www.garaveli.de///iptv.php?azatv&m3u8
+#EXTINF:-1,ATR (Kirim Tatar)
+http://www.garaveli.de///iptv.php?atr&m3u8
+#EXTINF:-1,KANAL TURAN
+http://www.garaveli.de///iptv.php?kanalturan&m3u8
+#EXTINF:-1,G√úNAZ TV
+http://www.garaveli.de///iptv.php?gunaz&m3u8
+#EXTINF:-1,MUZ TV
+http://www.garaveli.de///iptv.php?muztv&m3u8
+#EXTINF:-1,Altyn Asyr
+http://www.garaveli.de///iptv.php?Altyn&m3u8
+#EXTINF:-1,Asgabat
+http://www.garaveli.de///iptv.php?Asgabat&m3u8
+#EXTINF:-1,Turkmen Olazi
+http://www.garaveli.de///iptv.php?Olazi&m3u8
+#EXTINF:-1,aslyk
+http://www.garaveli.de///iptv.php?aslyk&m3u8
+#EXTINF:-1,T√ºrkmen Sport
+http://www.garaveli.de///iptv.php?turkmen&m3u8
+#EXTINF:-1,QazSport
+http://www.garaveli.de///iptv.php?kazspor&m3u8
+#EXTINF:-1,Almaty TV HD
+http://www.garaveli.de///iptv.php?Almaty&m3u8
+#EXTINF:-1,7 Kanal
+http://www.garaveli.de///iptv.php?7Kanal&m3u8
+#EXTINF:-1,*** ARNAVUT ***
+http://46.20.7.125:80
+#EXTINF:-1,RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist.m3u8
+#EXTINF:-1,MRT 2
+http://178.132.6.97:8080/MRT21/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1,RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1,IN
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,ALB MUSIC HD
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1,EURO AL MUSIC HD
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:-1,OPOJA MUSIC HD
+http://178.132.6.97/TVOpoja1/index.m3u8
+#EXTINF:-1,RTVZIK
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:-1,TV TETOVA
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+#EXTINF:-1,*** SLAVCA  ***
+http://46.20.7.125:80
+#EXTINF:-1,FACE TV HD
+http://178.132.6.97/FACETV1/index.m3u8
+#EXTINF:-1,BN
+http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8
+#EXTINF:-1,Pink
+http://46.40.5.99:8000/pink_high
+#EXTINF:-1,RTR Rozaje HD
+http://178.132.6.97/tvrozaje/index.m3u8
+#EXTINF:-1,RTCG SAT
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+#EXTINF:-1,ROMA TV
+http://185.46.161.3/hls/sd.m3u8?
+#EXTINF:-1,TARAF TV
+http://d201h06fdwdct7.cloudfront.net/taraf/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1,TV Moldova 1
+http://live.trm.md:1935/live/M1Mlive/playlist.m3u8
+#EXTINF:-1,TV Moldova 2
+http://live.trm.md:1935/live/M2Mlive/playlist.m3u8
+#TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:-1,*** YUNANCA ***
+http://46.20.7.125:80
+#EXTINF:-1,ANT1 HD
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:-1,Alpha TV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:-1,Mega TV 
+http://umutiptv.cf/youtube.php?kanal=megagr&m3u8
+#EXTINF:-1,NETV TORONTO
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+#EXTINF:-1,EPSILON TV HD
+http://channels.squel.media/maroussi80s
+#EXTINF:-1,ERT World
+http://umutiptv.cf/youtube.php?kanal=ertworld&m3u8
+#EXTINF:-1,Sigma TV
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1,FOX Greece
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1,CANNALI
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1,XALASTRA TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1,TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1,ARENA
+http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
+#EXTINF:-1,STAR HD Greece
+http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
+#EXTINF:-1,START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1,ANT1 HD
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:-1,ELLAS TV
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+#EXTINF:-1,NEA TV
+https://live.neatv.gr:8888/hls/neatv_low/index.m3u8
+#EXTINF:-1,RIK TV
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1,TV100 Greece
+https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:-1,ERT1
+http://umutiptv.cf/youtube.php?kanal=ert1&m3u8
+#EXTINF:-1,ERT2
+http://umutiptv.cf/youtube.php?kanal=ert2&m3u8
+#EXTINF:-1,ERT3
+http://umutiptv.cf/youtube.php?kanal=ert3&m3u8
+#EXTINF:-1,*** ARAPCA ***
+http://46.20.7.125:80
+#EXTINF:-1,TRT ARABIA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,ABU DHABI DRAMA HD
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+#EXTINF:-1,Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8?
+#EXTINF:-1,Al Aoula International
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,DUBAI TV HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,DUBAI ONE
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b750000.m3u8
+#EXTINF:-1,KTV Al Arabi
+https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8?
+#EXTINF:-1,KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1,KTV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,AD SPORT EXTRA
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:-1,Dubai Sports 4 HD
+http://dmi.mangomolo.com:1935/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:-1,AlJazeera
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:-1,Alkawthar
+https://g2j3m0qo-live.arvancdn.com/alkawthar/alkawthar.m3u8
+#EXTINF:-1,*** INT MUSIC***
+http://46.20.7.125:80
+#EXTINF:-1,KRAL WORLD
+http://www.garaveli.de///iptv.php?kralworld&m3u8
+#EXTINF:-1,MTV HD
+http://www.garaveli.de///iptv.php?mtvhd&m3u8
+#EXTINF:-1,NR1 4K ULTRA HD
+http://www.garaveli.de///iptv.php?nr14k&m3u8
+#EXTINF:-1,NR1 DANCE
+http://www.garaveli.de///iptv.php?nr1dance&m3u8
+#EXTINF:-1,NRJ Hits HD
+http://www.garaveli.de///iptv.php?nrjhits&m3u8
+#EXTINF:-1,ILTV Studios
+http://www.garaveli.de///iptv.php?iltv&m3u8
+#EXTINF:-1,CCC HD
+http://www.garaveli.de///iptv.php?ccc&m3u8
+#EXTINF:-1,XITE HD
+http://www.garaveli.de///iptv.php?xite&m3u8
+#EXTINF:-1,NRG 91
+http://www.garaveli.de///iptv.php?nrg91&m3u8
+#EXTINF:-1,Music Choice
+http://www.garaveli.de///iptv.php?musicchoice&m3u8
+#EXTINF:-1,GOTV
+http://www.garaveli.de///iptv.php?gotv&m3u8
+#EXTINF:-1,Kronehit TV
+http://www.garaveli.de///iptv.php?krone&m3u8
+#EXTINF:-1,RETRO MUSIC TV
+http://www.garaveli.de///iptv.php?retro&m3u8
+#EXTINF:-1,1Music
+http://www.garaveli.de///iptv.php?1musiv&m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",KANAL D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",KANAL D
@@ -109,9 +945,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",TRT Avaz
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/trt-avaz.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURDŒ HD
+#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURD√é HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURDŒ HD
+#EXTINF:-1 group-title="****((ULUSAL))****",TRT KURD√é HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="****((ULUSAL))****",GEM KURDI
 http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
@@ -123,13 +959,13 @@ http://217.174.225.146/legacyhls/ch001_400/index.m3u8
 http://217.174.225.146/legacyhls/ch002_400/index.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",Miras TV
 http://217.174.225.146/legacyhls/ch003_400/index.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",T¸rkmen Sport
+#EXTINF:-1 group-title="****((ULUSAL))****",T√ºrkmen Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",T¸rkmen Avazi 
+#EXTINF:-1 group-title="****((ULUSAL))****",T√ºrkmen Avazi 
 http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",Asgabat TV
 http://217.174.225.146/legacyhls/ch006_400/index.m3u8
-#EXTINF:-1 group-title="****((ULUSAL))****",T¸rkmenistan TV
+#EXTINF:-1 group-title="****((ULUSAL))****",T√ºrkmenistan TV
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:-1 group-title="****((ULUSAL))****",ND TV
 http://bglive-a.bitgravity.com/ndtv/247hi/live/native
@@ -371,7 +1207,7 @@ http://212.200.102.3:5000/rtp/239.0.0.3:5000
 ****((Espana))****
 #EXTINF:-1 group-title="****((Espana))****",+24 
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",101TV M·laga 
+#EXTINF:-1 group-title="****((Espana))****",101TV M√°laga 
 https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",24h 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
@@ -383,13 +1219,13 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aos
 http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
 #EXTINF:-1 group-title="****((Espana))****",7 RM 
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="****((Espana))****",8 C·diz 
+#EXTINF:-1 group-title="****((Espana))****",8 C√°diz 
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - Algeciras 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Algeciras 
 https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - AlmerÌa 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Almer√≠a 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Alternativa TV 
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
@@ -399,7 +1235,7 @@ https://www.djing.com/tv/animation.m3u8%20
 https://livestartover.atresmedia.com/antena3/master.m3u8%20
 #EXTINF:-1 group-title="****((Espana))****",Antena 3 HD 
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",AragÛn TV 
+#EXTINF:-1 group-title="****((Espana))****",Arag√≥n TV 
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Atreseries HD 
 https://livestartover.atresmedia.com/a3series/master.m3u8
@@ -411,7 +1247,7 @@ https://livestartover.atresmedia.com/eventos15/master.m3u8
 https://livestartover.atresmedia.com/eventos26/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Atresplayer Original (37) HD 
 https://livestartover.atresmedia.com/eventos37/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - BahÌa 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Bah√≠a 
 https://secure.todostreaming.es/live/ondaluz-olcadiz.m3u8
 #EXTINF:-1 group-title="****((Espana))****",BDN 
 http://live10.cdnmedia.tv/badalonatvlive/live.smil/playlist.m3u8
@@ -451,13 +1287,13 @@ https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
 https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Blau 
 https://liveingesta118.cdnmedia.tv/blautvlive/smil:blautv.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal CoÌn 
+#EXTINF:-1 group-title="****((Espana))****",Canal Co√≠n 
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal DoÒana 
+#EXTINF:-1 group-title="****((Espana))****",Canal Do√±ana 
 https://secure.todostreaming.es/live/disvision-alm.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Extremadura 
 http://hlstv.canalextremadura.es/livetv/multistream.smil/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal M·laga 
+#EXTINF:-1 group-title="****((Espana))****",Canal M√°laga 
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Parlamento 
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
@@ -473,7 +1309,7 @@ http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rt
 https://liveingesta118.cdnmedia.tv//taronjaanoialive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Taronja Central 
 https://liveingesta118.cdnmedia.tv//taronjacentrallive/smil:live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Canal Taronja Osona i MoianÈs 
+#EXTINF:-1 group-title="****((Espana))****",Canal Taronja Osona i Moian√©s 
 http://ventdelnord.tv:8080/taronja/directe.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Canal Terres de l'Ebre 
 http://live10.cdnmedia.tv/canaltetvlive/smil:live.smil/playlist.m3u8
@@ -487,17 +1323,17 @@ http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
 http://89.140.99.41/hls/1080.m3u8
 #EXTINF:-1 group-title="****((Espana))****",CMM 
 http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",CondavisiÛn HD 
+#EXTINF:-1 group-title="****((Espana))****",Condavisi√≥n HD 
 http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - Costa Noroeste 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Costa Noroeste 
 https://secure.todostreaming.es/live/ondaluz-olcosta.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Cuatro 
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Cuatro HD 
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - C·diz 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - C√°diz 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - CÛrdoba 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - C√≥rdoba 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Dancefloor 
 https://www.djing.com/tv/dancefloor.m3u8%20
@@ -511,9 +1347,9 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",El 9 TV 
 http://live10.cdnmedia.tv/9tvlive/live.smil/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",El Correo de AndalucÌa 
+#EXTINF:-1 group-title="****((Espana))****",El Correo de Andaluc√≠a 
 http://cls.todostreaming.eu/luztv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",El DÌa TV 
+#EXTINF:-1 group-title="****((Espana))****",El D√≠a TV 
 http://vs8.live.opencaster.com/opencaster/zmyrfjHztaoj/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",El Punt Avui TV 
 http://live10.cdnmedia.tv/puntavuitvlive/live.smil/playlist.m3u8
@@ -539,23 +1375,23 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Fuengirola TV 
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH D˙o 24h
+#EXTINF:-1 group-title="****((Espana))****",GH D√∫o 24h
 https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_2.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH D˙o 24h 
+#EXTINF:-1 group-title="****((Espana))****",GH D√∫o 24h 
 https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH D˙o 24h HD 
+#EXTINF:-1 group-title="****((Espana))****",GH D√∫o 24h HD 
 https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_3.m3u8
-#EXTINF:-1 group-title="****((Espana))****",GH D˙o 24h HD 
+#EXTINF:-1 group-title="****((Espana))****",GH D√∫o 24h HD 
 https://livehlsdai-i.akamaihd.net/hls/live/691842/granhermano02/bitrate_4.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Gigante TV 
 http://85.214.130.95:8080/live/stream.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - Granada 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Granada 
 https://secure.todostreaming.es/live/ondaluz-olgranada.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Hit TV HD
 http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Hits 
 https://www.djing.com/tv/hits.m3u8%20
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - Huelva 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Huelva 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Huelva TV 
 http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
@@ -563,13 +1399,13 @@ http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
 #EXTINF:-1 group-title="****((Espana))****",IB3 
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",interalmerÌa HD 
+#EXTINF:-1 group-title="****((Espana))****",interalmer√≠a HD 
 http://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 group-title="****((Espana))****",IntereconomÌa 
+#EXTINF:-1 group-title="****((Espana))****",Intereconom√≠a 
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - JaÈn 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Ja√©n 
 https://secure.todostreaming.es/live/ondaluz-olandalucia.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - Jerez 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Jerez 
 https://secure.todostreaming.es/live/ondaluz-oljerez.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Karaoke 
 https://www.djing.com/tv/karaoke.m3u8%20
@@ -605,25 +1441,25 @@ https://www.djing.com/tv/live.m3u8%20
 http://live10.cdnmedia.tv/lleidatvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mar TV 
 http://k4.usastreams.com/CableLatino/martv/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - Marbella 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Marbella 
 https://secure.todostreaming.es/live/ondaluz-olmarbella.m3u8
-#EXTINF:-1 group-title="****((Espana))****",MatarÛ TV 
+#EXTINF:-1 group-title="****((Espana))****",Matar√≥ TV 
 http://live10.cdnmedia.tv/m1tvlive/live.smil/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mega HD 
 https://livestartover.atresmedia.com/mega/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mega HD 
 https://livestartover.atresmedia.com/geomega/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Mijas ComunicaciÛn 
+#EXTINF:-1 group-title="****((Espana))****",Mijas Comunicaci√≥n 
 http://mijas.hls.flumotion.com/mijas/live-hls/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Mola TV 
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="****((Espana))****",mtmad 24h HD 
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - M·laga 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - M√°laga 
 https://secure.todostreaming.es/live/ondaluz-olmalaga.m3u8
-#EXTINF:-1 group-title="****((Espana))****",M·s TV Huelva 
+#EXTINF:-1 group-title="****((Espana))****",M√°s TV Huelva 
 https://streaming-fr02.enetres.net/1855C32698CC47EC817DA7DB40DE72DB021/smil:live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",MÌrame TV 
+#EXTINF:-1 group-title="****((Espana))****",M√≠rame TV 
 https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Navarra TV 
 http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8
@@ -635,23 +1471,23 @@ https://livestartover.atresmedia.com/geoneox/master.m3u8
 https://livestartover.atresmedia.com/nova/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Nova HD 
 https://livestartover.atresmedia.com/geonova/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Olot TelevisiÛ 
+#EXTINF:-1 group-title="****((Espana))****",Olot Televisi√≥ 
 https://liveingesta118.cdnmedia.tv//olottvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Onda Algeciras TV 
 http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",Onda C·diz 
+#EXTINF:-1 group-title="****((Espana))****",Onda C√°diz 
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Onda Mezquita TV 
 http://173.212.214.184:1935/mezquita/mezquita_360p/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Paramount Network 
 https://paramount-live.flumotion.com/live/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",PenedËs TV 
+#EXTINF:-1 group-title="****((Espana))****",Pened√®s TV 
 https://liveingesta118.cdnmedia.tv//rtvvilafrancalive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Popular TV Melilla 
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",PTV CÛrdoba HD 
+#EXTINF:-1 group-title="****((Espana))****",PTV C√≥rdoba HD 
 http://149.91.98.146:1935/cordoba/stream/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",PTV M·laga HD 
+#EXTINF:-1 group-title="****((Espana))****",PTV M√°laga HD 
 http://149.91.98.146:1935/live/stream/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",RealMadrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
@@ -661,7 +1497,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",RTVCE 
 http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",7TV AndalucÌa - Sevilla 
+#EXTINF:-1 group-title="****((Espana))****",7TV Andaluc√≠a - Sevilla 
 https://secure.todostreaming.es/live/ondaluz-olsevilla.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TeleAntequera 
 http://37.187.108.127:554/las4esquinastv/radiostation.stream/.m3u8
@@ -675,9 +1511,9 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m
 http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TeleToledo 
 https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TelevisiÛn Canaria 
+#EXTINF:-1 group-title="****((Espana))****",Televisi√≥n Canaria 
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TelevisiÛn Mog·n 
+#EXTINF:-1 group-title="****((Espana))****",Televisi√≥n Mog√°n 
 https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8
 #EXTINF:-1 group-title="****((Espana))****",Tindaya TV 
 https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live.smil/master.m3u8
@@ -685,17 +1521,17 @@ https://streaming-fr02.enetres.net/0537FCE9817D4E9E930B6ED4D9C7BD5C021/smil:live
 https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TRECE 
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TV Centro AndalucÌa 
+#EXTINF:-1 group-title="****((Espana))****",TV Centro Andaluc√≠a 
 http://192.99.21.42:1935/paco/paco/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TV Costa Brava 
 http://liveingesta118.cdnmedia.tv//costabravatvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TV Girona 
 http://ventdelnord.tv:8080/girona/directe.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TV3 C‡meres 
+#EXTINF:-1 group-title="****((Espana))****",TV3 C√†meres 
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:beauties_web/master_DVR.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TVG 2 
 http://amodino-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="****((Espana))****",TVG AmÈrica 
+#EXTINF:-1 group-title="****((Espana))****",TVG Am√©rica 
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="****((Espana))****",TVG Cultura HD 
 http://cultural-crtvg.flumotion.com/playlist.m3u8
@@ -717,7 +1553,7 @@ http://musigal-crtvg.flumotion.com/playlist.m3u8
 https://5b38ce71f1f00.streamlock.net/8312/8312/master.m3u8
 #EXTINF:-1 group-title="****((Espana))****",DJing - Underground 
 https://www.djing.com/tv/underground.m3u8%20
-#EXTINF:-1 group-title="****((Espana))****",VisiÛn 6 
+#EXTINF:-1 group-title="****((Espana))****",Visi√≥n 6 
 https://secure.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 group-title="****((Espana))****",votv 
 http://live10.cdnmedia.tv/votvlive/live.smil/playlist.m3u8
@@ -901,7 +1737,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="****((WORLD_IPTV))****",rbw
 http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
-#EXTINF:-1 group-title="****((WORLD_IPTV))****",RCG TelevisiÛn LATINO
+#EXTINF:-1 group-title="****((WORLD_IPTV))****",RCG Televisi√≥n LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
 #EXTINF:-1 group-title="****((WORLD_IPTV))****",Rrokum
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
@@ -1775,7 +2611,7 @@ https://www.djing.com/tv/s-27777-03-summer-vibes.m3u8
 https://www.djing.com/tv/s-27963-04-summer-vibes.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",DJING UNDERGROUND
 https://www.djing.com/tv/u-27971-04.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",D›J›NG UNDERGROUND HD
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",D√ùJ√ùNG UNDERGROUND HD
 https://www.djing.com/tv/u-27777-04.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Efecto TV
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
@@ -1909,7 +2745,7 @@ http://216.105.40.244/live/rotana_clip/index.m3u8
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Sarajevo 1 Tv
 rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SE—AL PROVINCIAL
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",SE√ëAL PROVINCIAL
 http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Sky Folk
 http://skyfolk.mk/live.m3u8
@@ -1921,7 +2757,7 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",QUIERO M⁄SICA
+#EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",QUIERO M√öSICA
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1 group-title="****((ReMy_MUSIC_CHANNELS))****",??? Music
 http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
@@ -2017,7 +2853,7 @@ http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
 http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",FenomenTurk
 http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Virgin Radio T¸rkiye
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Virgin Radio T√ºrkiye
 http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Voyage AAC
 http://46.20.4.42/pozitif/smil:voyage.smil/media_w1726134719_b128000_14039.aac
@@ -2073,7 +2909,7 @@ https://20043.live.streamtheworld.com/SC5_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk
 https://17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo 34
 http://yayin1.canliyayin.org:7424/;
-#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo T¸rk¸-izmir
+#EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo T√ºrk√º-izmir
 http://radioturku.com:9400/;
 #EXTINF:-1 group-title="****((ReMy-Clubbin/iTunes_Radio))****",Radyo Mydonose
 http://17753.live.streamtheworld.com:3690/RADIO_MYDONOSE_SC
@@ -2333,7 +3169,7 @@ http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/923/index.m3u8
 http://yura2121.iptvbot.biz/iptv/28TS7EKCRM2KMV/1073/index.m3u8
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",As Panteras
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Angel Lima fazendo dupla penetraÁ„o
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Angel Lima fazendo dupla penetra√ß√£o
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Ninfeta brasileira fodendo com vizinho
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4
@@ -2343,19 +3179,19 @@ http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Amigas no hotel trepando
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",MorenaÁa rabuda fodendo no cassete grosso
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Morena√ßa rabuda fodendo no cassete grosso
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Chupando a boceta grande
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",P‚mela Pantera fodendo toda lambuzada de Ûleo
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",P√¢mela Pantera fodendo toda lambuzada de √≥leo
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Giovana Bombom fodendo cheia de tes„o
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Giovana Bombom fodendo cheia de tes√£o
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Manu Fox fodendo na cozinha
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",rabudas levando pica grande do gringo tarado
 http://hlme0kwqhv.singularcdn.net.br/dl/videos/videort577222.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Comendo a m„e e a filha
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Comendo a m√£e e a filha
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Dois paus no mesmo cu
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4
@@ -2371,31 +3207,31 @@ http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Pegou na praia e levou para o motel
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Marido aquecendo para o negr„o comerA5Pnx5h
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Marido aquecendo para o negr√£o comerA5Pnx5h
 http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 1
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 1
 http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 10
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 10
 http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 11
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 11
 http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 12
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 12
 http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 2
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 2
 http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 3
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 3
 http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 4
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 4
 http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 5
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 5
 http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 6
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 6
 http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 7
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 7
 http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 8
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 8
 http://dlfr2.cdntlsv.com/909ab898d448ae1729319315b18f701a.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France ‡ Poil 9
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La France √† Poil 9
 http://dlfr2.cdntlsv.com/4b0c2474c8a1607f810fc953c92f6a13.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Natalia_Rossi
 http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
@@ -2419,7 +3255,7 @@ http://cdn.justporno.sex/video_hd/1761/17615.mp4
 http://cdn.justporno.sex/video_hd/1629/16292.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Gros culs faire
 http://cdn.justporno.sex/video_hd/0/6548.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",SuÈdois jeune couple
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Su√©dois jeune couple
 http://cdn.justporno.sex/video_hd/1332/13323.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Horny Hottie
 http://cdn.justporno.sex/video_hd/1199/11992.mp4
@@ -2429,7 +3265,7 @@ http://cdn.justporno.sex/video_hd/0/1696.mp4
 http://cdn.justporno.sex/video_hd/0/6137.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Blonde Verinika & Silvia
 http://cdn.justporno.sex/video_hd/1518/15184.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Filles du collËge
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Filles du coll√®ge
 http://cdn.justporno.sex/video_hd/0/5781.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Horny Horny filles
 http://cdn.justporno.sex/video_hd/0/3450.mp4
@@ -2439,7 +3275,7 @@ http://cdn.justporno.sex/video_hd/0/6494.mp4
 http://cdn.justporno.sex/video_hd/0/6532.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Lizz fait
 http://cdn.justporno.sex/video_hd/0/5834.mp4
-#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La meilleure faÁon
+#EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",La meilleure fa√ßon
 http://cdn.justporno.sex/video_hd/1314/13144.mp4
 #EXTINF:-1 parent-code="1234" group-title="****((YETISKIN_ICERIK))****",Trio Amour
 http://cdn.justporno.sex/video_hd/0/2339.mp4
